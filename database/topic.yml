@@ -1,5 +1,5 @@
-"Robotics":
-  "SLAM": '"SLAM"'
-  "VIO": '"VIO"OR"Visual-Inertial Odometry"OR"Visual Inertial Odometry"'
-  "VO": '"VO"OR"Visual Odometry"'
-  "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
+"restoration":
+  "denoising": '"restoration"OR"image denoising"'
+  "Low level vision": '"low level vision"OR"low level restoration"'
+"Diffusion":
+  "T2I": '"T2I"OR"text-to-image"OR"text to image"'
