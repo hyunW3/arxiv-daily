@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-03 21:08:50 Asia/Shanghai
+ Automated deployment @ 2024-06-04 08:58:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -22,7 +22,7 @@
 |**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769v1](http://arxiv.org/abs/2405.19769v1)|[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)|
 |**2024-05-30**|**MAE-GAN: A Novel Strategy for Simultaneous Super-resolution Reconstruction and Denoising of Post-stack Seismic Profile**|Wenshuo Yu et.al.|[2405.19767v1](http://arxiv.org/abs/2405.19767v1)|null|
 |**2024-05-30**|**LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising**|Yuxing Duan et.al.|[2405.19718v1](http://arxiv.org/abs/2405.19718v1)|null|
-|**2024-05-30**|**Diffusion Policies creating a Trust Region for Offline Reinforcement Learning**|Tianyu Chen et.al.|[2405.19690v1](http://arxiv.org/abs/2405.19690v1)|null|
+|**2024-05-30**|**Diffusion Policies creating a Trust Region for Offline Reinforcement Learning**|Tianyu Chen et.al.|[2405.19690v2](http://arxiv.org/abs/2405.19690v2)|null|
 |**2024-05-29**|**Predicting Long-Term Human Behaviors in Discrete Representations via Physics-Guided Diffusion**|Zhitian Zhang et.al.|[2405.19528v1](http://arxiv.org/abs/2405.19528v1)|null|
 |**2024-05-29**|**Contrastive-Adversarial and Diffusion: Exploring pre-training and fine-tuning strategies for sulcal identification**|Michail Mamalakis et.al.|[2405.19204v1](http://arxiv.org/abs/2405.19204v1)|null|
 |**2024-05-29**|**Going beyond compositional generalization, DDPMs can produce zero-shot interpolation**|Justin Deschenaux et.al.|[2405.19201v1](http://arxiv.org/abs/2405.19201v1)|[link](https://github.com/jdeschena/ddpm-zero-shot-interpolation)|
