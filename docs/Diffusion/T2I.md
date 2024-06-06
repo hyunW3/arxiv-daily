@@ -8,7 +8,7 @@
 |**2024-06-04**|**Dreamguider: Improved Training free Diffusion-based Conditional Generation**|Nithin Gopalakrishnan Nair et.al.|[2406.02549v1](http://arxiv.org/abs/2406.02549v1)|null|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548v1](http://arxiv.org/abs/2406.02548v1)|[link](https://github.com/aminebdj/openyolo3d)|
 |**2024-06-04**|**Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**|Alex Jinpeng Wang et.al.|[2406.02547v1](http://arxiv.org/abs/2406.02547v1)|[link](https://github.com/showlab/VisInContext)|
-|**2024-06-04**|**Dark photon limits from patchy dark screening of the cosmic microwave background**|Fiona McCarthy et.al.|[2406.02546v1](http://arxiv.org/abs/2406.02546v1)|null|
+|**2024-06-04**|**Dark photon limits from patchy dark screening of the cosmic microwave background**|Fiona McCarthy et.al.|[2406.02546v2](http://arxiv.org/abs/2406.02546v2)|null|
 |**2024-06-04**|**Robust and highly scalable estimation of directional couplings from time-shifted signals**|Luca Ambrogioni et.al.|[2406.02545v1](http://arxiv.org/abs/2406.02545v1)|null|
 |**2024-06-04**|**Asymmetry, Gap Opening and High Accretion Rate on DM Tau: A Hypothesis Based on Interaction of Magnetized Disk Wind with Planet**|Yinhao Wu et.al.|[2406.02544v1](http://arxiv.org/abs/2406.02544v1)|null|
 |**2024-06-04**|**To Believe or Not to Believe Your LLM**|Yasin Abbasi Yadkori et.al.|[2406.02543v1](http://arxiv.org/abs/2406.02543v1)|null|
