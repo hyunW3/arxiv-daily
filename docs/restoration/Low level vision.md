@@ -10,7 +10,7 @@
 |**2024-06-04**|**Hybrid inflation and gravitational waves from accidentally light scalars**|Felix Brümmer et.al.|[2406.02531v1](http://arxiv.org/abs/2406.02531v1)|null|
 |**2024-06-04**|**Non-holomorphic modular flavor symmetry**|Bu-Yao Qu et.al.|[2406.02527v1](http://arxiv.org/abs/2406.02527v1)|null|
 |**2024-06-04**|**CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks**|Maciej Besta et.al.|[2406.02524v1](http://arxiv.org/abs/2406.02524v1)|null|
-|**2024-06-04**|**Deterministic Reversible Data Augmentation for Neural Machine Translation**|Jiashu Yao et.al.|[2406.02517v1](http://arxiv.org/abs/2406.02517v1)|null|
+|**2024-06-04**|**Deterministic Reversible Data Augmentation for Neural Machine Translation**|Jiashu Yao et.al.|[2406.02517v1](http://arxiv.org/abs/2406.02517v1)|[link](https://github.com/BITHLP/DRDA)|
 |**2024-06-04**|**Tensor Network Space-Time Spectral Collocation Method for Solving the Nonlinear Convection Diffusion Equation**|Dibyendu Adak et.al.|[2406.02505v1](http://arxiv.org/abs/2406.02505v1)|null|
 |**2024-06-04**|**Electronic properties of magnetic semiconductor $\textrm{CuMnO}_{2}$ : a first principles study**|Apurba Sarkar et.al.|[2406.02499v1](http://arxiv.org/abs/2406.02499v1)|null|
 |**2024-06-04**|**Distrust of social media influencers in America**|Shawn Berry et.al.|[2406.02492v1](http://arxiv.org/abs/2406.02492v1)|null|
