@@ -10,7 +10,7 @@
 |**2024-06-05**|**Detecting Phase Coherence of 2D Bose Gases via Noise Correlations**|Shinichi Sunami et.al.|[2406.03491v1](http://arxiv.org/abs/2406.03491v1)|null|
 |**2024-06-05**|**Simultaneous retrieval of orbital phase resolved JWST/MIRI emission spectra of the hot Jupiter WASP-43b: evidence of water, ammonia and carbon monoxide**|Jingxuan Yang et.al.|[2406.03490v1](http://arxiv.org/abs/2406.03490v1)|null|
 |**2024-06-05**|**A self-aligning recirculated crossed optical dipole trap for lithium atoms**|Ming Lian et.al.|[2406.03489v1](http://arxiv.org/abs/2406.03489v1)|null|
-|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Sun Ao et.al.|[2406.03488v1](http://arxiv.org/abs/2406.03488v1)|null|
+|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488v2](http://arxiv.org/abs/2406.03488v2)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487v1](http://arxiv.org/abs/2406.03487v1)|null|
 |**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486v1](http://arxiv.org/abs/2406.03486v1)|null|
 |**2024-06-05**|**Highway Value Iteration Networks**|Yuhui Wang et.al.|[2406.03485v1](http://arxiv.org/abs/2406.03485v1)|null|
