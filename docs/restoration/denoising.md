@@ -2,6 +2,15 @@
 ### denoising
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332v1](http://arxiv.org/abs/2406.04332v1)|null|
+|**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324v1](http://arxiv.org/abs/2406.04324v1)|null|
+|**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314v1](http://arxiv.org/abs/2406.04314v1)|null|
+|**2024-06-06**|**Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment**|Jiayi Guo et.al.|[2406.04295v1](http://arxiv.org/abs/2406.04295v1)|null|
+|**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277v1](http://arxiv.org/abs/2406.04277v1)|[link](https://github.com/yangling0818/videotetris)|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052v1](http://arxiv.org/abs/2406.04052v1)|null|
+|**2024-06-06**|**Informed Graph Learning By Domain Knowledge Injection and Smooth Graph Signal Representation**|Keivan Faghih Niresi et.al.|[2406.03898v1](http://arxiv.org/abs/2406.03898v1)|null|
+|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744v1](http://arxiv.org/abs/2406.03744v1)|null|
+|**2024-06-06**|**Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data**|Jingyang Ou et.al.|[2406.03736v1](http://arxiv.org/abs/2406.03736v1)|null|
 |**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388v1](http://arxiv.org/abs/2406.03388v1)|null|
 |**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184v1](http://arxiv.org/abs/2406.03184v1)|null|
 |**2024-06-05**|**RadBARTsum: Domain Specific Adaption of Denoising Sequence-to-Sequence Models for Abstractive Radiology Report Summarization**|Jinge Wu et.al.|[2406.03062v1](http://arxiv.org/abs/2406.03062v1)|null|
@@ -23,12 +32,3 @@
 |**2024-06-03**|**DiffUHaul: A Training-Free Method for Object Dragging in Images**|Omri Avrahami et.al.|[2406.01594v1](http://arxiv.org/abs/2406.01594v1)|null|
 |**2024-06-03**|**ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation**|Guanxing Lu et.al.|[2406.01586v1](http://arxiv.org/abs/2406.01586v1)|null|
 |**2024-06-03**|**Proxy Denoising for Source-Free Domain Adaptation**|Song Tang et.al.|[2406.01658v1](http://arxiv.org/abs/2406.01658v1)|null|
-|**2024-06-03**|**Towards Universal Unfolding of Detector Effects in High-Energy Physics using Denoising Diffusion Probabilistic Models**|Camila Pazos et.al.|[2406.01507v1](http://arxiv.org/abs/2406.01507v1)|null|
-|**2024-06-03**|**Convergence of the denoising diffusion probabilistic models**|Yumiharu Nakano et.al.|[2406.01320v1](http://arxiv.org/abs/2406.01320v1)|null|
-|**2024-06-03**|**Improving Pseudo Labels with Global-Local Denoising Framework for Cross-lingual Named Entity Recognition**|Zhuojun Ding et.al.|[2406.01213v1](http://arxiv.org/abs/2406.01213v1)|[link](https://github.com/ding-zj/glode)|
-|**2024-06-03**|**C$^3$P-VoxelMap: Compact, Cumulative and Coalescible Probabilistic Voxel Mapping**|Xu Yang et.al.|[2406.01195v1](http://arxiv.org/abs/2406.01195v1)|null|
-|**2024-06-03**|**Advancing Weakly-Supervised Audio-Visual Video Parsing via Segment-wise Pseudo Labeling**|Jinxing Zhou et.al.|[2406.00919v1](http://arxiv.org/abs/2406.00919v1)|[link](https://github.com/jasongief/VPLAN)|
-|**2024-06-02**|**Reservoir History Matching of the Norne field with generative exotic priors and a coupled Mixture of Experts -- Physics Informed Neural Operator Forward Model**|Clement Etienam et.al.|[2406.00889v1](http://arxiv.org/abs/2406.00889v1)|null|
-|**2024-06-02**|**Stealing Image-to-Image Translation Models With a Single Query**|Nurit Spingarn-Eliezer et.al.|[2406.00828v1](http://arxiv.org/abs/2406.00828v1)|null|
-|**2024-06-02**|**Diffusion Tuning: Transferring Diffusion Models via Chain of Forgetting**|Jincheng Zhong et.al.|[2406.00773v2](http://arxiv.org/abs/2406.00773v2)|null|
-|**2024-06-01**|**Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging**|Jiahua Dong et.al.|[2406.00449v1](http://arxiv.org/abs/2406.00449v1)|[link](https://github.com/jiahuadong/dhm)|
