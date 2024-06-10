@@ -9,9 +9,9 @@
 |**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277v1](http://arxiv.org/abs/2406.04277v1)|[link](https://github.com/yangling0818/videotetris)|
 |**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052v1](http://arxiv.org/abs/2406.04052v1)|[link](https://github.com/congliuUvA/Multivector-Neurons)|
 |**2024-06-06**|**Informed Graph Learning By Domain Knowledge Injection and Smooth Graph Signal Representation**|Keivan Faghih Niresi et.al.|[2406.03898v1](http://arxiv.org/abs/2406.03898v1)|null|
-|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744v1](http://arxiv.org/abs/2406.03744v1)|null|
+|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744v2](http://arxiv.org/abs/2406.03744v2)|null|
 |**2024-06-06**|**Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data**|Jingyang Ou et.al.|[2406.03736v1](http://arxiv.org/abs/2406.03736v1)|null|
-|**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388v1](http://arxiv.org/abs/2406.03388v1)|null|
+|**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388v1](http://arxiv.org/abs/2406.03388v1)|[link](https://github.com/alexduarte23/sred)|
 |**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184v1](http://arxiv.org/abs/2406.03184v1)|null|
 |**2024-06-05**|**RadBARTsum: Domain Specific Adaption of Denoising Sequence-to-Sequence Models for Abstractive Radiology Report Summarization**|Jinge Wu et.al.|[2406.03062v1](http://arxiv.org/abs/2406.03062v1)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914v1](http://arxiv.org/abs/2406.02914v1)|null|

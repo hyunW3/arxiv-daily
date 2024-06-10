@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-06-09 20:59:59 Asia/Shanghai
+ Automated deployment @ 2024-06-10 08:59:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## restoration
-
-### denoising
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332v1](http://arxiv.org/abs/2406.04332v1)|[link](https://github.com/sebulo/PuTT)|
-|**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324v1](http://arxiv.org/abs/2406.04324v1)|null|
-|**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314v1](http://arxiv.org/abs/2406.04314v1)|null|
-|**2024-06-06**|**Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment**|Jiayi Guo et.al.|[2406.04295v1](http://arxiv.org/abs/2406.04295v1)|[link](https://github.com/shi-labs/diffusion-driven-test-time-adaptation-via-synthetic-domain-alignment)|
-|**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277v1](http://arxiv.org/abs/2406.04277v1)|[link](https://github.com/yangling0818/videotetris)|
-|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052v1](http://arxiv.org/abs/2406.04052v1)|[link](https://github.com/congliuUvA/Multivector-Neurons)|
-|**2024-06-06**|**Informed Graph Learning By Domain Knowledge Injection and Smooth Graph Signal Representation**|Keivan Faghih Niresi et.al.|[2406.03898v1](http://arxiv.org/abs/2406.03898v1)|null|
-|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744v1](http://arxiv.org/abs/2406.03744v1)|null|
-|**2024-06-06**|**Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data**|Jingyang Ou et.al.|[2406.03736v1](http://arxiv.org/abs/2406.03736v1)|null|
-|**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388v1](http://arxiv.org/abs/2406.03388v1)|null|
-|**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184v1](http://arxiv.org/abs/2406.03184v1)|null|
-|**2024-06-05**|**RadBARTsum: Domain Specific Adaption of Denoising Sequence-to-Sequence Models for Abstractive Radiology Report Summarization**|Jinge Wu et.al.|[2406.03062v1](http://arxiv.org/abs/2406.03062v1)|null|
-|**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914v1](http://arxiv.org/abs/2406.02914v1)|null|
-|**2024-06-05**|**DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images**|Yimian Dai et.al.|[2406.02833v1](http://arxiv.org/abs/2406.02833v1)|[link](https://github.com/grokcv/groksar)|
-|**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653v1](http://arxiv.org/abs/2406.02653v1)|null|
-|**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458v1](http://arxiv.org/abs/2406.02458v1)|null|
-|**2024-06-04**|**AMOSL: Adaptive Modality-wise Structure Learning in Multi-view Graph Neural Networks For Enhanced Unified Representation**|Peiyu Liang et.al.|[2406.02348v1](http://arxiv.org/abs/2406.02348v1)|null|
-|**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347v2](http://arxiv.org/abs/2406.02347v2)|[link](https://github.com/gojasper/flash-diffusion)|
-|**2024-06-04**|**Neural Thermodynamic Integration: Free Energies from Energy-based Diffusion Models**|Bálint Máté et.al.|[2406.02313v1](http://arxiv.org/abs/2406.02313v1)|null|
-|**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263v1](http://arxiv.org/abs/2406.02263v1)|null|
-|**2024-06-04**|**Automatic nonstationary anisotropic Tikhonov regularization through bilevel optimization**|Silvia Gazzola et.al.|[2406.02209v1](http://arxiv.org/abs/2406.02209v1)|null|
-|**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147v1](http://arxiv.org/abs/2406.02147v1)|null|
-|**2024-06-04**|**Graph Adversarial Diffusion Convolution**|Songtao Liu et.al.|[2406.02059v1](http://arxiv.org/abs/2406.02059v1)|[link](https://github.com/songtaoliu0823/gadc)|
-|**2024-06-04**|**Generating Synthetic Net Load Data with Physics-informed Diffusion Model**|Shaorong Zhang et.al.|[2406.01913v1](http://arxiv.org/abs/2406.01913v1)|null|
-|**2024-06-03**|**Diffusion Boosted Trees**|Xizewen Han et.al.|[2406.01813v1](http://arxiv.org/abs/2406.01813v1)|null|
-|**2024-06-03**|**DEFT: Efficient Finetuning of Conditional Diffusion Models by Learning the Generalised $h$-transform**|Alexander Denker et.al.|[2406.01781v1](http://arxiv.org/abs/2406.01781v1)|null|
-|**2024-06-03**|**Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching**|Xinyin Ma et.al.|[2406.01733v1](http://arxiv.org/abs/2406.01733v1)|[link](https://github.com/horseee/learning-to-cache)|
-|**2024-06-03**|**DiffUHaul: A Training-Free Method for Object Dragging in Images**|Omri Avrahami et.al.|[2406.01594v1](http://arxiv.org/abs/2406.01594v1)|null|
-|**2024-06-03**|**ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation**|Guanxing Lu et.al.|[2406.01586v1](http://arxiv.org/abs/2406.01586v1)|null|
-|**2024-06-03**|**Proxy Denoising for Source-Free Domain Adaptation**|Song Tang et.al.|[2406.01658v1](http://arxiv.org/abs/2406.01658v1)|null|
 
 ### Low level vision
 |Publish Date|Title|Authors|PDF|Code|
@@ -62,9 +28,9 @@
 |**2024-06-06**|**Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models**|Ling Yang et.al.|[2406.04271v1](http://arxiv.org/abs/2406.04271v1)|[link](https://github.com/yangling0818/buffer-of-thought-llm)|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v1](http://arxiv.org/abs/2406.04267v1)|null|
 |**2024-06-06**|**Gradient Boosting for Hierarchical Data in Small Area Estimation**|Paul Messer et.al.|[2406.04256v1](http://arxiv.org/abs/2406.04256v1)|null|
-|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v1](http://arxiv.org/abs/2406.04254v1)|null|
+|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v2](http://arxiv.org/abs/2406.04254v2)|null|
 |**2024-06-06**|**Sub-nanometer depth resolution and single dopant visualization achieved by tilt-coupled multislice electron ptychography**|Zehao Dong et.al.|[2406.04252v1](http://arxiv.org/abs/2406.04252v1)|null|
-|**2024-06-06**|**Hypernetworks for Personalizing ASR to Atypical Speech**|Max Mueller-Eberstein et.al.|[2406.04240v1](http://arxiv.org/abs/2406.04240v1)|null|
+|**2024-06-06**|**Hypernetworks for Personalizing ASR to Atypical Speech**|Max Mueller-Eberstein et.al.|[2406.04240v2](http://arxiv.org/abs/2406.04240v2)|null|
 |**2024-06-06**|**Matching Anything by Segmenting Anything**|Siyuan Li et.al.|[2406.04221v1](http://arxiv.org/abs/2406.04221v1)|[link](https://github.com/siyuanliii/masa)|
 |**2024-06-06**|**Rethinking LLM and Linguistic Steganalysis: An Efficient Detection of Strongly Concealed Stego**|Yifan Tang et.al.|[2406.04218v1](http://arxiv.org/abs/2406.04218v1)|null|
 |**2024-06-06**|**Sound Event Bounding Boxes**|Janek Ebbers et.al.|[2406.04212v1](http://arxiv.org/abs/2406.04212v1)|null|
@@ -72,6 +38,40 @@
 |**2024-06-06**|**Towards Principled Superhuman AI for Multiplayer Symmetric Games**|Jiawei Ge et.al.|[2406.04201v1](http://arxiv.org/abs/2406.04201v1)|null|
 |**2024-06-06**|**Flow-induced Oscillations via Hopf Bifurcation in a Fluid-Solid Interaction Problem**|Denis Bonheure et.al.|[2406.04198v1](http://arxiv.org/abs/2406.04198v1)|null|
 |**2024-06-06**|**Difference Equations and Integral Families for Witten Diagrams**|Mark Alaverdian et.al.|[2406.04186v1](http://arxiv.org/abs/2406.04186v1)|null|
+
+### denoising
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332v1](http://arxiv.org/abs/2406.04332v1)|[link](https://github.com/sebulo/PuTT)|
+|**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324v1](http://arxiv.org/abs/2406.04324v1)|null|
+|**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314v1](http://arxiv.org/abs/2406.04314v1)|null|
+|**2024-06-06**|**Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment**|Jiayi Guo et.al.|[2406.04295v1](http://arxiv.org/abs/2406.04295v1)|[link](https://github.com/shi-labs/diffusion-driven-test-time-adaptation-via-synthetic-domain-alignment)|
+|**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277v1](http://arxiv.org/abs/2406.04277v1)|[link](https://github.com/yangling0818/videotetris)|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052v1](http://arxiv.org/abs/2406.04052v1)|[link](https://github.com/congliuUvA/Multivector-Neurons)|
+|**2024-06-06**|**Informed Graph Learning By Domain Knowledge Injection and Smooth Graph Signal Representation**|Keivan Faghih Niresi et.al.|[2406.03898v1](http://arxiv.org/abs/2406.03898v1)|null|
+|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744v2](http://arxiv.org/abs/2406.03744v2)|null|
+|**2024-06-06**|**Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data**|Jingyang Ou et.al.|[2406.03736v1](http://arxiv.org/abs/2406.03736v1)|null|
+|**2024-06-05**|**SelfReDepth: Self-Supervised Real-Time Depth Restoration for Consumer-Grade Sensors**|Alexandre Duarte et.al.|[2406.03388v1](http://arxiv.org/abs/2406.03388v1)|[link](https://github.com/alexduarte23/sred)|
+|**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184v1](http://arxiv.org/abs/2406.03184v1)|null|
+|**2024-06-05**|**RadBARTsum: Domain Specific Adaption of Denoising Sequence-to-Sequence Models for Abstractive Radiology Report Summarization**|Jinge Wu et.al.|[2406.03062v1](http://arxiv.org/abs/2406.03062v1)|null|
+|**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914v1](http://arxiv.org/abs/2406.02914v1)|null|
+|**2024-06-05**|**DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images**|Yimian Dai et.al.|[2406.02833v1](http://arxiv.org/abs/2406.02833v1)|[link](https://github.com/grokcv/groksar)|
+|**2024-06-04**|**Pancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models**|Reza Babaei et.al.|[2406.02653v1](http://arxiv.org/abs/2406.02653v1)|null|
+|**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458v1](http://arxiv.org/abs/2406.02458v1)|null|
+|**2024-06-04**|**AMOSL: Adaptive Modality-wise Structure Learning in Multi-view Graph Neural Networks For Enhanced Unified Representation**|Peiyu Liang et.al.|[2406.02348v1](http://arxiv.org/abs/2406.02348v1)|null|
+|**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347v2](http://arxiv.org/abs/2406.02347v2)|[link](https://github.com/gojasper/flash-diffusion)|
+|**2024-06-04**|**Neural Thermodynamic Integration: Free Energies from Energy-based Diffusion Models**|Bálint Máté et.al.|[2406.02313v1](http://arxiv.org/abs/2406.02313v1)|null|
+|**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263v1](http://arxiv.org/abs/2406.02263v1)|null|
+|**2024-06-04**|**Automatic nonstationary anisotropic Tikhonov regularization through bilevel optimization**|Silvia Gazzola et.al.|[2406.02209v1](http://arxiv.org/abs/2406.02209v1)|null|
+|**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147v1](http://arxiv.org/abs/2406.02147v1)|null|
+|**2024-06-04**|**Graph Adversarial Diffusion Convolution**|Songtao Liu et.al.|[2406.02059v1](http://arxiv.org/abs/2406.02059v1)|[link](https://github.com/songtaoliu0823/gadc)|
+|**2024-06-04**|**Generating Synthetic Net Load Data with Physics-informed Diffusion Model**|Shaorong Zhang et.al.|[2406.01913v1](http://arxiv.org/abs/2406.01913v1)|null|
+|**2024-06-03**|**Diffusion Boosted Trees**|Xizewen Han et.al.|[2406.01813v1](http://arxiv.org/abs/2406.01813v1)|null|
+|**2024-06-03**|**DEFT: Efficient Finetuning of Conditional Diffusion Models by Learning the Generalised $h$-transform**|Alexander Denker et.al.|[2406.01781v1](http://arxiv.org/abs/2406.01781v1)|null|
+|**2024-06-03**|**Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching**|Xinyin Ma et.al.|[2406.01733v1](http://arxiv.org/abs/2406.01733v1)|[link](https://github.com/horseee/learning-to-cache)|
+|**2024-06-03**|**DiffUHaul: A Training-Free Method for Object Dragging in Images**|Omri Avrahami et.al.|[2406.01594v1](http://arxiv.org/abs/2406.01594v1)|null|
+|**2024-06-03**|**ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation**|Guanxing Lu et.al.|[2406.01586v1](http://arxiv.org/abs/2406.01586v1)|null|
+|**2024-06-03**|**Proxy Denoising for Source-Free Domain Adaptation**|Song Tang et.al.|[2406.01658v1](http://arxiv.org/abs/2406.01658v1)|null|
 
 ## Diffusion
 
@@ -84,7 +84,7 @@
 |**2024-06-06**|**Verbalized Machine Learning: Revisiting Machine Learning with Language Models**|Tim Z. Xiao et.al.|[2406.04344v1](http://arxiv.org/abs/2406.04344v1)|null|
 |**2024-06-06**|**Interpreting the Second-Order Effects of Neurons in CLIP**|Yossi Gandelsman et.al.|[2406.04341v1](http://arxiv.org/abs/2406.04341v1)|null|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340v1](http://arxiv.org/abs/2406.04340v1)|[link](https://github.com/cvg/glace)|
-|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v1](http://arxiv.org/abs/2406.04338v1)|null|
+|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v2](http://arxiv.org/abs/2406.04338v2)|null|
 |**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339v1](http://arxiv.org/abs/2406.04339v1)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337v1](http://arxiv.org/abs/2406.04337v1)|null|
 |**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336v1](http://arxiv.org/abs/2406.04336v1)|[link](https://github.com/LingxiaoShawn/EPNN-Experiments)|
@@ -100,7 +100,7 @@
 |**2024-06-06**|**The Square Kilometer Array as a Cosmic Microwave Background Experiment**|David Zegeye et.al.|[2406.04326v1](http://arxiv.org/abs/2406.04326v1)|null|
 |**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325v1](http://arxiv.org/abs/2406.04325v1)|null|
 |**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324v1](http://arxiv.org/abs/2406.04324v1)|null|
-|**2024-06-06**|**DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**|Qihao Liu et.al.|[2406.04322v1](http://arxiv.org/abs/2406.04322v1)|[link](https://github.com/qihao067/direct3d)|
+|**2024-06-06**|**DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**|Qihao Liu et.al.|[2406.04322v2](http://arxiv.org/abs/2406.04322v2)|[link](https://github.com/qihao067/direct3d)|
 |**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323v1](http://arxiv.org/abs/2406.04323v1)|null|
 |**2024-06-06**|**VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling**|Zeyue Tian et.al.|[2406.04321v1](http://arxiv.org/abs/2406.04321v1)|[link](https://github.com/zeyuet/vidmuse)|
 |**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320v1](http://arxiv.org/abs/2406.04320v1)|null|
