@@ -11,7 +11,7 @@
 |**2024-06-07**|**Dynamical correlation functions in the Ising field theory**|István Csépányi et.al.|[2406.05100v1](http://arxiv.org/abs/2406.05100v1)|null|
 |**2024-06-07**|**A Novel Time Series-to-Image Encoding Approach for Weather Phenomena Classification**|Christian Giannetti et.al.|[2406.05096v1](http://arxiv.org/abs/2406.05096v1)|null|
 |**2024-06-07**|**Comprehensive description of color centers by wave function theory: a CASSCF-NEVPT2 study of the NV defect in diamond**|Zsolt Benedek et.al.|[2406.05092v1](http://arxiv.org/abs/2406.05092v1)|null|
-|**2024-06-07**|**Discovery of An Apparent Red, High-Velocity Type Ia Supernova at z = 2.9 with JWST**|J. D. R. Pierel et.al.|[2406.05089v1](http://arxiv.org/abs/2406.05089v1)|null|
+|**2024-06-07**|**Discovery of An Apparent Red, High-Velocity Type Ia Supernova at z = 2.9 with JWST**|J. D. R. Pierel et.al.|[2406.05089v2](http://arxiv.org/abs/2406.05089v2)|null|
 |**2024-06-07**|**Corpus Poisoning via Approximate Greedy Gradient Descent**|Jinyan Su et.al.|[2406.05087v1](http://arxiv.org/abs/2406.05087v1)|[link](https://github.com/jinyansu1/aggd)|
 |**2024-06-07**|**I2EDL: Interactive Instruction Error Detection and Localization**|Francesco Taioli et.al.|[2406.05080v1](http://arxiv.org/abs/2406.05080v1)|null|
 |**2024-06-07**|**Enhancing LEO Mega-Constellations with Inter-Satellite Links: Vision and Challenges**|Chenyu Wu et.al.|[2406.05078v1](http://arxiv.org/abs/2406.05078v1)|null|
