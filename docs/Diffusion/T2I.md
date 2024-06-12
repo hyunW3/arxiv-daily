@@ -12,9 +12,9 @@
 |**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519v1](http://arxiv.org/abs/2406.06519v1)|[link](https://github.com/castorini/umbrela)|
 |**2024-06-10**|**Data Augmentation for Multivariate Time Series Classification: An Experimental Study**|Romain Ilbert et.al.|[2406.06518v1](http://arxiv.org/abs/2406.06518v1)|null|
 |**2024-06-10**|**Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction**|Fangliangzi Meng et.al.|[2406.06517v1](http://arxiv.org/abs/2406.06517v1)|null|
-|**2024-06-10**|**Distribution-Free Predictive Inference under Unknown Temporal Drift**|Elise Han et.al.|[2406.06516v1](http://arxiv.org/abs/2406.06516v1)|null|
+|**2024-06-10**|**Distribution-Free Predictive Inference under Unknown Temporal Drift**|Elise Han et.al.|[2406.06516v1](http://arxiv.org/abs/2406.06516v1)|[link](https://github.com/eliselyhan/predictive-inference)|
 |**2024-06-10**|**Spin-photon entanglement of a single Er$^{3+}$ ion in the telecom band**|Mehmet T. Uysal et.al.|[2406.06515v1](http://arxiv.org/abs/2406.06515v1)|null|
-|**2024-06-10**|**Random Features Approximation for Control-Affine Systems**|Kimia Kazemian et.al.|[2406.06514v1](http://arxiv.org/abs/2406.06514v1)|null|
+|**2024-06-10**|**Random Features Approximation for Control-Affine Systems**|Kimia Kazemian et.al.|[2406.06514v2](http://arxiv.org/abs/2406.06514v2)|null|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|null|
 |**2024-06-10**|**Quantifying fault tolerant simulation of strongly correlated systems using the Fermi-Hubbard model**|Anjali A. Agrawal et.al.|[2406.06511v1](http://arxiv.org/abs/2406.06511v1)|null|
 |**2024-06-10**|**Most nearby young star clusters formed in three massive complexes**|Cameren Swiggum et.al.|[2406.06510v1](http://arxiv.org/abs/2406.06510v1)|null|

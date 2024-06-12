@@ -11,16 +11,16 @@
 |**2024-06-10**|**Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace**|Chenxu Wang et.al.|[2406.06498v1](http://arxiv.org/abs/2406.06498v1)|null|
 |**2024-06-10**|**Probing the Heights and Depths of Y Dwarf Atmospheres: A Retrieval Analysis of the JWST Spectral Energy Distribution of WISE J035934.06$-$540154.6**|Harshil Kothari et.al.|[2406.06493v1](http://arxiv.org/abs/2406.06493v1)|null|
 |**2024-06-10**|**Multi-Amplifier Sensing Charge-coupled Devices for Next Generation Spectroscopy**|Kenneth Lin et.al.|[2406.06472v1](http://arxiv.org/abs/2406.06472v1)|null|
-|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462v1](http://arxiv.org/abs/2406.06462v1)|null|
+|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462v1](http://arxiv.org/abs/2406.06462v1)|[link](https://github.com/tianyu-z/vcr)|
 |**2024-06-10**|**Evidence of 3$d$-4$f$ antiferromagnetic coupling in strain-tuned PrCo$_{0.5}$Ni$_{0.5}$O$_{3-δ}$ epitaxial films**|P. K. Sreejith et.al.|[2406.06456v1](http://arxiv.org/abs/2406.06456v1)|null|
-|**2024-06-10**|**Estimating Heterogeneous Treatment Effects by Combining Weak Instruments and Observational Data**|Miruna Oprescu et.al.|[2406.06452v1](http://arxiv.org/abs/2406.06452v1)|null|
+|**2024-06-10**|**Estimating Heterogeneous Treatment Effects by Combining Weak Instruments and Observational Data**|Miruna Oprescu et.al.|[2406.06452v1](http://arxiv.org/abs/2406.06452v1)|[link](https://github.com/CausalML/Weak-Instruments-Obs-Data-CATE)|
 |**2024-06-10**|**Deep Generative Modeling Reshapes Compression and Transmission: From Efficiency to Resiliency**|Jincheng Dai et.al.|[2406.06446v1](http://arxiv.org/abs/2406.06446v1)|null|
-|**2024-06-10**|**DISCO: An End-to-End Bandit Framework for Personalised Discount Allocation**|Jason Shuo Zhang et.al.|[2406.06433v1](http://arxiv.org/abs/2406.06433v1)|null|
+|**2024-06-10**|**DISCO: An End-to-End Bandit Framework for Personalised Discount Allocation**|Jason Shuo Zhang et.al.|[2406.06433v2](http://arxiv.org/abs/2406.06433v2)|null|
 |**2024-06-10**|**Quadratic dispersion relations in gapless frustration-free systems**|Rintaro Masaoka et.al.|[2406.06414v1](http://arxiv.org/abs/2406.06414v1)|null|
 |**2024-06-10**|**Counting eigenvalues below the lowest Landau level**|Soeren Fournais et.al.|[2406.06411v1](http://arxiv.org/abs/2406.06411v1)|null|
-|**2024-06-10**|**Differentially Private Best-Arm Identification**|Achraf Azize et.al.|[2406.06408v1](http://arxiv.org/abs/2406.06408v1)|null|
+|**2024-06-10**|**Differentially Private Best-Arm Identification**|Achraf Azize et.al.|[2406.06408v1](http://arxiv.org/abs/2406.06408v1)|[link](https://github.com/achraf-azize/DP-BAI)|
 |**2024-06-10**|**A LoRa-based Energy-efficient Sensing System for Urban Data Collection**|Lukas Schulthess et.al.|[2406.06404v1](http://arxiv.org/abs/2406.06404v1)|null|
-|**2024-06-10**|**STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics**|Jiawen Chen et.al.|[2406.06393v1](http://arxiv.org/abs/2406.06393v1)|null|
+|**2024-06-10**|**STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics**|Jiawen Chen et.al.|[2406.06393v1](http://arxiv.org/abs/2406.06393v1)|[link](https://github.com/JiawenChenn/STimage-1K4M)|
 |**2024-06-10**|**Implications of DES 5YR SNe Dataset for $Λ$CDM**|Eoin Ó Colgáin et.al.|[2406.06389v1](http://arxiv.org/abs/2406.06389v1)|null|
 |**2024-06-10**|**Low-Rank Quantization-Aware Training for LLMs**|Yelysei Bondarenko et.al.|[2406.06385v1](http://arxiv.org/abs/2406.06385v1)|null|
 |**2024-06-10**|**Generalizing to Unseen Domains in Diabetic Retinopathy with Disentangled Representations**|Peng Xia et.al.|[2406.06384v1](http://arxiv.org/abs/2406.06384v1)|[link](https://github.com/richard-peng-xia/deco)|
