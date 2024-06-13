@@ -2,6 +2,12 @@
 ### denoising
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-12**|**$\texttt{DiffLense}$: A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
+|**2024-06-12**|**Graph Bottlenecked Social Recommendation**|Yonghui Yang et.al.|[2406.08214v1](http://arxiv.org/abs/2406.08214v1)|null|
+|**2024-06-12**|**DiffPop: Plausibility-Guided Object Placement Diffusion for Image Composition**|Jiacheng Liu et.al.|[2406.07852v1](http://arxiv.org/abs/2406.07852v1)|null|
+|**2024-06-12**|**PRoDeliberation: Parallel Robust Deliberation for End-to-End Spoken Language Understanding**|Trang Le et.al.|[2406.07823v1](http://arxiv.org/abs/2406.07823v1)|null|
+|**2024-06-11**|**DualBind: A Dual-Loss Framework for Protein-Ligand Binding Affinity Prediction**|Meng Liu et.al.|[2406.07770v1](http://arxiv.org/abs/2406.07770v1)|null|
+|**2024-06-11**|**AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation**|Kai Wang et.al.|[2406.07686v1](http://arxiv.org/abs/2406.07686v1)|null|
 |**2024-06-11**|**CDSA: Conservative Denoising Score-based Algorithm for Offline Reinforcement Learning**|Zeyuan Liu et.al.|[2406.07541v1](http://arxiv.org/abs/2406.07541v1)|null|
 |**2024-06-11**|**RaD-Net 2: A causal two-stage repairing and denoising speech enhancement network with knowledge distillation and complex axial self-attention**|Mingshuai Liu et.al.|[2406.07498v1](http://arxiv.org/abs/2406.07498v1)|null|
 |**2024-06-11**|**GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection**|Hang Yao et.al.|[2406.07487v1](http://arxiv.org/abs/2406.07487v1)|null|
@@ -26,9 +32,3 @@
 |**2024-06-09**|**Observation Denoising in CYRUS Soccer Simulation 2D Team For RoboCup 2024**|Nader Zare et.al.|[2406.05623v1](http://arxiv.org/abs/2406.05623v1)|[link](https://github.com/cyrus2d/cyrusloganalyzer)|
 |**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565v1](http://arxiv.org/abs/2406.05565v1)|[link](https://github.com/oliverrensu/mvg)|
 |**2024-06-08**|**Metric Convolutions: A Unifying Theory to Adaptive Convolutions**|Thomas Dagès et.al.|[2406.05400v1](http://arxiv.org/abs/2406.05400v1)|null|
-|**2024-06-08**|**CoBL-Diffusion: Diffusion-Based Conditional Robot Planning in Dynamic Environments Using Control Barrier and Lyapunov Functions**|Kazuki Mizuta et.al.|[2406.05309v1](http://arxiv.org/abs/2406.05309v1)|null|
-|**2024-06-07**|**DiffusionPID: Interpreting Diffusion via Partial Information Decomposition**|Shaurya Dewan et.al.|[2406.05191v1](http://arxiv.org/abs/2406.05191v1)|null|
-|**2024-06-07**|**ProMotion: Prototypes As Motion Learners**|Yawen Lu et.al.|[2406.04999v1](http://arxiv.org/abs/2406.04999v1)|null|
-|**2024-06-07**|**Combinatorial Complex Score-based Diffusion Modelling through Stochastic Differential Equations**|Adrien Carrel et.al.|[2406.04916v1](http://arxiv.org/abs/2406.04916v1)|[link](https://github.com/AdrienC21/CCSD)|
-|**2024-06-07**|**Monotone Lipschitz-Gradient Denoiser: Explainability of Operator Regularization Approaches and Convergence to Optimal Point**|Masahiro Yukawa et.al.|[2406.04676v1](http://arxiv.org/abs/2406.04676v1)|null|
-|**2024-06-07**|**URGENT Challenge: Universality, Robustness, and Generalizability For Speech Enhancement**|Wangyou Zhang et.al.|[2406.04660v1](http://arxiv.org/abs/2406.04660v1)|null|
