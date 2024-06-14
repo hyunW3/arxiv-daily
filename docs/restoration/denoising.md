@@ -2,6 +2,17 @@
 ### denoising
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-13**|**Vision Transformer Segmentation for Visual Bird Sound Denoising**|Sahil Kumar et.al.|[2406.09167v1](http://arxiv.org/abs/2406.09167v1)|null|
+|**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161v1](http://arxiv.org/abs/2406.09161v1)|null|
+|**2024-06-13**|**Diffusion Gaussian Mixture Audio Denoise**|Pu Wang et.al.|[2406.09154v1](http://arxiv.org/abs/2406.09154v1)|null|
+|**2024-06-13**|**FacEnhance: Facial Expression Enhancing with Recurrent DDPMs**|Hamza Bouzid et.al.|[2406.09040v1](http://arxiv.org/abs/2406.09040v1)|null|
+|**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953v1](http://arxiv.org/abs/2406.08953v1)|null|
+|**2024-06-13**|**A Label-Free and Non-Monotonic Metric for Evaluating Denoising in Event Cameras**|Chenyang Shi et.al.|[2406.08909v1](http://arxiv.org/abs/2406.08909v1)|null|
+|**2024-06-13**|**COVE: Unleashing the Diffusion Feature Correspondence for Consistent Video Editing**|Jiangshan Wang et.al.|[2406.08850v1](http://arxiv.org/abs/2406.08850v1)|null|
+|**2024-06-13**|**How Powerful is Graph Filtering for Recommendation**|Shaowen Peng et.al.|[2406.08827v1](http://arxiv.org/abs/2406.08827v1)|null|
+|**2024-06-13**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801v1](http://arxiv.org/abs/2406.08801v1)|null|
+|**2024-06-13**|**Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising**|Hao Liang et.al.|[2406.08782v1](http://arxiv.org/abs/2406.08782v1)|null|
+|**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773v1](http://arxiv.org/abs/2406.08773v1)|null|
 |**2024-06-12**|**$\texttt{DiffLense}$: A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
 |**2024-06-12**|**Graph Bottlenecked Social Recommendation**|Yonghui Yang et.al.|[2406.08214v1](http://arxiv.org/abs/2406.08214v1)|null|
 |**2024-06-12**|**DiffPop: Plausibility-Guided Object Placement Diffusion for Image Composition**|Jiacheng Liu et.al.|[2406.07852v1](http://arxiv.org/abs/2406.07852v1)|null|
@@ -21,14 +32,3 @@
 |**2024-06-10**|**Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation**|Dong Zhao et.al.|[2406.06813v1](http://arxiv.org/abs/2406.06813v1)|[link](https://github.com/DZhaoXd/SND)|
 |**2024-06-10**|**Cometh: A continuous-time discrete-state graph diffusion model**|Antoine Siraudin et.al.|[2406.06449v1](http://arxiv.org/abs/2406.06449v1)|null|
 |**2024-06-10**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258v2](http://arxiv.org/abs/2406.06258v2)|null|
-|**2024-06-10**|**ProcessPainter: Learn Painting Process from Sequence Data**|Yiren Song et.al.|[2406.06062v1](http://arxiv.org/abs/2406.06062v1)|null|
-|**2024-06-10**|**FRAG: Frequency Adapting Group for Diffusion Video Editing**|Sunjae Yoon et.al.|[2406.06044v1](http://arxiv.org/abs/2406.06044v1)|null|
-|**2024-06-09**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644v1](http://arxiv.org/abs/2406.06644v1)|null|
-|**2024-06-09**|**Improving Antibody Design with Force-Guided Sampling in Diffusion Models**|Paulina Kulytė et.al.|[2406.05832v1](http://arxiv.org/abs/2406.05832v1)|null|
-|**2024-06-09**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al.|[2406.05755v2](http://arxiv.org/abs/2406.05755v2)|[link](https://github.com/hoiliu-0801/dntr)|
-|**2024-06-09**|**An Investigation of Noise Robustness for Flow-Matching-Based Zero-Shot TTS**|Xiaofei Wang et.al.|[2406.05699v1](http://arxiv.org/abs/2406.05699v1)|null|
-|**2024-06-09**|**DomainRAG: A Chinese Benchmark for Evaluating Domain-specific Retrieval-Augmented Generation**|Shuting Wang et.al.|[2406.05654v1](http://arxiv.org/abs/2406.05654v1)|[link](https://github.com/ShootingWong/DomainRAG)|
-|**2024-06-09**|**PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction**|Shangyu Chen et.al.|[2406.05641v1](http://arxiv.org/abs/2406.05641v1)|null|
-|**2024-06-09**|**Observation Denoising in CYRUS Soccer Simulation 2D Team For RoboCup 2024**|Nader Zare et.al.|[2406.05623v1](http://arxiv.org/abs/2406.05623v1)|[link](https://github.com/cyrus2d/cyrusloganalyzer)|
-|**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565v1](http://arxiv.org/abs/2406.05565v1)|[link](https://github.com/oliverrensu/mvg)|
-|**2024-06-08**|**Metric Convolutions: A Unifying Theory to Adaptive Convolutions**|Thomas Dagès et.al.|[2406.05400v1](http://arxiv.org/abs/2406.05400v1)|null|
