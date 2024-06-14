@@ -13,12 +13,12 @@
 |**2024-06-11**|**GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection**|Hang Yao et.al.|[2406.07487v1](http://arxiv.org/abs/2406.07487v1)|null|
 |**2024-06-11**|**fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions**|Alireza Afzal Aghaei et.al.|[2406.07456v1](http://arxiv.org/abs/2406.07456v1)|[link](https://github.com/alirezaafzalaghaei/fKAN)|
 |**2024-06-11**|**Noise-Robust Voice Conversion by Conditional Denoising Training Using Latent Variables of Recording Quality and Environment**|Takuto Igarashi et.al.|[2406.07280v1](http://arxiv.org/abs/2406.07280v1)|null|
-|**2024-06-11**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v2](http://arxiv.org/abs/2406.07251v2)|null|
+|**2024-06-11**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v2](http://arxiv.org/abs/2406.07251v2)|[link](https://github.com/thanos-db/pixelsmith)|
 |**2024-06-11**|**MIPI 2024 Challenge on Few-shot RAW Image Denoising: Methods and Results**|Xin Jin et.al.|[2406.07006v1](http://arxiv.org/abs/2406.07006v1)|null|
 |**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972v1](http://arxiv.org/abs/2406.06972v1)|null|
 |**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959v1](http://arxiv.org/abs/2406.06959v1)|[link](https://github.com/weigerzan/projdiff)|
 |**2024-06-11**|**AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**|Zigeng Chen et.al.|[2406.06911v1](http://arxiv.org/abs/2406.06911v1)|[link](https://github.com/czg1225/asyncdiff)|
-|**2024-06-10**|**Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation**|Dong Zhao et.al.|[2406.06813v1](http://arxiv.org/abs/2406.06813v1)|null|
+|**2024-06-10**|**Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation**|Dong Zhao et.al.|[2406.06813v1](http://arxiv.org/abs/2406.06813v1)|[link](https://github.com/DZhaoXd/SND)|
 |**2024-06-10**|**Cometh: A continuous-time discrete-state graph diffusion model**|Antoine Siraudin et.al.|[2406.06449v1](http://arxiv.org/abs/2406.06449v1)|null|
 |**2024-06-10**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258v2](http://arxiv.org/abs/2406.06258v2)|null|
 |**2024-06-10**|**ProcessPainter: Learn Painting Process from Sequence Data**|Yiren Song et.al.|[2406.06062v1](http://arxiv.org/abs/2406.06062v1)|null|
