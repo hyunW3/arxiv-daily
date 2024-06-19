@@ -2,6 +2,13 @@
 ### denoising
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839v1](http://arxiv.org/abs/2406.12839v1)|null|
+|**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587v1](http://arxiv.org/abs/2406.12587v1)|null|
+|**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575v1](http://arxiv.org/abs/2406.12575v1)|null|
+|**2024-06-18**|**Variational Distillation of Diffusion Policies into Mixture of Experts**|Hongyi Zhou et.al.|[2406.12538v1](http://arxiv.org/abs/2406.12538v1)|null|
+|**2024-06-18**|**Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback**|Guipeng Xv et.al.|[2406.12501v1](http://arxiv.org/abs/2406.12501v1)|null|
+|**2024-06-18**|**Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment**|Yiheng Li et.al.|[2406.12303v1](http://arxiv.org/abs/2406.12303v1)|null|
+|**2024-06-17**|**Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction**|Junwei You et.al.|[2406.11941v1](http://arxiv.org/abs/2406.11941v1)|null|
 |**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713v1](http://arxiv.org/abs/2406.11713v1)|[link](https://github.com/thanhluantrinh/lddgan)|
 |**2024-06-17**|**Non-negative Einstein tensor factorization for unmixing hyperspectral images**|Anas El Hachimi et.al.|[2406.11471v1](http://arxiv.org/abs/2406.11471v1)|null|
 |**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330v1](http://arxiv.org/abs/2406.11330v1)|null|
@@ -25,10 +32,3 @@
 |**2024-06-13**|**Diffusion Gaussian Mixture Audio Denoise**|Pu Wang et.al.|[2406.09154v1](http://arxiv.org/abs/2406.09154v1)|null|
 |**2024-06-13**|**FacEnhance: Facial Expression Enhancing with Recurrent DDPMs**|Hamza Bouzid et.al.|[2406.09040v1](http://arxiv.org/abs/2406.09040v1)|null|
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953v1](http://arxiv.org/abs/2406.08953v1)|null|
-|**2024-06-13**|**A Label-Free and Non-Monotonic Metric for Evaluating Denoising in Event Cameras**|Chenyang Shi et.al.|[2406.08909v1](http://arxiv.org/abs/2406.08909v1)|null|
-|**2024-06-13**|**COVE: Unleashing the Diffusion Feature Correspondence for Consistent Video Editing**|Jiangshan Wang et.al.|[2406.08850v1](http://arxiv.org/abs/2406.08850v1)|null|
-|**2024-06-13**|**How Powerful is Graph Filtering for Recommendation**|Shaowen Peng et.al.|[2406.08827v1](http://arxiv.org/abs/2406.08827v1)|[link](https://github.com/tanatosuu/sgfcf)|
-|**2024-06-13**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801v2](http://arxiv.org/abs/2406.08801v2)|null|
-|**2024-06-13**|**Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising**|Hao Liang et.al.|[2406.08782v1](http://arxiv.org/abs/2406.08782v1)|[link](https://github.com/hlimg/hssd)|
-|**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773v1](http://arxiv.org/abs/2406.08773v1)|null|
-|**2024-06-12**|**$\texttt{DiffLense}$: A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442v1](http://arxiv.org/abs/2406.08442v1)|null|
