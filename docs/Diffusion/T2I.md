@@ -6,7 +6,7 @@
 |**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838v1](http://arxiv.org/abs/2406.11838v1)|null|
 |**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839v1](http://arxiv.org/abs/2406.11839v1)|null|
 |**2024-06-17**|**Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**|Lei Zhu et.al.|[2406.11837v1](http://arxiv.org/abs/2406.11837v1)|[link](https://github.com/zh460045050/vqgan-lc)|
-|**2024-06-17**|**OoDIS: Anomaly Instance Segmentation Benchmark**|Alexey Nekrasov et.al.|[2406.11835v1](http://arxiv.org/abs/2406.11835v1)|null|
+|**2024-06-17**|**OoDIS: Anomaly Instance Segmentation Benchmark**|Alexey Nekrasov et.al.|[2406.11835v1](http://arxiv.org/abs/2406.11835v1)|[link](https://github.com/kumuji/ugains)|
 |**2024-06-17**|**RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians**|Bingling Li et.al.|[2406.11836v1](http://arxiv.org/abs/2406.11836v1)|null|
 |**2024-06-17**|**Perfect chiral quantum routing**|Simone Cavazzoni et.al.|[2406.11834v1](http://arxiv.org/abs/2406.11834v1)|null|
 |**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833v1](http://arxiv.org/abs/2406.11833v1)|[link](https://github.com/liuziyu77/mmdu)|
