@@ -2,6 +2,16 @@
 ### denoising
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-20**|**Zero-Shot Image Denoising for High-Resolution Electron Microscopy**|Xuanyu Tian et.al.|[2406.14264v1](http://arxiv.org/abs/2406.14264v1)|null|
+|**2024-06-20**|**Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models**|Yuan Zhong et.al.|[2406.13942v1](http://arxiv.org/abs/2406.13942v1)|null|
+|**2024-06-19**|**CLAMP: Majorized Plug-and-Play for Coherent 3D LIDAR Imaging**|Tony G. Allen et.al.|[2406.13651v1](http://arxiv.org/abs/2406.13651v1)|null|
+|**2024-06-19**|**InstructRAG: Instructing Retrieval-Augmented Generation with Explicit Denoising**|Zhepei Wei et.al.|[2406.13629v1](http://arxiv.org/abs/2406.13629v1)|null|
+|**2024-06-19**|**4K4DGen: Panoramic 4D Generation at 4K Resolution**|Renjie Li et.al.|[2406.13527v1](http://arxiv.org/abs/2406.13527v1)|null|
+|**2024-06-19**|**Neural Residual Diffusion Models for Deep Scalable Vision Generation**|Zhiyuan Ma et.al.|[2406.13215v1](http://arxiv.org/abs/2406.13215v1)|null|
+|**2024-06-19**|**Surgical Triplet Recognition via Diffusion Model**|Daochang Liu et.al.|[2406.13210v1](http://arxiv.org/abs/2406.13210v1)|null|
+|**2024-06-19**|**RobGC: Towards Robust Graph Condensation**|Xinyi Gao et.al.|[2406.13200v1](http://arxiv.org/abs/2406.13200v1)|null|
+|**2024-06-19**|**MCAD: Multi-modal Conditioned Adversarial Diffusion Model for High-Quality PET Image Reconstruction**|Jiaqi Cui et.al.|[2406.13150v1](http://arxiv.org/abs/2406.13150v1)|null|
+|**2024-06-18**|**MaskPure: Improving Defense Against Text Adversaries with Stochastic Purification**|Harrison Gietz et.al.|[2406.13066v1](http://arxiv.org/abs/2406.13066v1)|[link](https://github.com/hubarruby/maskpure)|
 |**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839v1](http://arxiv.org/abs/2406.12839v1)|null|
 |**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587v1](http://arxiv.org/abs/2406.12587v1)|null|
 |**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575v1](http://arxiv.org/abs/2406.12575v1)|null|
@@ -22,13 +32,3 @@
 |**2024-06-14**|**SigDiffusions: Score-Based Diffusion Models for Long Time Series via Log-Signature Embeddings**|Barbora Barancikova et.al.|[2406.10354v1](http://arxiv.org/abs/2406.10354v1)|null|
 |**2024-06-14**|**Make It Count: Text-to-Image Generation with an Accurate Number of Objects**|Lital Binyamin et.al.|[2406.10210v1](http://arxiv.org/abs/2406.10210v1)|null|
 |**2024-06-14**|**Crafting Parts for Expressive Object Composition**|Harsh Rangwani et.al.|[2406.10197v1](http://arxiv.org/abs/2406.10197v1)|null|
-|**2024-06-14**|**Unsupervised Monocular Depth Estimation Based on Hierarchical Feature-Guided Diffusion**|Runze Liu et.al.|[2406.09782v1](http://arxiv.org/abs/2406.09782v1)|null|
-|**2024-06-14**|**Full-reference Point Cloud Quality Assessment Using Spectral Graph Wavelets**|Ryosuke Watanabe et.al.|[2406.09762v1](http://arxiv.org/abs/2406.09762v1)|null|
-|**2024-06-14**|**Watch the Watcher! Backdoor Attacks on Security-Enhancing Diffusion Models**|Changjiang Li et.al.|[2406.09669v1](http://arxiv.org/abs/2406.09669v1)|null|
-|**2024-06-14**|**RSEND: Retinex-based Squeeze and Excitation Network with Dark Region Detection for Efficient Low Light Image Enhancement**|Jingcheng Li et.al.|[2406.09656v1](http://arxiv.org/abs/2406.09656v1)|null|
-|**2024-06-13**|**Language-driven Grasp Detection**|An Dinh Vuong et.al.|[2406.09489v1](http://arxiv.org/abs/2406.09489v1)|null|
-|**2024-06-13**|**Vision Transformer Segmentation for Visual Bird Sound Denoising**|Sahil Kumar et.al.|[2406.09167v1](http://arxiv.org/abs/2406.09167v1)|[link](https://github.com/aiai-4/vivts)|
-|**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161v1](http://arxiv.org/abs/2406.09161v1)|null|
-|**2024-06-13**|**Diffusion Gaussian Mixture Audio Denoise**|Pu Wang et.al.|[2406.09154v1](http://arxiv.org/abs/2406.09154v1)|null|
-|**2024-06-13**|**FacEnhance: Facial Expression Enhancing with Recurrent DDPMs**|Hamza Bouzid et.al.|[2406.09040v1](http://arxiv.org/abs/2406.09040v1)|null|
-|**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953v1](http://arxiv.org/abs/2406.08953v1)|null|
