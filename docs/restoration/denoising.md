@@ -2,6 +2,12 @@
 ### denoising
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-24**|**Stationary and Sparse Denoising Approach for Corticomuscular Causality Estimation**|Farwa Abbas et.al.|[2406.16692v1](http://arxiv.org/abs/2406.16692v1)|null|
+|**2024-06-24**|**UNICAD: A Unified Approach for Attack Detection, Noise Reduction and Novel Class Identification**|Alvaro Lopez Pellicer et.al.|[2406.16501v1](http://arxiv.org/abs/2406.16501v1)|null|
+|**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476v1](http://arxiv.org/abs/2406.16476v1)|null|
+|**2024-06-23**|**Pivotal Auto-Encoder via Self-Normalizing ReLU**|Nelson Goldenstein et.al.|[2406.16052v1](http://arxiv.org/abs/2406.16052v1)|null|
+|**2024-06-23**|**TimeAutoDiff: Combining Autoencoder and Diffusion model for time series tabular data synthesizing**|Namjoon Suh et.al.|[2406.16028v1](http://arxiv.org/abs/2406.16028v1)|null|
+|**2024-06-22**|**Extraction of binary neutron star gravitational wave waveforms from Einstein Telescope using deep learning**|Cunliang Ma et.al.|[2406.15813v1](http://arxiv.org/abs/2406.15813v1)|null|
 |**2024-06-21**|**ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification**|Xianlong Wang et.al.|[2406.15093v1](http://arxiv.org/abs/2406.15093v1)|[link](https://github.com/cgcl-codes/eclipse)|
 |**2024-06-21**|**Using Neural Networks for Data Cleaning in Weather Datasets**|Jack R. P. Hanslope et.al.|[2406.15027v1](http://arxiv.org/abs/2406.15027v1)|null|
 |**2024-06-21**|**VividDreamer: Towards High-Fidelity and Efficient Text-to-3D Generation**|Zixuan Chen et.al.|[2406.14964v1](http://arxiv.org/abs/2406.14964v1)|null|
@@ -26,9 +32,3 @@
 |**2024-06-18**|**Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment**|Yiheng Li et.al.|[2406.12303v1](http://arxiv.org/abs/2406.12303v1)|null|
 |**2024-06-17**|**Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction**|Junwei You et.al.|[2406.11941v1](http://arxiv.org/abs/2406.11941v1)|null|
 |**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713v1](http://arxiv.org/abs/2406.11713v1)|[link](https://github.com/thanhluantrinh/lddgan)|
-|**2024-06-17**|**Non-negative Einstein tensor factorization for unmixing hyperspectral images**|Anas El Hachimi et.al.|[2406.11471v1](http://arxiv.org/abs/2406.11471v1)|null|
-|**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330v1](http://arxiv.org/abs/2406.11330v1)|[link](https://github.com/aurangau/ICIP2024)|
-|**2024-06-17**|**Consistency^2: Consistent and Fast 3D Painting with Latent Consistency Models**|Tianfu Wang et.al.|[2406.11202v1](http://arxiv.org/abs/2406.11202v1)|[link](https://github.com/kongdai123/consistency2)|
-|**2024-06-17**|**Diffusion Models in Low-Level Vision: A Survey**|Chunming He et.al.|[2406.11138v1](http://arxiv.org/abs/2406.11138v1)|null|
-|**2024-06-16**|**An Analysis on Quantizing Diffusion Transformers**|Yuewei Yang et.al.|[2406.11100v1](http://arxiv.org/abs/2406.11100v1)|null|
-|**2024-06-16**|**Noise reduction in ISAR imaging of UAVs using weighted atomic norm minimization and 2D-ADMM algorithm**|Mohammad Roueinfar et.al.|[2406.10888v1](http://arxiv.org/abs/2406.10888v1)|null|
