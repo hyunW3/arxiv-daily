@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-24**|**Normalization of ZZ instanton amplitudes in type 0B minimal superstring theory**|Vivek Chakrabhavi et.al.|[2406.16867v1](http://arxiv.org/abs/2406.16867v1)|null|
-|**2024-06-24**|**StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**|Chongjie Ye et.al.|[2406.16864v1](http://arxiv.org/abs/2406.16864v1)|null|
-|**2024-06-24**|**Variational Monte Carlo Study of the Doped $t$-$J$ Model on Honeycomb Lattice**|Can Cui et.al.|[2406.16865v1](http://arxiv.org/abs/2406.16865v1)|null|
-|**2024-06-24**|**Revisiting Referring Expression Comprehension Evaluation in the Era of Large Multimodal Models**|Jierun Chen et.al.|[2406.16866v1](http://arxiv.org/abs/2406.16866v1)|[link](https://github.com/jierunchen/ref-l4)|
-|**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863v1](http://arxiv.org/abs/2406.16863v1)|[link](https://github.com/arthur-qiu/freetraj)|
-|**2024-06-24**|**Can Quantum Computers Do Nothing?**|Alexander Nico-Katz et.al.|[2406.16861v1](http://arxiv.org/abs/2406.16861v1)|null|
-|**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862v1](http://arxiv.org/abs/2406.16862v1)|null|
-|**2024-06-24**|**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**|Shengbang Tong et.al.|[2406.16860v1](http://arxiv.org/abs/2406.16860v1)|[link](https://github.com/cambrian-mllm/cambrian)|
-|**2024-06-24**|**On the extensions of the Chatterjee-Spearman test**|Qingyang Zhang et.al.|[2406.16859v1](http://arxiv.org/abs/2406.16859v1)|null|
-|**2024-06-24**|**EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**|Yuhui Li et.al.|[2406.16858v1](http://arxiv.org/abs/2406.16858v1)|null|
-|**2024-06-24**|**The Surface Signature and Rough Surfaces**|Darrick Lee et.al.|[2406.16857v1](http://arxiv.org/abs/2406.16857v1)|null|
-|**2024-06-24**|**A multiplicative surface signature through its Magnus expansion**|Ilya Chevyrev et.al.|[2406.16856v1](http://arxiv.org/abs/2406.16856v1)|null|
-|**2024-06-24**|**DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation**|Yuang Peng et.al.|[2406.16855v1](http://arxiv.org/abs/2406.16855v1)|[link](https://github.com/yuangpeng/dreambench_plus)|
-|**2024-06-24**|**Spectroscopy of Hubbard-Mott excitons and their ro-vibrational excitations**|Annabelle Bohrdt et.al.|[2406.16854v1](http://arxiv.org/abs/2406.16854v1)|null|
-|**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853v1](http://arxiv.org/abs/2406.16853v1)|[link](https://github.com/c-tl/geomformer)|
-|**2024-06-24**|**Long Context Transfer from Language to Vision**|Peiyuan Zhang et.al.|[2406.16852v1](http://arxiv.org/abs/2406.16852v1)|[link](https://github.com/evolvinglmms-lab/longva)|
-|**2024-06-24**|**Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts**|Aditya Sharma et.al.|[2406.16851v1](http://arxiv.org/abs/2406.16851v1)|null|
-|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
-|**2024-06-24**|**Nonparametric bootstrap of high-dimensional sample covariance matrices**|Holger Dette et.al.|[2406.16849v1](http://arxiv.org/abs/2406.16849v1)|null|
-|**2024-06-24**|**Unsupervised Domain Adaptation for Pediatric Brain Tumor Segmentation**|Jingru Fu et.al.|[2406.16848v1](http://arxiv.org/abs/2406.16848v1)|null|
-|**2024-06-24**|**Realizing a spatially correlated lattice interferometer**|Peng Peng et.al.|[2406.16847v1](http://arxiv.org/abs/2406.16847v1)|null|
-|**2024-06-24**|**Data Debiasing with Datamodels (D3M): Improving Subgroup Robustness via Data Selection**|Saachi Jain et.al.|[2406.16846v1](http://arxiv.org/abs/2406.16846v1)|null|
-|**2024-06-24**|**RaTEScore: A Metric for Radiology Report Generation**|Weike Zhao et.al.|[2406.16845v1](http://arxiv.org/abs/2406.16845v1)|null|
-|**2024-06-24**|**Nonparametric analysis of correlations in the binary black hole population with LIGO-Virgo-KAGRA data**|Jack Heinzel et.al.|[2406.16844v1](http://arxiv.org/abs/2406.16844v1)|null|
-|**2024-06-24**|**Constructibility, computational complexity and P versus NP**|Arne Hole et.al.|[2406.16843v1](http://arxiv.org/abs/2406.16843v1)|null|
-|**2024-06-24**|**Exploring Factual Entailment with NLI: A News Media Study**|Guy Mor-Lan et.al.|[2406.16842v1](http://arxiv.org/abs/2406.16842v1)|null|
-|**2024-06-24**|**Proposal for the generation of continuous-wave vacuum ultraviolet laser light for Th-229 isomer precision spectroscopy**|Qi Xiao et.al.|[2406.16841v1](http://arxiv.org/abs/2406.16841v1)|null|
-|**2024-06-24**|**A new upper limit on the axion-photon coupling with an extended CAST run with a Xe-based Micromegas detector**|CAST Collaboration et.al.|[2406.16840v1](http://arxiv.org/abs/2406.16840v1)|null|
-|**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838v1](http://arxiv.org/abs/2406.16838v1)|null|
-|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837v1](http://arxiv.org/abs/2406.16837v1)|null|
+|**2024-06-25**|**Quantum hall transformer in a quantum point contact over the full range of transmission**|Stuart N. Thomas et.al.|[2406.17778v1](http://arxiv.org/abs/2406.17778v1)|null|
+|**2024-06-25**|**Text-Animator: Controllable Visual Text Video Generation**|Lin Liu et.al.|[2406.17777v1](http://arxiv.org/abs/2406.17777v1)|null|
+|**2024-06-25**|**Spectroscopic and Dynamic Orbital Analyses of Metal-Poor and High Proper Motion Stars: I. HD\,8724 and HD\,195633**|M. Marismak et.al.|[2406.17776v1](http://arxiv.org/abs/2406.17776v1)|null|
+|**2024-06-25**|**Evidence of thermodynamics and magnetic monopole plasma formation by photon-magnon interaction in artificial spin ice**|D. G. Duarte et.al.|[2406.17775v1](http://arxiv.org/abs/2406.17775v1)|null|
+|**2024-06-25**|**Fast and Uncertainty-Aware SVBRDF Recovery from Multi-View Capture using Frequency Domain Analysis**|Ruben Wiersma et.al.|[2406.17774v1](http://arxiv.org/abs/2406.17774v1)|null|
+|**2024-06-25**|**Spectrum and low-energy gap in triangular quantum spin liquid NaYbSe$_2$**|A. O. Scheie et.al.|[2406.17773v1](http://arxiv.org/abs/2406.17773v1)|null|
+|**2024-06-25**|**Bell inequality is violated in charmonium decays**|M. Fabbrichesi et.al.|[2406.17772v1](http://arxiv.org/abs/2406.17772v1)|null|
+|**2024-06-25**|**MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**|Xiangyu Zhao et.al.|[2406.17770v1](http://arxiv.org/abs/2406.17770v1)|[link](https://github.com/phoenixz810/mg-llava)|
+|**2024-06-25**|**Flat bands and distinct density wave orders in correlated Kagome superconductor CsCr$_3$Sb$_5$**|Shuting Peng et.al.|[2406.17769v1](http://arxiv.org/abs/2406.17769v1)|null|
+|**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768v1](http://arxiv.org/abs/2406.17768v1)|null|
+|**2024-06-25**|**Splitting Guarantees for Prophet Inequalities via Nonlinear Systems**|Johannes Brustle et.al.|[2406.17767v1](http://arxiv.org/abs/2406.17767v1)|null|
+|**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766v1](http://arxiv.org/abs/2406.17766v1)|null|
+|**2024-06-25**|**A dimension formula of closed affine Deligne-Lusztig varieties of parahoric level**|Arghya Sadhukhan et.al.|[2406.17765v1](http://arxiv.org/abs/2406.17765v1)|null|
+|**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764v1](http://arxiv.org/abs/2406.17764v1)|null|
+|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763v1](http://arxiv.org/abs/2406.17763v1)|null|
+|**2024-06-25**|**Solving Hard Mizar Problems with Instantiation and Strategy Invention**|Jan Jakubův et.al.|[2406.17762v1](http://arxiv.org/abs/2406.17762v1)|null|
+|**2024-06-25**|**CaLMQA: Exploring culturally specific long-form question answering across 23 languages**|Shane Arora et.al.|[2406.17761v1](http://arxiv.org/abs/2406.17761v1)|[link](https://github.com/2015aroras/calmqa)|
+|**2024-06-25**|**Dark photon pair production via off-shell dark Higgs at FASER**|Takeshi Araki et.al.|[2406.17760v1](http://arxiv.org/abs/2406.17760v1)|null|
+|**2024-06-25**|**Interpreting Attention Layer Outputs with Sparse Autoencoders**|Connor Kissane et.al.|[2406.17759v1](http://arxiv.org/abs/2406.17759v1)|null|
+|**2024-06-25**|**MotionBooth: Motion-Aware Customized Text-to-Video Generation**|Jianzong Wu et.al.|[2406.17758v1](http://arxiv.org/abs/2406.17758v1)|null|
+|**2024-06-25**|**Automatic Parameter Tuning of Self-Driving Vehicles**|Hung-Ju Wu et.al.|[2406.17757v1](http://arxiv.org/abs/2406.17757v1)|null|
+|**2024-06-25**|**The Size-Mass relation at Rest-Frame $1.5μ$m from JWST/NIRCam in the COSMOS-WEB and PRIMER-COSMOS fields**|Marco Martorano et.al.|[2406.17756v1](http://arxiv.org/abs/2406.17756v1)|null|
+|**2024-06-25**|**Accelerating Clinical Evidence Synthesis with Large Language Models**|Zifeng Wang et.al.|[2406.17755v1](http://arxiv.org/abs/2406.17755v1)|null|
+|**2024-06-25**|**Accessing a New Population of Supermassive Black Holes with Extensions to the Event Horizon Telescope**|Xinyue Alice Zhang et.al.|[2406.17754v1](http://arxiv.org/abs/2406.17754v1)|null|
+|**2024-06-25**|**Measuring and Benchmarking Large Language Models' Capabilities to Generate Persuasive Language**|Amalie Brogaard Pauli et.al.|[2406.17753v1](http://arxiv.org/abs/2406.17753v1)|null|
+|**2024-06-25**|**Connectivity and Community Structure of Online and Register-based Social Networks**|Márton Menyhért et.al.|[2406.17752v1](http://arxiv.org/abs/2406.17752v1)|null|
+|**2024-06-25**|**The compact circumstellar material of SN 2024ggi: Another supernova with a pre-explosion effervescent zone and jet-driven explosion**|Noam Soker et.al.|[2406.17751v1](http://arxiv.org/abs/2406.17751v1)|null|
+|**2024-06-25**|**Fast Ground State to Ground State Separation of Small Ion Crystals**|Tyler H. Guglielmo et.al.|[2406.17750v1](http://arxiv.org/abs/2406.17750v1)|null|
+|**2024-06-25**|**Benchmarking Deep Learning Models on NVIDIA Jetson Nano for Real-Time Systems: An Empirical Investigation**|Tushar Prasanna Swaminathan et.al.|[2406.17749v1](http://arxiv.org/abs/2406.17749v1)|null|
+|**2024-06-25**|**A New Perspective on Shampoo's Preconditioner**|Depen Morwani et.al.|[2406.17748v1](http://arxiv.org/abs/2406.17748v1)|null|
