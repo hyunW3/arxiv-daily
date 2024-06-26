@@ -8,11 +8,11 @@
 |**2024-06-23**|**Pivotal Auto-Encoder via Self-Normalizing ReLU**|Nelson Goldenstein et.al.|[2406.16052v1](http://arxiv.org/abs/2406.16052v1)|null|
 |**2024-06-23**|**TimeAutoDiff: Combining Autoencoder and Diffusion model for time series tabular data synthesizing**|Namjoon Suh et.al.|[2406.16028v1](http://arxiv.org/abs/2406.16028v1)|null|
 |**2024-06-22**|**Extraction of binary neutron star gravitational wave waveforms from Einstein Telescope using deep learning**|Cunliang Ma et.al.|[2406.15813v1](http://arxiv.org/abs/2406.15813v1)|null|
-|**2024-06-21**|**ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification**|Xianlong Wang et.al.|[2406.15093v1](http://arxiv.org/abs/2406.15093v1)|[link](https://github.com/cgcl-codes/eclipse)|
+|**2024-06-21**|**ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification**|Xianlong Wang et.al.|[2406.15093v2](http://arxiv.org/abs/2406.15093v2)|[link](https://github.com/cgcl-codes/eclipse)|
 |**2024-06-21**|**Using Neural Networks for Data Cleaning in Weather Datasets**|Jack R. P. Hanslope et.al.|[2406.15027v1](http://arxiv.org/abs/2406.15027v1)|null|
 |**2024-06-21**|**VividDreamer: Towards High-Fidelity and Efficient Text-to-3D Generation**|Zixuan Chen et.al.|[2406.14964v1](http://arxiv.org/abs/2406.14964v1)|null|
 |**2024-06-21**|**Latent diffusion models for parameterization and data assimilation of facies-based geomodels**|Guido Di Federico et.al.|[2406.14815v1](http://arxiv.org/abs/2406.14815v1)|null|
-|**2024-06-20**|**Diffusion-Based Failure Sampling for Cyber-Physical Systems**|Harrison Delecki et.al.|[2406.14761v1](http://arxiv.org/abs/2406.14761v1)|null|
+|**2024-06-20**|**Diffusion-Based Failure Sampling for Cyber-Physical Systems**|Harrison Delecki et.al.|[2406.14761v1](http://arxiv.org/abs/2406.14761v1)|[link](https://github.com/sisl/difs)|
 |**2024-06-20**|**Computing Nonequilibrium Responses with Score-shifted Stochastic Differential Equations**|Jérémie Klinger et.al.|[2406.14752v1](http://arxiv.org/abs/2406.14752v1)|null|
 |**2024-06-20**|**Zero-Shot Image Denoising for High-Resolution Electron Microscopy**|Xuanyu Tian et.al.|[2406.14264v1](http://arxiv.org/abs/2406.14264v1)|null|
 |**2024-06-20**|**Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models**|Yuan Zhong et.al.|[2406.13942v1](http://arxiv.org/abs/2406.13942v1)|null|

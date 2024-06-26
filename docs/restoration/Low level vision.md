@@ -12,7 +12,7 @@
 |**2024-06-24**|**On the Impact of Sample Size in Reconstructing Noisy Graph Signals: A Theoretical Characterisation**|Baskaran Sripathmanathan et.al.|[2406.16816v1](http://arxiv.org/abs/2406.16816v1)|null|
 |**2024-06-24**|**PixelPop: High Resolution Nonparameteric Inference of Gravitational-Wave Populations in Multiple Dimensions**|Jack Heinzel et.al.|[2406.16813v1](http://arxiv.org/abs/2406.16813v1)|null|
 |**2024-06-24**|**High-quality activation function for applications in neuromorphic photonic chips realized using low-quality nonlinear optical resonators**|Ivan A. Pshenichnyuk et.al.|[2406.16798v1](http://arxiv.org/abs/2406.16798v1)|null|
-|**2024-06-24**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797v1](http://arxiv.org/abs/2406.16797v1)|[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)|
+|**2024-06-24**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797v2](http://arxiv.org/abs/2406.16797v2)|[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)|
 |**2024-06-24**|**Fuel-Optimal Formation Reconfiguration by Means of Unidirectional Low-Thrust Propulsion System**|Ahmed Mahfouz et.al.|[2406.16795v1](http://arxiv.org/abs/2406.16795v1)|null|
 |**2024-06-24**|**Confidence Aware Inverse Constrained Reinforcement Learning**|Sriram Ganapathi Subramanian et.al.|[2406.16782v1](http://arxiv.org/abs/2406.16782v1)|null|
 |**2024-06-24**|**Koopman Operator-based Detection-Isolation of Cyberattack: A Case Study on Electric Vehicle Charging**|Sanchita Ghosh et.al.|[2406.16780v1](http://arxiv.org/abs/2406.16780v1)|null|
