@@ -2,6 +2,8 @@
 ### denoising
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516v1](http://arxiv.org/abs/2406.18516v1)|[link](https://github.com/kangliao929/noise-da)|
+|**2024-06-26**|**Generative artificial intelligence in ophthalmology: multimodal retinal images for the diagnosis of Alzheimer's disease with convolutional neural networks**|I. R. Slootweg et.al.|[2406.18247v1](http://arxiv.org/abs/2406.18247v1)|null|
 |**2024-06-25**|**Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text**|Xinyang Li et.al.|[2406.17601v1](http://arxiv.org/abs/2406.17601v1)|[link](https://github.com/imlixinyang/director3d)|
 |**2024-06-25**|**Make Some Noise: Unlocking Language Model Parallel Inference Capability through Noisy Training**|Yixuan Wang et.al.|[2406.17404v1](http://arxiv.org/abs/2406.17404v1)|null|
 |**2024-06-25**|**GradCheck: Analyzing classifier guidance gradients for conditional diffusion sampling**|Philipp Vaeth et.al.|[2406.17399v1](http://arxiv.org/abs/2406.17399v1)|null|
@@ -30,5 +32,3 @@
 |**2024-06-19**|**Surgical Triplet Recognition via Diffusion Model**|Daochang Liu et.al.|[2406.13210v2](http://arxiv.org/abs/2406.13210v2)|null|
 |**2024-06-19**|**RobGC: Towards Robust Graph Condensation**|Xinyi Gao et.al.|[2406.13200v1](http://arxiv.org/abs/2406.13200v1)|null|
 |**2024-06-19**|**MCAD: Multi-modal Conditioned Adversarial Diffusion Model for High-Quality PET Image Reconstruction**|Jiaqi Cui et.al.|[2406.13150v1](http://arxiv.org/abs/2406.13150v1)|null|
-|**2024-06-18**|**MaskPure: Improving Defense Against Text Adversaries with Stochastic Purification**|Harrison Gietz et.al.|[2406.13066v1](http://arxiv.org/abs/2406.13066v1)|[link](https://github.com/hubarruby/maskpure)|
-|**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839v1](http://arxiv.org/abs/2406.12839v1)|null|
