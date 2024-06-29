@@ -1,5 +1,3 @@
-"restoration":
-  "denoising": '"restoration"OR"image denoising"'
-  "Low level vision": '"low level vision"OR"low level restoration"'
 "Diffusion":
   "T2I": '"T2I"OR"text-to-image"OR"text to image"'
+  "Diffusion": '"Diffusion"OR"text inversion"'
