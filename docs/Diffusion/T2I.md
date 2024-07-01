@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-27**|**SimLOB: Learning Representations of Limited Order Book for Financial Market Simulation**|Yuanzhe Li et.al.|[2406.19396v1](http://arxiv.org/abs/2406.19396v1)|null|
-|**2024-06-27**|**Dataset Size Recovery from LoRA Weights**|Mohammad Salama et.al.|[2406.19395v1](http://arxiv.org/abs/2406.19395v1)|null|
-|**2024-06-27**|**HUWSOD: Holistic Self-training for Unified Weakly Supervised Object Detection**|Liujuan Cao et.al.|[2406.19394v1](http://arxiv.org/abs/2406.19394v1)|[link](https://github.com/shenyunhang/huwsod)|
-|**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393v1](http://arxiv.org/abs/2406.19393v1)|[link](https://github.com/vico-uoe/looking3d)|
-|**2024-06-27**|**ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos**|Jr-Jen Chen et.al.|[2406.19392v1](http://arxiv.org/abs/2406.19392v1)|[link](https://github.com/rextime/rextime)|
-|**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391v1](http://arxiv.org/abs/2406.19391v1)|[link](https://github.com/charlotte-charmlab/fibottention)|
-|**2024-06-27**|**SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas**|John Lambert et.al.|[2406.19390v1](http://arxiv.org/abs/2406.19390v1)|[link](https://github.com/zillow/salve)|
-|**2024-06-27**|**OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**|Tao Zhang et.al.|[2406.19389v1](http://arxiv.org/abs/2406.19389v1)|null|
-|**2024-06-27**|**Taming Data and Transformers for Audio Generation**|Moayed Haji-Ali et.al.|[2406.19388v1](http://arxiv.org/abs/2406.19388v1)|null|
-|**2024-06-27**|**Core-hole Coherent Spectroscopy in Molecules**|Emilio Rodríguez-Cuenca et.al.|[2406.19387v1](http://arxiv.org/abs/2406.19387v1)|null|
-|**2024-06-27**|**Robust Hilbert space fragmentation in group-valued loop models**|Alexey Khudorozhkov et.al.|[2406.19386v1](http://arxiv.org/abs/2406.19386v1)|null|
-|**2024-06-27**|**The Remarkable Robustness of LLMs: Stages of Inference?**|Vedang Lad et.al.|[2406.19384v1](http://arxiv.org/abs/2406.19384v1)|[link](https://github.com/vdlad/remarkable-robustness-of-llms)|
-|**2024-06-27**|**A Machine Learning Method for Monte Carlo Calculations of Radiative Processes**|William Charles et.al.|[2406.19385v1](http://arxiv.org/abs/2406.19385v1)|[link](https://github.com/will-charles/nascarp)|
-|**2024-06-27**|**Asymptotic Properties of Generalized Elephant Random Walks**|Krishanu Maulik et.al.|[2406.19383v1](http://arxiv.org/abs/2406.19383v1)|null|
-|**2024-06-27**|**Characterizing Contextuality via Rank Separation with Applications to Cloning**|Farid Shahandeh et.al.|[2406.19382v1](http://arxiv.org/abs/2406.19382v1)|null|
-|**2024-06-27**|**Spontaneous symmetry breaking in open quantum systems: strong, weak, and strong-to-weak**|Ding Gu et.al.|[2406.19381v1](http://arxiv.org/abs/2406.19381v1)|null|
-|**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v1](http://arxiv.org/abs/2406.19380v1)|[link](https://github.com/puhsu/tabred)|
-|**2024-06-27**|**Higher-Order Constrained Dependency Pairs for (Universal) Computability**|Liye Guo et.al.|[2406.19379v1](http://arxiv.org/abs/2406.19379v1)|null|
-|**2024-06-27**|**Quartic quantum speedups for planted inference**|Alexander Schmidhuber et.al.|[2406.19378v1](http://arxiv.org/abs/2406.19378v1)|null|
-|**2024-06-27**|**Grassmannian optimization is NP-hard**|Zehua Lai et.al.|[2406.19377v1](http://arxiv.org/abs/2406.19377v1)|null|
-|**2024-06-27**|**Calibrating and standardizing the Tip of the Red Giant Branch in the Small Magellanic Cloud using small-amplitude red giants**|Nolan W. Koblischke et.al.|[2406.19375v2](http://arxiv.org/abs/2406.19375v2)|null|
-|**2024-06-27**|**TTP-Based Cyber Resilience Index: A Probabilistic Quantitative Approach to Measure Defence Effectiveness Against Cyber Attacks**|Lampis Alevizos et.al.|[2406.19374v1](http://arxiv.org/abs/2406.19374v1)|null|
-|**2024-06-27**|**Enhancing Quantum State Discrimination with Indefinite Causal Order**|Spiros Kechrimparis et.al.|[2406.19373v1](http://arxiv.org/abs/2406.19373v1)|null|
-|**2024-06-27**|**A Novel Phase Diagram for a Spin-1 System Exhibiting a Haldane Phase**|Mohamad Mousa et.al.|[2406.19372v1](http://arxiv.org/abs/2406.19372v1)|null|
-|**2024-06-27**|**Emergence of Hidden Capabilities: Exploring Learning Dynamics in Concept Space**|Core Francisco Park et.al.|[2406.19370v1](http://arxiv.org/abs/2406.19370v1)|null|
-|**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369v1](http://arxiv.org/abs/2406.19369v1)|null|
-|**2024-06-27**|**Integrated Triply Resonant Electro-Optic Frequency Comb in Lithium Tantalate**|Junyin Zhang et.al.|[2406.19368v1](http://arxiv.org/abs/2406.19368v1)|null|
-|**2024-06-27**|**PUREPath: A Deep Latent Variational Model for Estimating CMB Posterior over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2406.19367v2](http://arxiv.org/abs/2406.19367v2)|null|
-|**2024-06-27**|**On the torsion locus of the Ceresa normal function**|Matt Kerr et.al.|[2406.19366v1](http://arxiv.org/abs/2406.19366v1)|null|
-|**2024-06-27**|**Thermodynamics of underdamped Brownian collisional engines: New insights and resonant phenomena**|Gustavo A. L. Forão et.al.|[2406.19365v1](http://arxiv.org/abs/2406.19365v1)|null|
+|**2024-06-28**|**Odd-One-Out: Anomaly Detection by Comparing with Neighbors**|Ankan Bhunia et.al.|[2406.20099v1](http://arxiv.org/abs/2406.20099v1)|[link](https://github.com/VICO-UoE/OddOneOutAD)|
+|**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098v1](http://arxiv.org/abs/2406.20098v1)|[link](https://github.com/mbzuai-llm/web2code)|
+|**2024-06-28**|**Predator-prey density-dependent branching processes**|Cristina Gutiérrez et.al.|[2406.20097v1](http://arxiv.org/abs/2406.20097v1)|null|
+|**2024-06-28**|**Galaxy Zoo DESI: large-scale bars as a secular mechanism for triggering AGN**|Izzy L. Garland et.al.|[2406.20096v1](http://arxiv.org/abs/2406.20096v1)|null|
+|**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095v1](http://arxiv.org/abs/2406.20095v1)|[link](https://github.com/lostxine/llara)|
+|**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094v1](http://arxiv.org/abs/2406.20094v1)|null|
+|**2024-06-28**|**$\mathbb{Z}_4$ transitions in quantum loop models on a zig-zag ladder**|Bowy M. La Rivière et.al.|[2406.20093v1](http://arxiv.org/abs/2406.20093v1)|null|
+|**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092v1](http://arxiv.org/abs/2406.20092v1)|[link](https://github.com/beckschen/llavolta)|
+|**2024-06-28**|**Anomalous current fluctuations from Euler hydrodynamics**|Takato Yoshimura et.al.|[2406.20091v1](http://arxiv.org/abs/2406.20091v1)|null|
+|**2024-06-28**|**Test for symmetry and confidence interval of the parameter μ of skew-symmetric-Laplace-uniform distribution**|Raju. K. Lohot et.al.|[2406.20090v1](http://arxiv.org/abs/2406.20090v1)|null|
+|**2024-06-28**|**Curbing PBHs with PTAs**|A. J. Iovino et.al.|[2406.20089v1](http://arxiv.org/abs/2406.20089v1)|null|
+|**2024-06-28**|**ProgressGym: Alignment with a Millennium of Moral Progress**|Tianyi Qiu et.al.|[2406.20087v1](http://arxiv.org/abs/2406.20087v1)|null|
+|**2024-06-28**|**Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs**|Sheridan Feucht et.al.|[2406.20086v1](http://arxiv.org/abs/2406.20086v1)|null|
+|**2024-06-28**|**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**|Yicheng Chen et.al.|[2406.20085v1](http://arxiv.org/abs/2406.20085v1)|null|
+|**2024-06-28**|**Magnetic Signature of Thermo-Electric Cardiac Dynamics**|Anna Crispino et.al.|[2406.20084v1](http://arxiv.org/abs/2406.20084v1)|null|
+|**2024-06-28**|**PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators**|Kuo-Hao Zeng et.al.|[2406.20083v1](http://arxiv.org/abs/2406.20083v1)|null|
+|**2024-06-28**|**Segment Anything without Supervision**|XuDong Wang et.al.|[2406.20081v1](http://arxiv.org/abs/2406.20081v1)|[link](https://github.com/frank-xwang/unsam)|
+|**2024-06-28**|**AI for Extreme Event Modeling and Understanding: Methodologies and Challenges**|Gustau Camps-Valls et.al.|[2406.20080v1](http://arxiv.org/abs/2406.20080v1)|null|
+|**2024-06-28**|**Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification**|Anisha Gunjal et.al.|[2406.20079v1](http://arxiv.org/abs/2406.20079v1)|[link](https://github.com/anisha2102/molecular_facts)|
+|**2024-06-28**|**GM-DF: Generalized Multi-Scenario Deepfake Detection**|Yingxin Lai et.al.|[2406.20078v1](http://arxiv.org/abs/2406.20078v1)|[link](https://github.com/laiyingxin2/gm-df)|
+|**2024-06-28**|**HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**|Hieu T. Nguyen et.al.|[2406.20077v1](http://arxiv.org/abs/2406.20077v1)|null|
+|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076v1](http://arxiv.org/abs/2406.20076v1)|null|
+|**2024-06-28**|**The Solar System could have formed in a low-viscosity disc: A dynamical study from giant planet migration to the Nice model**|Philippine Griveaud et.al.|[2406.20075v1](http://arxiv.org/abs/2406.20075v1)|null|
+|**2024-06-28**|**Algorithms for representations of quiver Yangian algebras**|Dmitry Galakhov et.al.|[2406.20074v1](http://arxiv.org/abs/2406.20074v1)|null|
+|**2024-06-28**|**QCD Phase Diagram and the Finite Volume Fireball: A Model Study**|Adiba Shaikh et.al.|[2406.20073v1](http://arxiv.org/abs/2406.20073v1)|null|
+|**2024-06-28**|**SAT and Lattice Reduction for Integer Factorization**|Yameen Ajani et.al.|[2406.20071v1](http://arxiv.org/abs/2406.20071v1)|null|
+|**2024-06-28**|**SHA-256 Collision Attack with Programmatic SAT**|Nahiyan Alamgir et.al.|[2406.20072v1](http://arxiv.org/abs/2406.20072v1)|null|
+|**2024-06-28**|**Matter effects in Bianchi cosmologies: analytic solutions, asymptotic analysis, and Kasner map**|David Brizuela et.al.|[2406.20070v1](http://arxiv.org/abs/2406.20070v1)|null|
+|**2024-06-28**|**Maximum Bipartite vs. Triangle-Free Subgraph**|Tamio-Vesa Nakajima et.al.|[2406.20069v1](http://arxiv.org/abs/2406.20069v1)|null|
+|**2024-06-28**|**Extreme horizon equation**|Wojciech Kamiński et.al.|[2406.20068v1](http://arxiv.org/abs/2406.20068v1)|null|
