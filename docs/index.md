@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-01 21:15:23 Asia/Shanghai
+ Automated deployment @ 2024-07-02 08:59:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -36,7 +36,7 @@
 |**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491v1](http://arxiv.org/abs/2406.18491v1)|null|
 |**2024-06-26**|**Unveiling the connection between the Lyndon factorization and the Canonical Inverse Lyndon factorization via a border property**|Paola Bonizzoni et.al.|[2406.18473v2](http://arxiv.org/abs/2406.18473v2)|null|
 |**2024-06-26**|**Bayesian inverse Navier-Stokes problems: joint flow field reconstruction and parameter learning**|Alexandros Kontogiannis et.al.|[2406.18464v1](http://arxiv.org/abs/2406.18464v1)|null|
-|**2024-06-26**|**Transition magnetic moment of Majorana neutrinos in the triplets next-to-minimal MSSM**|Zhao-Yang Zhang et.al.|[2406.18323v1](http://arxiv.org/abs/2406.18323v1)|null|
+|**2024-06-26**|**Transition magnetic moment of Majorana neutrinos in the triplets next-to-minimal MSSM**|Zhao-Yang Zhang et.al.|[2406.18323v2](http://arxiv.org/abs/2406.18323v2)|null|
 |**2024-06-26**|**Refining Potential Energy Surface through Dynamical Properties via Differentiable Molecular Simulation**|Bin Han et.al.|[2406.18269v2](http://arxiv.org/abs/2406.18269v2)|null|
 
 ### T2I
