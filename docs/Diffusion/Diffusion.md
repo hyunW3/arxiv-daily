@@ -18,7 +18,7 @@
 |**2024-07-02**|**Estimating Inverse Scattering Potentials for \textit{n-p} System Using Variational Monte Carlo \& Neural Networks**|Anil Khachi et.al.|[2407.02137v1](http://arxiv.org/abs/2407.02137v1)|null|
 |**2024-07-02**|**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**|Ananjan Nandi et.al.|[2407.01994v1](http://arxiv.org/abs/2407.01994v1)|null|
 |**2024-07-02**|**The backscattering problem for time-dependent potentials**|Medet Nursultanov et.al.|[2407.01922v1](http://arxiv.org/abs/2407.01922v1)|null|
-|**2024-07-02**|**Radiation MHD Simulations of Soft X-ray Emitting Regions in Changing Look AGN**|Taichi Igarashi et.al.|[2407.01876v1](http://arxiv.org/abs/2407.01876v1)|null|
+|**2024-07-02**|**Radiation MHD Simulations of Soft X-ray Emitting Regions in Changing Look AGN**|Taichi Igarashi et.al.|[2407.01876v2](http://arxiv.org/abs/2407.01876v2)|null|
 |**2024-07-01**|**Enhancing resonant second harmonic generation in bilayer WSe2 by layer-dependent exciton-polaron effect**|Soonyoung Cha et.al.|[2407.01854v1](http://arxiv.org/abs/2407.01854v1)|null|
 |**2024-07-01**|**UniFIDES: Universal Fractional Integro-Differential Equation Solvers**|Milad Saadat et.al.|[2407.01848v1](http://arxiv.org/abs/2407.01848v1)|null|
 |**2024-07-01**|**Nonreciprocal superconductivity**|Margarita Davydova et.al.|[2407.01681v1](http://arxiv.org/abs/2407.01681v1)|null|
@@ -29,6 +29,6 @@
 |**2024-07-01**|**Deep Learning Models for Flapping Fin Unmanned Underwater Vehicle Control System Gait Optimization**|Brian Zhou et.al.|[2407.01222v1](http://arxiv.org/abs/2407.01222v1)|null|
 |**2024-07-01**|**Exploring topological spin order by inverse Hamiltonian design: A new stabilization mechanism for square skyrmion crystals**|Kazuki Okigami et.al.|[2407.01159v1](http://arxiv.org/abs/2407.01159v1)|null|
 |**2024-07-01**|**SecGenAI: Enhancing Security of Cloud-based Generative AI Applications within Australian Critical Technologies of National Interest**|Christoforus Yoga Haryanto et.al.|[2407.01110v1](http://arxiv.org/abs/2407.01110v1)|null|
-|**2024-07-01**|**FRoG: Evaluating Fuzzy Reasoning of Generalized Quantifiers in Large Language Models**|Yiyuan Li et.al.|[2407.01046v1](http://arxiv.org/abs/2407.01046v1)|null|
+|**2024-07-01**|**FRoG: Evaluating Fuzzy Reasoning of Generalized Quantifiers in Large Language Models**|Yiyuan Li et.al.|[2407.01046v2](http://arxiv.org/abs/2407.01046v2)|[link](https://github.com/nativeatom/frog)|
 |**2024-07-01**|**Blind Inversion using Latent Diffusion Priors**|Weimin Bai et.al.|[2407.01027v1](http://arxiv.org/abs/2407.01027v1)|null|
 |**2024-07-01**|**An Expectation-Maximization Algorithm for Training Clean Diffusion Models from Corrupted Observations**|Weimin Bai et.al.|[2407.01014v1](http://arxiv.org/abs/2407.01014v1)|null|
