@@ -2,6 +2,21 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292v1](http://arxiv.org/abs/2407.03292v1)|null|
+|**2024-07-03**|**Solving the inverse problem of microscopy deconvolution with a residual Beylkin-Coifman-Rokhlin neural network**|Rui Li et.al.|[2407.03239v1](http://arxiv.org/abs/2407.03239v1)|null|
+|**2024-07-03**|**Simulating electron-vibron energy transfer with quantum dots and resonators**|Cecilie Hermansen et.al.|[2407.03161v1](http://arxiv.org/abs/2407.03161v1)|null|
+|**2024-07-03**|**Inverse stochastic resonance in adaptive small-world neural networks**|Marius E. Yamakou et.al.|[2407.03151v1](http://arxiv.org/abs/2407.03151v1)|null|
+|**2024-07-03**|**Speaker- and Text-Independent Estimation of Articulatory Movements and Phoneme Alignments from Speech**|Tobias Weise et.al.|[2407.03132v1](http://arxiv.org/abs/2407.03132v1)|null|
+|**2024-07-03**|**On the well-posedness of a Hele-Shaw-like system resulting from an inverse geometry problem formulated through a shape optimization setting**|Julius Fergy Tiongson Rabago et.al.|[2407.03083v1](http://arxiv.org/abs/2407.03083v1)|null|
+|**2024-07-03**|**SlerpFace: Face Template Protection via Spherical Linear Interpolation**|Zhizhou Zhong et.al.|[2407.03043v1](http://arxiv.org/abs/2407.03043v1)|null|
+|**2024-07-03**|**ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation**|Chang Li et.al.|[2407.03033v1](http://arxiv.org/abs/2407.03033v1)|null|
+|**2024-07-03**|**A novel shape optimization approach for source identification in elliptic equations**|Wei Gong et.al.|[2407.02909v1](http://arxiv.org/abs/2407.02909v1)|null|
+|**2024-07-03**|**Euler's Elastica Based Cartoon-Smooth-Texture Image Decomposition**|Roy Y. He et.al.|[2407.02794v1](http://arxiv.org/abs/2407.02794v1)|null|
+|**2024-07-03**|**Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models**|Jiayue Chu et.al.|[2407.02744v1](http://arxiv.org/abs/2407.02744v1)|null|
+|**2024-07-02**|**Wave propagation through a spacetime containing thin concentric shells of matter**|Rubén O. Acuña-Cárdenas et.al.|[2407.02718v1](http://arxiv.org/abs/2407.02718v1)|null|
+|**2024-07-02**|**Thouless pumping in a driven-dissipative Kerr resonator array**|S. Ravets et.al.|[2407.02627v1](http://arxiv.org/abs/2407.02627v1)|null|
+|**2024-07-02**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation1 from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616v1](http://arxiv.org/abs/2407.02616v1)|null|
+|**2024-07-02**|**Properties of core-EP matrices and binary relationships**|Ehsan Kheirandish et.al.|[2407.02602v1](http://arxiv.org/abs/2407.02602v1)|null|
 |**2024-07-02**|**Improved Space-Efficient Approximate Nearest Neighbor Search Using Function Inversion**|Samuel McCauley et.al.|[2407.02468v1](http://arxiv.org/abs/2407.02468v1)|null|
 |**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439v1](http://arxiv.org/abs/2407.02439v1)|null|
 |**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424v1](http://arxiv.org/abs/2407.02424v1)|null|
@@ -17,18 +32,3 @@
 |**2024-07-02**|**Identification of a Spatially-Dependent Variable Order in One-Dimensional Subdiffusion**|Jiho Hong et.al.|[2407.02193v1](http://arxiv.org/abs/2407.02193v1)|null|
 |**2024-07-02**|**Estimating Inverse Scattering Potentials for \textit{n-p} System Using Variational Monte Carlo \& Neural Networks**|Anil Khachi et.al.|[2407.02137v1](http://arxiv.org/abs/2407.02137v1)|null|
 |**2024-07-02**|**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**|Ananjan Nandi et.al.|[2407.01994v1](http://arxiv.org/abs/2407.01994v1)|null|
-|**2024-07-02**|**The backscattering problem for time-dependent potentials**|Medet Nursultanov et.al.|[2407.01922v1](http://arxiv.org/abs/2407.01922v1)|null|
-|**2024-07-02**|**Radiation MHD Simulations of Soft X-ray Emitting Regions in Changing Look AGN**|Taichi Igarashi et.al.|[2407.01876v2](http://arxiv.org/abs/2407.01876v2)|null|
-|**2024-07-01**|**Enhancing resonant second harmonic generation in bilayer WSe2 by layer-dependent exciton-polaron effect**|Soonyoung Cha et.al.|[2407.01854v1](http://arxiv.org/abs/2407.01854v1)|null|
-|**2024-07-01**|**UniFIDES: Universal Fractional Integro-Differential Equation Solvers**|Milad Saadat et.al.|[2407.01848v1](http://arxiv.org/abs/2407.01848v1)|null|
-|**2024-07-01**|**Nonreciprocal superconductivity**|Margarita Davydova et.al.|[2407.01681v1](http://arxiv.org/abs/2407.01681v1)|null|
-|**2024-07-01**|**Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing**|Bingliang Zhang et.al.|[2407.01521v1](http://arxiv.org/abs/2407.01521v1)|null|
-|**2024-07-01**|**Pair Density Waves and Supercurrent Diode Effect in Altermagnets**|GiBaik Sim et.al.|[2407.01513v1](http://arxiv.org/abs/2407.01513v1)|null|
-|**2024-07-01**|**First detection of the $J_{-1}\rightarrow(J-$ 1)$_{0}-E$ methanol maser transitions at $J=7$ and $10$**|Pedro K. Humire et.al.|[2407.01497v1](http://arxiv.org/abs/2407.01497v1)|null|
-|**2024-07-01**|**Quantum Nonlinear Acoustic Hall Effect and Inverse Acoustic Faraday Effect in Dirac Insulators**|Ying Su et.al.|[2407.01457v1](http://arxiv.org/abs/2407.01457v1)|null|
-|**2024-07-01**|**Deep Learning Models for Flapping Fin Unmanned Underwater Vehicle Control System Gait Optimization**|Brian Zhou et.al.|[2407.01222v1](http://arxiv.org/abs/2407.01222v1)|null|
-|**2024-07-01**|**Exploring topological spin order by inverse Hamiltonian design: A new stabilization mechanism for square skyrmion crystals**|Kazuki Okigami et.al.|[2407.01159v1](http://arxiv.org/abs/2407.01159v1)|null|
-|**2024-07-01**|**SecGenAI: Enhancing Security of Cloud-based Generative AI Applications within Australian Critical Technologies of National Interest**|Christoforus Yoga Haryanto et.al.|[2407.01110v1](http://arxiv.org/abs/2407.01110v1)|null|
-|**2024-07-01**|**FRoG: Evaluating Fuzzy Reasoning of Generalized Quantifiers in Large Language Models**|Yiyuan Li et.al.|[2407.01046v2](http://arxiv.org/abs/2407.01046v2)|[link](https://github.com/nativeatom/frog)|
-|**2024-07-01**|**Blind Inversion using Latent Diffusion Priors**|Weimin Bai et.al.|[2407.01027v1](http://arxiv.org/abs/2407.01027v1)|null|
-|**2024-07-01**|**An Expectation-Maximization Algorithm for Training Clean Diffusion Models from Corrupted Observations**|Weimin Bai et.al.|[2407.01014v1](http://arxiv.org/abs/2407.01014v1)|null|
