@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-05**|**Surface-Functionalization of Oleate-Capped Nano-Emitters for Stable Dispersion in 3D-Printable Polymers**|Akhilesh Kumar Pathak et.al.|[2407.04636v1](http://arxiv.org/abs/2407.04636v1)|null|
+|**2024-07-05**|**Randomized Physics-Informed Neural Networks for Bayesian Data Assimilation**|Yifei Zong et.al.|[2407.04617v1](http://arxiv.org/abs/2407.04617v1)|null|
+|**2024-07-05**|**Optimal Mixing for Randomly Sampling Edge Colorings on Trees Down to the Max Degree**|Charlie Carlson et.al.|[2407.04576v1](http://arxiv.org/abs/2407.04576v1)|null|
+|**2024-07-05**|**Improved algorithms for learning quantum Hamiltonians, via flat polynomials**|Shyam Narayanan et.al.|[2407.04540v1](http://arxiv.org/abs/2407.04540v1)|null|
+|**2024-07-05**|**Giant Second Harmonic Generation from Wafer-Scale Aligned Chiral Carbon Nanotubes**|Rui Xu et.al.|[2407.04514v1](http://arxiv.org/abs/2407.04514v1)|null|
+|**2024-07-05**|**Observation of ternary proton emission in heavy-ion induced fission**|Pawan Singh et.al.|[2407.04487v1](http://arxiv.org/abs/2407.04487v1)|null|
+|**2024-07-05**|**Actual problems of the approximation theory in metrics of discrete spaces on sets of summable periodic and almost periodic functions**|Anatolii Serdyuk et.al.|[2407.04329v1](http://arxiv.org/abs/2407.04329v1)|null|
+|**2024-07-05**|**2D BAO vs 3D BAO: solving the Hubble tension with alternative cosmological models**|Sowmaydeep Dwivedi et.al.|[2407.04322v1](http://arxiv.org/abs/2407.04322v1)|null|
+|**2024-07-05**|**Moments approaches for asymptotic inverse problems of depolymerisation and fragmentation systems**|Marie Doumic et.al.|[2407.04312v1](http://arxiv.org/abs/2407.04312v1)|null|
+|**2024-07-05**|**Connection matrices on the Siegel-Jacobi upper half space and extended Siegel-Jacobi upper half space**|Elena Mirela Babalic et.al.|[2407.04310v1](http://arxiv.org/abs/2407.04310v1)|null|
+|**2024-07-04**|**Spectral densities from Euclidean lattice correlators via the Mellin transform**|Mattia Bruno et.al.|[2407.04141v1](http://arxiv.org/abs/2407.04141v1)|null|
+|**2024-07-04**|**Constraints on self-interaction cross-sections of dark matter in universal bound states from direct detection**|The CRESST Collaboration et.al.|[2407.04004v1](http://arxiv.org/abs/2407.04004v1)|null|
+|**2024-07-04**|**Algorithms for Recursive Block Matrices**|Stephen M. Watt et.al.|[2407.03976v1](http://arxiv.org/abs/2407.03976v1)|null|
+|**2024-07-04**|**Landau levels for massive disclinated graphene-based topological insulator**|G. Q. Garcia et.al.|[2407.03947v1](http://arxiv.org/abs/2407.03947v1)|null|
+|**2024-07-04**|**Wide stable neural networks: Sample regularity, functional convergence and Bayesian inverse problems**|Tomás Soto et.al.|[2407.03909v1](http://arxiv.org/abs/2407.03909v1)|null|
+|**2024-07-04**|**Elemental noncentrosymmetric superconductors**|Hu Zhang et.al.|[2407.03867v1](http://arxiv.org/abs/2407.03867v1)|null|
+|**2024-07-04**|**On Riemann curvature of spherically symmetric metrics**|S. G. Elgendi et.al.|[2407.03855v1](http://arxiv.org/abs/2407.03855v1)|null|
+|**2024-07-04**|**Solving the inverse source problem of the fractional Poisson equation by MC-fPINNs**|Rui Sheng et.al.|[2407.03801v1](http://arxiv.org/abs/2407.03801v1)|null|
+|**2024-07-04**|**Greedy on Preorder is Linear for Preorder Initial Tree**|Akash Pareek et.al.|[2407.03666v1](http://arxiv.org/abs/2407.03666v1)|null|
+|**2024-07-04**|**Limited-View Photoacoustic Imaging Reconstruction Via High-quality Self-supervised Neural Representation**|Youshen xiao et.al.|[2407.03663v1](http://arxiv.org/abs/2407.03663v1)|null|
+|**2024-07-04**|**Scale-Dependent Dynamic Alignment in MHD Turbulence: Insights into Intermittency, Compressibility, and Imbalance Effects**|Nikos Sioulas et.al.|[2407.03649v1](http://arxiv.org/abs/2407.03649v1)|null|
+|**2024-07-04**|**High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching**|Gael Le Lan et.al.|[2407.03648v1](http://arxiv.org/abs/2407.03648v1)|null|
+|**2024-07-04**|**Efficient Inverse Design of Plasmonic Patch Nanoantennas using Deep Learning**|Saeed Hemayat et.al.|[2407.03607v1](http://arxiv.org/abs/2407.03607v1)|null|
+|**2024-07-03**|**Nonlinear optical responses and quantum geometry in rhombohedral trilayer graphene**|Abigail Postlewaite et.al.|[2407.03404v1](http://arxiv.org/abs/2407.03404v1)|null|
+|**2024-07-03**|**A spectroscopic analysis of the ionizing photon production efficiency in JADES and CEERS: implications for the ionizing photon budget**|Anthony J. Pahl et.al.|[2407.03399v1](http://arxiv.org/abs/2407.03399v1)|null|
 |**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292v1](http://arxiv.org/abs/2407.03292v1)|[link](https://github.com/zhemin-1992/registration_pinns)|
 |**2024-07-03**|**Solving the inverse problem of microscopy deconvolution with a residual Beylkin-Coifman-Rokhlin neural network**|Rui Li et.al.|[2407.03239v1](http://arxiv.org/abs/2407.03239v1)|null|
 |**2024-07-03**|**Simulating electron-vibron energy transfer with quantum dots and resonators**|Cecilie Hermansen et.al.|[2407.03161v1](http://arxiv.org/abs/2407.03161v1)|null|
 |**2024-07-03**|**Inverse stochastic resonance in adaptive small-world neural networks**|Marius E. Yamakou et.al.|[2407.03151v1](http://arxiv.org/abs/2407.03151v1)|null|
 |**2024-07-03**|**Speaker- and Text-Independent Estimation of Articulatory Movements and Phoneme Alignments from Speech**|Tobias Weise et.al.|[2407.03132v1](http://arxiv.org/abs/2407.03132v1)|null|
-|**2024-07-03**|**On the well-posedness of a Hele-Shaw-like system resulting from an inverse geometry problem formulated through a shape optimization setting**|Julius Fergy Tiongson Rabago et.al.|[2407.03083v1](http://arxiv.org/abs/2407.03083v1)|null|
-|**2024-07-03**|**SlerpFace: Face Template Protection via Spherical Linear Interpolation**|Zhizhou Zhong et.al.|[2407.03043v1](http://arxiv.org/abs/2407.03043v1)|null|
-|**2024-07-03**|**ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation**|Chang Li et.al.|[2407.03033v1](http://arxiv.org/abs/2407.03033v1)|null|
-|**2024-07-03**|**A novel shape optimization approach for source identification in elliptic equations**|Wei Gong et.al.|[2407.02909v1](http://arxiv.org/abs/2407.02909v1)|null|
-|**2024-07-03**|**Euler's Elastica Based Cartoon-Smooth-Texture Image Decomposition**|Roy Y. He et.al.|[2407.02794v1](http://arxiv.org/abs/2407.02794v1)|null|
-|**2024-07-03**|**Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models**|Jiayue Chu et.al.|[2407.02744v1](http://arxiv.org/abs/2407.02744v1)|null|
-|**2024-07-02**|**Wave propagation through a spacetime containing thin concentric shells of matter**|Rubén O. Acuña-Cárdenas et.al.|[2407.02718v1](http://arxiv.org/abs/2407.02718v1)|null|
-|**2024-07-02**|**Thouless pumping in a driven-dissipative Kerr resonator array**|S. Ravets et.al.|[2407.02627v1](http://arxiv.org/abs/2407.02627v1)|null|
-|**2024-07-02**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616v2](http://arxiv.org/abs/2407.02616v2)|null|
-|**2024-07-02**|**Properties of core-EP matrices and binary relationships**|Ehsan Kheirandish et.al.|[2407.02602v1](http://arxiv.org/abs/2407.02602v1)|null|
-|**2024-07-02**|**Improved Space-Efficient Approximate Nearest Neighbor Search Using Function Inversion**|Samuel McCauley et.al.|[2407.02468v1](http://arxiv.org/abs/2407.02468v1)|null|
-|**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439v1](http://arxiv.org/abs/2407.02439v1)|null|
-|**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424v1](http://arxiv.org/abs/2407.02424v1)|null|
-|**2024-07-02**|**Exploring the parameter dependence of atomic minima with implicit differentiation**|Ivan Maliyov et.al.|[2407.02414v1](http://arxiv.org/abs/2407.02414v1)|null|
-|**2024-07-02**|**The influence of the 3D Galactic gas structure on cosmic-ray transport and gamma-ray emission**|Andrés Ramírez et.al.|[2407.02410v1](http://arxiv.org/abs/2407.02410v1)|null|
-|**2024-07-02**|**Finer-Grained Hardness of Kernel Density Estimation**|Josh Alman et.al.|[2407.02372v1](http://arxiv.org/abs/2407.02372v1)|null|
-|**2024-07-02**|**A Proof of the Symmetric Theta Conjecture when q = 0**|Alessandra Caraceni et.al.|[2407.02368v1](http://arxiv.org/abs/2407.02368v1)|null|
-|**2024-07-02**|**Multiwavelength Study of on-disk Coronal Hole Jets with IRIS and SDO observations**|Koletti Myrto et.al.|[2407.02291v1](http://arxiv.org/abs/2407.02291v1)|null|
-|**2024-07-02**|**Off-Grid Ultrasound Imaging by Stochastic Optimization**|Vincent van de Schaft et.al.|[2407.02285v1](http://arxiv.org/abs/2407.02285v1)|null|
-|**2024-07-02**|**Hypermultiplexed off-chip hologram by on-chip integrated metasurface**|Xianjin Liu et.al.|[2407.02247v1](http://arxiv.org/abs/2407.02247v1)|null|
-|**2024-07-02**|**Asymptotics of the $φ^4_1$ measure in the sharp interface limit**|Lorenzo Bertini et.al.|[2407.02225v1](http://arxiv.org/abs/2407.02225v1)|null|
-|**2024-07-02**|**Unveiling Mass Transfer in Solar Flares: Insights from Elemental Abundance Evolutions Observed by Chang'E-2 Solar X-ray Monitor**|Man-Hei Ng et.al.|[2407.02199v1](http://arxiv.org/abs/2407.02199v1)|null|
-|**2024-07-02**|**Identification of a Spatially-Dependent Variable Order in One-Dimensional Subdiffusion**|Jiho Hong et.al.|[2407.02193v1](http://arxiv.org/abs/2407.02193v1)|null|
-|**2024-07-02**|**Estimating Inverse Scattering Potentials for n-p System Using Variational Monte Carlo & Neural Networks**|Anil Khachi et.al.|[2407.02137v2](http://arxiv.org/abs/2407.02137v2)|null|
-|**2024-07-02**|**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**|Ananjan Nandi et.al.|[2407.01994v1](http://arxiv.org/abs/2407.01994v1)|[link](https://github.com/dair-iitd/NS-KGC-AUG)|

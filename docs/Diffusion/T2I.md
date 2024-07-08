@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-03**|**Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages**|Max Zuo et.al.|[2407.03321v1](http://arxiv.org/abs/2407.03321v1)|[link](https://github.com/batsresearch/planetarium)|
-|**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320v1](http://arxiv.org/abs/2407.03320v1)|[link](https://github.com/internlm/internlm-xcomposer)|
-|**2024-07-03**|**`Interaction annealing' to determine effective quantized valence and orbital structure: an illustration with ferro-orbital order in WTe$_2$**|Ruoshi Jiang et.al.|[2407.03319v1](http://arxiv.org/abs/2407.03319v1)|null|
-|**2024-07-03**|**Fair Division of Indivisible Chores via Earning Restricted Equilibria**|Jugal Garg et.al.|[2407.03318v1](http://arxiv.org/abs/2407.03318v1)|null|
-|**2024-07-03**|**Quantum Geometry Probed by Chiral Excitonic Optical Response of Chern Insulators**|Wen-Xuan Qiu et.al.|[2407.03317v1](http://arxiv.org/abs/2407.03317v1)|null|
-|**2024-07-03**|**An Upper Limit on the Photoproduction Cross Section of the Spin-Exotic $π_1(1600)$**|F. Afzal et.al.|[2407.03316v1](http://arxiv.org/abs/2407.03316v1)|null|
-|**2024-07-03**|**Quantum dynamical criticality speeds up thermodynamic entropy production**|Andesson B. Nascimento et.al.|[2407.03315v1](http://arxiv.org/abs/2407.03315v1)|null|
-|**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
-|**2024-07-03**|**Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting**|Maike F. Holthuijzen et.al.|[2407.03312v1](http://arxiv.org/abs/2407.03312v1)|null|
-|**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311v1](http://arxiv.org/abs/2407.03311v1)|[link](https://github.com/utiasSTARS/vpace)|
-|**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310v1](http://arxiv.org/abs/2407.03310v1)|null|
-|**2024-07-03**|**Unimodality and peak location of the characteristic polynomials of two distance matrices of trees**|Rakesh Jana et.al.|[2407.03309v1](http://arxiv.org/abs/2407.03309v1)|null|
-|**2024-07-03**|**Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**|Sijie Xu et.al.|[2407.03308v1](http://arxiv.org/abs/2407.03308v1)|[link](https://github.com/minipuding/fastmrt)|
-|**2024-07-03**|**HoloHisto: End-to-end Gigapixel WSI Segmentation with 4K Resolution Sequential Tokenization**|Yucheng Tang et.al.|[2407.03307v1](http://arxiv.org/abs/2407.03307v1)|null|
-|**2024-07-03**|**Duals of Higher Vector Spaces**|Stefano Ronchi et.al.|[2407.03306v1](http://arxiv.org/abs/2407.03306v1)|null|
-|**2024-07-03**|**Revisiting sums and products in countable and finite fields**|Ioannis Kousek et.al.|[2407.03304v1](http://arxiv.org/abs/2407.03304v1)|null|
-|**2024-07-03**|**A Graded Mesh Refinement for 2D Poisson's Equation on Non Convex Polygonal Domains**|Charuka D. Wickramasinghe et.al.|[2407.03303v1](http://arxiv.org/abs/2407.03303v1)|null|
-|**2024-07-03**|**A Review of the Applications of Deep Learning-Based Emergent Communication**|Brendon Boldt et.al.|[2407.03302v1](http://arxiv.org/abs/2407.03302v1)|null|
-|**2024-07-03**|**Macdonald polynomials for super-partitions**|Dmitry Galakhov et.al.|[2407.03301v1](http://arxiv.org/abs/2407.03301v1)|null|
-|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300v1](http://arxiv.org/abs/2407.03300v1)|null|
-|**2024-07-03**|**Novel Pressure-Equilibrium and Kinetic-Energy Preserving fluxes for compressible flows based on the harmonic mean**|Carlo De Michele et.al.|[2407.03299v1](http://arxiv.org/abs/2407.03299v1)|null|
-|**2024-07-03**|**Eyes on the Game: Deciphering Implicit Human Signals to Infer Human Proficiency, Trust, and Intent**|Nikhil Hulle et.al.|[2407.03298v1](http://arxiv.org/abs/2407.03298v1)|null|
-|**2024-07-03**|**Improved Noise Schedule for Diffusion Training**|Tiankai Hang et.al.|[2407.03297v1](http://arxiv.org/abs/2407.03297v1)|null|
-|**2024-07-03**|**Derivative of the Riemann-Hilbert map**|Vladimir Marković et.al.|[2407.03296v1](http://arxiv.org/abs/2407.03296v1)|null|
-|**2024-07-03**|**Vertex Exchange Method for a Class of Quadratic Programming Problems**|Ling Liang et.al.|[2407.03294v1](http://arxiv.org/abs/2407.03294v1)|null|
-|**2024-07-03**|**Microscopic theory for electron-phonon coupling in twisted bilayer graphene**|Ziyan Zhu et.al.|[2407.03293v1](http://arxiv.org/abs/2407.03293v1)|null|
-|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292v1](http://arxiv.org/abs/2407.03292v1)|[link](https://github.com/zhemin-1992/registration_pinns)|
-|**2024-07-03**|**VCHAR:Variance-Driven Complex Human Activity Recognition framework with Generative Representation**|Yuan Sun et.al.|[2407.03291v1](http://arxiv.org/abs/2407.03291v1)|null|
-|**2024-07-03**|**Thermal and mechanical properties and the structural phase transition under pressure in $A$In$_2$As$_2$ ($A$ = Ca, Sr, Ba)**|Wen-Ti Guo et.al.|[2407.03290v1](http://arxiv.org/abs/2407.03290v1)|null|
-|**2024-07-03**|**Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation**|Sajani Vithana et.al.|[2407.03289v1](http://arxiv.org/abs/2407.03289v1)|null|
+|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|null|
+|**2024-07-05**|**Stellar Metallicities and Gradients in the Faint M31 Satellites Andromeda XVI and Andromeda XXVIII**|Sal Wanying Fu et.al.|[2407.04698v1](http://arxiv.org/abs/2407.04698v1)|null|
+|**2024-07-05**|**VCoME: Verbal Video Composition with Multimodal Editing Effects**|Weibo Gong et.al.|[2407.04697v1](http://arxiv.org/abs/2407.04697v1)|null|
+|**2024-07-05**|**Corks for exotic diffeomorphisms**|Vyacheslav Krushkal et.al.|[2407.04696v1](http://arxiv.org/abs/2407.04696v1)|null|
+|**2024-07-05**|**Gapped Low Energy Excitations Across an Entanglement Percolation Transition in the Quantum Spin Liquid Candidate NaYbSe$_2$**|Luke Pritchard Cairns et.al.|[2407.04695v1](http://arxiv.org/abs/2407.04695v1)|null|
+|**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694v1](http://arxiv.org/abs/2407.04694v1)|null|
+|**2024-07-05**|**ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models**|Yuzhe Gu et.al.|[2407.04693v1](http://arxiv.org/abs/2407.04693v1)|null|
+|**2024-07-05**|**Eigen-decomposition of Covariance matrices: An application to the BAO Linear Point**|Jaemyoung Jason Lee et.al.|[2407.04692v1](http://arxiv.org/abs/2407.04692v1)|null|
+|**2024-07-05**|**Exceptional Points and Braiding Topology in Non-Hermitian Systems with long-range coupling**|S. M. Rafi-Ul-Islam et.al.|[2407.04691v1](http://arxiv.org/abs/2407.04691v1)|null|
+|**2024-07-05**|**Missed Causes and Ambiguous Effects: Counterfactuals Pose Challenges for Interpreting Neural Networks**|Aaron Mueller et.al.|[2407.04690v1](http://arxiv.org/abs/2407.04690v1)|null|
+|**2024-07-05**|**RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**|Yuxuan Kuang et.al.|[2407.04689v1](http://arxiv.org/abs/2407.04689v1)|[link](https://github.com/yxKryptonite/RAM_code)|
+|**2024-07-05**|**Enhancing Vehicle Re-identification and Matching for Weaving Analysis**|Mei Qiu et.al.|[2407.04688v1](http://arxiv.org/abs/2407.04688v1)|null|
+|**2024-07-05**|**Embracing Massive Medical Data**|Yu-Cheng Chou et.al.|[2407.04687v1](http://arxiv.org/abs/2407.04687v1)|[link](https://github.com/mrgiovanni/onlinelearning)|
+|**2024-07-05**|**Near-optimal hierarchical matrix approximation from matrix-vector products**|Tyler Chen et.al.|[2407.04686v1](http://arxiv.org/abs/2407.04686v1)|null|
+|**2024-07-05**|**The miscibility of hydrogen and water in planetary atmospheres and interiors**|Akash Gupta et.al.|[2407.04685v1](http://arxiv.org/abs/2407.04685v1)|null|
+|**2024-07-05**|**Investigating the Mass of the Black Hole and Possible Wind Outflow of the Accretion Disk in the Tidal Disruption Event AT2021ehb**|Xin Xiang et.al.|[2407.04684v1](http://arxiv.org/abs/2407.04684v1)|null|
+|**2024-07-05**|**Efficient Betti Matching Enables Topology-Aware 3D Segmentation via Persistent Homology**|Nico Stucki et.al.|[2407.04683v1](http://arxiv.org/abs/2407.04683v1)|null|
+|**2024-07-05**|**Phenomenology and origin of late-time tails in eccentric binary black hole mergers**|Tousif Islam et.al.|[2407.04682v1](http://arxiv.org/abs/2407.04682v1)|null|
+|**2024-07-05**|**Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge**|Yuanze Lin et.al.|[2407.04681v1](http://arxiv.org/abs/2407.04681v1)|null|
+|**2024-07-05**|**Lost in Translation: The Algorithmic Gap Between LMs and the Brain**|Tommaso Tosato et.al.|[2407.04680v1](http://arxiv.org/abs/2407.04680v1)|null|
+|**2024-07-05**|**Asymmetric fluctuations and self-folding of active interfaces**|Liang Zhao et.al.|[2407.04679v1](http://arxiv.org/abs/2407.04679v1)|null|
+|**2024-07-05**|**XQSV: A Structurally Variable Network to Imitate Human Play in Xiangqi**|Chenliang Zhou et.al.|[2407.04678v1](http://arxiv.org/abs/2407.04678v1)|null|
+|**2024-07-05**|**The TROY project III. Exploring co-orbitals around low-mass stars**|O. Balsalobre-Ruza et.al.|[2407.04677v1](http://arxiv.org/abs/2407.04677v1)|null|
+|**2024-07-05**|**Is plantar thermography a valid digital biomarker for characterising diabetic foot ulceration risk?**|Akshay Jagadeesh et.al.|[2407.04676v1](http://arxiv.org/abs/2407.04676v1)|null|
+|**2024-07-05**|**Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition**|Ye Bai et.al.|[2407.04675v1](http://arxiv.org/abs/2407.04675v1)|null|
+|**2024-07-05**|**Game Elements to Engage Students Learning the Open Source Software Contribution Process**|Italo Santos et.al.|[2407.04674v1](http://arxiv.org/abs/2407.04674v1)|null|
+|**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam et.al.|[2407.04673v1](http://arxiv.org/abs/2407.04673v1)|null|
+|**2024-07-05**|**Rapid Mixing via Coupling Independence for Spin Systems with Unbounded Degree**|Xiaoyu Chen et.al.|[2407.04672v1](http://arxiv.org/abs/2407.04672v1)|null|
+|**2024-07-05**|**Resistive switching suppression in metal/Nb:SrTiO$_3$ Schottky contacts prepared by room-temperature Pulsed Laser Deposition**|Renato Buzio et.al.|[2407.04671v1](http://arxiv.org/abs/2407.04671v1)|null|
+|**2024-07-05**|**Neutrinoless Double Beta Decay from Scalar Leptoquarks: Interplay with Neutrino Mass and Flavor Physics**|P. S. Bhupal Dev et.al.|[2407.04670v1](http://arxiv.org/abs/2407.04670v1)|null|
