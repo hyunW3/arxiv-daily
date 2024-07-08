@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-07 21:00:12 Asia/Shanghai
+ Automated deployment @ 2024-07-08 09:01:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -21,7 +21,7 @@
 |**2024-07-03**|**Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models**|Jiayue Chu et.al.|[2407.02744v1](http://arxiv.org/abs/2407.02744v1)|null|
 |**2024-07-02**|**Wave propagation through a spacetime containing thin concentric shells of matter**|Rubén O. Acuña-Cárdenas et.al.|[2407.02718v1](http://arxiv.org/abs/2407.02718v1)|null|
 |**2024-07-02**|**Thouless pumping in a driven-dissipative Kerr resonator array**|S. Ravets et.al.|[2407.02627v1](http://arxiv.org/abs/2407.02627v1)|null|
-|**2024-07-02**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation1 from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616v1](http://arxiv.org/abs/2407.02616v1)|null|
+|**2024-07-02**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616v2](http://arxiv.org/abs/2407.02616v2)|null|
 |**2024-07-02**|**Properties of core-EP matrices and binary relationships**|Ehsan Kheirandish et.al.|[2407.02602v1](http://arxiv.org/abs/2407.02602v1)|null|
 |**2024-07-02**|**Improved Space-Efficient Approximate Nearest Neighbor Search Using Function Inversion**|Samuel McCauley et.al.|[2407.02468v1](http://arxiv.org/abs/2407.02468v1)|null|
 |**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439v1](http://arxiv.org/abs/2407.02439v1)|null|
@@ -36,7 +36,7 @@
 |**2024-07-02**|**Asymptotics of the $φ^4_1$ measure in the sharp interface limit**|Lorenzo Bertini et.al.|[2407.02225v1](http://arxiv.org/abs/2407.02225v1)|null|
 |**2024-07-02**|**Unveiling Mass Transfer in Solar Flares: Insights from Elemental Abundance Evolutions Observed by Chang'E-2 Solar X-ray Monitor**|Man-Hei Ng et.al.|[2407.02199v1](http://arxiv.org/abs/2407.02199v1)|null|
 |**2024-07-02**|**Identification of a Spatially-Dependent Variable Order in One-Dimensional Subdiffusion**|Jiho Hong et.al.|[2407.02193v1](http://arxiv.org/abs/2407.02193v1)|null|
-|**2024-07-02**|**Estimating Inverse Scattering Potentials for \textit{n-p} System Using Variational Monte Carlo \& Neural Networks**|Anil Khachi et.al.|[2407.02137v1](http://arxiv.org/abs/2407.02137v1)|null|
+|**2024-07-02**|**Estimating Inverse Scattering Potentials for n-p System Using Variational Monte Carlo & Neural Networks**|Anil Khachi et.al.|[2407.02137v2](http://arxiv.org/abs/2407.02137v2)|null|
 |**2024-07-02**|**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**|Ananjan Nandi et.al.|[2407.01994v1](http://arxiv.org/abs/2407.01994v1)|[link](https://github.com/dair-iitd/NS-KGC-AUG)|
 
 ### T2I
