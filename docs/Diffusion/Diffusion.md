@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-05**|**Surface-Functionalization of Oleate-Capped Nano-Emitters for Stable Dispersion in 3D-Printable Polymers**|Akhilesh Kumar Pathak et.al.|[2407.04636v1](http://arxiv.org/abs/2407.04636v1)|null|
-|**2024-07-05**|**Randomized Physics-Informed Neural Networks for Bayesian Data Assimilation**|Yifei Zong et.al.|[2407.04617v1](http://arxiv.org/abs/2407.04617v1)|null|
-|**2024-07-05**|**Optimal Mixing for Randomly Sampling Edge Colorings on Trees Down to the Max Degree**|Charlie Carlson et.al.|[2407.04576v1](http://arxiv.org/abs/2407.04576v1)|null|
-|**2024-07-05**|**Improved algorithms for learning quantum Hamiltonians, via flat polynomials**|Shyam Narayanan et.al.|[2407.04540v1](http://arxiv.org/abs/2407.04540v1)|null|
-|**2024-07-05**|**Giant Second Harmonic Generation from Wafer-Scale Aligned Chiral Carbon Nanotubes**|Rui Xu et.al.|[2407.04514v1](http://arxiv.org/abs/2407.04514v1)|null|
-|**2024-07-05**|**Observation of ternary proton emission in heavy-ion induced fission**|Pawan Singh et.al.|[2407.04487v1](http://arxiv.org/abs/2407.04487v1)|null|
-|**2024-07-05**|**Actual problems of the approximation theory in metrics of discrete spaces on sets of summable periodic and almost periodic functions**|Anatolii Serdyuk et.al.|[2407.04329v1](http://arxiv.org/abs/2407.04329v1)|null|
-|**2024-07-05**|**2D BAO vs 3D BAO: solving the Hubble tension with alternative cosmological models**|Sowmaydeep Dwivedi et.al.|[2407.04322v1](http://arxiv.org/abs/2407.04322v1)|null|
-|**2024-07-05**|**Moments approaches for asymptotic inverse problems of depolymerisation and fragmentation systems**|Marie Doumic et.al.|[2407.04312v1](http://arxiv.org/abs/2407.04312v1)|null|
-|**2024-07-05**|**Connection matrices on the Siegel-Jacobi upper half space and extended Siegel-Jacobi upper half space**|Elena Mirela Babalic et.al.|[2407.04310v1](http://arxiv.org/abs/2407.04310v1)|null|
-|**2024-07-04**|**Spectral densities from Euclidean lattice correlators via the Mellin transform**|Mattia Bruno et.al.|[2407.04141v1](http://arxiv.org/abs/2407.04141v1)|null|
-|**2024-07-04**|**Constraints on self-interaction cross-sections of dark matter in universal bound states from direct detection**|The CRESST Collaboration et.al.|[2407.04004v1](http://arxiv.org/abs/2407.04004v1)|null|
-|**2024-07-04**|**Algorithms for Recursive Block Matrices**|Stephen M. Watt et.al.|[2407.03976v1](http://arxiv.org/abs/2407.03976v1)|null|
-|**2024-07-04**|**Landau levels for massive disclinated graphene-based topological insulator**|G. Q. Garcia et.al.|[2407.03947v1](http://arxiv.org/abs/2407.03947v1)|null|
-|**2024-07-04**|**Wide stable neural networks: Sample regularity, functional convergence and Bayesian inverse problems**|Tomás Soto et.al.|[2407.03909v1](http://arxiv.org/abs/2407.03909v1)|null|
-|**2024-07-04**|**Elemental noncentrosymmetric superconductors**|Hu Zhang et.al.|[2407.03867v1](http://arxiv.org/abs/2407.03867v1)|null|
-|**2024-07-04**|**On Riemann curvature of spherically symmetric metrics**|S. G. Elgendi et.al.|[2407.03855v1](http://arxiv.org/abs/2407.03855v1)|null|
-|**2024-07-04**|**Solving the inverse source problem of the fractional Poisson equation by MC-fPINNs**|Rui Sheng et.al.|[2407.03801v1](http://arxiv.org/abs/2407.03801v1)|null|
-|**2024-07-04**|**Greedy on Preorder is Linear for Preorder Initial Tree**|Akash Pareek et.al.|[2407.03666v1](http://arxiv.org/abs/2407.03666v1)|null|
-|**2024-07-04**|**Limited-View Photoacoustic Imaging Reconstruction Via High-quality Self-supervised Neural Representation**|Youshen xiao et.al.|[2407.03663v1](http://arxiv.org/abs/2407.03663v1)|null|
-|**2024-07-04**|**Scale-Dependent Dynamic Alignment in MHD Turbulence: Insights into Intermittency, Compressibility, and Imbalance Effects**|Nikos Sioulas et.al.|[2407.03649v1](http://arxiv.org/abs/2407.03649v1)|null|
-|**2024-07-04**|**High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching**|Gael Le Lan et.al.|[2407.03648v1](http://arxiv.org/abs/2407.03648v1)|null|
-|**2024-07-04**|**Efficient Inverse Design of Plasmonic Patch Nanoantennas using Deep Learning**|Saeed Hemayat et.al.|[2407.03607v1](http://arxiv.org/abs/2407.03607v1)|null|
-|**2024-07-03**|**Nonlinear optical responses and quantum geometry in rhombohedral trilayer graphene**|Abigail Postlewaite et.al.|[2407.03404v1](http://arxiv.org/abs/2407.03404v1)|null|
-|**2024-07-03**|**A spectroscopic analysis of the ionizing photon production efficiency in JADES and CEERS: implications for the ionizing photon budget**|Anthony J. Pahl et.al.|[2407.03399v1](http://arxiv.org/abs/2407.03399v1)|null|
-|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292v1](http://arxiv.org/abs/2407.03292v1)|[link](https://github.com/zhemin-1992/registration_pinns)|
-|**2024-07-03**|**Solving the inverse problem of microscopy deconvolution with a residual Beylkin-Coifman-Rokhlin neural network**|Rui Li et.al.|[2407.03239v1](http://arxiv.org/abs/2407.03239v1)|null|
-|**2024-07-03**|**Simulating electron-vibron energy transfer with quantum dots and resonators**|Cecilie Hermansen et.al.|[2407.03161v1](http://arxiv.org/abs/2407.03161v1)|null|
-|**2024-07-03**|**Inverse stochastic resonance in adaptive small-world neural networks**|Marius E. Yamakou et.al.|[2407.03151v1](http://arxiv.org/abs/2407.03151v1)|null|
-|**2024-07-03**|**Speaker- and Text-Independent Estimation of Articulatory Movements and Phoneme Alignments from Speech**|Tobias Weise et.al.|[2407.03132v1](http://arxiv.org/abs/2407.03132v1)|null|
+|**2024-07-08**|**On the Multivariate Generalized Counting Process and its Time-Changed Variants**|K. K. Kataria et.al.|[2407.06156v1](http://arxiv.org/abs/2407.06156v1)|null|
+|**2024-07-08**|**Physics-informed machine learning approaches to reactor antineutrino detection**|Sophia Farrell et.al.|[2407.06139v1](http://arxiv.org/abs/2407.06139v1)|null|
+|**2024-07-08**|**Comparing Causal Inference Methods for Point Exposures with Missing Confounders: A Simulation Study**|Luke Benz et.al.|[2407.06038v1](http://arxiv.org/abs/2407.06038v1)|null|
+|**2024-07-08**|**Electron-only reconnection and inverse magnetic-energy transfer at sub-ion scales**|Zhuo Liu et.al.|[2407.06020v1](http://arxiv.org/abs/2407.06020v1)|null|
+|**2024-07-08**|**Revisit the Arimoto-Blahut algorithm: New Analysis with Approximation**|Michail Fasoulakis et.al.|[2407.06013v1](http://arxiv.org/abs/2407.06013v1)|null|
+|**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001v1](http://arxiv.org/abs/2407.06001v1)|null|
+|**2024-07-08**|**Mabuchi rays, test configurations and quantization for toric manifolds**|António Gouveia et.al.|[2407.05860v1](http://arxiv.org/abs/2407.05860v1)|null|
+|**2024-07-08**|**Clustering of conditional mutual information and quantum Markov structure at arbitrary temperatures**|Tomotaka Kuwahara et.al.|[2407.05835v1](http://arxiv.org/abs/2407.05835v1)|null|
+|**2024-07-08**|**Revisiting for maximal flavor violating $Z^{'}_{eμ}$ and its phenomenology constraints**|Jia Liu et.al.|[2407.05831v1](http://arxiv.org/abs/2407.05831v1)|null|
+|**2024-07-08**|**Kinetic Interacting Particle Langevin Monte Carlo**|Paul Felix Valsecchi Oliva et.al.|[2407.05790v1](http://arxiv.org/abs/2407.05790v1)|null|
+|**2024-07-08**|**Multi-times Monte Carlo Rendering for Inter-reflection Reconstruction**|Tengjie Zhu et.al.|[2407.05771v1](http://arxiv.org/abs/2407.05771v1)|null|
+|**2024-07-08**|**InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with Inverse-Instruct**|Yutong Wu et.al.|[2407.05700v1](http://arxiv.org/abs/2407.05700v1)|null|
+|**2024-07-08**|**Fine-Grained Multi-View Hand Reconstruction Using Inverse Rendering**|Qijun Gan et.al.|[2407.05680v1](http://arxiv.org/abs/2407.05680v1)|[link](https://github.com/agnjason/fmhr)|
+|**2024-07-08**|**An inverse hyperbolic obstacle problem**|Mourad Choulli et.al.|[2407.05662v1](http://arxiv.org/abs/2407.05662v1)|null|
+|**2024-07-08**|**Computation of $\wp$-functions on plane algebraic curves**|Julia Bernatska et.al.|[2407.05632v1](http://arxiv.org/abs/2407.05632v1)|null|
+|**2024-07-08**|**New User Event Prediction Through the Lens of Causal Inference**|Henry Shaowu Yuchi et.al.|[2407.05625v1](http://arxiv.org/abs/2407.05625v1)|null|
+|**2024-07-08**|**On the Equivalence between Logic Programming and SETAF**|João Alcântara et.al.|[2407.05538v1](http://arxiv.org/abs/2407.05538v1)|null|
+|**2024-07-08**|**Optimal treatment strategies for prioritized outcomes**|Kyle Duke et.al.|[2407.05537v1](http://arxiv.org/abs/2407.05537v1)|null|
+|**2024-07-07**|**Magnetic trajectories on Heisenberg nilmanifolds**|Gabriela P. Ovando et.al.|[2407.05515v1](http://arxiv.org/abs/2407.05515v1)|null|
+|**2024-07-07**|**Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators**|Anran Jiao et.al.|[2407.05477v1](http://arxiv.org/abs/2407.05477v1)|null|
+|**2024-07-07**|**A note on the positivity of inverse operators acting on $C^*$-algebras**|Jochen Glück et.al.|[2407.05403v1](http://arxiv.org/abs/2407.05403v1)|null|
+|**2024-07-07**|**Recovery of an inclusion in Photoacoustic imaging**|Yavar Kian et.al.|[2407.05317v1](http://arxiv.org/abs/2407.05317v1)|null|
+|**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312v1](http://arxiv.org/abs/2407.05312v1)|null|
+|**2024-07-07**|**Einstein from Noise: Statistical Analysis**|Amnon Balanov et.al.|[2407.05277v1](http://arxiv.org/abs/2407.05277v1)|null|
+|**2024-07-06**|**Algebraic cycles and Hitchin systems**|Davesh Maulik et.al.|[2407.05177v1](http://arxiv.org/abs/2407.05177v1)|null|
+|**2024-07-06**|**Distributional stability of sparse inverse covariance matrix estimators**|Renjie Chen et.al.|[2407.05110v1](http://arxiv.org/abs/2407.05110v1)|null|
+|**2024-07-06**|**Topological edge states in photonic Floquet insulator with unpaired Dirac cones**|Hua Zhong et.al.|[2407.05086v1](http://arxiv.org/abs/2407.05086v1)|null|
+|**2024-07-06**|**Function and derivative approximation by shallow neural networks**|Yuanyuan Li et.al.|[2407.05078v1](http://arxiv.org/abs/2407.05078v1)|null|
+|**2024-07-05**|**Bayesian Analysis Reveals the Key to Extracting Pair Potentials from Neutron Scattering Data**|Brennon L. Shanks et.al.|[2407.04839v1](http://arxiv.org/abs/2407.04839v1)|null|
+|**2024-07-05**|**Galaxy populations and redshift dependence of the correlation between infrared and radio luminosity**|G. De Zotti et.al.|[2407.04825v1](http://arxiv.org/abs/2407.04825v1)|null|
