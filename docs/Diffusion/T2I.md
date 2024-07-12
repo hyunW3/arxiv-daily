@@ -21,9 +21,9 @@
 |**2024-07-10**|**Bound States in Continuum via Singular Transfer Matrices**|Ovidiu-Zeno Lipan et.al.|[2407.07879v1](http://arxiv.org/abs/2407.07879v1)|null|
 |**2024-07-10**|**The Cosmological Preference for Negative Neutrino Mass**|Daniel Green et.al.|[2407.07878v1](http://arxiv.org/abs/2407.07878v1)|null|
 |**2024-07-10**|**Sections of Lagrangian fibrations on holomorphic symplectic manifolds**|Fedor Bogomolov et.al.|[2407.07877v1](http://arxiv.org/abs/2407.07877v1)|null|
-|**2024-07-10**|**Approximate Unitary $k$-Designs from Shallow, Low-Communication Circuits**|Nicholas LaRacuente et.al.|[2407.07876v1](http://arxiv.org/abs/2407.07876v1)|null|
+|**2024-07-10**|**Approximate Unitary $k$-Designs from Shallow, Low-Communication Circuits**|Nicholas LaRacuente et.al.|[2407.07876v2](http://arxiv.org/abs/2407.07876v2)|null|
 |**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
-|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v1](http://arxiv.org/abs/2407.07874v1)|null|
+|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v2](http://arxiv.org/abs/2407.07874v2)|null|
 |**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873v1](http://arxiv.org/abs/2407.07873v1)|null|
 |**2024-07-10**|**Synthetic Light-in-Flight**|Patrick Cornwall et.al.|[2407.07872v1](http://arxiv.org/abs/2407.07872v1)|null|
 |**2024-07-10**|**Enhancing HNSW Index for Real-Time Updates: Addressing Unreachable Points and Performance Degradation**|Wentao Xiao et.al.|[2407.07871v1](http://arxiv.org/abs/2407.07871v1)|[link](https://github.com/xwt1/icpads-mn-ru)|

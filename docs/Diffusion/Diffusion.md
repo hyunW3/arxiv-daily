@@ -28,7 +28,7 @@
 |**2024-07-09**|**Stochastic excitation of waves in magnetic stars -- I. Scaling laws for the modes amplitudes**|Leïla Bessila et.al.|[2407.06987v1](http://arxiv.org/abs/2407.06987v1)|null|
 |**2024-07-09**|**Dunkl approach to slice regular functions**|Giulio Binosi et.al.|[2407.06811v1](http://arxiv.org/abs/2407.06811v1)|null|
 |**2024-07-09**|**Investigating the interplay between AGN coronal properties and hard X-ray variability with NuSTAR**|Roberto Serafinelli et.al.|[2407.06769v1](http://arxiv.org/abs/2407.06769v1)|null|
-|**2024-07-09**|**A Comparison of Vulnerability Feature Extraction Methods from Textual Attack Patterns**|Refat Othman et.al.|[2407.06753v1](http://arxiv.org/abs/2407.06753v1)|null|
+|**2024-07-09**|**A Comparison of Vulnerability Feature Extraction Methods from Textual Attack Patterns**|Refat Othman et.al.|[2407.06753v2](http://arxiv.org/abs/2407.06753v2)|null|
 |**2024-07-09**|**Towards Physics-informed Cyclic Adversarial Multi-PSF Lensless Imaging**|Abeer Banerjee et.al.|[2407.06727v1](http://arxiv.org/abs/2407.06727v1)|null|
 |**2024-07-09**|**PDEformer-1: A Foundation Model for One-Dimensional Partial Differential Equations**|Zhanhong Ye et.al.|[2407.06664v1](http://arxiv.org/abs/2407.06664v1)|null|
 |**2024-07-09**|**Estimates on the stability constant for the truncated Fourier transform**|Mirza Karamehmedović et.al.|[2407.06656v1](http://arxiv.org/abs/2407.06656v1)|null|
