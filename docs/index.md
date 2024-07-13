@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-13 09:00:22 Asia/Shanghai
+ Automated deployment @ 2024-07-13 20:22:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -51,14 +51,14 @@
 |**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733v1](http://arxiv.org/abs/2407.08733v1)|null|
 |**2024-07-11**|**Elevated $p_{\rm astro}$: increased significances with multi-messenger coincidences**|Doğa Veske et.al.|[2407.08732v1](http://arxiv.org/abs/2407.08732v1)|null|
 |**2024-07-11**|**Massive-ish Particles from Small-ish Scales: Non-Perturbative Techniques for Cosmological Collider Physics from Large-Scale Structure Surveys**|Samuel Goldstein et.al.|[2407.08731v1](http://arxiv.org/abs/2407.08731v1)|null|
-|**2024-07-11**|**Evaluating Deep Neural Networks in Deployment (A Comparative and Replicability Study)**|Eduard Pinconschi et.al.|[2407.08730v1](http://arxiv.org/abs/2407.08730v1)|null|
+|**2024-07-11**|**Evaluating Deep Neural Networks in Deployment (A Comparative and Replicability Study)**|Eduard Pinconschi et.al.|[2407.08730v1](http://arxiv.org/abs/2407.08730v1)|[link](https://github.com/trustdnn/issta2024)|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729v1](http://arxiv.org/abs/2407.08729v1)|null|
 |**2024-07-11**|**The Potential Impact of Noise Correlation in Next-generation Gravitational Wave Detectors**|Isaac C. F. Wong et.al.|[2407.08728v1](http://arxiv.org/abs/2407.08728v1)|null|
 |**2024-07-11**|**Hydrodynamics of spin transport in the Haldane-Shastry chain**|Vir B. Bulchandani et.al.|[2407.08727v1](http://arxiv.org/abs/2407.08727v1)|null|
 |**2024-07-11**|**Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data**|Cherie Ho et.al.|[2407.08726v1](http://arxiv.org/abs/2407.08726v1)|null|
 |**2024-07-11**|**MetaUrban: A Simulation Platform for Embodied AI in Urban Spaces**|Wayne Wu et.al.|[2407.08725v1](http://arxiv.org/abs/2407.08725v1)|null|
 |**2024-07-11**|**Planar decomposition of the HOMFLY polynomial for bipartite knots and links**|A. Anokhina et.al.|[2407.08724v1](http://arxiv.org/abs/2407.08724v1)|null|
-|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723v1](http://arxiv.org/abs/2407.08723v1)|null|
+|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723v1](http://arxiv.org/abs/2407.08723v1)|[link](https://github.com/rorondre/TDAGeneralization)|
 |**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722v1](http://arxiv.org/abs/2407.08722v1)|null|
 |**2024-07-11**|**A unitary coupled-channel three-body amplitude with pions and kaons**|Yuchuan Feng et.al.|[2407.08721v1](http://arxiv.org/abs/2407.08721v1)|null|
 |**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720v1](http://arxiv.org/abs/2407.08720v1)|null|
