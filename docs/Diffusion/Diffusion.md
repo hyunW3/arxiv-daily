@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-11**|**Bounds on some geometric functionals of high dimensional Brownian convex hulls and their inverse processes**|Hugo Panzo et.al.|[2407.08712v1](http://arxiv.org/abs/2407.08712v1)|null|
-|**2024-07-11**|**Enhancing Privacy of Spatiotemporal Federated Learning against Gradient Inversion Attacks**|Lele Zheng et.al.|[2407.08529v1](http://arxiv.org/abs/2407.08529v1)|null|
+|**2024-07-11**|**Enhancing Privacy of Spatiotemporal Federated Learning against Gradient Inversion Attacks**|Lele Zheng et.al.|[2407.08529v2](http://arxiv.org/abs/2407.08529v2)|null|
 |**2024-07-11**|**General properties of the response function in a class of solvable non-equilibrium models**|Federico Corberi et.al.|[2407.08502v1](http://arxiv.org/abs/2407.08502v1)|null|
 |**2024-07-11**|**Multivariate root-n-consistent smoothing parameter free matching estimators and estimators of inverse density weighted expectations**|Hajo Holzmann et.al.|[2407.08494v1](http://arxiv.org/abs/2407.08494v1)|null|
 |**2024-07-11**|**Breaking symmetry with light: photo-induced chirality in a non-chiral crystal**|Z. Zeng et.al.|[2407.08491v1](http://arxiv.org/abs/2407.08491v1)|null|
@@ -14,7 +14,7 @@
 |**2024-07-11**|**Magnetograms underestimate even unipolar magnetic flux nearly everywhere on the solar disk**|Jonas Sinjan et.al.|[2407.08368v1](http://arxiv.org/abs/2407.08368v1)|null|
 |**2024-07-11**|**Quantized area of the Schwarzschild black hole: A non-hermitian perspective**|Bijan Bagchi et.al.|[2407.08358v1](http://arxiv.org/abs/2407.08358v1)|null|
 |**2024-07-11**|**Inverse extremal problem for an anti-tumor therapy model**|Andrey Kovtanyuk et.al.|[2407.08345v1](http://arxiv.org/abs/2407.08345v1)|null|
-|**2024-07-11**|**Inference procedures in sequential trial emulation with survival outcomes: comparing confidence intervals based on the sandwich variance estimator, bootstrap and jackknife**|Juliette M. Limozin et.al.|[2407.08317v1](http://arxiv.org/abs/2407.08317v1)|null|
+|**2024-07-11**|**Inference procedures in sequential trial emulation with survival outcomes: comparing confidence intervals based on the sandwich variance estimator, bootstrap and jackknife**|Juliette M. Limozin et.al.|[2407.08317v2](http://arxiv.org/abs/2407.08317v2)|null|
 |**2024-07-11**|**Exploring the nature of the jetted hybrid AGNs: PKS 2004-447, 3C 286 and PKS 0440-00 through the SED modeling**|Jessica Luna-Cervantes et.al.|[2407.08197v1](http://arxiv.org/abs/2407.08197v1)|null|
 |**2024-07-11**|**A Joint Inversion of Sources and Seismic Waveforms for Velocity Distribution: 1-D and 2-D Examples**|Han Yu et.al.|[2407.08181v1](http://arxiv.org/abs/2407.08181v1)|null|
 |**2024-07-11**|**Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation**|Chenhao Li et.al.|[2407.08149v1](http://arxiv.org/abs/2407.08149v1)|null|
