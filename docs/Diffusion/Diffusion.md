@@ -2,6 +2,23 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-12**|**Addressing Confounding and Continuous Exposure Measurement Error Using Corrected Score Functions**|Brian D. Richardson et.al.|[2407.09443v1](http://arxiv.org/abs/2407.09443v1)|null|
+|**2024-07-12**|**A novel direct Helmholtz solver in inhomogeneous media based on the operator Fourier transform functional calculus**|Max Cubillos et.al.|[2407.09436v1](http://arxiv.org/abs/2407.09436v1)|null|
+|**2024-07-12**|**Nonreciprocal phonons in PT-symmetric antiferromagnet**|Yafei Ren et.al.|[2407.09361v1](http://arxiv.org/abs/2407.09361v1)|null|
+|**2024-07-12**|**Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems**|Ziyuan Luo et.al.|[2407.09352v1](http://arxiv.org/abs/2407.09352v1)|null|
+|**2024-07-12**|**Reconfigurable Spin-Wave Properties in Two-Dimensional Magnonic Crystals Formed of Diamond and Triangular Shaped Nanomagnets**|Swapnil Barman et.al.|[2407.09345v1](http://arxiv.org/abs/2407.09345v1)|null|
+|**2024-07-12**|**SS-SfP:Neural Inverse Rendering for Self Supervised Shape from (Mixed) Polarization**|Ashish Tiwari et.al.|[2407.09294v1](http://arxiv.org/abs/2407.09294v1)|null|
+|**2024-07-12**|**Testing volume integrals of travel-time sensitivity kernels for flows**|Michal Svanda et.al.|[2407.09196v1](http://arxiv.org/abs/2407.09196v1)|null|
+|**2024-07-12**|**Enhancing Depressive Post Detection in Bangla: A Comparative Study of TF-IDF, BERT and FastText Embeddings**|Saad Ahmed Sazan et.al.|[2407.09187v1](http://arxiv.org/abs/2407.09187v1)|null|
+|**2024-07-12**|**On Exact Bit-level Reversible Transformers Without Changing Architectures**|Guoqiang Zhang et.al.|[2407.09093v1](http://arxiv.org/abs/2407.09093v1)|null|
+|**2024-07-12**|**The MeerKAT Fornax Survey. III. Ram-pressure stripping of the tidally interacting galaxy NGC 1427A in the Fornax cluster**|P. Serra et.al.|[2407.09082v1](http://arxiv.org/abs/2407.09082v1)|null|
+|**2024-07-12**|**Crossed real nodal-line phonons in gold monobromide**|Yilin Han et.al.|[2407.09079v1](http://arxiv.org/abs/2407.09079v1)|null|
+|**2024-07-12**|**SpreadsheetLLM: Encoding Spreadsheets for Large Language Models**|Yuzhang Tian et.al.|[2407.09025v1](http://arxiv.org/abs/2407.09025v1)|null|
+|**2024-07-12**|**Understanding chiral charge-density wave by frozen chiral phonon**|Shuai Zhang et.al.|[2407.08982v1](http://arxiv.org/abs/2407.08982v1)|null|
+|**2024-07-12**|**High throughput screening, crystal structure prediction, and carrier mobility calculations of organic molecular semiconductors as hole transport layer materials in perovskite solar cells**|Md Omar Faruque et.al.|[2407.08957v1](http://arxiv.org/abs/2407.08957v1)|null|
+|**2024-07-12**|**Observational bounds on a possible electron-to-proton mass ratio variation and constraints in the lepton-specific 2HDM**|R. G. Albuquerque et.al.|[2407.08921v1](http://arxiv.org/abs/2407.08921v1)|null|
+|**2024-07-11**|**On an inverse problem with applications in cardiac electrophysiology**|Andrea Aspri et.al.|[2407.08863v1](http://arxiv.org/abs/2407.08863v1)|null|
+|**2024-07-11**|**Deep Inverse Design for High-Level Synthesis**|Ping Chang et.al.|[2407.08797v1](http://arxiv.org/abs/2407.08797v1)|null|
 |**2024-07-11**|**Bounds on some geometric functionals of high dimensional Brownian convex hulls and their inverse processes**|Hugo Panzo et.al.|[2407.08712v1](http://arxiv.org/abs/2407.08712v1)|null|
 |**2024-07-11**|**Enhancing Privacy of Spatiotemporal Federated Learning against Gradient Inversion Attacks**|Lele Zheng et.al.|[2407.08529v2](http://arxiv.org/abs/2407.08529v2)|null|
 |**2024-07-11**|**General properties of the response function in a class of solvable non-equilibrium models**|Federico Corberi et.al.|[2407.08502v1](http://arxiv.org/abs/2407.08502v1)|null|
@@ -15,20 +32,3 @@
 |**2024-07-11**|**Quantized area of the Schwarzschild black hole: A non-hermitian perspective**|Bijan Bagchi et.al.|[2407.08358v1](http://arxiv.org/abs/2407.08358v1)|null|
 |**2024-07-11**|**Inverse extremal problem for an anti-tumor therapy model**|Andrey Kovtanyuk et.al.|[2407.08345v1](http://arxiv.org/abs/2407.08345v1)|null|
 |**2024-07-11**|**Inference procedures in sequential trial emulation with survival outcomes: comparing confidence intervals based on the sandwich variance estimator, bootstrap and jackknife**|Juliette M. Limozin et.al.|[2407.08317v2](http://arxiv.org/abs/2407.08317v2)|null|
-|**2024-07-11**|**Exploring the nature of the jetted hybrid AGNs: PKS 2004-447, 3C 286 and PKS 0440-00 through the SED modeling**|Jessica Luna-Cervantes et.al.|[2407.08197v1](http://arxiv.org/abs/2407.08197v1)|null|
-|**2024-07-11**|**A Joint Inversion of Sources and Seismic Waveforms for Velocity Distribution: 1-D and 2-D Examples**|Han Yu et.al.|[2407.08181v1](http://arxiv.org/abs/2407.08181v1)|null|
-|**2024-07-11**|**Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation**|Chenhao Li et.al.|[2407.08149v1](http://arxiv.org/abs/2407.08149v1)|null|
-|**2024-07-11**|**Prediction Exposes Your Face: Black-box Model Inversion via Prediction Alignment**|Yufan Liu et.al.|[2407.08127v1](http://arxiv.org/abs/2407.08127v1)|[link](https://github.com/lyufan/P2I-MI)|
-|**2024-07-11**|**Embodying Control in Soft Multistable Grippers from morphofunctional co-design**|Juan C. Osorio et.al.|[2407.08111v1](http://arxiv.org/abs/2407.08111v1)|null|
-|**2024-07-10**|**Inversion of the Abel--Prym map in presence of an additional involution**|O. K. Sheinman et.al.|[2407.07970v1](http://arxiv.org/abs/2407.07970v1)|null|
-|**2024-07-10**|**Quantum metric induced quantum Hall conductance inversion and reentrant transition in fractional Chern insulators**|Ang-Kun Wu et.al.|[2407.07894v1](http://arxiv.org/abs/2407.07894v1)|null|
-|**2024-07-10**|**Quantum Algorithm to Prepare Quasi-Stationary States**|Samuel J. Garratt et.al.|[2407.07893v1](http://arxiv.org/abs/2407.07893v1)|null|
-|**2024-07-10**|**Reinforcement Learning of Adaptive Acquisition Policies for Inverse Problems**|Gianluigi Silvestri et.al.|[2407.07794v1](http://arxiv.org/abs/2407.07794v1)|null|
-|**2024-07-10**|**Artinian Meadows**|João Dias et.al.|[2407.07793v1](http://arxiv.org/abs/2407.07793v1)|null|
-|**2024-07-10**|**Sequential Kalman Monte Carlo for gradient-free inference in Bayesian inverse problems**|Richard D. P. Grumitt et.al.|[2407.07781v1](http://arxiv.org/abs/2407.07781v1)|[link](https://github.com/richardgrumitt/kalmanmc)|
-|**2024-07-10**|**Completing the enumeration of inversion sequences avoiding one or two patterns of length 3**|Benjamin Testart et.al.|[2407.07701v1](http://arxiv.org/abs/2407.07701v1)|null|
-|**2024-07-10**|**Metric mean dimension via subshifts of compact type**|Gustavo Pessil et.al.|[2407.07682v1](http://arxiv.org/abs/2407.07682v1)|null|
-|**2024-07-10**|**The Selective G-Bispectrum and its Inversion: Applications to G-Invariant Networks**|Simon Mataigne et.al.|[2407.07655v1](http://arxiv.org/abs/2407.07655v1)|null|
-|**2024-07-10**|**Explicit inverse of symmetric, tridiagonal near Toeplitz matrices Part II: with weakly diagonally dominant Toeplitz**|Bakytzhan Kurmanbek et.al.|[2407.07654v1](http://arxiv.org/abs/2407.07654v1)|null|
-|**2024-07-10**|**Machine learning of discrete field theories with guaranteed convergence and uncertainty quantification**|Christian Offen et.al.|[2407.07642v1](http://arxiv.org/abs/2407.07642v1)|[link](https://github.com/Christian-Offen/Lagrangian_GP_PDE)|
-|**2024-07-10**|**Extended gamma-ray emission from particle escape in pulsar wind nebulae -- Application to HESS J1809-193 and HESS J1825-137**|Pierrick Martin et.al.|[2407.07583v1](http://arxiv.org/abs/2407.07583v1)|null|
