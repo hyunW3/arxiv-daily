@@ -7,7 +7,7 @@
 |**2024-07-15**|**Fractional Hardy inequality with singularity on submanifold**|Adimurthi et.al.|[2407.10863v1](http://arxiv.org/abs/2407.10863v1)|null|
 |**2024-07-15**|**Data-Guided Physics-Informed Neural Networks for Solving Inverse Problems in Partial Differential Equations**|Wei Zhou et.al.|[2407.10836v1](http://arxiv.org/abs/2407.10836v1)|null|
 |**2024-07-15**|**Sampling from the Random Linear Model via Stochastic Localization Up to the AMP Threshold**|Han Cui et.al.|[2407.10763v1](http://arxiv.org/abs/2407.10763v1)|null|
-|**2024-07-15**|**Impact of electron spectra on morphology of pulsar halo**|YingYing Guo et.al.|[2407.10705v1](http://arxiv.org/abs/2407.10705v1)|null|
+|**2024-07-15**|**Impact of electron spectra on morphology of pulsar halos at ultra-high energies**|YingYing Guo et.al.|[2407.10705v2](http://arxiv.org/abs/2407.10705v2)|null|
 |**2024-07-15**|**Integral Micromorphic Model Reproducing Dispersion in 1D Continuum**|Michal Šmejkal et.al.|[2407.10676v1](http://arxiv.org/abs/2407.10676v1)|null|
 |**2024-07-15**|**Inverse Physics-Informed Neural Networks for transport models in porous materials**|Marco Berardi et.al.|[2407.10654v1](http://arxiv.org/abs/2407.10654v1)|null|
 |**2024-07-15**|**Deep Diffusion Image Prior for Efficient OOD Adaptation in 3D Inverse Problems**|Hyungjin Chung et.al.|[2407.10641v1](http://arxiv.org/abs/2407.10641v1)|[link](https://github.com/hj-harry/ddip3d)|
