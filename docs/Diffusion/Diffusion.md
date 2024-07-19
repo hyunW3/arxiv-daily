@@ -2,6 +2,27 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-18**|**dzNLP at NADI 2024 Shared Task: Multi-Classifier Ensemble with Weighted Voting and TF-IDF Features**|Mohamed Lichouri et.al.|[2407.13608v1](http://arxiv.org/abs/2407.13608v1)|null|
+|**2024-07-18**|**dzStance at StanceEval2024: Arabic Stance Detection based on Sentence Transformers**|Mohamed Lichouri et.al.|[2407.13603v1](http://arxiv.org/abs/2407.13603v1)|null|
+|**2024-07-18**|**The long way of a viscous vortex dipole**|Michele Dolce et.al.|[2407.13562v1](http://arxiv.org/abs/2407.13562v1)|null|
+|**2024-07-18**|**Constraining $λ_{B_s}$ by $B_s\to γ^*$ and $B_s\to φ$ form factors**|Mikhail A. Ivanov et.al.|[2407.13498v1](http://arxiv.org/abs/2407.13498v1)|null|
+|**2024-07-18**|**Examining inverse generative social science to study targets of interest**|Thomas Chesney et.al.|[2407.13474v1](http://arxiv.org/abs/2407.13474v1)|null|
+|**2024-07-18**|**WiNet: Wavelet-based Incremental Learning for Efficient Medical Image Registration**|Xinxing Cheng et.al.|[2407.13426v1](http://arxiv.org/abs/2407.13426v1)|null|
+|**2024-07-18**|**Modified Abelian and SU(2) Wilson theories on a lattice from a non-compact regularization**|D. Babusci et.al.|[2407.13359v1](http://arxiv.org/abs/2407.13359v1)|null|
+|**2024-07-18**|**A new approach to delegate signing rights to proxy signers using isogeny-based cryptography**|Kunal Dey et.al.|[2407.13318v1](http://arxiv.org/abs/2407.13318v1)|null|
+|**2024-07-18**|**MEDIC: Zero-shot Music Editing with Disentangled Inversion Control**|Huadai Liu et.al.|[2407.13220v1](http://arxiv.org/abs/2407.13220v1)|null|
+|**2024-07-18**|**Probe the regolith characteristics of asteroids from 9-years infrared observations of WISE/NEOWISE: A case study of the Main-Belt Object (656) Beagle**|Liang-Liang Yu et.al.|[2407.13212v1](http://arxiv.org/abs/2407.13212v1)|null|
+|**2024-07-18**|**Robust Multivariate Time Series Forecasting against Intra- and Inter-Series Transitional Shift**|Hui He et.al.|[2407.13194v1](http://arxiv.org/abs/2407.13194v1)|null|
+|**2024-07-18**|**Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking**|Zhiyuan Ma et.al.|[2407.13188v1](http://arxiv.org/abs/2407.13188v1)|null|
+|**2024-07-18**|**Survival probabilities in the Sisyphus random walk model with absorbing traps**|Shahar Hod et.al.|[2407.13180v1](http://arxiv.org/abs/2407.13180v1)|null|
+|**2024-07-18**|**Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection**|Jiangwei Xie et.al.|[2407.13151v1](http://arxiv.org/abs/2407.13151v1)|null|
+|**2024-07-18**|**On the Hardy-Hénon heat equation with an inverse square potential**|Divyang G. Bhimani et.al.|[2407.13085v1](http://arxiv.org/abs/2407.13085v1)|null|
+|**2024-07-18**|**Fast and Scalable FFT-Based GPU-Accelerated Algorithms for Hessian Actions Arising in Linear Inverse Problems Governed by Autonomous Dynamical Systems**|Sreeram Venkat et.al.|[2407.13066v1](http://arxiv.org/abs/2407.13066v1)|null|
+|**2024-07-17**|**Anomalous Nernst effect based near field imaging of magnetic nanostructures**|Atul Pandey et.al.|[2407.13028v1](http://arxiv.org/abs/2407.13028v1)|null|
+|**2024-07-17**|**Nonlinear tomographic reconstruction via nonsmooth optimization**|Vasileios Charisopoulos et.al.|[2407.12984v1](http://arxiv.org/abs/2407.12984v1)|null|
+|**2024-07-17**|**Robotic Arm Manipulation with Inverse Reinforcement Learning & TD-MPC**|Md Shoyib Hassan et.al.|[2407.12941v1](http://arxiv.org/abs/2407.12941v1)|null|
+|**2024-07-17**|**GenRC: Generative 3D Room Completion from Sparse Image Collections**|Ming-Feng Li et.al.|[2407.12939v1](http://arxiv.org/abs/2407.12939v1)|[link](https://github.com/minfenli/GenRC)|
+|**2024-07-17**|**On the representation of number-theoretic functions by arithmetic terms**|Mihai Prunescu et.al.|[2407.12928v1](http://arxiv.org/abs/2407.12928v1)|null|
 |**2024-07-17**|**Experimental Demonstration of a Quantum-Optimal Coronagraph Using Spatial Mode Sorters**|Nico Deshler et.al.|[2407.12776v1](http://arxiv.org/abs/2407.12776v1)|null|
 |**2024-07-17**|**Some new classes of permutation polynomials and their compositional inverses**|Sartaj Ul Hasan et.al.|[2407.12688v1](http://arxiv.org/abs/2407.12688v1)|null|
 |**2024-07-17**|**CoSIGN: Few-Step Guidance of ConSIstency Model to Solve General INverse Problems**|Jiankun Zhao et.al.|[2407.12676v1](http://arxiv.org/abs/2407.12676v1)|[link](https://github.com/biomed-ai-lab-u-michgan/cosign)|
@@ -11,24 +32,3 @@
 |**2024-07-17**|**Audio Conditioning for Music Generation via Discrete Bottleneck Features**|Simon Rouard et.al.|[2407.12563v1](http://arxiv.org/abs/2407.12563v1)|null|
 |**2024-07-17**|**Set-theoretic solutions of the Yang-Baxter equation and regular *-semibraces**|Qianxue Liu et.al.|[2407.12533v1](http://arxiv.org/abs/2407.12533v1)|null|
 |**2024-07-17**|**Inverse participation ratio and entanglement of edge states in HgTe quantum wells in a finite strip geometry**|Manuel Calixto et.al.|[2407.12469v1](http://arxiv.org/abs/2407.12469v1)|null|
-|**2024-07-17**|**Seasonal Changes in the Atmosphere of HD 80606b Observed with JWST's NIRSpec/G395H**|James T. Sikora et.al.|[2407.12456v1](http://arxiv.org/abs/2407.12456v1)|null|
-|**2024-07-17**|**Optimizing one dimensional superconducting diodes: Interplay of Rashba spin-orbit coupling and magnetic fields**|Sayak Bhowmik et.al.|[2407.12455v1](http://arxiv.org/abs/2407.12455v1)|null|
-|**2024-07-17**|**Low latency carbon budget analysis reveals a large decline of the land carbon sink in 2023**|Piyu Ke et.al.|[2407.12447v1](http://arxiv.org/abs/2407.12447v1)|null|
-|**2024-07-17**|**Dynamics of discrete solitons in the fractional discrete nonlinear Schrödinger equation with the quasi-Riesz derivative**|Ming Zhong et.al.|[2407.12441v1](http://arxiv.org/abs/2407.12441v1)|null|
-|**2024-07-17**|**Strong cubic phase shifts on the photonic vacuum state**|Hao Jeng et.al.|[2407.12265v1](http://arxiv.org/abs/2407.12265v1)|null|
-|**2024-07-17**|**Small exciton effective mass in QL Bi2Se2Te: A material platform towards high-temperature excitonic condensate**|Yuanyuan Wang et.al.|[2407.12262v1](http://arxiv.org/abs/2407.12262v1)|null|
-|**2024-07-16**|**One-dimensional coefficient inverse problems by transformation operators**|Oleg Imanuvilov et.al.|[2407.12205v1](http://arxiv.org/abs/2407.12205v1)|null|
-|**2024-07-16**|**Quantizing Carrollian field theories**|Jordan Cotler et.al.|[2407.11971v1](http://arxiv.org/abs/2407.11971v1)|null|
-|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946v2](http://arxiv.org/abs/2407.11946v2)|[link](https://github.com/pwangcs/hisvit)|
-|**2024-07-16**|**Coarse-grained dynamics in quantum many-body systems using the maximum entropy principle**|Adán Castillo et.al.|[2407.11920v1](http://arxiv.org/abs/2407.11920v1)|null|
-|**2024-07-16**|**Adaptive Resolution Force Probe Simulations: Coarse Graining in the Ideal Gas Approximation**|Marco Oestereich et.al.|[2407.11838v1](http://arxiv.org/abs/2407.11838v1)|null|
-|**2024-07-16**|**Approximate inverse measurement channel for shallow shadows**|Riccardo Cioli et.al.|[2407.11813v1](http://arxiv.org/abs/2407.11813v1)|null|
-|**2024-07-16**|**Gradient Flows and Riemannian Structure in the Gromov-Wasserstein Geometry**|Zhengxin Zhang et.al.|[2407.11800v1](http://arxiv.org/abs/2407.11800v1)|[link](https://github.com/ZhengxinZh/IGW)|
-|**2024-07-16**|**Compressive Electron Backscatter Diffraction Imaging**|Zoë Broad et.al.|[2407.11724v1](http://arxiv.org/abs/2407.11724v1)|null|
-|**2024-07-16**|**Numerical Eigenvalue Optimization by Shape-Variations for Maxwell's Eigenvalue Problem**|Christine Herter et.al.|[2407.11703v1](http://arxiv.org/abs/2407.11703v1)|null|
-|**2024-07-16**|**A two-step surrogate method for sequential uncertainty quantification in high-dimensional inverse problems**|Ningxin Yang et.al.|[2407.11600v1](http://arxiv.org/abs/2407.11600v1)|null|
-|**2024-07-16**|**Time-Machines Construct within Ricci-inverse Modified Gravity**|F. Ahmed et.al.|[2407.11513v1](http://arxiv.org/abs/2407.11513v1)|null|
-|**2024-07-16**|**Domain Uncertainty Quantification for the Lippmann-Schwinger Volume Integral Equation**|Fernando Henríquez et.al.|[2407.11512v1](http://arxiv.org/abs/2407.11512v1)|null|
-|**2024-07-16**|**Isometric Representation Learning for Disentangled Latent Space of Diffusion Models**|Jaehoon Hahm et.al.|[2407.11451v1](http://arxiv.org/abs/2407.11451v1)|[link](https://github.com/isno0907/isodiff)|
-|**2024-07-16**|**Model Inversion Attacks Through Target-Specific Conditional Diffusion Models**|Ouxiang Li et.al.|[2407.11424v1](http://arxiv.org/abs/2407.11424v1)|null|
-|**2024-07-16**|**SDPT: Synchronous Dual Prompt Tuning for Fusion-based Visual-Language Pre-trained Models**|Yang Zhou et.al.|[2407.11414v1](http://arxiv.org/abs/2407.11414v1)|[link](https://github.com/wuyongjiancode/sdpt)|
