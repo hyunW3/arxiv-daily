@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-22**|**Inverse problems for coupled nonlocal nonlinear systems arising in mathematical biology**|Ming-Hui Ding et.al.|[2407.15713v1](http://arxiv.org/abs/2407.15713v1)|null|
+|**2024-07-22**|**History of confluent Vandermonde matrices and inverting them algorithms**|Jerzy S Respondek et.al.|[2407.15696v1](http://arxiv.org/abs/2407.15696v1)|null|
+|**2024-07-22**|**Inverse random potential scattering for the polyharmonic wave equation using far-field patterns**|Jianliang Li et.al.|[2407.15681v1](http://arxiv.org/abs/2407.15681v1)|null|
+|**2024-07-22**|**On even $K$-groups over $p$-adic Lie extensions of global function fields**|Meng Fai Lim et.al.|[2407.15667v1](http://arxiv.org/abs/2407.15667v1)|null|
+|**2024-07-22**|**Best of both worlds: Fusing hyperspectral data from two generations of spectro-imagers for X-ray astrophysics**|Julia Lascar et.al.|[2407.15639v1](http://arxiv.org/abs/2407.15639v1)|null|
+|**2024-07-22**|**Inverted Activations**|Georgii Novikov et.al.|[2407.15545v1](http://arxiv.org/abs/2407.15545v1)|[link](https://github.com/pglolo/optiacts)|
+|**2024-07-22**|**Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models**|Alex de Beer et.al.|[2407.15401v1](http://arxiv.org/abs/2407.15401v1)|null|
+|**2024-07-22**|**Inversion Diameter and Treewidth**|Yichen Wang et.al.|[2407.15384v1](http://arxiv.org/abs/2407.15384v1)|null|
+|**2024-07-22**|**Unitarization of electron scattering with an external potential at NLO in QED**|J. A. Oller et.al.|[2407.15382v1](http://arxiv.org/abs/2407.15382v1)|null|
+|**2024-07-22**|**Iterative approach to reconstructing neural disparity fields from light-field data**|Ligen Shi et.al.|[2407.15380v1](http://arxiv.org/abs/2407.15380v1)|null|
+|**2024-07-21**|**Enhancing Retinal Disease Classification from OCTA Images via Active Learning Techniques**|Jacob Thrasher et.al.|[2407.15293v1](http://arxiv.org/abs/2407.15293v1)|null|
+|**2024-07-21**|**Does EDPVR Represent Myocardial Tissue Stiffness? Toward a Better Definition**|Rana Raza Mehdi et.al.|[2407.15254v1](http://arxiv.org/abs/2407.15254v1)|null|
+|**2024-07-21**|**Variation Bayesian Interference for Multiple Extended Targets or Unresolved Group Targets Tracking**|Yuanhao Cheng et.al.|[2407.15226v1](http://arxiv.org/abs/2407.15226v1)|null|
+|**2024-07-21**|**Surfel-based Gaussian Inverse Rendering for Fast and Relightable Dynamic Human Reconstruction from Monocular Video**|Yiqun Zhao et.al.|[2407.15212v1](http://arxiv.org/abs/2407.15212v1)|null|
+|**2024-07-21**|**Tethered flexible polymer under oscillatory linear flow**|A. Lamura et.al.|[2407.15129v1](http://arxiv.org/abs/2407.15129v1)|null|
+|**2024-07-21**|**Determining a Time-Varying Potential in Time-Fractional Diffusion from Observation at a Single Point**|Siyu Cen et.al.|[2407.15094v1](http://arxiv.org/abs/2407.15094v1)|null|
+|**2024-07-21**|**PFWNN: A deep learning method for solving forward and inverse problems of phase-field models**|Gang Bao et.al.|[2407.15092v1](http://arxiv.org/abs/2407.15092v1)|null|
+|**2024-07-21**|**Poiseuille Flow in Tubes of Bipolar Cross Sections: An exact hemodynamic analysis for potential mechanisms of aortopathy in bicuspid aortic valve**|Doyeol Ahn et.al.|[2407.15035v1](http://arxiv.org/abs/2407.15035v1)|null|
+|**2024-07-20**|**Commutation relations for functions of canonical conjugate operators**|Conrado Badenas et.al.|[2407.14965v1](http://arxiv.org/abs/2407.14965v1)|null|
+|**2024-07-20**|**Uncertainty of line-of-sight velocity measurement of faint stars from low and medium resolution optical spectra**|László Dobos et.al.|[2407.14943v1](http://arxiv.org/abs/2407.14943v1)|null|
+|**2024-07-20**|**Inverse spectral problem of Sturm-Liouville equation with many frozen arguments**|Chung-Tsun Shieh et.al.|[2407.14889v1](http://arxiv.org/abs/2407.14889v1)|null|
+|**2024-07-20**|**Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL**|Yunseon Choi et.al.|[2407.14733v1](http://arxiv.org/abs/2407.14733v1)|[link](https://github.com/youseob/pin)|
+|**2024-07-19**|**More on the sum-freedom of the multiplicative inverse function**|Claude Carlet et.al.|[2407.14660v1](http://arxiv.org/abs/2407.14660v1)|null|
+|**2024-07-19**|**A combinatorial approach to categorical Möbius inversion and pseudoinversion**|Juan Pablo Vigneaux et.al.|[2407.14647v1](http://arxiv.org/abs/2407.14647v1)|null|
+|**2024-07-19**|**Differential Privacy with Multiple Selections**|Ashish Goel et.al.|[2407.14641v1](http://arxiv.org/abs/2407.14641v1)|null|
+|**2024-07-19**|**Correlated Topological Mixed-Valence Insulators in Moiré Hetero-Bilayers**|Juan Felipe Mendez-Valderrama et.al.|[2407.14583v1](http://arxiv.org/abs/2407.14583v1)|null|
 |**2024-07-19**|**Conformal Thresholded Intervals for Efficient Regression**|Rui Luo et.al.|[2407.14495v1](http://arxiv.org/abs/2407.14495v1)|null|
 |**2024-07-19**|**Observation of paramagnetic spin-degeneracy lifting in EuZn2Sb2**|Milo X. Sprague et.al.|[2407.14481v1](http://arxiv.org/abs/2407.14481v1)|null|
 |**2024-07-19**|**The NIEP is solvable by reality and finitely many polynomial inequalities**|Jared J. L. Brannan et.al.|[2407.14472v1](http://arxiv.org/abs/2407.14472v1)|null|
 |**2024-07-19**|**QCD phase diagram in the $T-eB$ plane for varying pion mass**|Mahammad Sabir Ali et.al.|[2407.14449v1](http://arxiv.org/abs/2407.14449v1)|null|
-|**2024-07-19**|**Improving Observed Decisions Quality using Inverse Optimization: A Radiation Therapy Treatment Planning Application**|Farzin Ahmadi et.al.|[2407.14438v1](http://arxiv.org/abs/2407.14438v1)|null|
-|**2024-07-19**|**Uniqueness of the inverse source problem for fractional diffusion-wave equations**|Lingyun Qiu et.al.|[2407.14413v1](http://arxiv.org/abs/2407.14413v1)|null|
-|**2024-07-19**|**ALF: an asymmetric Lyot wavefront sensor for the ELT/METIS vortex coronagraph**|Gilles Orban de Xivry et.al.|[2407.14403v1](http://arxiv.org/abs/2407.14403v1)|null|
-|**2024-07-19**|**Exponential Quantum Advantage for Pathfinding in Regular Sunflower Graphs**|Jianqiang Li et.al.|[2407.14398v1](http://arxiv.org/abs/2407.14398v1)|null|
-|**2024-07-19**|**Search for Very-Short-Baseline Oscillations of Reactor Antineutrinos with the SoLid Detector**|Y. Abreu et.al.|[2407.14382v1](http://arxiv.org/abs/2407.14382v1)|null|
-|**2024-07-19**|**New simple and accurate approximations for quintessence**|Artur Alho et.al.|[2407.14378v1](http://arxiv.org/abs/2407.14378v1)|null|
-|**2024-07-19**|**First simultaneous measurement of the gamma-ray and neutron emission probabilities in inverse kinematics at a heavy-ion storage ring**|M. Sguazzin et.al.|[2407.14350v1](http://arxiv.org/abs/2407.14350v1)|null|
-|**2024-07-19**|**Partial mass dynamics of the defocussing nonlinear Schrödinger equation**|Jiaqi Liu et.al.|[2407.14223v1](http://arxiv.org/abs/2407.14223v1)|null|
-|**2024-07-19**|**Scattering theory of thermal and bipolar thermoelectric diodes**|José Balduque et.al.|[2407.14167v1](http://arxiv.org/abs/2407.14167v1)|null|
-|**2024-07-19**|**On Maximum Entropy Linear Feature Inversion**|Paul M Baggenstoss et.al.|[2407.14166v1](http://arxiv.org/abs/2407.14166v1)|null|
-|**2024-07-19**|**A Fast and Scalable Iterative Solution of a Socio-Economic Security-Constrained Optimal Power Flow with Two-Stage Post-Contingency Control**|Matias Vistnes et.al.|[2407.14124v1](http://arxiv.org/abs/2407.14124v1)|null|
-|**2024-07-19**|**Kinematics-based 3D Human-Object Interaction Reconstruction from Single View**|Yuhang Chen et.al.|[2407.14043v1](http://arxiv.org/abs/2407.14043v1)|null|
-|**2024-07-19**|**Not All Noises Are Created Equally:Diffusion Noise Selection and Optimization**|Zipeng Qi et.al.|[2407.14041v1](http://arxiv.org/abs/2407.14041v1)|null|
-|**2024-07-19**|**Generative Language Model for Catalyst Discovery**|Dong Hyeon Mok et.al.|[2407.14040v1](http://arxiv.org/abs/2407.14040v1)|null|
-|**2024-07-19**|**Cluster Sliding Ferroelectricity in Trilayer Quasi-Hexagonal C60**|Xuefei Wang et.al.|[2407.13985v1](http://arxiv.org/abs/2407.13985v1)|null|
-|**2024-07-19**|**On the Frequentist Coverage of Bayes Posteriors in Nonlinear Inverse Problems**|Youngsoo Baek et.al.|[2407.13970v1](http://arxiv.org/abs/2407.13970v1)|null|
-|**2024-07-19**|**Discrete inverse problems with internal functionals**|Marcus Corbett et.al.|[2407.13955v1](http://arxiv.org/abs/2407.13955v1)|null|
-|**2024-07-19**|**Neural topology optimization: the good, the bad, and the ugly**|Suryanarayanan Manoj Sanu et.al.|[2407.13954v1](http://arxiv.org/abs/2407.13954v1)|null|
-|**2024-07-18**|**Bubble dynamics in an inclined Hele-Shaw cell**|Benjamin Monnet et.al.|[2407.13916v1](http://arxiv.org/abs/2407.13916v1)|null|
-|**2024-07-18**|**Pure Subtype Systems Are Type-Safe**|Valentin Pasquale et.al.|[2407.13882v1](http://arxiv.org/abs/2407.13882v1)|null|
-|**2024-07-18**|**Optimal high-precision shadow estimation**|Sitan Chen et.al.|[2407.13874v1](http://arxiv.org/abs/2407.13874v1)|null|
-|**2024-07-18**|**A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks**|Yixiang Qiu et.al.|[2407.13863v1](http://arxiv.org/abs/2407.13863v1)|[link](https://github.com/final-solution/if-gmi)|
-|**2024-07-18**|**A novel translationally invariant supersymmetric chain with inverse-square interactions: partition function, thermodynamics and criticality**|Federico Finkel et.al.|[2407.13827v1](http://arxiv.org/abs/2407.13827v1)|null|
-|**2024-07-18**|**Building Population-Informed Priors for Bayesian Inference Using Data-Consistent Stochastic Inversion**|Rebekah D. White et.al.|[2407.13814v1](http://arxiv.org/abs/2407.13814v1)|null|
-|**2024-07-18**|**dzNLP at NADI 2024 Shared Task: Multi-Classifier Ensemble with Weighted Voting and TF-IDF Features**|Mohamed Lichouri et.al.|[2407.13608v1](http://arxiv.org/abs/2407.13608v1)|null|
-|**2024-07-18**|**dzStance at StanceEval2024: Arabic Stance Detection based on Sentence Transformers**|Mohamed Lichouri et.al.|[2407.13603v1](http://arxiv.org/abs/2407.13603v1)|null|
