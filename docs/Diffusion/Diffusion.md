@@ -15,7 +15,7 @@
 |**2024-07-21**|**Enhancing Retinal Disease Classification from OCTA Images via Active Learning Techniques**|Jacob Thrasher et.al.|[2407.15293v1](http://arxiv.org/abs/2407.15293v1)|null|
 |**2024-07-21**|**Does EDPVR Represent Myocardial Tissue Stiffness? Toward a Better Definition**|Rana Raza Mehdi et.al.|[2407.15254v1](http://arxiv.org/abs/2407.15254v1)|null|
 |**2024-07-21**|**Variation Bayesian Interference for Multiple Extended Targets or Unresolved Group Targets Tracking**|Yuanhao Cheng et.al.|[2407.15226v1](http://arxiv.org/abs/2407.15226v1)|null|
-|**2024-07-21**|**Surfel-based Gaussian Inverse Rendering for Fast and Relightable Dynamic Human Reconstruction from Monocular Video**|Yiqun Zhao et.al.|[2407.15212v1](http://arxiv.org/abs/2407.15212v1)|null|
+|**2024-07-21**|**Surfel-based Gaussian Inverse Rendering for Fast and Relightable Dynamic Human Reconstruction from Monocular Video**|Yiqun Zhao et.al.|[2407.15212v2](http://arxiv.org/abs/2407.15212v2)|null|
 |**2024-07-21**|**Tethered flexible polymer under oscillatory linear flow**|A. Lamura et.al.|[2407.15129v1](http://arxiv.org/abs/2407.15129v1)|null|
 |**2024-07-21**|**Determining a Time-Varying Potential in Time-Fractional Diffusion from Observation at a Single Point**|Siyu Cen et.al.|[2407.15094v1](http://arxiv.org/abs/2407.15094v1)|null|
 |**2024-07-21**|**PFWNN: A deep learning method for solving forward and inverse problems of phase-field models**|Gang Bao et.al.|[2407.15092v1](http://arxiv.org/abs/2407.15092v1)|null|

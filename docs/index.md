@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-23 21:12:30 Asia/Shanghai
+ Automated deployment @ 2024-07-24 09:01:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -21,7 +21,7 @@
 |**2024-07-21**|**Enhancing Retinal Disease Classification from OCTA Images via Active Learning Techniques**|Jacob Thrasher et.al.|[2407.15293v1](http://arxiv.org/abs/2407.15293v1)|null|
 |**2024-07-21**|**Does EDPVR Represent Myocardial Tissue Stiffness? Toward a Better Definition**|Rana Raza Mehdi et.al.|[2407.15254v1](http://arxiv.org/abs/2407.15254v1)|null|
 |**2024-07-21**|**Variation Bayesian Interference for Multiple Extended Targets or Unresolved Group Targets Tracking**|Yuanhao Cheng et.al.|[2407.15226v1](http://arxiv.org/abs/2407.15226v1)|null|
-|**2024-07-21**|**Surfel-based Gaussian Inverse Rendering for Fast and Relightable Dynamic Human Reconstruction from Monocular Video**|Yiqun Zhao et.al.|[2407.15212v1](http://arxiv.org/abs/2407.15212v1)|null|
+|**2024-07-21**|**Surfel-based Gaussian Inverse Rendering for Fast and Relightable Dynamic Human Reconstruction from Monocular Video**|Yiqun Zhao et.al.|[2407.15212v2](http://arxiv.org/abs/2407.15212v2)|null|
 |**2024-07-21**|**Tethered flexible polymer under oscillatory linear flow**|A. Lamura et.al.|[2407.15129v1](http://arxiv.org/abs/2407.15129v1)|null|
 |**2024-07-21**|**Determining a Time-Varying Potential in Time-Fractional Diffusion from Observation at a Single Point**|Siyu Cen et.al.|[2407.15094v1](http://arxiv.org/abs/2407.15094v1)|null|
 |**2024-07-21**|**PFWNN: A deep learning method for solving forward and inverse problems of phase-field models**|Gang Bao et.al.|[2407.15092v1](http://arxiv.org/abs/2407.15092v1)|null|
@@ -52,7 +52,7 @@
 |**2024-07-22**|**HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning**|Eugene Valassakis et.al.|[2407.15844v1](http://arxiv.org/abs/2407.15844v1)|null|
 |**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842v1](http://arxiv.org/abs/2407.15842v1)|null|
 |**2024-07-22**|**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**|Mingze Xu et.al.|[2407.15841v1](http://arxiv.org/abs/2407.15841v1)|null|
-|**2024-07-22**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840v1](http://arxiv.org/abs/2407.15840v1)|null|
+|**2024-07-22**|**QueST: Self-Supervised Skill Abstractions for Learning Continuous Control**|Atharva Mete et.al.|[2407.15840v2](http://arxiv.org/abs/2407.15840v2)|null|
 |**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[2407.15839v1](http://arxiv.org/abs/2407.15839v1)|null|
 |**2024-07-22**|**MMInstruct: A High-Quality Multi-Modal Instruction Tuning Dataset with Extensive Diversity**|Yangzhou Liu et.al.|[2407.15838v1](http://arxiv.org/abs/2407.15838v1)|null|
 |**2024-07-22**|**Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning**|Yibing Wei et.al.|[2407.15837v1](http://arxiv.org/abs/2407.15837v1)|[link](https://github.com/yibingwei-1/latentmim)|
@@ -68,7 +68,7 @@
 |**2024-07-22**|**Kadec-type theorems for sampled group orbits**|Ilya Krishtal et.al.|[2407.15827v1](http://arxiv.org/abs/2407.15827v1)|null|
 |**2024-07-22**|**Statistics and Habitability of F-type Star--Planet Systems**|Shaan D. Patel et.al.|[2407.15826v1](http://arxiv.org/abs/2407.15826v1)|null|
 |**2024-07-22**|**High-order numerical method for solving elliptic partial differential equations on unfitted node sets**|Morten E. Nielsen et.al.|[2407.15825v1](http://arxiv.org/abs/2407.15825v1)|null|
-|**2024-07-22**|**Unveiling the Multifaceted GRB 200613A: Prompt Emission Dynamics, Afterglow Evolution, and the Host Galaxy's Properties**|Shao-Yu Fu et.al.|[2407.15824v1](http://arxiv.org/abs/2407.15824v1)|null|
-|**2024-07-22**|**A Large-scale Benchmark Dataset for Commuting Origin-destination Matrix Generation**|Can Rong et.al.|[2407.15823v1](http://arxiv.org/abs/2407.15823v1)|null|
+|**2024-07-22**|**Unveiling the Multifaceted GRB 200613A: Prompt Emission Dynamics, Afterglow Evolution, and the Host Galaxy's Properties**|Shao-Yu Fu et.al.|[2407.15824v2](http://arxiv.org/abs/2407.15824v2)|null|
+|**2024-07-22**|**A Large-scale Benchmark Dataset for Commuting Origin-destination Matrix Generation**|Can Rong et.al.|[2407.15823v2](http://arxiv.org/abs/2407.15823v2)|null|
 |**2024-07-22**|**Reading-off the non-geometric scalar potentials with U-dual fluxes**|Sayan Biswas et.al.|[2407.15822v1](http://arxiv.org/abs/2407.15822v1)|null|
 |**2024-07-22**|**Towards Effective Collaboration between Software Engineers and Data Scientists developing Machine Learning-Enabled Systems**|Gabriel Busquim et.al.|[2407.15821v1](http://arxiv.org/abs/2407.15821v1)|null|
