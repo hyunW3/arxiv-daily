@@ -13,7 +13,7 @@
 |**2024-07-23**|**PINNPStomo: Simultaneous P- and S-wave seismic traveltime tomography using physics-informed neural networks with a new factored eikonal equation**|Chao Song et.al.|[2407.16439v1](http://arxiv.org/abs/2407.16439v1)|[link](https://github.com/songc0a/PINNPStomo)|
 |**2024-07-23**|**Topological properties of the [110] SnTe nanowires**|Alicja Kawala et.al.|[2407.16421v1](http://arxiv.org/abs/2407.16421v1)|null|
 |**2024-07-23**|**Wiener pairs of Banach algebras of operator-valued matrices**|Lukas Köhldorfer et.al.|[2407.16416v1](http://arxiv.org/abs/2407.16416v1)|null|
-|**2024-07-23**|**Operational Umbral Calculus**|Kei Beauduin et.al.|[2407.16348v1](http://arxiv.org/abs/2407.16348v1)|null|
+|**2024-07-23**|**Operational Umbral Calculus**|Kei Beauduin et.al.|[2407.16348v2](http://arxiv.org/abs/2407.16348v2)|null|
 |**2024-07-23**|**Inverse scattering transform for the discrete nonlocal PT symmetric nonlinear Schrödinger equation with nonzero boundary conditions**|Ya-Hui Liu et.al.|[2407.16343v1](http://arxiv.org/abs/2407.16343v1)|null|
 |**2024-07-23**|**Random Connection Hypergraphs**|Morten Brun et.al.|[2407.16334v1](http://arxiv.org/abs/2407.16334v1)|null|
 |**2024-07-23**|**Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding**|Chunjiang Che et.al.|[2407.16295v1](http://arxiv.org/abs/2407.16295v1)|null|
