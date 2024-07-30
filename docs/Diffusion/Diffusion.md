@@ -12,7 +12,7 @@
 |**2024-07-26**|**PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning**|Fangze Lin et.al.|[2407.18569v1](http://arxiv.org/abs/2407.18569v1)|null|
 |**2024-07-26**|**Diverging shift current responses in the gapless limit of two-dimensional systems**|Hiroki Yoshida et.al.|[2407.18565v1](http://arxiv.org/abs/2407.18565v1)|null|
 |**2024-07-25**|**Diffusion-based subsurface multiphysics monitoring and forecasting**|Xinquan Huang et.al.|[2407.18426v1](http://arxiv.org/abs/2407.18426v1)|null|
-|**2024-07-25**|**A Reference-Based 3D Semantic-Aware Framework for Accurate Local Facial Attribute Editing**|Yu-Kai Huang et.al.|[2407.18392v1](http://arxiv.org/abs/2407.18392v1)|null|
+|**2024-07-25**|**A Reference-Based 3D Semantic-Aware Framework for Accurate Local Facial Attribute Editing**|Yu-Kai Huang et.al.|[2407.18392v2](http://arxiv.org/abs/2407.18392v2)|null|
 |**2024-07-25**|**Inverse boundary value problem for the Convection-Diffusion equation with local data**|Pranav Kumar et.al.|[2407.18361v1](http://arxiv.org/abs/2407.18361v1)|null|
 |**2024-07-25**|**Explicit block encodings of boundary value problems for many-body elliptic operators**|Tyler Kharazi et.al.|[2407.18347v1](http://arxiv.org/abs/2407.18347v1)|null|
 |**2024-07-25**|**Polarization of recoil electrons for testing time reversal violation in neutrino elastic scattering on polarized electron target**|A. Błaut et.al.|[2407.18321v1](http://arxiv.org/abs/2407.18321v1)|null|
