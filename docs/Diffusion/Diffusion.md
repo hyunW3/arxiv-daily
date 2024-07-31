@@ -19,7 +19,7 @@
 |**2024-07-29**|**Why could a new-born active region produce coronal mass ejections?**|Hanzhao Yang et.al.|[2407.19710v1](http://arxiv.org/abs/2407.19710v1)|null|
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616v1](http://arxiv.org/abs/2407.19616v1)|null|
 |**2024-07-28**|**UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation**|Shuang Wu et.al.|[2407.19542v1](http://arxiv.org/abs/2407.19542v1)|[link](https://github.com/freemantom/univoxel)|
-|**2024-07-28**|**An Inverse Partial Optimal Transport Framework for Music-guided Movie Trailer Generation**|Yutong Wang et.al.|[2407.19456v1](http://arxiv.org/abs/2407.19456v1)|null|
+|**2024-07-28**|**An Inverse Partial Optimal Transport Framework for Music-guided Movie Trailer Generation**|Yutong Wang et.al.|[2407.19456v2](http://arxiv.org/abs/2407.19456v2)|null|
 |**2024-07-28**|**An inverse of Furstenberg's correspondence principle and applications to nice recurrence**|Alexander Fish et.al.|[2407.19444v1](http://arxiv.org/abs/2407.19444v1)|null|
 |**2024-07-28**|**Accurate background velocity model building method based on iterative deep learning in sparse transform domain**|Guoxin Chen et.al.|[2407.19419v1](http://arxiv.org/abs/2407.19419v1)|null|
 |**2024-07-27**|**Model-independent Test of the Cosmic Anisotropy with Inverse Distance Ladder**|Zong-Fan Yang et.al.|[2407.19278v1](http://arxiv.org/abs/2407.19278v1)|null|
