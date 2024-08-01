@@ -8,7 +8,7 @@
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|[link](https://github.com/zyp123494/dynavol)|
 |**2024-07-30**|**A Stochastic Precipitating Quasi-Geostrophic Model**|Nan Chen et.al.|[2407.20886v1](http://arxiv.org/abs/2407.20886v1)|null|
 |**2024-07-30**|**An Analysis of a 2x2 Keyfitz-Kranzer Type Balance System with Varying Generalized Chaplygin Gas**|Jack Frew et.al.|[2407.20869v1](http://arxiv.org/abs/2407.20869v1)|null|
-|**2024-07-30**|**libEMMI_MGFD: A program of marine controlled-source electromagnetic modelling and inversion using frequency-domain multigrid solver**|Pengliang Yang et.al.|[2407.20795v1](http://arxiv.org/abs/2407.20795v1)|null|
+|**2024-07-30**|**libEMMI_MGFD: A program of marine controlled-source electromagnetic modelling and inversion using frequency-domain multigrid solver**|Pengliang Yang et.al.|[2407.20795v2](http://arxiv.org/abs/2407.20795v2)|null|
 |**2024-07-30**|**Evaporation limited spreading of ethanol on rectangular porous strips: an experimental and theoretical investigation**|Rampally Srirama Chandra Murthy et.al.|[2407.20776v1](http://arxiv.org/abs/2407.20776v1)|null|
 |**2024-07-30**|**Generalized replicator dynamics based on mean-field pairwise comparison dynamic**|Hidekazu Yoshioka et.al.|[2407.20751v1](http://arxiv.org/abs/2407.20751v1)|null|
 |**2024-07-30**|**On the cyclicity of hyperbolic polycycles**|Claudio Buzzi et.al.|[2407.20721v1](http://arxiv.org/abs/2407.20721v1)|null|

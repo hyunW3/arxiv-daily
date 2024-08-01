@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-31 21:14:23 Asia/Shanghai
+ Automated deployment @ 2024-08-01 09:06:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -14,7 +14,7 @@
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|[link](https://github.com/zyp123494/dynavol)|
 |**2024-07-30**|**A Stochastic Precipitating Quasi-Geostrophic Model**|Nan Chen et.al.|[2407.20886v1](http://arxiv.org/abs/2407.20886v1)|null|
 |**2024-07-30**|**An Analysis of a 2x2 Keyfitz-Kranzer Type Balance System with Varying Generalized Chaplygin Gas**|Jack Frew et.al.|[2407.20869v1](http://arxiv.org/abs/2407.20869v1)|null|
-|**2024-07-30**|**libEMMI_MGFD: A program of marine controlled-source electromagnetic modelling and inversion using frequency-domain multigrid solver**|Pengliang Yang et.al.|[2407.20795v1](http://arxiv.org/abs/2407.20795v1)|null|
+|**2024-07-30**|**libEMMI_MGFD: A program of marine controlled-source electromagnetic modelling and inversion using frequency-domain multigrid solver**|Pengliang Yang et.al.|[2407.20795v2](http://arxiv.org/abs/2407.20795v2)|null|
 |**2024-07-30**|**Evaporation limited spreading of ethanol on rectangular porous strips: an experimental and theoretical investigation**|Rampally Srirama Chandra Murthy et.al.|[2407.20776v1](http://arxiv.org/abs/2407.20776v1)|null|
 |**2024-07-30**|**Generalized replicator dynamics based on mean-field pairwise comparison dynamic**|Hidekazu Yoshioka et.al.|[2407.20751v1](http://arxiv.org/abs/2407.20751v1)|null|
 |**2024-07-30**|**On the cyclicity of hyperbolic polycycles**|Claudio Buzzi et.al.|[2407.20721v1](http://arxiv.org/abs/2407.20721v1)|null|
@@ -63,7 +63,7 @@
 |**2024-07-30**|**XHand: Real-time Expressive Hand Avatar**|Qijun Gan et.al.|[2407.21002v1](http://arxiv.org/abs/2407.21002v1)|[link](https://github.com/agnjason/xhand)|
 |**2024-07-30**|**GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models**|Ali Abdollahi et.al.|[2407.21001v1](http://arxiv.org/abs/2407.21001v1)|null|
 |**2024-07-30**|**Parameters Evolution in Source-Sink Space Population Evolutionary Models**|Erin Ashley et.al.|[2407.21000v1](http://arxiv.org/abs/2407.21000v1)|null|
-|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999v1](http://arxiv.org/abs/2407.20999v1)|null|
+|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999v2](http://arxiv.org/abs/2407.20999v2)|null|
 |**2024-07-30**|**Non-vanishing of Ceresa and Gross--Kudla--Schoen cycles associated to modular curves**|Matt Kerr et.al.|[2407.20998v1](http://arxiv.org/abs/2407.20998v1)|null|
 |**2024-07-30**|**Meteoritic Tutton salt, a naturally inspired reservoir of cometary and asteroidal ammonium**|Sergey N. Britvin et.al.|[2407.20997v1](http://arxiv.org/abs/2407.20997v1)|null|
 |**2024-07-30**|**Thermal spin-crossover and temperature-dependent zero-field splitting in magnetic nanographene chains**|Yan Wang et.al.|[2407.20996v1](http://arxiv.org/abs/2407.20996v1)|null|
