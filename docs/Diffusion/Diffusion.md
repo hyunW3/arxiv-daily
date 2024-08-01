@@ -2,6 +2,24 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**Kink solutions in nonlocal scalar field theory models**|I. Andrade et.al.|[2407.21711v1](http://arxiv.org/abs/2407.21711v1)|null|
+|**2024-07-31**|**Grothendieck Shenanigans: Permutons from pipe dreams via integrable probability**|Alejandro H. Morales et.al.|[2407.21653v1](http://arxiv.org/abs/2407.21653v1)|null|
+|**2024-07-31**|**Extended Fiducial Inference: Toward an Automated Process of Statistical Inference**|Faming Liang et.al.|[2407.21622v1](http://arxiv.org/abs/2407.21622v1)|null|
+|**2024-07-31**|**Integrating the probe and singular sources methods: III. Mixed obstacle case**|Masaru Ikehata et.al.|[2407.21612v1](http://arxiv.org/abs/2407.21612v1)|null|
+|**2024-07-31**|**A τ Matrix Based Approximate Inverse Preconditioning for Tempered Fractional Diffusion Equations**|Xuan Zhang et.al.|[2407.21603v1](http://arxiv.org/abs/2407.21603v1)|null|
+|**2024-07-31**|**Determination of time dependent source terms for Stokes systems in unbounded domains**|Adel Blouza et.al.|[2407.21589v1](http://arxiv.org/abs/2407.21589v1)|null|
+|**2024-07-31**|**A Bayesian Bootstrap Approach for Dynamic Borrowing for Minimizing Mean Squared Error**|Jixian Wang et.al.|[2407.21588v1](http://arxiv.org/abs/2407.21588v1)|null|
+|**2024-07-31**|**Exploiting Non-Abelian Point-Group Symmetry to Estimate the Exact Ground-State Correlation Energy of Benzene in a Polarized Split-Valence Triple-Zeta Basis Set**|Jonas Greiner et.al.|[2407.21576v1](http://arxiv.org/abs/2407.21576v1)|null|
+|**2024-07-31**|**Topological Anderson insulator phases in one dimensional quasi-periodic mechanical SSH chains**|Sayan Sircar et.al.|[2407.21550v1](http://arxiv.org/abs/2407.21550v1)|null|
+|**2024-07-31**|**An Invertible State Space for Process Trees**|Gero Kolhof et.al.|[2407.21468v1](http://arxiv.org/abs/2407.21468v1)|null|
+|**2024-07-31**|**An axiomatic method for studying the truth or falsity of the Hirano-Utsu law describing aftershocks**|A. V. Guglielmi et.al.|[2407.21446v1](http://arxiv.org/abs/2407.21446v1)|null|
+|**2024-07-31**|**The core-EP inverse: A numerical approach for its acute perturbation**|Mengmeng Zhou et.al.|[2407.21419v1](http://arxiv.org/abs/2407.21419v1)|null|
+|**2024-07-31**|**3D Variational Inference-Based Double-Difference Seismic Tomography Method and Application to the SAFOD Site, California**|Hao Yang et.al.|[2407.21405v1](http://arxiv.org/abs/2407.21405v1)|null|
+|**2024-07-31**|**Starobinsky inflation beyond the leading order**|Shunsuke Toyama et.al.|[2407.21349v1](http://arxiv.org/abs/2407.21349v1)|null|
+|**2024-07-31**|**Multi-Purpose Architecture for Fast Reset and Protective Readout of Superconducting Qubits**|Jiayu Ding et.al.|[2407.21332v1](http://arxiv.org/abs/2407.21332v1)|null|
+|**2024-07-31**|**Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models**|Jiang Hao et.al.|[2407.21316v1](http://arxiv.org/abs/2407.21316v1)|null|
+|**2024-07-30**|**NeuroSEM: A hybrid framework for simulating multiphysics problems by coupling PINNs and spectral elements**|Khemraj Shukla et.al.|[2407.21217v1](http://arxiv.org/abs/2407.21217v1)|null|
+|**2024-07-30**|**Hawking Temperature and the Inverse-Radius Scale of the Horizon**|Michael R. R. Good et.al.|[2407.21114v1](http://arxiv.org/abs/2407.21114v1)|null|
 |**2024-07-30**|**Asymptotics of the overlap distribution of branching Brownian motion at high temperature**|Louis Chataignier et.al.|[2407.21014v1](http://arxiv.org/abs/2407.21014v1)|null|
 |**2024-07-30**|**Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**|Isaiah A. Moses et.al.|[2407.20975v1](http://arxiv.org/abs/2407.20975v1)|null|
 |**2024-07-30**|**Magnetic field diagnostics of prominences with the Mg II k line: 3D Stokes inversions vs. traditional methods**|Jiří Štěpán et.al.|[2407.20926v1](http://arxiv.org/abs/2407.20926v1)|null|
@@ -14,21 +32,3 @@
 |**2024-07-30**|**On the cyclicity of hyperbolic polycycles**|Claudio Buzzi et.al.|[2407.20721v1](http://arxiv.org/abs/2407.20721v1)|null|
 |**2024-07-30**|**Weak neural variational inference for solving Bayesian inverse problems without forward models: applications in elastography**|Vincent C. Scholz et.al.|[2407.20697v1](http://arxiv.org/abs/2407.20697v1)|null|
 |**2024-07-30**|**Evidence for Two-dimensional Weyl Fermions in Air-Stable Monolayer PtTe$_{1.75}$**|Zhihao Cai et.al.|[2407.20606v1](http://arxiv.org/abs/2407.20606v1)|null|
-|**2024-07-30**|**Memristive Linear Algebra**|Jonathan Lin et.al.|[2407.20539v1](http://arxiv.org/abs/2407.20539v1)|null|
-|**2024-07-29**|**Results from ON-OFF analysis of the Neutrinos-Angra detector**|E. Kemp et.al.|[2407.20397v1](http://arxiv.org/abs/2407.20397v1)|null|
-|**2024-07-29**|**Spectropolarimetric Inversion in Four Dimensions with Deep Learning (SPIn4D): I. Overview, Magnetohydrodynamic Modeling, and Stokes Profile Synthesis**|Kai E. Yang et.al.|[2407.20309v1](http://arxiv.org/abs/2407.20309v1)|null|
-|**2024-07-29**|**Three-dimensional inverse acoustic scattering problem by the BC-method**|M. I. Belishev et.al.|[2407.20191v1](http://arxiv.org/abs/2407.20191v1)|null|
-|**2024-07-29**|**Topological Kondo semimetals emulated in hetero-bilayer transition metal dichalcogenides**|Fang Xie et.al.|[2407.20182v1](http://arxiv.org/abs/2407.20182v1)|null|
-|**2024-07-29**|**Hierarchically Disentangled Recurrent Network for Factorizing System Dynamics of Multi-scale Systems**|Rahul Ghosh et.al.|[2407.20152v1](http://arxiv.org/abs/2407.20152v1)|null|
-|**2024-07-29**|**On inversion of absolutely convergent weighted Dirichlet series in two variables**|Prakash A. Dabhi et.al.|[2407.19982v1](http://arxiv.org/abs/2407.19982v1)|null|
-|**2024-07-29**|**Finite time blow up for the energy critical Zakharov system II: exact solutions**|Joachim Krieger et.al.|[2407.19972v1](http://arxiv.org/abs/2407.19972v1)|null|
-|**2024-07-29**|**On the boundary of an immediate attracting basin of a hyperbolic entire function**|Walter Bergweiler et.al.|[2407.19963v1](http://arxiv.org/abs/2407.19963v1)|null|
-|**2024-07-29**|**Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank**|Shashank Gupta et.al.|[2407.19943v1](http://arxiv.org/abs/2407.19943v1)|null|
-|**2024-07-29**|**Predicting citation impact of research papers using GPT and other text embeddings**|Adilson Vital Jr. et.al.|[2407.19942v1](http://arxiv.org/abs/2407.19942v1)|null|
-|**2024-07-29**|**Polarization Saturation in Multi-layered Interfacial Ferroelectrics**|Wei Cao et.al.|[2407.20303v1](http://arxiv.org/abs/2407.20303v1)|null|
-|**2024-07-29**|**A Differential Dynamic Programming Framework for Inverse Reinforcement Learning**|Kun Cao et.al.|[2407.19902v1](http://arxiv.org/abs/2407.19902v1)|null|
-|**2024-07-29**|**RNACG: A Universal RNA Sequence Conditional Generation model based on Flow-Matching**|Letian Gao et.al.|[2407.19838v1](http://arxiv.org/abs/2407.19838v1)|null|
-|**2024-07-29**|**Local and global well-posedness of the Maxwell-Bloch system of equations with inhomogeneous broadening**|Gino Biondini et.al.|[2407.19770v1](http://arxiv.org/abs/2407.19770v1)|null|
-|**2024-07-29**|**Intrinsic spin currents in bulk noncentrosymmetric ferromagnets**|Ilja Turek et.al.|[2407.19756v1](http://arxiv.org/abs/2407.19756v1)|null|
-|**2024-07-29**|**Charged lepton flavour violation from inverse seesaw with flavour and CP symmetries**|F. P. Di Meglio et.al.|[2407.19734v1](http://arxiv.org/abs/2407.19734v1)|null|
-|**2024-07-29**|**Generalization bounds for regression and classification on adaptive covering input domains**|Wen-Liang Hwang et.al.|[2407.19715v1](http://arxiv.org/abs/2407.19715v1)|null|
