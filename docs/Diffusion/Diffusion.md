@@ -10,7 +10,7 @@
 |**2024-07-31**|**Determination of time dependent source terms for Stokes systems in unbounded domains**|Adel Blouza et.al.|[2407.21589v1](http://arxiv.org/abs/2407.21589v1)|null|
 |**2024-07-31**|**A Bayesian Bootstrap Approach for Dynamic Borrowing for Minimizing Mean Squared Error**|Jixian Wang et.al.|[2407.21588v1](http://arxiv.org/abs/2407.21588v1)|null|
 |**2024-07-31**|**Exploiting Non-Abelian Point-Group Symmetry to Estimate the Exact Ground-State Correlation Energy of Benzene in a Polarized Split-Valence Triple-Zeta Basis Set**|Jonas Greiner et.al.|[2407.21576v1](http://arxiv.org/abs/2407.21576v1)|null|
-|**2024-07-31**|**Topological Anderson insulator phases in one dimensional quasi-periodic mechanical SSH chains**|Sayan Sircar et.al.|[2407.21550v1](http://arxiv.org/abs/2407.21550v1)|null|
+|**2024-07-31**|**Topological Anderson insulator phases in one dimensional quasi-periodic mechanical SSH chains**|Sayan Sircar et.al.|[2407.21550v2](http://arxiv.org/abs/2407.21550v2)|null|
 |**2024-07-31**|**An Invertible State Space for Process Trees**|Gero Kolhof et.al.|[2407.21468v1](http://arxiv.org/abs/2407.21468v1)|null|
 |**2024-07-31**|**An axiomatic method for studying the truth or falsity of the Hirano-Utsu law describing aftershocks**|A. V. Guglielmi et.al.|[2407.21446v1](http://arxiv.org/abs/2407.21446v1)|null|
 |**2024-07-31**|**The core-EP inverse: A numerical approach for its acute perturbation**|Mengmeng Zhou et.al.|[2407.21419v1](http://arxiv.org/abs/2407.21419v1)|null|
@@ -20,9 +20,9 @@
 |**2024-07-31**|**Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models**|Jiang Hao et.al.|[2407.21316v1](http://arxiv.org/abs/2407.21316v1)|null|
 |**2024-07-30**|**NeuroSEM: A hybrid framework for simulating multiphysics problems by coupling PINNs and spectral elements**|Khemraj Shukla et.al.|[2407.21217v1](http://arxiv.org/abs/2407.21217v1)|null|
 |**2024-07-30**|**Hawking Temperature and the Inverse-Radius Scale of the Horizon**|Michael R. R. Good et.al.|[2407.21114v1](http://arxiv.org/abs/2407.21114v1)|null|
-|**2024-07-30**|**Asymptotics of the overlap distribution of branching Brownian motion at high temperature**|Louis Chataignier et.al.|[2407.21014v1](http://arxiv.org/abs/2407.21014v1)|null|
+|**2024-07-30**|**Asymptotics of the overlap distribution of branching Brownian motion at high temperature**|Louis Chataignier et.al.|[2407.21014v2](http://arxiv.org/abs/2407.21014v2)|null|
 |**2024-07-30**|**Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**|Isaiah A. Moses et.al.|[2407.20975v1](http://arxiv.org/abs/2407.20975v1)|null|
-|**2024-07-30**|**Magnetic field diagnostics of prominences with the Mg II k line: 3D Stokes inversions vs. traditional methods**|Jiří Štěpán et.al.|[2407.20926v1](http://arxiv.org/abs/2407.20926v1)|null|
+|**2024-07-30**|**Magnetic field diagnostics of prominences with the Mg II k line: 3D Stokes inversions versus traditional methods**|Jiří Štěpán et.al.|[2407.20926v2](http://arxiv.org/abs/2407.20926v2)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|[link](https://github.com/zyp123494/dynavol)|
 |**2024-07-30**|**A Stochastic Precipitating Quasi-Geostrophic Model**|Nan Chen et.al.|[2407.20886v1](http://arxiv.org/abs/2407.20886v1)|null|
 |**2024-07-30**|**An Analysis of a 2x2 Keyfitz-Kranzer Type Balance System with Varying Generalized Chaplygin Gas**|Jack Frew et.al.|[2407.20869v1](http://arxiv.org/abs/2407.20869v1)|null|
