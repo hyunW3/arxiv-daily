@@ -2,6 +2,20 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735v1](http://arxiv.org/abs/2408.00735v1)|null|
+|**2024-08-01**|**Perfect Wave Transfer in Continuous Quantum Systems**|Per Moosavi et.al.|[2408.00723v1](http://arxiv.org/abs/2408.00723v1)|null|
+|**2024-08-01**|**ISDE with logarithmic interaction and characteristic polynomials**|Theodoros Assiotis et.al.|[2408.00717v1](http://arxiv.org/abs/2408.00717v1)|null|
+|**2024-08-01**|**Limitations on bandwidth-integrated passive cloaking**|Benjamin Strekha et.al.|[2408.00710v1](http://arxiv.org/abs/2408.00710v1)|null|
+|**2024-08-01**|**Accelerating Full Waveform Inversion By Transfer Learning**|Divya Shyam Singh et.al.|[2408.00695v1](http://arxiv.org/abs/2408.00695v1)|null|
+|**2024-08-01**|**Lack of self-similarity in transverse velocity increments and circulation statistics in two-dimensional turbulence**|Nicolás Pablo Müller et.al.|[2408.00631v1](http://arxiv.org/abs/2408.00631v1)|null|
+|**2024-08-01**|**Optimally robust shortcuts to population inversion in cat-state qubits**|Shao-Wei Xu et.al.|[2408.00464v1](http://arxiv.org/abs/2408.00464v1)|null|
+|**2024-08-01**|**Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion**|Manuel Kansy et.al.|[2408.00458v1](http://arxiv.org/abs/2408.00458v1)|null|
+|**2024-08-01**|**A Nečas-Lions inequality with symmetric gradients on star-shaped domains based on a first order Babuška-Aziz inequality**|Michele Botti et.al.|[2408.00371v1](http://arxiv.org/abs/2408.00371v1)|null|
+|**2024-08-01**|**DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training**|Yu Xie et.al.|[2408.00355v1](http://arxiv.org/abs/2408.00355v1)|null|
+|**2024-08-01**|**Head360: Learning a Parametric 3D Full-Head for Free-View Synthesis in 360°**|Yuxiao He et.al.|[2408.00296v1](http://arxiv.org/abs/2408.00296v1)|null|
+|**2024-08-01**|**Direct and inverse abstract Cauchy problems with fractional powers of almost sectorial operators**|Joel E. Restrepo et.al.|[2408.00240v1](http://arxiv.org/abs/2408.00240v1)|null|
+|**2024-07-31**|**Topological superconductivity in superconducting chiral topological semimetals with parallel spin-momentum locking**|Yingyi Huang et.al.|[2408.00202v1](http://arxiv.org/abs/2408.00202v1)|null|
+|**2024-07-31**|**Persistent Topological Negativity in a High-Temperature Mixed-State**|Yonna Kim et.al.|[2408.00066v1](http://arxiv.org/abs/2408.00066v1)|null|
 |**2024-07-31**|**Kink solutions in nonlocal scalar field theory models**|I. Andrade et.al.|[2407.21711v1](http://arxiv.org/abs/2407.21711v1)|null|
 |**2024-07-31**|**Grothendieck Shenanigans: Permutons from pipe dreams via integrable probability**|Alejandro H. Morales et.al.|[2407.21653v1](http://arxiv.org/abs/2407.21653v1)|null|
 |**2024-07-31**|**Extended Fiducial Inference: Toward an Automated Process of Statistical Inference**|Faming Liang et.al.|[2407.21622v1](http://arxiv.org/abs/2407.21622v1)|null|
@@ -18,17 +32,3 @@
 |**2024-07-31**|**Starobinsky inflation beyond the leading order**|Shunsuke Toyama et.al.|[2407.21349v1](http://arxiv.org/abs/2407.21349v1)|null|
 |**2024-07-31**|**Multi-Purpose Architecture for Fast Reset and Protective Readout of Superconducting Qubits**|Jiayu Ding et.al.|[2407.21332v1](http://arxiv.org/abs/2407.21332v1)|null|
 |**2024-07-31**|**Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models**|Jiang Hao et.al.|[2407.21316v1](http://arxiv.org/abs/2407.21316v1)|null|
-|**2024-07-30**|**NeuroSEM: A hybrid framework for simulating multiphysics problems by coupling PINNs and spectral elements**|Khemraj Shukla et.al.|[2407.21217v1](http://arxiv.org/abs/2407.21217v1)|null|
-|**2024-07-30**|**Hawking Temperature and the Inverse-Radius Scale of the Horizon**|Michael R. R. Good et.al.|[2407.21114v1](http://arxiv.org/abs/2407.21114v1)|null|
-|**2024-07-30**|**Asymptotics of the overlap distribution of branching Brownian motion at high temperature**|Louis Chataignier et.al.|[2407.21014v2](http://arxiv.org/abs/2407.21014v2)|null|
-|**2024-07-30**|**Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**|Isaiah A. Moses et.al.|[2407.20975v1](http://arxiv.org/abs/2407.20975v1)|null|
-|**2024-07-30**|**Magnetic field diagnostics of prominences with the Mg II k line: 3D Stokes inversions versus traditional methods**|Jiří Štěpán et.al.|[2407.20926v2](http://arxiv.org/abs/2407.20926v2)|null|
-|**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|[link](https://github.com/zyp123494/dynavol)|
-|**2024-07-30**|**A Stochastic Precipitating Quasi-Geostrophic Model**|Nan Chen et.al.|[2407.20886v1](http://arxiv.org/abs/2407.20886v1)|null|
-|**2024-07-30**|**An Analysis of a 2x2 Keyfitz-Kranzer Type Balance System with Varying Generalized Chaplygin Gas**|Jack Frew et.al.|[2407.20869v1](http://arxiv.org/abs/2407.20869v1)|null|
-|**2024-07-30**|**libEMMI_MGFD: A program of marine controlled-source electromagnetic modelling and inversion using frequency-domain multigrid solver**|Pengliang Yang et.al.|[2407.20795v2](http://arxiv.org/abs/2407.20795v2)|null|
-|**2024-07-30**|**Evaporation limited spreading of ethanol on rectangular porous strips: an experimental and theoretical investigation**|Rampally Srirama Chandra Murthy et.al.|[2407.20776v1](http://arxiv.org/abs/2407.20776v1)|null|
-|**2024-07-30**|**Generalized replicator dynamics based on mean-field pairwise comparison dynamic**|Hidekazu Yoshioka et.al.|[2407.20751v1](http://arxiv.org/abs/2407.20751v1)|null|
-|**2024-07-30**|**On the cyclicity of hyperbolic polycycles**|Claudio Buzzi et.al.|[2407.20721v1](http://arxiv.org/abs/2407.20721v1)|null|
-|**2024-07-30**|**Weak neural variational inference for solving Bayesian inverse problems without forward models: applications in elastography**|Vincent C. Scholz et.al.|[2407.20697v1](http://arxiv.org/abs/2407.20697v1)|null|
-|**2024-07-30**|**Evidence for Two-dimensional Weyl Fermions in Air-Stable Monolayer PtTe$_{1.75}$**|Zhihao Cai et.al.|[2407.20606v1](http://arxiv.org/abs/2407.20606v1)|null|
