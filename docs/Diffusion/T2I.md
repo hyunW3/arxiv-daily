@@ -30,5 +30,5 @@
 |**2024-08-01**|**Investigating the role of nuclear parameters on oscillation modes in hot Neutron Stars**|Nilaksha Barman et.al.|[2408.00739v1](http://arxiv.org/abs/2408.00739v1)|null|
 |**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738v1](http://arxiv.org/abs/2408.00738v1)|null|
 |**2024-08-01**|**Emergent $s$-wave interactions in orbitally active quasi-two-dimensional Fermi gases**|Colin J. Dale et.al.|[2408.00737v1](http://arxiv.org/abs/2408.00737v1)|null|
-|**2024-08-01**|**Whistler waves in the young solar wind: statistics of amplitude and propagation direction from Parker Solar Probe Encounters 1-11**|Kyung-Eun Choi et.al.|[2408.00736v1](http://arxiv.org/abs/2408.00736v1)|null|
+|**2024-08-01**|**Whistler waves in the young solar wind: statistics of amplitude and propagation direction from Parker Solar Probe Encounters 1-11**|Kyung-Eun Choi et.al.|[2408.00736v2](http://arxiv.org/abs/2408.00736v2)|null|
 |**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735v1](http://arxiv.org/abs/2408.00735v1)|null|
