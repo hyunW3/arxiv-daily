@@ -2,6 +2,13 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-07**|**Effects of a local physics change on the SH0ES determination of $H_0$**|Ruchika et.al.|[2408.03875v1](http://arxiv.org/abs/2408.03875v1)|null|
+|**2024-08-07**|**A direct reconstruction method for radiating sources in Maxwell's equations with single-frequency data**|Isaac Harris et.al.|[2408.03826v1](http://arxiv.org/abs/2408.03826v1)|null|
+|**2024-08-07**|**Energy change and Landauer's principle in the interaction between qubit and quantum field theory**|Hao Xu et.al.|[2408.03729v1](http://arxiv.org/abs/2408.03729v1)|null|
+|**2024-08-07**|**A three-stage method for reconstructing multiple coefficients in coupled photoacoustic and diffuse optical imaging**|Yinxi Pan et.al.|[2408.03496v1](http://arxiv.org/abs/2408.03496v1)|null|
+|**2024-08-06**|**Identifying treatment response subgroups in observational time-to-event data**|Vincent Jeanselme et.al.|[2408.03463v1](http://arxiv.org/abs/2408.03463v1)|null|
+|**2024-08-06**|**Next-order balanced model captures submesoscale physics and statistics**|Ryan Shìjié Dù et.al.|[2408.03422v1](http://arxiv.org/abs/2408.03422v1)|[link](https://github.com/Empyreal092/QGp1_EadyTurb_2DFront_Public)|
+|**2024-08-06**|**Euclidean Effective Theory for Partons in the Spirit of Steven Weinberg**|Xiangdong Ji et.al.|[2408.03378v1](http://arxiv.org/abs/2408.03378v1)|null|
 |**2024-08-06**|**Parametrization sampling and the pion PDF in a phenomenological analysis**|Aurore Courtoy et.al.|[2408.03318v1](http://arxiv.org/abs/2408.03318v1)|null|
 |**2024-08-06**|**Cohen-Montgomery duality for bimodules and singular equivalences of Morita type**|Hideto Asashiba et.al.|[2408.03280v2](http://arxiv.org/abs/2408.03280v2)|null|
 |**2024-08-06**|**Coercivity influence of nanostructure in SmCo-1:7 magnets: Machine learning of high-throughput micromagnetic data**|Yangyiwei Yang et.al.|[2408.03198v1](http://arxiv.org/abs/2408.03198v1)|null|
@@ -25,10 +32,3 @@
 |**2024-08-05**|**Traversing a thin lubricant film in finite time**|John Sebastian et.al.|[2408.02443v1](http://arxiv.org/abs/2408.02443v1)|null|
 |**2024-08-05**|**Inversion of DC Resistivity Data using Physics-Informed Neural Networks**|Rohan Sharma et.al.|[2408.02420v1](http://arxiv.org/abs/2408.02420v1)|null|
 |**2024-08-05**|**Joint Inversion of DC Resistivity and MT Data using Multi-Objective Grey Wolf Optimization**|Rohan Sharma et.al.|[2408.02414v1](http://arxiv.org/abs/2408.02414v1)|null|
-|**2024-08-05**|**Accelerating inverse Kohn-Sham calculations using reduced density matrices**|Bikash Kanungo et.al.|[2408.02342v1](http://arxiv.org/abs/2408.02342v1)|null|
-|**2024-08-05**|**Real-time Trajectory Optimization of Impaired Aircraft based on Steady State Manoeuvres**|Ramin Norouzi et.al.|[2408.02316v1](http://arxiv.org/abs/2408.02316v1)|null|
-|**2024-08-05**|**Generalized Gaussian Temporal Difference Error For Uncertainty-aware Reinforcement Learning**|Seyeon Kim et.al.|[2408.02295v1](http://arxiv.org/abs/2408.02295v1)|null|
-|**2024-08-05**|**Linear Stability of Schwarzschild-Anti-de Sitter spacetimes II: Logarithmic decay of solutions to the Teukolsky system**|Olivier Graf et.al.|[2408.02252v1](http://arxiv.org/abs/2408.02252v1)|null|
-|**2024-08-05**|**Linear Stability of Schwarzschild-Anti-de Sitter spacetimes I: The system of gravitational perturbations**|Olivier Graf et.al.|[2408.02251v1](http://arxiv.org/abs/2408.02251v1)|null|
-|**2024-08-04**|**Fractional vortices and Ising superconductivity in multiband superconductors**|Haijiao Ji et.al.|[2408.02120v1](http://arxiv.org/abs/2408.02120v1)|null|
-|**2024-08-04**|**An Abstraction-Preserving Block Matrix Implementation in Maple**|David J. Jeffrey et.al.|[2408.02112v1](http://arxiv.org/abs/2408.02112v1)|null|
