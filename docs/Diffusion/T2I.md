@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326v1](http://arxiv.org/abs/2408.03326v1)|null|
 |**2024-08-06**|**CoverBench: A Challenging Benchmark for Complex Claim Verification**|Alon Jacovi et.al.|[2408.03325v1](http://arxiv.org/abs/2408.03325v1)|null|
-|**2024-08-06**|**Eddington Ratios of Dust-obscured Quasars at $z \lesssim 1$: Evidence Supporting Dust-obscured Quasars as Young Quasars**|Dohyeong Kim et.al.|[2408.03324v1](http://arxiv.org/abs/2408.03324v1)|null|
+|**2024-08-06**|**Eddington Ratios of Dust-obscured Quasars at $z \lesssim 1$: Evidence Supporting Dust-obscured Quasars as Young Quasars**|Dohyeong Kim et.al.|[2408.03324v2](http://arxiv.org/abs/2408.03324v2)|null|
 |**2024-08-06**|**ClassiFIM: An Unsupervised Method To Detect Phase Transitions**|Victor Kasatkin et.al.|[2408.03323v1](http://arxiv.org/abs/2408.03323v1)|null|
 |**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322v1](http://arxiv.org/abs/2408.03322v1)|null|
 |**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320v1](http://arxiv.org/abs/2408.03320v1)|null|

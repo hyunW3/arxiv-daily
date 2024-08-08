@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-06**|**Parametrization sampling and the pion PDF in a phenomenological analysis**|Aurore Courtoy et.al.|[2408.03318v1](http://arxiv.org/abs/2408.03318v1)|null|
-|**2024-08-06**|**Cohen-Montgomery duality for bimodules and singular equivalences of Morita type**|Hideto Asashiba et.al.|[2408.03280v1](http://arxiv.org/abs/2408.03280v1)|null|
+|**2024-08-06**|**Cohen-Montgomery duality for bimodules and singular equivalences of Morita type**|Hideto Asashiba et.al.|[2408.03280v2](http://arxiv.org/abs/2408.03280v2)|null|
 |**2024-08-06**|**Coercivity influence of nanostructure in SmCo-1:7 magnets: Machine learning of high-throughput micromagnetic data**|Yangyiwei Yang et.al.|[2408.03198v1](http://arxiv.org/abs/2408.03198v1)|null|
 |**2024-08-06**|**Flexible Quaternion Generalized Minimal Residual Method for Ill-Posed Quaternion Inverse Problems**|Xuan Liu et.al.|[2408.03032v1](http://arxiv.org/abs/2408.03032v1)|null|
 |**2024-08-06**|**Evidence chain for time-reversal symmetry-breaking kagome superconductivity**|Hanbin Deng et.al.|[2408.02898v1](http://arxiv.org/abs/2408.02898v1)|null|
@@ -15,7 +15,7 @@
 |**2024-08-05**|**Wave-RVFL: A Randomized Neural Network Based on Wave Loss Function**|M. Sajid et.al.|[2408.02824v1](http://arxiv.org/abs/2408.02824v1)|null|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796v1](http://arxiv.org/abs/2408.02796v1)|null|
 |**2024-08-05**|**Fock-space delocalization and the emergence of the Porter-Thomas distribution from dual-unitary dynamics**|Pieter W. Claeys et.al.|[2408.02732v1](http://arxiv.org/abs/2408.02732v1)|null|
-|**2024-08-05**|**Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form**|Hendrik Ranocha et.al.|[2408.02665v1](http://arxiv.org/abs/2408.02665v1)|null|
+|**2024-08-05**|**Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form**|Hendrik Ranocha et.al.|[2408.02665v2](http://arxiv.org/abs/2408.02665v2)|null|
 |**2024-08-05**|**Gravitational Dipole Moment in Braneworld Model**|Eugênio Bastos Maciel et.al.|[2408.02647v1](http://arxiv.org/abs/2408.02647v1)|null|
 |**2024-08-05**|**Learning rheological parameters of non-Newtonian fluids from velocimetry data**|Alexandros Kontogiannis et.al.|[2408.02604v1](http://arxiv.org/abs/2408.02604v1)|null|
 |**2024-08-05**|**Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network**|Wen Feng et.al.|[2408.02524v1](http://arxiv.org/abs/2408.02524v1)|null|
