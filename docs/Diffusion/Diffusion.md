@@ -31,4 +31,4 @@
 |**2024-08-06**|**Evidence chain for time-reversal symmetry-breaking kagome superconductivity**|Hanbin Deng et.al.|[2408.02898v1](http://arxiv.org/abs/2408.02898v1)|null|
 |**2024-08-06**|**Theory of Magnetoresistance due to Edge Orbital Moment Accumulation**|Hao Sun et.al.|[2408.02887v1](http://arxiv.org/abs/2408.02887v1)|null|
 |**2024-08-05**|**Could a gravity inversion exist within the Hollow Earth of Legendary's Monsterverse?**|R. Steven Millward et.al.|[2408.02867v1](http://arxiv.org/abs/2408.02867v1)|null|
-|**2024-08-05**|**Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models**|Borong Zhang et.al.|[2408.02866v1](http://arxiv.org/abs/2408.02866v1)|null|
+|**2024-08-05**|**Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models**|Borong Zhang et.al.|[2408.02866v2](http://arxiv.org/abs/2408.02866v2)|null|
