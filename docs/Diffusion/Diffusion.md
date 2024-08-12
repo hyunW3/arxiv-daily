@@ -2,6 +2,20 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-09**|**Inverse Iteration for the Laplace Eigenvalue Problem with Robin and Mixed Boundary Conditions**|Benjamin Lyons et.al.|[2408.05197v1](http://arxiv.org/abs/2408.05197v1)|null|
+|**2024-08-09**|**Current-induced spin polarisation in Rashba-Dresselhaus systems under different point groups**|Akash Dey et.al.|[2408.05188v1](http://arxiv.org/abs/2408.05188v1)|null|
+|**2024-08-09**|**Random Subwords and Pipe Dreams**|Colin Defant et.al.|[2408.05182v1](http://arxiv.org/abs/2408.05182v1)|null|
+|**2024-08-09**|**EasyInv: Toward Fast and Better DDIM Inversion**|Ziyue Zhang et.al.|[2408.05159v1](http://arxiv.org/abs/2408.05159v1)|null|
+|**2024-08-09**|**Generalised rank-constrained approximations of Hilbert-Schmidt operators on separable Hilbert spaces and applications**|Giuseppe Carere et.al.|[2408.05104v1](http://arxiv.org/abs/2408.05104v1)|null|
+|**2024-08-09**|**An inverse problem for fractional random walks on finite graphs**|Giovanni Covi et.al.|[2408.05072v1](http://arxiv.org/abs/2408.05072v1)|null|
+|**2024-08-09**|**Mode-to-mode nonlinear energy transfer in turbulent channel flows**|Jitong Ding et.al.|[2408.05062v1](http://arxiv.org/abs/2408.05062v1)|null|
+|**2024-08-09**|**Functional Equations and Pole Structure of the Bartholdi Zeta Function**|So Matsuura et.al.|[2408.04952v1](http://arxiv.org/abs/2408.04952v1)|null|
+|**2024-08-09**|**High-resolution closed-loop seismic inversion network in time-frequency phase mixed domain**|Yingtian Liu et.al.|[2408.04932v1](http://arxiv.org/abs/2408.04932v1)|null|
+|**2024-08-09**|**Benchmark Computations of Nearly Degenerate Singlet and Triplet states of N-heterocyclic Chromophores : II. Density-based Methods**|Shamik Chanda et.al.|[2408.04915v1](http://arxiv.org/abs/2408.04915v1)|null|
+|**2024-08-09**|**A propensity score weighting approach to integrate aggregated data in random-effect individual-level data meta-analysis**|Tran Trong Khoi Le et.al.|[2408.04854v1](http://arxiv.org/abs/2408.04854v1)|null|
+|**2024-08-08**|**BRAT: Bonus oRthogonAl Token for Architecture Agnostic Textual Inversion**|James Baker et.al.|[2408.04785v1](http://arxiv.org/abs/2408.04785v1)|[link](https://github.com/jamesbaker361/tex_inv_plus)|
+|**2024-08-08**|**Eigenvector Localization and Universal Regime Transitions in Multiplex Networks: A Perturbative Approach**|Joan Hernàndez Tey et.al.|[2408.04784v1](http://arxiv.org/abs/2408.04784v1)|null|
+|**2024-08-08**|**Some remarks on Coulombic effects in $pp$ and $\bar pp$ scattering and the determination of $ρ$**|Loyal Durand et.al.|[2408.04756v1](http://arxiv.org/abs/2408.04756v1)|null|
 |**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549v1](http://arxiv.org/abs/2408.04549v1)|[link](https://github.com/sias-uva/indirect-reciprocity)|
 |**2024-08-08**|**Articulatory Configurations across Genders and Periods in French Radio and TV archives**|Benjamin Elie et.al.|[2408.04519v1](http://arxiv.org/abs/2408.04519v1)|null|
 |**2024-08-08**|**Causal Inference in Social Platforms Under Approximate Interference Networks**|Yiming Jiang et.al.|[2408.04441v1](http://arxiv.org/abs/2408.04441v1)|null|
@@ -9,6 +23,7 @@
 |**2024-08-08**|**Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations**|Julen Urain et.al.|[2408.04380v1](http://arxiv.org/abs/2408.04380v1)|null|
 |**2024-08-08**|**Mostly Harmless Methods for QSP-Processing with Laurent Polynomials**|S. E. Skelton et.al.|[2408.04321v1](http://arxiv.org/abs/2408.04321v1)|null|
 |**2024-08-08**|**Explicit expression and fast algorithms for the inverse of some matrices arising from implicit time integration**|Li Shishun et.al.|[2408.04316v1](http://arxiv.org/abs/2408.04316v1)|null|
+|**2024-08-08**|**Eliminating Backdoors in Neural Code Models via Trigger Inversion**|Weisong Sun et.al.|[2408.04683v1](http://arxiv.org/abs/2408.04683v1)|null|
 |**2024-08-08**|**Quantum-metric-induced giant and reversible nonreciprocal transport phenomena in chiral loop-current phases of kagome metals**|Rina Tazai et.al.|[2408.04233v1](http://arxiv.org/abs/2408.04233v1)|null|
 |**2024-08-07**|**Relative Calabi-Yau structure on microlocalization**|Christopher Kuo et.al.|[2408.04085v1](http://arxiv.org/abs/2408.04085v1)|null|
 |**2024-08-07**|**Universal equivalence of general linear groups over local rings with 1/2**|Galina Kaleeva et.al.|[2408.04079v1](http://arxiv.org/abs/2408.04079v1)|null|
@@ -17,18 +32,3 @@
 |**2024-08-07**|**Loosely Bound Composite Dark Matter**|Javier F. Acevedo et.al.|[2408.03983v1](http://arxiv.org/abs/2408.03983v1)|null|
 |**2024-08-07**|**Finding quantum partial assignments by search-to-decision reductions**|Jordi Weggemans et.al.|[2408.03986v1](http://arxiv.org/abs/2408.03986v1)|null|
 |**2024-08-07**|**Effects of a local physics change on the SH0ES determination of $H_0$**|Ruchika et.al.|[2408.03875v1](http://arxiv.org/abs/2408.03875v1)|null|
-|**2024-08-07**|**A direct reconstruction method for radiating sources in Maxwell's equations with single-frequency data**|Isaac Harris et.al.|[2408.03826v1](http://arxiv.org/abs/2408.03826v1)|null|
-|**2024-08-07**|**Energy change and Landauer's principle in the interaction between qubit and quantum field theory**|Hao Xu et.al.|[2408.03729v1](http://arxiv.org/abs/2408.03729v1)|null|
-|**2024-08-07**|**A three-stage method for reconstructing multiple coefficients in coupled photoacoustic and diffuse optical imaging**|Yinxi Pan et.al.|[2408.03496v1](http://arxiv.org/abs/2408.03496v1)|null|
-|**2024-08-06**|**Thermal quasi-particle theory**|So Hirata et.al.|[2408.03970v1](http://arxiv.org/abs/2408.03970v1)|null|
-|**2024-08-06**|**Identifying treatment response subgroups in observational time-to-event data**|Vincent Jeanselme et.al.|[2408.03463v1](http://arxiv.org/abs/2408.03463v1)|null|
-|**2024-08-06**|**Next-order balanced model captures submesoscale physics and statistics**|Ryan Shìjié Dù et.al.|[2408.03422v1](http://arxiv.org/abs/2408.03422v1)|[link](https://github.com/Empyreal092/QGp1_EadyTurb_2DFront_Public)|
-|**2024-08-06**|**Euclidean Effective Theory for Partons in the Spirit of Steven Weinberg**|Xiangdong Ji et.al.|[2408.03378v1](http://arxiv.org/abs/2408.03378v1)|null|
-|**2024-08-06**|**Parametrization sampling and the pion PDF in a phenomenological analysis**|Aurore Courtoy et.al.|[2408.03318v1](http://arxiv.org/abs/2408.03318v1)|null|
-|**2024-08-06**|**Cohen-Montgomery duality for bimodules and singular equivalences of Morita type**|Hideto Asashiba et.al.|[2408.03280v2](http://arxiv.org/abs/2408.03280v2)|null|
-|**2024-08-06**|**Coercivity influence of nanostructure in SmCo-1:7 magnets: Machine learning of high-throughput micromagnetic data**|Yangyiwei Yang et.al.|[2408.03198v1](http://arxiv.org/abs/2408.03198v1)|null|
-|**2024-08-06**|**Flexible Quaternion Generalized Minimal Residual Method for Ill-Posed Quaternion Inverse Problems**|Xuan Liu et.al.|[2408.03032v1](http://arxiv.org/abs/2408.03032v1)|null|
-|**2024-08-06**|**Evidence chain for time-reversal symmetry-breaking kagome superconductivity**|Hanbin Deng et.al.|[2408.02898v1](http://arxiv.org/abs/2408.02898v1)|null|
-|**2024-08-06**|**Theory of Magnetoresistance due to Edge Orbital Moment Accumulation**|Hao Sun et.al.|[2408.02887v1](http://arxiv.org/abs/2408.02887v1)|null|
-|**2024-08-05**|**Could a gravity inversion exist within the Hollow Earth of Legendary's Monsterverse?**|R. Steven Millward et.al.|[2408.02867v1](http://arxiv.org/abs/2408.02867v1)|null|
-|**2024-08-05**|**Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models**|Borong Zhang et.al.|[2408.02866v2](http://arxiv.org/abs/2408.02866v2)|null|
