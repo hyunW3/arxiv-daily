@@ -22,7 +22,7 @@
 |**2024-08-08**|**Inverse design of Ancillary System for Quantum Noise Cancellation**|Fabio Anselmi et.al.|[2408.04418v1](http://arxiv.org/abs/2408.04418v1)|null|
 |**2024-08-08**|**Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations**|Julen Urain et.al.|[2408.04380v1](http://arxiv.org/abs/2408.04380v1)|null|
 |**2024-08-08**|**Mostly Harmless Methods for QSP-Processing with Laurent Polynomials**|S. E. Skelton et.al.|[2408.04321v1](http://arxiv.org/abs/2408.04321v1)|null|
-|**2024-08-08**|**Explicit expression and fast algorithms for the inverse of some matrices arising from implicit time integration**|Li Shishun et.al.|[2408.04316v1](http://arxiv.org/abs/2408.04316v1)|null|
+|**2024-08-08**|**Explicit expression and fast algorithms for the inverse of some matrices arising from implicit time integration**|Li Shishun et.al.|[2408.04316v2](http://arxiv.org/abs/2408.04316v2)|null|
 |**2024-08-08**|**Eliminating Backdoors in Neural Code Models via Trigger Inversion**|Weisong Sun et.al.|[2408.04683v1](http://arxiv.org/abs/2408.04683v1)|null|
 |**2024-08-08**|**Quantum-metric-induced giant and reversible nonreciprocal transport phenomena in chiral loop-current phases of kagome metals**|Rina Tazai et.al.|[2408.04233v1](http://arxiv.org/abs/2408.04233v1)|null|
 |**2024-08-07**|**Relative Calabi-Yau structure on microlocalization**|Christopher Kuo et.al.|[2408.04085v1](http://arxiv.org/abs/2408.04085v1)|null|
