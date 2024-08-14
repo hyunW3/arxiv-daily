@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-13 21:17:33 Asia/Shanghai
+ Automated deployment @ 2024-08-14 09:02:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -60,7 +60,7 @@
 |**2024-08-12**|**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents**|Xiao Liu et.al.|[2408.06327v1](http://arxiv.org/abs/2408.06327v1)|[link](https://github.com/thudm/visualagentbench)|
 |**2024-08-12**|**On the finite basis topologies for multi-loop high-multiplicity Feynman integrals**|Piotr Bargiela et.al.|[2408.06325v1](http://arxiv.org/abs/2408.06325v1)|null|
 |**2024-08-12**|**AutOmatic floW planning for fetaL MRI (OWL)**|Sara Neves Silva et.al.|[2408.06326v1](http://arxiv.org/abs/2408.06326v1)|null|
-|**2024-08-12**|**Online Vehicle Routing with Pickups and Deliveries under Time-Dependent Travel-Time Constraints**|Spyros Kontogiannis et.al.|[2408.06324v1](http://arxiv.org/abs/2408.06324v1)|null|
+|**2024-08-12**|**Online Vehicle Routing with Pickups and Deliveries under Time-Dependent Travel-Time Constraints**|Spyros Kontogiannis et.al.|[2408.06324v2](http://arxiv.org/abs/2408.06324v2)|null|
 |**2024-08-12**|**Infer-and-widen versus split-and-condition: two tales of selective inference**|Ronan Perry et.al.|[2408.06323v1](http://arxiv.org/abs/2408.06323v1)|null|
 |**2024-08-12**|**Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential**|Jacob T. Sivak et.al.|[2408.06322v1](http://arxiv.org/abs/2408.06322v1)|null|
 |**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v1](http://arxiv.org/abs/2408.06321v1)|null|
