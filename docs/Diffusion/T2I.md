@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-12**|**Operator means, barycenters, and fixed point equations**|Dániel Virosztek et.al.|[2408.06343v1](http://arxiv.org/abs/2408.06343v1)|null|
-|**2024-08-12**|**Measuring central charge on a universal quantum processor**|Nazlı Uğur Köylüoğlu et.al.|[2408.06342v1](http://arxiv.org/abs/2408.06342v1)|null|
-|**2024-08-12**|**Thermodynamical string fragmentation and QGP-like effects in jets**|Robert Vertesi et.al.|[2408.06340v1](http://arxiv.org/abs/2408.06340v1)|null|
-|**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341v1](http://arxiv.org/abs/2408.06341v1)|null|
-|**2024-08-12**|**Non-Maxwellian Ion Distribution in the Equatorial and Auroral Electrojets**|Rattanakorn Koontaweepunya et.al.|[2408.06339v1](http://arxiv.org/abs/2408.06339v1)|null|
-|**2024-08-12**|**Closeby Habitable Exoplanet Survey (CHES). II. An Observation Strategy for the Target Stars**|Dongjie Tan et.al.|[2408.06338v1](http://arxiv.org/abs/2408.06338v1)|null|
-|**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337v1](http://arxiv.org/abs/2408.06337v1)|null|
-|**2024-08-12**|**Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural Phenotyping with Pose Estimation Techniques**|Navid Ghassemi et.al.|[2408.06336v1](http://arxiv.org/abs/2408.06336v1)|null|
-|**2024-08-12**|**LOLgorithm: Integrating Semantic,Syntactic and Contextual Elements for Humor Classification**|Tanisha Khurana et.al.|[2408.06335v1](http://arxiv.org/abs/2408.06335v1)|null|
-|**2024-08-12**|**Entanglement and the density matrix renormalisation group in the generalised Landau paradigm**|Laurens Lootens et.al.|[2408.06334v1](http://arxiv.org/abs/2408.06334v1)|null|
-|**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333v1](http://arxiv.org/abs/2408.06333v1)|[link](https://github.com/thunlp/fastfid)|
-|**2024-08-12**|**Animate, or Inanimate, That is the Question for Large Language Models**|Leonardo Ranaldi et.al.|[2408.06332v1](http://arxiv.org/abs/2408.06332v1)|null|
-|**2024-08-12**|**Rigorous Hausdorff dimension estimates for conformal fractals**|Vasileios Chousionis et.al.|[2408.06330v1](http://arxiv.org/abs/2408.06330v1)|null|
-|**2024-08-12**|**Time-dependent, spherically symmetric background in Kaluza-Klein compactified Horndeski theory and the speed of gravity waves**|S. Mironov et.al.|[2408.06329v1](http://arxiv.org/abs/2408.06329v1)|null|
-|**2024-08-12**|**HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors**|Hyungtae Lim et.al.|[2408.06328v1](http://arxiv.org/abs/2408.06328v1)|null|
-|**2024-08-12**|**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents**|Xiao Liu et.al.|[2408.06327v1](http://arxiv.org/abs/2408.06327v1)|[link](https://github.com/thudm/visualagentbench)|
-|**2024-08-12**|**On the finite basis topologies for multi-loop high-multiplicity Feynman integrals**|Piotr Bargiela et.al.|[2408.06325v1](http://arxiv.org/abs/2408.06325v1)|null|
-|**2024-08-12**|**AutOmatic floW planning for fetaL MRI (OWL)**|Sara Neves Silva et.al.|[2408.06326v1](http://arxiv.org/abs/2408.06326v1)|null|
-|**2024-08-12**|**Online Vehicle Routing with Pickups and Deliveries under Time-Dependent Travel-Time Constraints**|Spyros Kontogiannis et.al.|[2408.06324v2](http://arxiv.org/abs/2408.06324v2)|null|
-|**2024-08-12**|**Infer-and-widen versus split-and-condition: two tales of selective inference**|Ronan Perry et.al.|[2408.06323v1](http://arxiv.org/abs/2408.06323v1)|null|
-|**2024-08-12**|**Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential**|Jacob T. Sivak et.al.|[2408.06322v1](http://arxiv.org/abs/2408.06322v1)|null|
-|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321v1](http://arxiv.org/abs/2408.06321v1)|null|
-|**2024-08-12**|**Dynamics of ballistic photocurrents driven by Coulomb scattering**|Liang Z. Tan et.al.|[2408.06320v1](http://arxiv.org/abs/2408.06320v1)|null|
-|**2024-08-12**|**Possible Superconducting Phase in Janus Transition Metal Dichalcogenide TiSeS**|M. Singh et.al.|[2408.06319v1](http://arxiv.org/abs/2408.06319v1)|null|
-|**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318v1](http://arxiv.org/abs/2408.06318v1)|null|
-|**2024-08-12**|**Generation of hypercubic cluster states in 1-4 dimensions in a simple optical system**|Zhifan Zhou et.al.|[2408.06317v1](http://arxiv.org/abs/2408.06317v1)|null|
-|**2024-08-12**|**Body Transformer: Leveraging Robot Embodiment for Policy Learning**|Carmelo Sferrazza et.al.|[2408.06316v1](http://arxiv.org/abs/2408.06316v1)|null|
-|**2024-08-12**|**Dynamical resource theory of incompatibility preservability**|Chung-Yun Hsieh et.al.|[2408.06315v1](http://arxiv.org/abs/2408.06315v1)|null|
-|**2024-08-12**|**Commutative exact algebras and modular tensor categories**|Kenichi Shimizu et.al.|[2408.06314v1](http://arxiv.org/abs/2408.06314v1)|null|
-|**2024-08-12**|**A dual notion to BIBO stability**|Felix L. Schwenninger et.al.|[2408.06313v1](http://arxiv.org/abs/2408.06313v1)|null|
+|**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071v1](http://arxiv.org/abs/2408.07071v1)|null|
+|**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070v1](http://arxiv.org/abs/2408.07070v1)|null|
+|**2024-08-13**|**Cosmological collider non-Gaussianity from multiple scalars and $R^2$ gravity**|Shuntaro Aoki et.al.|[2408.07069v1](http://arxiv.org/abs/2408.07069v1)|null|
+|**2024-08-13**|**Atomic fluorescence collection into planar photonic devices**|Orion Smedley et.al.|[2408.07068v1](http://arxiv.org/abs/2408.07068v1)|null|
+|**2024-08-13**|**Asymptotic quantification of entanglement with a single copy**|Ludovico Lami et.al.|[2408.07067v1](http://arxiv.org/abs/2408.07067v1)|null|
+|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v1](http://arxiv.org/abs/2408.07066v1)|null|
+|**2024-08-13**|**Fingerspelling within Sign Language Translation**|Garrett Tanzer et.al.|[2408.07065v1](http://arxiv.org/abs/2408.07065v1)|null|
+|**2024-08-13**|**On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**|Hamza Coban et.al.|[2408.07064v1](http://arxiv.org/abs/2408.07064v1)|null|
+|**2024-08-13**|**HADRON: Human-friendly Control and Artificial Intelligence for Military Drone Operations**|Ana M. Casado Faulí et.al.|[2408.07063v1](http://arxiv.org/abs/2408.07063v1)|null|
+|**2024-08-13**|**Discretization effects in finite-volume $2\to2$ scattering**|Maxwell T. Hansen et.al.|[2408.07062v1](http://arxiv.org/abs/2408.07062v1)|null|
+|**2024-08-13**|**On a criterion of uniform distribution**|Grigori Karagulyan et.al.|[2408.07061v1](http://arxiv.org/abs/2408.07061v1)|null|
+|**2024-08-13**|**Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents**|Kexun Zhang et.al.|[2408.07060v1](http://arxiv.org/abs/2408.07060v1)|null|
+|**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059v1](http://arxiv.org/abs/2408.07059v1)|null|
+|**2024-08-13**|**Categorical Framework for Typed Extensional and Intensional Models in Formal Semantics**|Daniel Quigley et.al.|[2408.07058v1](http://arxiv.org/abs/2408.07058v1)|null|
+|**2024-08-13**|**A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning**|Prateek Yadav et.al.|[2408.07057v1](http://arxiv.org/abs/2408.07057v1)|null|
+|**2024-08-13**|**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**|Yushi Bai et.al.|[2408.07055v1](http://arxiv.org/abs/2408.07055v1)|[link](https://github.com/thudm/longwriter)|
+|**2024-08-13**|**Exploiting Leakage in Password Managers via Injection Attacks**|Andrés Fábrega et.al.|[2408.07054v1](http://arxiv.org/abs/2408.07054v1)|null|
+|**2024-08-13**|**DarkMatters: A powerful tool for WIMPy analysis**|Michael Sarkis et.al.|[2408.07053v1](http://arxiv.org/abs/2408.07053v1)|null|
+|**2024-08-13**|**The News Comment Gap and Algorithmic Agenda Setting in Online Forums**|Flora Böwing et.al.|[2408.07052v1](http://arxiv.org/abs/2408.07052v1)|[link](https://github.com/dornleiten/commentgap)|
+|**2024-08-13**|**Yielding in colloidal gels: from local structure to meso-scale strand breakage and macroscopic failure**|Himangsu Bhaumik et.al.|[2408.07051v1](http://arxiv.org/abs/2408.07051v1)|null|
+|**2024-08-13**|**PSM: Learning Probabilistic Embeddings for Multi-scale Zero-Shot Soundscape Mapping**|Subash Khanal et.al.|[2408.07050v1](http://arxiv.org/abs/2408.07050v1)|null|
+|**2024-08-13**|**On the slow phase for fixed-energy Activated Random Walks**|Bernardo N. B. de Limam et.al.|[2408.07049v1](http://arxiv.org/abs/2408.07049v1)|null|
+|**2024-08-13**|**xFitter Updates: Probing Z Boson Couplings with Forward-Backward Asymmetry**|Oleksandr Zenaiev et.al.|[2408.07048v1](http://arxiv.org/abs/2408.07048v1)|null|
+|**2024-08-13**|**Solar active region evolution and imminent flaring activity through a color-coded visualization of photospheric vector magnetograms**|I. Kontogiannis et.al.|[2408.07047v1](http://arxiv.org/abs/2408.07047v1)|null|
+|**2024-08-13**|**Challenges for analytic calculations of the massive three-loop form factors**|J Blümlein et.al.|[2408.07046v1](http://arxiv.org/abs/2408.07046v1)|null|
+|**2024-08-13**|**TableGuard -- Securing Structured & Unstructured Data**|Anantha Sharma et.al.|[2408.07045v1](http://arxiv.org/abs/2408.07045v1)|null|
+|**2024-08-13**|**Short curves of end-periodic mapping tori**|Brandis Whitfield et.al.|[2408.07044v1](http://arxiv.org/abs/2408.07044v1)|null|
+|**2024-08-13**|**On local energy decay for solutions to the b-family of peakon equations**|Christian Hong et.al.|[2408.07043v1](http://arxiv.org/abs/2408.07043v1)|null|
+|**2024-08-13**|**Optimizing TESS-related Exoplanet Observation: A Systematic Approach to Scheduling JWST SOSS and BOTS Templates**|Zoutong Shen et.al.|[2408.07042v1](http://arxiv.org/abs/2408.07042v1)|null|
+|**2024-08-13**|**Subjective and Objective Quality Assessment of Rendered Human Avatar Videos in Virtual Reality**|Yu-Chih Chen et.al.|[2408.07041v1](http://arxiv.org/abs/2408.07041v1)|null|
