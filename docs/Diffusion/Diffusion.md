@@ -2,6 +2,20 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14**|**Properties of sunspot light bridges on a geometric height scale**|S. Esteban Pozuelo et.al.|[2408.07645v1](http://arxiv.org/abs/2408.07645v1)|null|
+|**2024-08-14**|**On linear quadratic regulator for the heat equation with general boundary conditions**|Zhexian Li et.al.|[2408.07632v1](http://arxiv.org/abs/2408.07632v1)|null|
+|**2024-08-14**|**Anisotropic Diffusion Model of Communication in 2D Biofilm**|Yanahan Paramalingam et.al.|[2408.07626v1](http://arxiv.org/abs/2408.07626v1)|null|
+|**2024-08-14**|**MatterGPT: A Generative Transformer for Multi-Property Inverse Design of Solid-State Materials**|Yan Chen et.al.|[2408.07608v1](http://arxiv.org/abs/2408.07608v1)|null|
+|**2024-08-14**|**Progressive Radiance Distillation for Inverse Rendering with Gaussian Splatting**|Keyang Ye et.al.|[2408.07595v1](http://arxiv.org/abs/2408.07595v1)|null|
+|**2024-08-14**|**Inverse Rendering of Fusion Plasmas: Inferring Plasma Composition from Imaging Systems**|Ekin Öztürk et.al.|[2408.07555v1](http://arxiv.org/abs/2408.07555v1)|null|
+|**2024-08-14**|**Object Augmentation Algorithm: Computing virtual object motion and object induced interaction wrench from optical markers**|Christopher Herneth et.al.|[2408.07434v1](http://arxiv.org/abs/2408.07434v1)|null|
+|**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395v1](http://arxiv.org/abs/2408.07395v1)|null|
+|**2024-08-14**|**Nonlocal Attention Operator: Materializing Hidden Knowledge Towards Interpretable Physics Discovery**|Yue Yu et.al.|[2408.07307v1](http://arxiv.org/abs/2408.07307v1)|null|
+|**2024-08-14**|**Deep-sub-cycle attosecond optical pulses**|Hongliang Dang et.al.|[2408.07306v1](http://arxiv.org/abs/2408.07306v1)|null|
+|**2024-08-13**|**A comparison of methods for estimating the average treatment effect on the treated for externally controlled trials**|Huan Wang et.al.|[2408.07193v1](http://arxiv.org/abs/2408.07193v1)|null|
+|**2024-08-13**|**Spectral gap and cutoff of the simple exclusion process with IID conductances**|Shangjie Yang et.al.|[2408.07139v1](http://arxiv.org/abs/2408.07139v1)|null|
+|**2024-08-13**|**The surface termination of a Fe (III) spin crossover molecular salt**|M. Zaid Zaz et.al.|[2408.07138v1](http://arxiv.org/abs/2408.07138v1)|null|
+|**2024-08-13**|**Quiet Please: Detrending Radial Velocity Variations from Stellar Activity with a Physically Motivated Spot Model**|Jared C. Siegel et.al.|[2408.07121v1](http://arxiv.org/abs/2408.07121v1)|null|
 |**2024-08-13**|**Solar active region evolution and imminent flaring activity through a color-coded visualization of photospheric vector magnetograms**|I. Kontogiannis et.al.|[2408.07047v1](http://arxiv.org/abs/2408.07047v1)|null|
 |**2024-08-13**|**Likely detection of GeV γ-ray emission from pulsar wind nebula G32.64+0.53 with Fermi-LAT**|Yifan Xiao et.al.|[2408.06939v1](http://arxiv.org/abs/2408.06939v1)|null|
 |**2024-08-13**|**Exploring the generalizability of the optimal 0.234 acceptance rate in random-walk Metropolis and parallel tempering algorithms**|Aidan Li et.al.|[2408.06894v1](http://arxiv.org/abs/2408.06894v1)|null|
@@ -14,21 +28,7 @@
 |**2024-08-13**|**Buoyancy induced motion of a Newtonian drop in elastoviscoplastic materials**|Giancarlo Esposito et.al.|[2408.06748v1](http://arxiv.org/abs/2408.06748v1)|null|
 |**2024-08-13**|**Dispersive analysis of excited glueball states**|Hsiang-nan Li et.al.|[2408.06738v1](http://arxiv.org/abs/2408.06738v1)|null|
 |**2024-08-13**|**MAIR++: Improving Multi-view Attention Inverse Rendering with Implicit Lighting Representation**|JunYong Choi et.al.|[2408.06707v1](http://arxiv.org/abs/2408.06707v1)|null|
+|**2024-08-13**|**Model Based and Physics Informed Deep Learning Neural Network Structures**|Ali Mohammad-Djafari et.al.|[2408.07104v1](http://arxiv.org/abs/2408.07104v1)|null|
 |**2024-08-13**|**How to Best Combine Demosaicing and Denoising?**|Yu Guo et.al.|[2408.06684v1](http://arxiv.org/abs/2408.06684v1)|null|
 |**2024-08-13**|**IDRetracor: Towards Visual Forensics Against Malicious Face Swapping**|Jikang Cheng et.al.|[2408.06635v1](http://arxiv.org/abs/2408.06635v1)|null|
 |**2024-08-13**|**Poisson approximation for large permutation groups**|Persi Diaconis et.al.|[2408.06611v1](http://arxiv.org/abs/2408.06611v1)|null|
-|**2024-08-13**|**Deep Inertia $L_p$ Half-Quadratic Splitting Unrolling Network for Sparse View CT Reconstruction**|Yu Guo et.al.|[2408.06600v1](http://arxiv.org/abs/2408.06600v1)|null|
-|**2024-08-13**|**Effective medium theory for embedded obstacles in electromagnetic scattering with applications**|Huaian Diao et.al.|[2408.06564v1](http://arxiv.org/abs/2408.06564v1)|null|
-|**2024-08-13**|**Application of the shift-invert Lanczos algorithm to a non-equilibrium Green function for transport problems**|K. Uzawa et.al.|[2408.06554v1](http://arxiv.org/abs/2408.06554v1)|null|
-|**2024-08-12**|**Modeling and Simulation of Traffic on I-485 via Linear Systems and Iterative Methods**|Dominic Kealoha et.al.|[2408.06511v1](http://arxiv.org/abs/2408.06511v1)|null|
-|**2024-08-12**|**Prompt Recovery for Image Generation Models: A Comparative Study of Discrete Optimizers**|Joshua Nathaniel Williams et.al.|[2408.06502v1](http://arxiv.org/abs/2408.06502v1)|null|
-|**2024-08-12**|**Multifractal critical phase driven by coupling quasiperiodic systems to electromagnetic cavities**|Thales F. Macedo et.al.|[2408.06496v1](http://arxiv.org/abs/2408.06496v1)|null|
-|**2024-08-12**|**On the length scale of collective neutrino oscillations**|Shashank Shalgar et.al.|[2408.06422v1](http://arxiv.org/abs/2408.06422v1)|null|
-|**2024-08-12**|**Inverse designing metamaterials with programmable nonlinear functional responses in graph space**|Marco Maurizi et.al.|[2408.06300v1](http://arxiv.org/abs/2408.06300v1)|null|
-|**2024-08-12**|**Tolerant testing stabilizer states**|Srinivasan Arunachalam et.al.|[2408.06289v1](http://arxiv.org/abs/2408.06289v1)|null|
-|**2024-08-12**|**Singular limit and convergence rate via projection method in a model for plant-growth dynamics with autotoxicity**|Jeff Morgan et.al.|[2408.06177v1](http://arxiv.org/abs/2408.06177v1)|null|
-|**2024-08-12**|**Testing the flux tube expansion factor -- solar wind speed relation with Solar Orbiter data**|J-B. Dakeyo et.al.|[2408.06155v1](http://arxiv.org/abs/2408.06155v1)|null|
-|**2024-08-12**|**Motion Planning for Minimally Actuated Serial Robots**|Avi Cohen et.al.|[2408.06143v1](http://arxiv.org/abs/2408.06143v1)|null|
-|**2024-08-12**|**Clarifying Kasner dynamics inside anisotropic black hole with vector hair**|Rong-Gen Cai et.al.|[2408.06122v1](http://arxiv.org/abs/2408.06122v1)|null|
-|**2024-08-12**|**Rota-Baxter operators, differential operators, pre- and Novikov structures on groups and Lie algebras**|Xing Gao et.al.|[2408.06096v2](http://arxiv.org/abs/2408.06096v2)|null|
-|**2024-08-12**|**Mapping the longitudinal magnetic field in the atmosphere of an active region plage from the inversion of the near-ultraviolet CLASP2.1 spectropolarimetric data**|Hao Li et.al.|[2408.06094v1](http://arxiv.org/abs/2408.06094v1)|null|
