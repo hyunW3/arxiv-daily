@@ -30,5 +30,5 @@
 |**2024-08-12**|**Testing the flux tube expansion factor -- solar wind speed relation with Solar Orbiter data**|J-B. Dakeyo et.al.|[2408.06155v1](http://arxiv.org/abs/2408.06155v1)|null|
 |**2024-08-12**|**Motion Planning for Minimally Actuated Serial Robots**|Avi Cohen et.al.|[2408.06143v1](http://arxiv.org/abs/2408.06143v1)|null|
 |**2024-08-12**|**Clarifying Kasner dynamics inside anisotropic black hole with vector hair**|Rong-Gen Cai et.al.|[2408.06122v1](http://arxiv.org/abs/2408.06122v1)|null|
-|**2024-08-12**|**Rota-Baxter operators, differential operators, pre- and Novikov structures on groups and Lie algebras**|Xing Gao et.al.|[2408.06096v1](http://arxiv.org/abs/2408.06096v1)|null|
+|**2024-08-12**|**Rota-Baxter operators, differential operators, pre- and Novikov structures on groups and Lie algebras**|Xing Gao et.al.|[2408.06096v2](http://arxiv.org/abs/2408.06096v2)|null|
 |**2024-08-12**|**Mapping the longitudinal magnetic field in the atmosphere of an active region plage from the inversion of the near-ultraviolet CLASP2.1 spectropolarimetric data**|Hao Li et.al.|[2408.06094v1](http://arxiv.org/abs/2408.06094v1)|null|
