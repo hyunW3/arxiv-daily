@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-16 21:13:18 Asia/Shanghai
+ Automated deployment @ 2024-08-17 08:59:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -26,7 +26,7 @@
 |**2024-08-15**|**Physics-Informed Neural Network for Predicting Out-of-Training-Range TCAD Solution with Minimized Domain Expertise**|Albert Lu et.al.|[2408.07921v1](http://arxiv.org/abs/2408.07921v1)|null|
 |**2024-08-15**|**Quantum enhanced Markov chains require fine-tuned quenches**|Alev Orfi et.al.|[2408.07881v1](http://arxiv.org/abs/2408.07881v1)|null|
 |**2024-08-15**|**The inverse scattering theory of Kadomtsev-Petviashvili II equations**|Derchyi Wu et.al.|[2408.07868v1](http://arxiv.org/abs/2408.07868v1)|null|
-|**2024-08-14**|**CON-FOLD -- Explainable Machine Learning with Confidence**|Lachlan McGinness et.al.|[2408.07854v1](http://arxiv.org/abs/2408.07854v1)|null|
+|**2024-08-14**|**CON-FOLD -- Explainable Machine Learning with Confidence**|Lachlan McGinness et.al.|[2408.07854v1](http://arxiv.org/abs/2408.07854v1)|[link](https://github.com/lachlanmcg123/confold)|
 |**2024-08-14**|**Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability**|Jiri Hron et.al.|[2408.07852v1](http://arxiv.org/abs/2408.07852v1)|null|
 |**2024-08-14**|**Time-inversion of spatiotemporal beam dynamics using uncertainty-aware latent evolution reversal**|Mahindra Rautela et.al.|[2408.07847v1](http://arxiv.org/abs/2408.07847v1)|null|
 |**2024-08-14**|**Inverse k-visibility for RSSI-based Indoor Geometric Mapping**|Junseo Kim et.al.|[2408.07757v1](http://arxiv.org/abs/2408.07757v1)|null|
