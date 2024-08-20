@@ -5,7 +5,7 @@
 |**2024-08-16**|**Accelerating Giant Impact Simulations with Machine Learning**|Caleb Lammers et.al.|[2408.08873v1](http://arxiv.org/abs/2408.08873v1)|[link](https://github.com/caleblammers/ml_for_collisions)|
 |**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872v1](http://arxiv.org/abs/2408.08872v1)|null|
 |**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870v1](http://arxiv.org/abs/2408.08870v1)|[link](https://github.com/wzh0120/sam2-unet)|
-|**2024-08-16**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869v1](http://arxiv.org/abs/2408.08869v1)|null|
+|**2024-08-16**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869v2](http://arxiv.org/abs/2408.08869v2)|null|
 |**2024-08-16**|**A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs**|H. Brendan McMahan et.al.|[2408.08868v1](http://arxiv.org/abs/2408.08868v1)|null|
 |**2024-08-16**|**Quantum Annealing for Enhanced Feature Selection in Single-Cell RNA Sequencing Data Analysis**|Selim Romero et.al.|[2408.08867v1](http://arxiv.org/abs/2408.08867v1)|null|
 |**2024-08-16**|**High-Frequency Options Trading | With Portfolio Optimization**|Sid Bhatia et.al.|[2408.08866v1](http://arxiv.org/abs/2408.08866v1)|null|
@@ -28,7 +28,7 @@
 |**2024-08-16**|**ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis**|Yubao Zhao et.al.|[2408.08849v1](http://arxiv.org/abs/2408.08849v1)|null|
 |**2024-08-16**|**PsychoLex: Unveiling the Psychological Mind of Large Language Models**|Mohammad Amin Abbasi et.al.|[2408.08848v1](http://arxiv.org/abs/2408.08848v1)|null|
 |**2024-08-16**|**HistoGym: A Reinforcement Learning Environment for Histopathological Image Analysis**|Zhi-Bo Liu et.al.|[2408.08847v1](http://arxiv.org/abs/2408.08847v1)|[link](https://github.com/xjtuai/histogym)|
-|**2024-08-16**|**When Trust is Zero Sum: Automation Threat to Epistemic Agency**|Emmie Malone et.al.|[2408.08846v1](http://arxiv.org/abs/2408.08846v1)|null|
+|**2024-08-16**|**When Trust is Zero Sum: Automation Threat to Epistemic Agency**|Emmie Malone et.al.|[2408.08846v2](http://arxiv.org/abs/2408.08846v2)|null|
 |**2024-08-16**|**Shapley Marginal Surplus for Strong Models**|Daniel de Marchi et.al.|[2408.08845v1](http://arxiv.org/abs/2408.08845v1)|null|
 |**2024-08-16**|**Supercongruences arising from Ramanujan-Sato Series**|Angelica Babei et.al.|[2408.08844v1](http://arxiv.org/abs/2408.08844v1)|null|
 |**2024-08-16**|**Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling**|Qiang Zhu et.al.|[2408.08843v1](http://arxiv.org/abs/2408.08843v1)|null|
