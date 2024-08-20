@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-19**|**Solving Schiffer's problem in inverse scattering theory almost surely**|Hongyu Liu et.al.|[2408.10132v1](http://arxiv.org/abs/2408.10132v1)|null|
+|**2024-08-19**|**The evolution of spectral data for nonlinear Klein-Gordon models**|P. H. S. Palheta et.al.|[2408.10101v1](http://arxiv.org/abs/2408.10101v1)|null|
+|**2024-08-19**|**Shape inference in three-dimensional steady state supersonic flows using ODIL and JAX-Fluids**|Aaron B. Buhendwa et.al.|[2408.10094v1](http://arxiv.org/abs/2408.10094v1)|null|
+|**2024-08-19**|**Charming Darwin: the evolution of QCD parameters across different species**|Florian Bernlochner et.al.|[2408.10063v1](http://arxiv.org/abs/2408.10063v1)|null|
+|**2024-08-19**|**Magnetocaloric properties of single-crystalline Eu$_5$In$_2$Sb$_6$**|Karol Synoradzki et.al.|[2408.10010v1](http://arxiv.org/abs/2408.10010v1)|null|
+|**2024-08-19**|**Parseval Convolution Operators and Neural Networks**|Michael Unser et.al.|[2408.09981v1](http://arxiv.org/abs/2408.09981v1)|null|
+|**2024-08-19**|**Conditional Image Prior for Uncertainty Quantification in Full Waveform Inversion**|Lingyun Yang et.al.|[2408.09975v1](http://arxiv.org/abs/2408.09975v1)|null|
+|**2024-08-19**|**Existence and phase structure of random inverse limit measures**|B. J. K. Kleijn et.al.|[2408.09884v1](http://arxiv.org/abs/2408.09884v1)|null|
+|**2024-08-19**|**1d Conformal Field Theory and Dispersion Relations**|Dean Carmi et.al.|[2408.09870v1](http://arxiv.org/abs/2408.09870v1)|null|
+|**2024-08-19**|**Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network**|Randy Harsuko et.al.|[2408.09767v1](http://arxiv.org/abs/2408.09767v1)|null|
+|**2024-08-19**|**Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**|Cong Fu et.al.|[2408.09730v1](http://arxiv.org/abs/2408.09730v1)|null|
+|**2024-08-19**|**Work-Efficient Parallel Counting via Sampling**|Hongyang Liu et.al.|[2408.09719v1](http://arxiv.org/abs/2408.09719v1)|null|
+|**2024-08-19**|**Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering**|Ruofan Liang et.al.|[2408.09702v1](http://arxiv.org/abs/2408.09702v1)|null|
+|**2024-08-19**|**Towards the Information-Theoretic Limit of Programmable Photonics**|Ryan Hamerly et.al.|[2408.09673v1](http://arxiv.org/abs/2408.09673v1)|null|
+|**2024-08-18**|**High-Capacity Metasurface at Limits of Polarization and Wavelength Multiplexing**|Yanjun Bao et.al.|[2408.09509v1](http://arxiv.org/abs/2408.09509v1)|null|
+|**2024-08-18**|**Zeeman field induced corner states in the Kane-Mele-Hubbard model**|Jie Zhang et.al.|[2408.09492v1](http://arxiv.org/abs/2408.09492v1)|null|
+|**2024-08-18**|**G2Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors**|Haoxin Yang et.al.|[2408.09458v1](http://arxiv.org/abs/2408.09458v1)|[link](https://github.com/harxis/g2face)|
+|**2024-08-18**|**Efficient Online Sensitivity Analysis For The Injective Bottleneck Path Problem**|Kirill V. Kaymakov et.al.|[2408.09443v1](http://arxiv.org/abs/2408.09443v1)|null|
+|**2024-08-18**|**Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs**|Bowen Xin et.al.|[2408.09432v1](http://arxiv.org/abs/2408.09432v1)|null|
+|**2024-08-17**|**MagicID: Flexible ID Fidelity Generation System**|Zhaoli Deng et.al.|[2408.09248v1](http://arxiv.org/abs/2408.09248v1)|null|
+|**2024-08-17**|**Silent Orbits and Cancellations in the Wave Trace**|Illya Koval et.al.|[2408.09238v1](http://arxiv.org/abs/2408.09238v1)|null|
+|**2024-08-17**|**NDDEs: A Deep Neural Network Framework for Solving Forward and Inverse Problems in Delay Differential Equations**|Housen Wang et.al.|[2408.09202v1](http://arxiv.org/abs/2408.09202v1)|null|
+|**2024-08-17**|**Realistic Extreme Image Rescaling via Generative Latent Space Learning**|Ce Wang et.al.|[2408.09151v1](http://arxiv.org/abs/2408.09151v1)|[link](https://github.com/wwangcece/lsbir)|
+|**2024-08-17**|**Point Source Identification Using Singularity Enriched Neural Networks**|Tianhao Hu et.al.|[2408.09143v1](http://arxiv.org/abs/2408.09143v1)|null|
+|**2024-08-17**|**Evidence for hybrid gamma-ray emission from the supernova remnant G150.3+4.5**|Yuan Li et.al.|[2408.09141v1](http://arxiv.org/abs/2408.09141v1)|null|
+|**2024-08-17**|**Automatic Mitigation of Dynamic Atmospheric Turbulence Using Optical Phase Conjugation for Coherent Free-Space Optical Communications**|Huibin Zhou et.al.|[2408.09114v1](http://arxiv.org/abs/2408.09114v1)|null|
+|**2024-08-17**|**Imaginary Hamiltonian variational ansatz for combinatorial optimization problems**|Xiaoyang Wang et.al.|[2408.09083v1](http://arxiv.org/abs/2408.09083v1)|null|
+|**2024-08-16**|**Altermagnetism in Two Dimensional Ca-Ru-O Perovskite**|J. W. González et.al.|[2408.08999v1](http://arxiv.org/abs/2408.08999v1)|null|
+|**2024-08-16**|**Differentiable Edge-based OPC**|Guojin Chen et.al.|[2408.08969v1](http://arxiv.org/abs/2408.08969v1)|null|
 |**2024-08-16**|**Reality of Inverse Cascading in Neutron Star Crusts**|Clara Dehman et.al.|[2408.08819v1](http://arxiv.org/abs/2408.08819v1)|null|
-|**2024-08-16**|**Revisiting the propagation of highly-energetic gamma rays in the Galaxy**|Gaetano Di Marco et.al.|[2408.08818v1](http://arxiv.org/abs/2408.08818v1)|null|
-|**2024-08-16**|**Traces of partition Eisenstein series**|Tewodros Amdeberhan et.al.|[2408.08807v1](http://arxiv.org/abs/2408.08807v1)|null|
-|**2024-08-16**|**Nonlinear Quantum Optics at a Topological Interface Enabled by Defect Engineering**|L. Hallacy et.al.|[2408.08750v1](http://arxiv.org/abs/2408.08750v1)|null|
-|**2024-08-16**|**Noisy information channel mediated prevention of the tragedy of the commons**|Samrat Sohel Mondal et.al.|[2408.08744v1](http://arxiv.org/abs/2408.08744v1)|null|
-|**2024-08-16**|**A fully explicit isogeometric collocation formulation for the dynamics of geometrically exact beams**|Giulio Ferri et.al.|[2408.08727v1](http://arxiv.org/abs/2408.08727v1)|null|
-|**2024-08-16**|**Magnetophotonic waveguide nanostructure for selective ultrafast optical excitation of high-K spin dynamics**|Savelii V. Lutsenko et.al.|[2408.08710v1](http://arxiv.org/abs/2408.08710v1)|null|
-|**2024-08-16**|**Navigating Uncertainties in Machine Learning for Structural Dynamics: A Comprehensive Review of Probabilistic and Non-Probabilistic Approaches in Forward and Inverse Problems**|Wang-Ji Yan et.al.|[2408.08629v1](http://arxiv.org/abs/2408.08629v1)|null|
-|**2024-08-16**|**Inverse design with conditional cascaded diffusion models**|Milad Habibi et.al.|[2408.08526v1](http://arxiv.org/abs/2408.08526v1)|null|
-|**2024-08-16**|**Deep multi-intentional inverse reinforcement learning for cognitive multi-function radar inverse cognition**|Hancong Feng et.al.|[2408.08478v1](http://arxiv.org/abs/2408.08478v1)|null|
-|**2024-08-16**|**Boundary Integral Methods for Particle Diffusion in Complex Geometries: Shielding, Confinement, and Escape**|Jesse Cherry et.al.|[2408.08468v1](http://arxiv.org/abs/2408.08468v1)|null|
-|**2024-08-15**|**Phononic materials with effectively scale-separated hierarchical features using interpretable machine learning**|Mary V. Bastawrous et.al.|[2408.08428v1](http://arxiv.org/abs/2408.08428v1)|null|
-|**2024-08-15**|**A topological Hund nodal line antiferromagnet**|Xian P. Yang et.al.|[2408.08394v1](http://arxiv.org/abs/2408.08394v1)|null|
-|**2024-08-15**|**Classification of High-dimensional Time Series in Spectral Domain using Explainable Features**|Sarbojit Roy et.al.|[2408.08388v1](http://arxiv.org/abs/2408.08388v1)|null|
-|**2024-08-15**|**ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws**|Ruihang Li et.al.|[2408.08310v1](http://arxiv.org/abs/2408.08310v1)|null|
-|**2024-08-15**|**The Calderón problem for the Schrödinger equation in transversally anisotropic geometries with partial data**|Yi-Hsuan Lin et.al.|[2408.08298v1](http://arxiv.org/abs/2408.08298v1)|null|
-|**2024-08-15**|**Role of Non-Hermiticity in d-wave Altermagnet**|Gaurab Kumar Dash et.al.|[2408.08297v1](http://arxiv.org/abs/2408.08297v1)|null|
-|**2024-08-15**|**Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks**|Ni Ou et.al.|[2408.08276v1](http://arxiv.org/abs/2408.08276v1)|null|
-|**2024-08-15**|**InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models**|Guoxiang Grayson Tong et.al.|[2408.08264v1](http://arxiv.org/abs/2408.08264v1)|[link](https://github.com/desreslab/invaert4cardio)|
-|**2024-08-15**|**Integrable RG Flows on Topological Defect Lines in 2D Conformal Field Theories**|Thiago Silva Tavares et.al.|[2408.08241v1](http://arxiv.org/abs/2408.08241v1)|null|
-|**2024-08-15**|**Amplified Light Beam Cooling via Emergent Onsager's Irreversible Thermodynamics**|Zhongfei Xiong et.al.|[2408.08204v1](http://arxiv.org/abs/2408.08204v1)|null|
-|**2024-08-15**|**Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion**|Adi Haviv et.al.|[2408.08184v1](http://arxiv.org/abs/2408.08184v1)|null|
-|**2024-08-15**|**Spin and orbital Edelstein effect in spin-orbit coupled noncentrosymmetric superconductor**|Satoshi Ando et.al.|[2408.08151v1](http://arxiv.org/abs/2408.08151v1)|null|
-|**2024-08-15**|**General single-loop methods for bilevel parameter learning**|Ensio Suonperä et.al.|[2408.08123v1](http://arxiv.org/abs/2408.08123v1)|null|
-|**2024-08-15**|**The Unreasonable Effectiveness of Solving Inverse Problems with Neural Networks**|Philipp Holl et.al.|[2408.08119v1](http://arxiv.org/abs/2408.08119v1)|null|
-|**2024-08-15**|**The inverse obstacle problem for nonlinear inclusions**|Vincenzo Mottola et.al.|[2408.08040v1](http://arxiv.org/abs/2408.08040v1)|null|
-|**2024-08-15**|**Inversion-DeepONet: A Novel DeepONet-Based Network with Encoder-Decoder for Full Waveform Inversion**|Zekai Guo et.al.|[2408.08005v1](http://arxiv.org/abs/2408.08005v1)|null|
-|**2024-08-15**|**Asymptotic convergence for a class of fully nonlinear inverse curvature flows in a cone**|Ya Gao et.al.|[2408.07949v1](http://arxiv.org/abs/2408.07949v1)|null|
-|**2024-08-15**|**Time correlations in the inverse-gamma polymer with flat initial condition**|Xiao Shen et.al.|[2408.07928v1](http://arxiv.org/abs/2408.07928v1)|null|
-|**2024-08-15**|**Physics-Informed Neural Network for Predicting Out-of-Training-Range TCAD Solution with Minimized Domain Expertise**|Albert Lu et.al.|[2408.07921v1](http://arxiv.org/abs/2408.07921v1)|null|
