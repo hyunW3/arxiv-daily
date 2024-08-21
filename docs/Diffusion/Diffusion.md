@@ -21,7 +21,7 @@
 |**2024-08-18**|**G2Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors**|Haoxin Yang et.al.|[2408.09458v1](http://arxiv.org/abs/2408.09458v1)|[link](https://github.com/harxis/g2face)|
 |**2024-08-18**|**Efficient Online Sensitivity Analysis For The Injective Bottleneck Path Problem**|Kirill V. Kaymakov et.al.|[2408.09443v1](http://arxiv.org/abs/2408.09443v1)|null|
 |**2024-08-18**|**Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs**|Bowen Xin et.al.|[2408.09432v1](http://arxiv.org/abs/2408.09432v1)|null|
-|**2024-08-17**|**MagicID: Flexible ID Fidelity Generation System**|Zhaoli Deng et.al.|[2408.09248v1](http://arxiv.org/abs/2408.09248v1)|null|
+|**2024-08-17**|**MagicID: Flexible ID Fidelity Generation System**|Zhaoli Deng et.al.|[2408.09248v2](http://arxiv.org/abs/2408.09248v2)|null|
 |**2024-08-17**|**Silent Orbits and Cancellations in the Wave Trace**|Illya Koval et.al.|[2408.09238v1](http://arxiv.org/abs/2408.09238v1)|null|
 |**2024-08-17**|**NDDEs: A Deep Neural Network Framework for Solving Forward and Inverse Problems in Delay Differential Equations**|Housen Wang et.al.|[2408.09202v1](http://arxiv.org/abs/2408.09202v1)|null|
 |**2024-08-17**|**Realistic Extreme Image Rescaling via Generative Latent Space Learning**|Ce Wang et.al.|[2408.09151v1](http://arxiv.org/abs/2408.09151v1)|[link](https://github.com/wwangcece/lsbir)|

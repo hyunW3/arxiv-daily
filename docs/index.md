@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-20 21:16:14 Asia/Shanghai
+ Automated deployment @ 2024-08-21 09:01:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -27,7 +27,7 @@
 |**2024-08-18**|**G2Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors**|Haoxin Yang et.al.|[2408.09458v1](http://arxiv.org/abs/2408.09458v1)|[link](https://github.com/harxis/g2face)|
 |**2024-08-18**|**Efficient Online Sensitivity Analysis For The Injective Bottleneck Path Problem**|Kirill V. Kaymakov et.al.|[2408.09443v1](http://arxiv.org/abs/2408.09443v1)|null|
 |**2024-08-18**|**Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs**|Bowen Xin et.al.|[2408.09432v1](http://arxiv.org/abs/2408.09432v1)|null|
-|**2024-08-17**|**MagicID: Flexible ID Fidelity Generation System**|Zhaoli Deng et.al.|[2408.09248v1](http://arxiv.org/abs/2408.09248v1)|null|
+|**2024-08-17**|**MagicID: Flexible ID Fidelity Generation System**|Zhaoli Deng et.al.|[2408.09248v2](http://arxiv.org/abs/2408.09248v2)|null|
 |**2024-08-17**|**Silent Orbits and Cancellations in the Wave Trace**|Illya Koval et.al.|[2408.09238v1](http://arxiv.org/abs/2408.09238v1)|null|
 |**2024-08-17**|**NDDEs: A Deep Neural Network Framework for Solving Forward and Inverse Problems in Delay Differential Equations**|Housen Wang et.al.|[2408.09202v1](http://arxiv.org/abs/2408.09202v1)|null|
 |**2024-08-17**|**Realistic Extreme Image Rescaling via Generative Latent Space Learning**|Ce Wang et.al.|[2408.09151v1](http://arxiv.org/abs/2408.09151v1)|[link](https://github.com/wwangcece/lsbir)|
@@ -58,7 +58,7 @@
 |**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191v1](http://arxiv.org/abs/2408.10191v1)|null|
 |**2024-08-19**|**Superconductivity and spin canting in spin-orbit proximitized rhombohedral trilayer graphene**|Caitlin L. Patterson et.al.|[2408.10190v1](http://arxiv.org/abs/2408.10190v1)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189v1](http://arxiv.org/abs/2408.10189v1)|null|
-|**2024-08-19**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188v1](http://arxiv.org/abs/2408.10188v1)|[link](https://github.com/nvlabs/vila)|
+|**2024-08-19**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188v2](http://arxiv.org/abs/2408.10188v2)|[link](https://github.com/nvlabs/vila)|
 |**2024-08-19**|**Assessment of Spectral based Solutions for the Detection of Floating Marine Debris**|Muhammad Alì et.al.|[2408.10187v1](http://arxiv.org/abs/2408.10187v1)|null|
 |**2024-08-19**|**The stochastic six-vertex model speed process**|Hindy Drillick et.al.|[2408.10186v1](http://arxiv.org/abs/2408.10186v1)|null|
 |**2024-08-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al.|[2408.10181v1](http://arxiv.org/abs/2408.10181v1)|null|
