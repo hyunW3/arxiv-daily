@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-21 20:25:55 Asia/Shanghai
+ Automated deployment @ 2024-08-21 20:49:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -48,7 +48,7 @@
 |**2024-08-20**|**NeCo: Improving DINOv2's spatial representations in 19 GPU hours with Patch Neighbor Consistency**|Valentinos Pariza et.al.|[2408.11054v1](http://arxiv.org/abs/2408.11054v1)|null|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053v1](http://arxiv.org/abs/2408.11053v1)|null|
 |**2024-08-20**|**Accelerating Goal-Conditioned RL Algorithms and Research**|Michał Bortkiewicz et.al.|[2408.11052v1](http://arxiv.org/abs/2408.11052v1)|[link](https://github.com/michalbortkiewicz/jaxgcrl)|
-|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051v1](http://arxiv.org/abs/2408.11051v1)|null|
+|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051v1](http://arxiv.org/abs/2408.11051v1)|[link](https://github.com/xyz9911/FLAME)|
 |**2024-08-20**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049v1](http://arxiv.org/abs/2408.11049v1)|null|
 |**2024-08-20**|**Lambda transverse polarization in NA61\SHINE at the CERN SPS: feasibility studies**|Yehor Bondar et.al.|[2408.11050v1](http://arxiv.org/abs/2408.11050v1)|null|
 |**2024-08-20**|**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**|Yi Zhao et.al.|[2408.11048v1](http://arxiv.org/abs/2408.11048v1)|null|
