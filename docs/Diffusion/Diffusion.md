@@ -16,7 +16,7 @@
 |**2024-08-20**|**Nonlinear frequency-asymmetric optical response in chiral systems**|Shuhei Kanda et.al.|[2408.10655v1](http://arxiv.org/abs/2408.10655v1)|null|
 |**2024-08-20**|**Number-operator-based inverse engineering technique in a two level system**|Kiran Thengil et.al.|[2408.10639v1](http://arxiv.org/abs/2408.10639v1)|null|
 |**2024-08-20**|**Interactive Counterfactual Generation for Univariate Time Series**|Udo Schlegel et.al.|[2408.10633v1](http://arxiv.org/abs/2408.10633v1)|null|
-|**2024-08-20**|**Wavelength-agnostic Metasurface Design for Next Generation 2D Photodetectors**|Ayush Mukund Jamdar et.al.|[2408.10601v1](http://arxiv.org/abs/2408.10601v1)|null|
+|**2024-08-20**|**Wavelength-agnostic Metasurface Design for Next Generation 2D Photodetectors**|Ayush Mukund Jamdar et.al.|[2408.10601v2](http://arxiv.org/abs/2408.10601v2)|null|
 |**2024-08-20**|**Retrieval of phase information from low-dose electron microscopy experiments: are we at the limit yet?**|Francisco Vega Ibáñez et.al.|[2408.10590v1](http://arxiv.org/abs/2408.10590v1)|null|
 |**2024-08-20**|**Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning**|Dezhong Tong et.al.|[2408.10470v1](http://arxiv.org/abs/2408.10470v1)|null|
 |**2024-08-19**|**Likelihood Scouting Via Map Inversion For A Posterior-Sampled Particle Filter**|Simone Servadio et.al.|[2408.10454v1](http://arxiv.org/abs/2408.10454v1)|null|
