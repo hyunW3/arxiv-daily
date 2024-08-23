@@ -27,7 +27,7 @@
 |**2024-08-21**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795v1](http://arxiv.org/abs/2408.11795v1)|null|
 |**2024-08-21**|**CAMEO:A Co-design Architecture for Multi-objective Energy System Optimization**|Rounak Meyur et.al.|[2408.11794v1](http://arxiv.org/abs/2408.11794v1)|null|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793v1](http://arxiv.org/abs/2408.11793v1)|null|
-|**2024-08-21**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792v1](http://arxiv.org/abs/2408.11792v1)|null|
+|**2024-08-21**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792v2](http://arxiv.org/abs/2408.11792v2)|null|
 |**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791v1](http://arxiv.org/abs/2408.11791v1)|[link](https://github.com/zankner/cloud)|
 |**2024-08-21**|**Rapid Statistical-Physical Adversarial Downscaling Reveals Bangladesh's Rising Rainfall Risk in a Warming Climate**|Anamitra Saha et.al.|[2408.11790v1](http://arxiv.org/abs/2408.11790v1)|null|
 |**2024-08-21**|**Fractional Quantum Hall phases of graphene beyond ultra-short range intervalley-anisotropic interaction**|Oleg Grigorev et.al.|[2408.11789v1](http://arxiv.org/abs/2408.11789v1)|null|
