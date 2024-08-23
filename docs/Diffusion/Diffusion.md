@@ -2,9 +2,22 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574v1](http://arxiv.org/abs/2408.12574v1)|null|
+|**2024-08-22**|**Latent Gaussian Graphical Models with Golazo Penalty**|Ignacio Echave-Sustaeta Rodríguez et.al.|[2408.12482v1](http://arxiv.org/abs/2408.12482v1)|null|
+|**2024-08-22**|**Ultrafast quantum dynamics in $\mathbf{\mathrm{SrTiO_3}}$ under impulsive THz radiation**|Francesco Libbi et.al.|[2408.12421v1](http://arxiv.org/abs/2408.12421v1)|null|
+|**2024-08-22**|**Every finite set of natural numbers is realizable as algebraic periods of a Morse$\unicode{x2013}$Smale diffeomorphism**|Grzegorz Graff et.al.|[2408.12372v1](http://arxiv.org/abs/2408.12372v1)|null|
+|**2024-08-22**|**Cartesian and spherical multipole expansions in anisotropic media**|Elias Le Boudec et.al.|[2408.12303v1](http://arxiv.org/abs/2408.12303v1)|null|
+|**2024-08-22**|**Accounts of using the Tustin-Net architecture on a rotary inverted pendulum**|Stijn van Esch et.al.|[2408.12266v1](http://arxiv.org/abs/2408.12266v1)|[link](https://github.com/svanesch/tustinNetTransferLearning)|
+|**2024-08-22**|**Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**|Haixin Wang et.al.|[2408.12171v1](http://arxiv.org/abs/2408.12171v1)|null|
+|**2024-08-22**|**Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**|Woo Kyung Kim et.al.|[2408.12110v1](http://arxiv.org/abs/2408.12110v1)|null|
+|**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
+|**2024-08-22**|**Research on the Construction of Maximum Distance Separable Codes via Arbitrary twisted Generalized Reed-Solomon Codes**|Chun'e Zhao et.al.|[2408.12049v1](http://arxiv.org/abs/2408.12049v1)|null|
+|**2024-08-21**|**Quantum radar with unreflected photons**|T. J. Volkoff et.al.|[2408.12016v1](http://arxiv.org/abs/2408.12016v1)|null|
+|**2024-08-21**|**Confounding Privacy and Inverse Composition**|Tao Zhang et.al.|[2408.12010v1](http://arxiv.org/abs/2408.12010v1)|null|
+|**2024-08-21**|**One-to-one Correspondence between Deterministic Port-Based Teleportation and Unitary Estimation**|Satoshi Yoshida et.al.|[2408.11902v1](http://arxiv.org/abs/2408.11902v1)|null|
 |**2024-08-21**|**Model-free spectral reconstruction via Lagrange duality**|Scott Lawrence et.al.|[2408.11766v1](http://arxiv.org/abs/2408.11766v1)|null|
 |**2024-08-21**|**Unraveling the dynamical behaviors in a quasiperiodic mosaic lattice**|Yu Zhang et.al.|[2408.11765v1](http://arxiv.org/abs/2408.11765v1)|null|
-|**2024-08-21**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749v1](http://arxiv.org/abs/2408.11749v1)|null|
+|**2024-08-21**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749v1](http://arxiv.org/abs/2408.11749v1)|[link](https://github.com/siebeniris/vec2text_exp)|
 |**2024-08-21**|**Existence of complements for foliations**|Yen-An Chen et.al.|[2408.11738v1](http://arxiv.org/abs/2408.11738v1)|null|
 |**2024-08-21**|**Local order metrics for many-particle systems across length scales**|Charles Emmett Maher et.al.|[2408.11702v1](http://arxiv.org/abs/2408.11702v1)|null|
 |**2024-08-21**|**Variational autoencoder inverse mapper for extraction of Compton form factors: Benchmarks and conditional learning**|Fayaz Hossen et.al.|[2408.11681v1](http://arxiv.org/abs/2408.11681v1)|null|
@@ -19,16 +32,3 @@
 |**2024-08-21**|**ViIK: Flow-based Vision Inverse Kinematics Solver with Fusing Collision Checking**|Qinglong Meng et.al.|[2408.11293v1](http://arxiv.org/abs/2408.11293v1)|null|
 |**2024-08-21**|**Impact of Valley Degeneracy on Thermoelectric Properties of Zigzag Graphene Nanoribbons with Staggered Sublattice Potentials and Transverse Electric Fields**|David M T Kuo et.al.|[2408.11285v1](http://arxiv.org/abs/2408.11285v1)|null|
 |**2024-08-21**|**Inverting the Leverage Score Gradient: An Efficient Approximate Newton Method**|Chenyang Li et.al.|[2408.11267v1](http://arxiv.org/abs/2408.11267v1)|null|
-|**2024-08-20**|**Displacement field-controlled fractional Chern insulators and charge density waves in a graphene/hBN moiré superlattice**|Samuel H. Aronson et.al.|[2408.11220v1](http://arxiv.org/abs/2408.11220v1)|null|
-|**2024-08-20**|**Quantum Inverse Contextual Vision Transformers (Q-ICVT): A New Frontier in 3D Object Detection for AVs**|Sanjay Bhargav Dharavath et.al.|[2408.11207v1](http://arxiv.org/abs/2408.11207v1)|[link](https://github.com/sanjay-810/qicvt)|
-|**2024-08-20**|**Second and third harmonic generation of acoustic waves in a nonlinear elastic solid in one space dimension**|Fernando Lund et.al.|[2408.11184v1](http://arxiv.org/abs/2408.11184v1)|null|
-|**2024-08-20**|**Any Graph is a Mapper Graph**|Enrique G Alvarado et.al.|[2408.11180v1](http://arxiv.org/abs/2408.11180v1)|null|
-|**2024-08-20**|**Total Uncertainty Quantification in Inverse PDE Solutions Obtained with Reduced-Order Deep Learning Surrogate Models**|Yuanzhe Wang et.al.|[2408.11145v1](http://arxiv.org/abs/2408.11145v1)|null|
-|**2024-08-20**|**Atmospheric Transport Modeling of CO$_2$ with Neural Networks**|Vitus Benson et.al.|[2408.11032v1](http://arxiv.org/abs/2408.11032v1)|[link](https://github.com/vitusbenson/carbonbench)|
-|**2024-08-20**|**Discriminant Analysis in stationary time series based on robust cepstral coefficients**|Jonathan de Souza Matias et.al.|[2408.11012v1](http://arxiv.org/abs/2408.11012v1)|null|
-|**2024-08-20**|**A numerical study of the spatial coherence of light in collective spontaneous emission**|Deniz Yavuz et.al.|[2408.10975v1](http://arxiv.org/abs/2408.10975v1)|null|
-|**2024-08-20**|**Theoretical Analysis of the Structure, Thermodynamics, and Shear Elasticity of Deeply Metastable Hard Sphere Fluids**|Subhashish Chaki et.al.|[2408.10922v1](http://arxiv.org/abs/2408.10922v1)|null|
-|**2024-08-20**|**Monotonicity equivalence and synchronizability for a system of probability distributions**|Motoya Machida et.al.|[2408.10896v1](http://arxiv.org/abs/2408.10896v1)|null|
-|**2024-08-20**|**Proton Radiography Inversions with Source Extraction and Comparison to Mesh Methods**|J. Griff-McMahon et.al.|[2408.10879v1](http://arxiv.org/abs/2408.10879v1)|null|
-|**2024-08-20**|**Inverse model for network construction: (δ(G), I' (G)) -> G**|Wei Gao et.al.|[2408.10847v1](http://arxiv.org/abs/2408.10847v1)|null|
-|**2024-08-20**|**Inverse Deep Learning Ray Tracing for Heliostat Surface Prediction**|Jan Lewen et.al.|[2408.10802v1](http://arxiv.org/abs/2408.10802v1)|null|
