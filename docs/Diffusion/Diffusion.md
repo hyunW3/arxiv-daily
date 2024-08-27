@@ -13,7 +13,7 @@
 |**2024-08-22**|**An Inverse Hyperbolic Problem with Application to Joint Photoacoustic Parameter Determination**|Shitao Liu et.al.|[2408.12759v1](http://arxiv.org/abs/2408.12759v1)|null|
 |**2024-08-22**|**Autonomous Grid-Forming Inverter Exponential Droop Control for Improved Frequency Stability**|Rick Wallace Kenyon et.al.|[2408.12709v1](http://arxiv.org/abs/2408.12709v1)|null|
 |**2024-08-22**|**Free-breathing 3D cardiac extracellular volume (ECV) mapping using a linear tangent space alignment (LTSA) model**|Wonil Lee et.al.|[2408.12706v1](http://arxiv.org/abs/2408.12706v1)|null|
-|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574v1](http://arxiv.org/abs/2408.12574v1)|null|
+|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574v2](http://arxiv.org/abs/2408.12574v2)|null|
 |**2024-08-22**|**Latent Gaussian Graphical Models with Golazo Penalty**|Ignacio Echave-Sustaeta Rodríguez et.al.|[2408.12482v1](http://arxiv.org/abs/2408.12482v1)|null|
 |**2024-08-22**|**Ultrafast quantum dynamics in $\mathbf{\mathrm{SrTiO_3}}$ under impulsive THz radiation**|Francesco Libbi et.al.|[2408.12421v1](http://arxiv.org/abs/2408.12421v1)|null|
 |**2024-08-22**|**Every finite set of natural numbers is realizable as algebraic periods of a Morse$\unicode{x2013}$Smale diffeomorphism**|Grzegorz Graff et.al.|[2408.12372v1](http://arxiv.org/abs/2408.12372v1)|null|
