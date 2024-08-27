@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-26**|**Radiance Cascades: A Novel High-Resolution Formal Solution for Multidimensional Non-LTE Radiative Transfer**|Christopher M. J. Osborne et.al.|[2408.14425v1](http://arxiv.org/abs/2408.14425v1)|null|
+|**2024-08-26**|**Constraints on primordial black holes in dSphs using radio observations**|Tian-Ci Liu et.al.|[2408.14353v1](http://arxiv.org/abs/2408.14353v1)|null|
+|**2024-08-26**|**Distinguishing Signature of Kerr-MOG Black Hole and Superspinar via Lense-Thirring Precession**|Parthapratim Pradhan et.al.|[2408.14274v1](http://arxiv.org/abs/2408.14274v1)|null|
+|**2024-08-26**|**A New Paradigm For Scattering Theory of Linear And Nonlinear Waves: Review And Open Problem**|Avy Soffer et.al.|[2408.14269v1](http://arxiv.org/abs/2408.14269v1)|null|
+|**2024-08-26**|**The inverse problem for the fractional conductivity equation: a survey**|Giovanni Covi et.al.|[2408.14200v1](http://arxiv.org/abs/2408.14200v1)|null|
+|**2024-08-26**|**Wigner current in multidimensional quantum billiards**|S. S. Seidov et.al.|[2408.14164v1](http://arxiv.org/abs/2408.14164v1)|null|
+|**2024-08-26**|**Cross-sectional imaging of speed-of-sound distribution using photoacoustic reversal beacons**|Yang Wang et.al.|[2408.13975v1](http://arxiv.org/abs/2408.13975v1)|null|
+|**2024-08-25**|**Inverse Problem Regularization for 3D Multi-Species Tumor Growth Models**|Ali Ghafouri et.al.|[2408.13903v1](http://arxiv.org/abs/2408.13903v1)|null|
+|**2024-08-25**|**Particle-Filtering-based Latent Diffusion for Inverse Problems**|Amir Nazemi et.al.|[2408.13868v1](http://arxiv.org/abs/2408.13868v1)|null|
+|**2024-08-25**|**Condensed Sample-Guided Model Inversion for Knowledge Distillation**|Kuluhan Binici et.al.|[2408.13850v1](http://arxiv.org/abs/2408.13850v1)|null|
+|**2024-08-25**|**Consistent machine learning for topology optimization with microstructure-dependent neural network material models**|Harikrishnan Vijayakumaran et.al.|[2408.13843v1](http://arxiv.org/abs/2408.13843v1)|null|
+|**2024-08-25**|**Optical Inversion Using Plasmonic Contrast Agents**|Xinlin Cao et.al.|[2408.13793v1](http://arxiv.org/abs/2408.13793v1)|null|
+|**2024-08-25**|**Connecting affine $\mathcal{W}$-algebras: A case study on $\mathfrak{sl}_4$**|Justine Fasquel et.al.|[2408.13785v1](http://arxiv.org/abs/2408.13785v1)|null|
+|**2024-08-25**|**On the Elementary Proof of the Inverse Erdős-Heilbronn Problem**|Shengning Zhang et.al.|[2408.13755v1](http://arxiv.org/abs/2408.13755v1)|null|
+|**2024-08-25**|**Desorption of an active Brownian polymer from a homogeneous attractive surface**|Guo-qiang Feng et.al.|[2408.13743v1](http://arxiv.org/abs/2408.13743v1)|null|
+|**2024-08-24**|**Stable determination of the Winkler subgrade coefficient in a nanoplate**|G. Alessandrini et.al.|[2408.13625v1](http://arxiv.org/abs/2408.13625v1)|null|
+|**2024-08-24**|**No Dataset Needed for Downstream Knowledge Benchmarking: Response Dispersion Inversely Correlates with Accuracy on Domain-specific QA**|Robert L Simione II et.al.|[2408.13624v1](http://arxiv.org/abs/2408.13624v1)|null|
+|**2024-08-24**|**The inverse uncertainty distribution of the solutions to a class of higher-order uncertain differential equations**|Qiubao Wang et.al.|[2408.13571v1](http://arxiv.org/abs/2408.13571v1)|null|
+|**2024-08-24**|**Application of first- and second-order adjoint methods to glacial isostatic adjustment incorporating rotational feedbacks**|Ziheng Yu et.al.|[2408.13564v1](http://arxiv.org/abs/2408.13564v1)|null|
+|**2024-08-24**|**Radial singular solutions of fully nonlinear equations in punctured balls**|Isabeau Birindelli et.al.|[2408.13550v1](http://arxiv.org/abs/2408.13550v1)|null|
+|**2024-08-24**|**FFT-based surrogate modeling of auxetic metamaterials with real-time prediction of effective elastic properties and swift inverse design**|Hooman Danesh et.al.|[2408.13532v1](http://arxiv.org/abs/2408.13532v1)|null|
+|**2024-08-24**|**IntOPE: Off-Policy Evaluation in the Presence of Interference**|Yuqi Bai et.al.|[2408.13484v1](http://arxiv.org/abs/2408.13484v1)|null|
+|**2024-08-24**|**A simple model of the radio-infrared correlation depending on gas surface density and redshift**|Ilsang Yoon et.al.|[2408.13469v1](http://arxiv.org/abs/2408.13469v1)|null|
+|**2024-08-24**|**Estimating the Effective Sample Size for an inverse problem in subsurface flows**|Lucas Seiffert et.al.|[2408.13411v1](http://arxiv.org/abs/2408.13411v1)|null|
+|**2024-08-23**|**Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing**|Yangyang Xu et.al.|[2408.13395v1](http://arxiv.org/abs/2408.13395v1)|null|
+|**2024-08-23**|**The Ultraviolet Slopes of Early Universe Galaxies: The Impact of Bursty Star Formation, Dust, and Nebular Continuum Emission**|Desika Narayanan et.al.|[2408.13312v1](http://arxiv.org/abs/2408.13312v1)|null|
 |**2024-08-23**|**JacNet: Learning Functions with Structured Jacobians**|Jonathan Lorraine et.al.|[2408.13237v1](http://arxiv.org/abs/2408.13237v1)|null|
 |**2024-08-23**|**Non-unitary limits on different textures for low-scale seesaw models**|Jesús Miguel Celestino-Ramírez et.al.|[2408.13232v1](http://arxiv.org/abs/2408.13232v1)|null|
 |**2024-08-23**|**End-to-end Surface Optimization for Light Control**|Yuou Sun et.al.|[2408.13117v1](http://arxiv.org/abs/2408.13117v1)|null|
 |**2024-08-23**|**Controlled Learning of Pointwise Nonlinearities in Neural-Network-Like Architectures**|Michael Unser et.al.|[2408.13114v1](http://arxiv.org/abs/2408.13114v1)|null|
-|**2024-08-23**|**Context-free graphs and their transition groups**|Daniele D'Angeli et.al.|[2408.13070v1](http://arxiv.org/abs/2408.13070v1)|null|
-|**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049v1](http://arxiv.org/abs/2408.13049v1)|null|
-|**2024-08-23**|**Anisotropic sub-band splitting mechanisms in strained HgTe: a first principles study**|Eeshan Ketkar et.al.|[2408.13042v1](http://arxiv.org/abs/2408.13042v1)|null|
-|**2024-08-23**|**Beam focusing and consequences for Doppler Backscattering measurements**|Juan Ruiz Ruiz et.al.|[2408.12919v1](http://arxiv.org/abs/2408.12919v1)|null|
-|**2024-08-22**|**An Inverse Hyperbolic Problem with Application to Joint Photoacoustic Parameter Determination**|Shitao Liu et.al.|[2408.12759v1](http://arxiv.org/abs/2408.12759v1)|null|
-|**2024-08-22**|**Autonomous Grid-Forming Inverter Exponential Droop Control for Improved Frequency Stability**|Rick Wallace Kenyon et.al.|[2408.12709v1](http://arxiv.org/abs/2408.12709v1)|null|
-|**2024-08-22**|**Free-breathing 3D cardiac extracellular volume (ECV) mapping using a linear tangent space alignment (LTSA) model**|Wonil Lee et.al.|[2408.12706v1](http://arxiv.org/abs/2408.12706v1)|null|
-|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574v2](http://arxiv.org/abs/2408.12574v2)|null|
-|**2024-08-22**|**Latent Gaussian Graphical Models with Golazo Penalty**|Ignacio Echave-Sustaeta Rodríguez et.al.|[2408.12482v1](http://arxiv.org/abs/2408.12482v1)|null|
-|**2024-08-22**|**Ultrafast quantum dynamics in $\mathbf{\mathrm{SrTiO_3}}$ under impulsive THz radiation**|Francesco Libbi et.al.|[2408.12421v1](http://arxiv.org/abs/2408.12421v1)|null|
-|**2024-08-22**|**Every finite set of natural numbers is realizable as algebraic periods of a Morse$\unicode{x2013}$Smale diffeomorphism**|Grzegorz Graff et.al.|[2408.12372v1](http://arxiv.org/abs/2408.12372v1)|null|
-|**2024-08-22**|**Cartesian and spherical multipole expansions in anisotropic media**|Elias Le Boudec et.al.|[2408.12303v1](http://arxiv.org/abs/2408.12303v1)|null|
-|**2024-08-22**|**Accounts of using the Tustin-Net architecture on a rotary inverted pendulum**|Stijn van Esch et.al.|[2408.12266v1](http://arxiv.org/abs/2408.12266v1)|[link](https://github.com/svanesch/tustinNetTransferLearning)|
-|**2024-08-22**|**Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**|Haixin Wang et.al.|[2408.12171v1](http://arxiv.org/abs/2408.12171v1)|null|
-|**2024-08-22**|**Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**|Woo Kyung Kim et.al.|[2408.12110v1](http://arxiv.org/abs/2408.12110v1)|null|
-|**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
-|**2024-08-22**|**Research on the Construction of Maximum Distance Separable Codes via Arbitrary twisted Generalized Reed-Solomon Codes**|Chun'e Zhao et.al.|[2408.12049v1](http://arxiv.org/abs/2408.12049v1)|null|
-|**2024-08-21**|**Quantum radar with unreflected photons**|T. J. Volkoff et.al.|[2408.12016v1](http://arxiv.org/abs/2408.12016v1)|null|
-|**2024-08-21**|**Confounding Privacy and Inverse Composition**|Tao Zhang et.al.|[2408.12010v1](http://arxiv.org/abs/2408.12010v1)|null|
-|**2024-08-21**|**One-to-one Correspondence between Deterministic Port-Based Teleportation and Unitary Estimation**|Satoshi Yoshida et.al.|[2408.11902v1](http://arxiv.org/abs/2408.11902v1)|null|
-|**2024-08-21**|**Model-free spectral reconstruction via Lagrange duality**|Scott Lawrence et.al.|[2408.11766v1](http://arxiv.org/abs/2408.11766v1)|null|
-|**2024-08-21**|**Unraveling the dynamical behaviors in a quasiperiodic mosaic lattice**|Yu Zhang et.al.|[2408.11765v1](http://arxiv.org/abs/2408.11765v1)|null|
-|**2024-08-21**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749v1](http://arxiv.org/abs/2408.11749v1)|[link](https://github.com/siebeniris/vec2text_exp)|
-|**2024-08-21**|**Existence of complements for foliations**|Yen-An Chen et.al.|[2408.11738v1](http://arxiv.org/abs/2408.11738v1)|null|
-|**2024-08-21**|**Local order metrics for many-particle systems across length scales**|Charles Emmett Maher et.al.|[2408.11702v1](http://arxiv.org/abs/2408.11702v1)|null|
-|**2024-08-21**|**Variational autoencoder inverse mapper for extraction of Compton form factors: Benchmarks and conditional learning**|Fayaz Hossen et.al.|[2408.11681v1](http://arxiv.org/abs/2408.11681v1)|null|
