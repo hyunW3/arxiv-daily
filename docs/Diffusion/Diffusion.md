@@ -12,7 +12,7 @@
 |**2024-08-25**|**Inverse Problem Regularization for 3D Multi-Species Tumor Growth Models**|Ali Ghafouri et.al.|[2408.13903v1](http://arxiv.org/abs/2408.13903v1)|null|
 |**2024-08-25**|**Particle-Filtering-based Latent Diffusion for Inverse Problems**|Amir Nazemi et.al.|[2408.13868v1](http://arxiv.org/abs/2408.13868v1)|null|
 |**2024-08-25**|**Condensed Sample-Guided Model Inversion for Knowledge Distillation**|Kuluhan Binici et.al.|[2408.13850v1](http://arxiv.org/abs/2408.13850v1)|null|
-|**2024-08-25**|**Consistent machine learning for topology optimization with microstructure-dependent neural network material models**|Harikrishnan Vijayakumaran et.al.|[2408.13843v1](http://arxiv.org/abs/2408.13843v1)|null|
+|**2024-08-25**|**Consistent machine learning for topology optimization with microstructure-dependent neural network material models**|Harikrishnan Vijayakumaran et.al.|[2408.13843v2](http://arxiv.org/abs/2408.13843v2)|null|
 |**2024-08-25**|**Optical Inversion Using Plasmonic Contrast Agents**|Xinlin Cao et.al.|[2408.13793v1](http://arxiv.org/abs/2408.13793v1)|null|
 |**2024-08-25**|**Connecting affine $\mathcal{W}$-algebras: A case study on $\mathfrak{sl}_4$**|Justine Fasquel et.al.|[2408.13785v1](http://arxiv.org/abs/2408.13785v1)|null|
 |**2024-08-25**|**On the Elementary Proof of the Inverse Erdős-Heilbronn Problem**|Shengning Zhang et.al.|[2408.13755v1](http://arxiv.org/abs/2408.13755v1)|null|
