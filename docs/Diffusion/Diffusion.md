@@ -2,6 +2,22 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-27**|**Theoretical investigation of quantum oscillations of specific heat in Kondo insulators**|Arnav Pushkar et.al.|[2408.15216v1](http://arxiv.org/abs/2408.15216v1)|null|
+|**2024-08-27**|**Data-Driven Nonlinear Deformation Design of 3D-Printable Shells**|Samuel Silverman et.al.|[2408.15097v1](http://arxiv.org/abs/2408.15097v1)|[link](https://github.com/samsilverman/nonlinear-deformation-design)|
+|**2024-08-27**|**Enumerating 1324-avoiders with few inversions**|Svante Linusson et.al.|[2408.15075v1](http://arxiv.org/abs/2408.15075v1)|null|
+|**2024-08-27**|**Understanding the Adjoint Method in Seismology: Theory and Implementation in the Time Domain**|Rafael Abreu et.al.|[2408.15060v1](http://arxiv.org/abs/2408.15060v1)|null|
+|**2024-08-27**|**Targetin the partition function of chemically disordered materials with a generative approach based on inverse variational autoencoders**|Maciej J. Karcz et.al.|[2408.14928v1](http://arxiv.org/abs/2408.14928v1)|null|
+|**2024-08-27**|**Stochastic quantum models for the dynamics of power grids**|Pierrick Guichard et.al.|[2408.14921v1](http://arxiv.org/abs/2408.14921v1)|null|
+|**2024-08-27**|**In-Lab High Resolution Mid-infrared Up-conversion Stellar Interferometer Based on Synthetic Long Base-Line**|Zhao-Qi-Zhi Han et.al.|[2408.14902v1](http://arxiv.org/abs/2408.14902v1)|null|
+|**2024-08-27**|**One other parameterization of SU(4) group**|Arsen Khvedelidze et.al.|[2408.14888v1](http://arxiv.org/abs/2408.14888v1)|null|
+|**2024-08-27**|**Cellular complexes and embeddings into Euclidean spaces: Möbius strip, torus, and projective plane**|Anthony Fraga et.al.|[2408.14882v1](http://arxiv.org/abs/2408.14882v1)|null|
+|**2024-08-27**|**A dynamical Einstein-Born-Infeld-dilaton model and holographic quarkonium melting in a magnetic field**|Siddhi Swarupa Jena et.al.|[2408.14813v1](http://arxiv.org/abs/2408.14813v1)|null|
+|**2024-08-27**|**Data-Driven Approach to Learning Optimal Forms of Constitutive Relations in Models Describing Lithium Plating in Battery Cells**|Avesta Ahmadi et.al.|[2408.14804v1](http://arxiv.org/abs/2408.14804v1)|null|
+|**2024-08-27**|**Regularity of solutions for degenerate/singular fully nonlinear integro-differential equation**|Jiangwen Wang et.al.|[2408.14779v1](http://arxiv.org/abs/2408.14779v1)|null|
+|**2024-08-27**|**$L^{2}$-Sobolev space bijectivity and existence of global solutions for the matrix nonlinear Schrödinger equations**|Yuan Li et.al.|[2408.14709v1](http://arxiv.org/abs/2408.14709v1)|null|
+|**2024-08-26**|**High-dimensional Gaussian linear processes: Marchenko-Pastur beyond simultaneous diagonalizability**|Ben Deitmar et.al.|[2408.14618v1](http://arxiv.org/abs/2408.14618v1)|null|
+|**2024-08-26**|**A note on identifiability for inverse problem based on observations**|Marian Petrica et.al.|[2408.14616v1](http://arxiv.org/abs/2408.14616v1)|null|
+|**2024-08-26**|**DIAGen: Diverse Image Augmentation with Generative Models**|Tobias Lingenberg et.al.|[2408.14584v1](http://arxiv.org/abs/2408.14584v1)|null|
 |**2024-08-26**|**Radiance Cascades: A Novel High-Resolution Formal Solution for Multidimensional Non-LTE Radiative Transfer**|Christopher M. J. Osborne et.al.|[2408.14425v1](http://arxiv.org/abs/2408.14425v1)|null|
 |**2024-08-26**|**Constraints on primordial black holes in dSphs using radio observations**|Tian-Ci Liu et.al.|[2408.14353v1](http://arxiv.org/abs/2408.14353v1)|null|
 |**2024-08-26**|**Distinguishing Signature of Kerr-MOG Black Hole and Superspinar via Lense-Thirring Precession**|Parthapratim Pradhan et.al.|[2408.14274v1](http://arxiv.org/abs/2408.14274v1)|null|
@@ -16,19 +32,3 @@
 |**2024-08-25**|**Optical Inversion Using Plasmonic Contrast Agents**|Xinlin Cao et.al.|[2408.13793v1](http://arxiv.org/abs/2408.13793v1)|null|
 |**2024-08-25**|**Connecting affine $\mathcal{W}$-algebras: A case study on $\mathfrak{sl}_4$**|Justine Fasquel et.al.|[2408.13785v1](http://arxiv.org/abs/2408.13785v1)|null|
 |**2024-08-25**|**On the Elementary Proof of the Inverse Erdős-Heilbronn Problem**|Shengning Zhang et.al.|[2408.13755v1](http://arxiv.org/abs/2408.13755v1)|null|
-|**2024-08-25**|**Desorption of an active Brownian polymer from a homogeneous attractive surface**|Guo-qiang Feng et.al.|[2408.13743v1](http://arxiv.org/abs/2408.13743v1)|null|
-|**2024-08-24**|**Stable determination of the Winkler subgrade coefficient in a nanoplate**|G. Alessandrini et.al.|[2408.13625v1](http://arxiv.org/abs/2408.13625v1)|null|
-|**2024-08-24**|**No Dataset Needed for Downstream Knowledge Benchmarking: Response Dispersion Inversely Correlates with Accuracy on Domain-specific QA**|Robert L Simione II et.al.|[2408.13624v1](http://arxiv.org/abs/2408.13624v1)|null|
-|**2024-08-24**|**The inverse uncertainty distribution of the solutions to a class of higher-order uncertain differential equations**|Qiubao Wang et.al.|[2408.13571v1](http://arxiv.org/abs/2408.13571v1)|null|
-|**2024-08-24**|**Application of first- and second-order adjoint methods to glacial isostatic adjustment incorporating rotational feedbacks**|Ziheng Yu et.al.|[2408.13564v1](http://arxiv.org/abs/2408.13564v1)|null|
-|**2024-08-24**|**Radial singular solutions of fully nonlinear equations in punctured balls**|Isabeau Birindelli et.al.|[2408.13550v1](http://arxiv.org/abs/2408.13550v1)|null|
-|**2024-08-24**|**FFT-based surrogate modeling of auxetic metamaterials with real-time prediction of effective elastic properties and swift inverse design**|Hooman Danesh et.al.|[2408.13532v1](http://arxiv.org/abs/2408.13532v1)|null|
-|**2024-08-24**|**IntOPE: Off-Policy Evaluation in the Presence of Interference**|Yuqi Bai et.al.|[2408.13484v1](http://arxiv.org/abs/2408.13484v1)|null|
-|**2024-08-24**|**A simple model of the radio-infrared correlation depending on gas surface density and redshift**|Ilsang Yoon et.al.|[2408.13469v1](http://arxiv.org/abs/2408.13469v1)|null|
-|**2024-08-24**|**Estimating the Effective Sample Size for an inverse problem in subsurface flows**|Lucas Seiffert et.al.|[2408.13411v1](http://arxiv.org/abs/2408.13411v1)|null|
-|**2024-08-23**|**Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing**|Yangyang Xu et.al.|[2408.13395v1](http://arxiv.org/abs/2408.13395v1)|null|
-|**2024-08-23**|**The Ultraviolet Slopes of Early Universe Galaxies: The Impact of Bursty Star Formation, Dust, and Nebular Continuum Emission**|Desika Narayanan et.al.|[2408.13312v1](http://arxiv.org/abs/2408.13312v1)|null|
-|**2024-08-23**|**JacNet: Learning Functions with Structured Jacobians**|Jonathan Lorraine et.al.|[2408.13237v1](http://arxiv.org/abs/2408.13237v1)|null|
-|**2024-08-23**|**Non-unitary limits on different textures for low-scale seesaw models**|Jesús Miguel Celestino-Ramírez et.al.|[2408.13232v1](http://arxiv.org/abs/2408.13232v1)|null|
-|**2024-08-23**|**End-to-end Surface Optimization for Light Control**|Yuou Sun et.al.|[2408.13117v1](http://arxiv.org/abs/2408.13117v1)|null|
-|**2024-08-23**|**Controlled Learning of Pointwise Nonlinearities in Neural-Network-Like Architectures**|Michael Unser et.al.|[2408.13114v1](http://arxiv.org/abs/2408.13114v1)|null|
