@@ -10,8 +10,8 @@
 |**2024-08-28**|**Influence of Yttrium(Y) on properties of Lanthanum Cobalt Oxides**|Mohammad Abu Thaher Chowdhury et.al.|[2408.15798v1](http://arxiv.org/abs/2408.15798v1)|null|
 |**2024-08-28**|**Emergent scalar-chirality \& colossal transverse-magnetoresponse in strongly correlated nodal-line half-metal**|Jyotirmoy Sau et.al.|[2408.15754v1](http://arxiv.org/abs/2408.15754v1)|null|
 |**2024-08-28**|**A Neural Material Point Method for Particle-based Simulations**|Omer Rochman Sharabi et.al.|[2408.15753v1](http://arxiv.org/abs/2408.15753v1)|null|
-|**2024-08-28**|**Strongly interacting fermions are non-trivial yet non-glassy**|Eric R. Anshuetz et.al.|[2408.15699v1](http://arxiv.org/abs/2408.15699v1)|null|
-|**2024-08-28**|**Low abundances of TiO and VO on the Dayside of KELT-9 b: Insights from Ground-Based Photometric Observations**|Yuya Hayashi et.al.|[2408.15698v1](http://arxiv.org/abs/2408.15698v1)|null|
+|**2024-08-28**|**Strongly interacting fermions are non-trivial yet non-glassy**|Eric R. Anschuetz et.al.|[2408.15699v2](http://arxiv.org/abs/2408.15699v2)|null|
+|**2024-08-28**|**Low abundances of TiO and VO on the Dayside of KELT-9 b: Insights from Ground-Based Photometric Observations**|Yuya Hayashi et.al.|[2408.15698v2](http://arxiv.org/abs/2408.15698v2)|null|
 |**2024-08-28**|**Nonreciprocal heat transport in the Kitaev chiral spin liquid**|Yoshiki Sano et.al.|[2408.15564v1](http://arxiv.org/abs/2408.15564v1)|null|
 |**2024-08-28**|**Chirality and non-real elements in $G_2(q)$**|Sushil Bhunia et.al.|[2408.15546v1](http://arxiv.org/abs/2408.15546v1)|null|
 |**2024-08-28**|**Investigating the $p$-$Ω$ Interaction and Correlation Functions**|Ye Yan et.al.|[2408.15493v1](http://arxiv.org/abs/2408.15493v1)|null|

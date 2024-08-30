@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-29 21:20:30 Asia/Shanghai
+ Automated deployment @ 2024-08-30 09:04:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -16,8 +16,8 @@
 |**2024-08-28**|**Influence of Yttrium(Y) on properties of Lanthanum Cobalt Oxides**|Mohammad Abu Thaher Chowdhury et.al.|[2408.15798v1](http://arxiv.org/abs/2408.15798v1)|null|
 |**2024-08-28**|**Emergent scalar-chirality \& colossal transverse-magnetoresponse in strongly correlated nodal-line half-metal**|Jyotirmoy Sau et.al.|[2408.15754v1](http://arxiv.org/abs/2408.15754v1)|null|
 |**2024-08-28**|**A Neural Material Point Method for Particle-based Simulations**|Omer Rochman Sharabi et.al.|[2408.15753v1](http://arxiv.org/abs/2408.15753v1)|null|
-|**2024-08-28**|**Strongly interacting fermions are non-trivial yet non-glassy**|Eric R. Anshuetz et.al.|[2408.15699v1](http://arxiv.org/abs/2408.15699v1)|null|
-|**2024-08-28**|**Low abundances of TiO and VO on the Dayside of KELT-9 b: Insights from Ground-Based Photometric Observations**|Yuya Hayashi et.al.|[2408.15698v1](http://arxiv.org/abs/2408.15698v1)|null|
+|**2024-08-28**|**Strongly interacting fermions are non-trivial yet non-glassy**|Eric R. Anschuetz et.al.|[2408.15699v2](http://arxiv.org/abs/2408.15699v2)|null|
+|**2024-08-28**|**Low abundances of TiO and VO on the Dayside of KELT-9 b: Insights from Ground-Based Photometric Observations**|Yuya Hayashi et.al.|[2408.15698v2](http://arxiv.org/abs/2408.15698v2)|null|
 |**2024-08-28**|**Nonreciprocal heat transport in the Kitaev chiral spin liquid**|Yoshiki Sano et.al.|[2408.15564v1](http://arxiv.org/abs/2408.15564v1)|null|
 |**2024-08-28**|**Chirality and non-real elements in $G_2(q)$**|Sushil Bhunia et.al.|[2408.15546v1](http://arxiv.org/abs/2408.15546v1)|null|
 |**2024-08-28**|**Investigating the $p$-$Ω$ Interaction and Correlation Functions**|Ye Yan et.al.|[2408.15493v1](http://arxiv.org/abs/2408.15493v1)|null|
@@ -45,7 +45,7 @@
 |**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999v1](http://arxiv.org/abs/2408.15999v1)|null|
 |**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998v1](http://arxiv.org/abs/2408.15998v1)|[link](https://github.com/nvlabs/eagle)|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997v1](http://arxiv.org/abs/2408.15997v1)|[link](https://github.com/lunaaa95/mou)|
-|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v1](http://arxiv.org/abs/2408.15996v1)|null|
+|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v2](http://arxiv.org/abs/2408.15996v2)|null|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995v1](http://arxiv.org/abs/2408.15995v1)|null|
 |**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994v1](http://arxiv.org/abs/2408.15994v1)|null|
 |**2024-08-28**|**ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution**|Sungduk Yu et.al.|[2408.15993v1](http://arxiv.org/abs/2408.15993v1)|null|
@@ -63,7 +63,7 @@
 |**2024-08-28**|**In-Context Imitation Learning via Next-Token Prediction**|Letian Fu et.al.|[2408.15980v1](http://arxiv.org/abs/2408.15980v1)|null|
 |**2024-08-28**|**Comparing the Pearson and Spearman Correlation Coefficients Across Distributions and Sample Sizes: A Tutorial Using Simulations and Empirical Data**|J. C. F. de Winter et.al.|[2408.15979v1](http://arxiv.org/abs/2408.15979v1)|null|
 |**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978v1](http://arxiv.org/abs/2408.15978v1)|null|
-|**2024-08-28**|**Weak Distributive Laws between Monads of Continuous Valuations and of Non-Deterministic Choice**|Jean Goubault-Larrecq et.al.|[2408.15977v1](http://arxiv.org/abs/2408.15977v1)|null|
+|**2024-08-28**|**Weak Distributive Laws between Monads of Continuous Valuations and of Non-Deterministic Choice**|Jean Goubault-Larrecq et.al.|[2408.15977v2](http://arxiv.org/abs/2408.15977v2)|null|
 |**2024-08-28**|**VLT/MUSE detection of accretion-ejection associated with the close stellar companion in the HT Lup system**|Sebastián Jorquera et.al.|[2408.15976v1](http://arxiv.org/abs/2408.15976v1)|null|
 |**2024-08-28**|**Stability and localization of nanoscale skyrmions and bimerons in an all-magnetic van der Waals heterostructure**|Dongzhe Li et.al.|[2408.15974v1](http://arxiv.org/abs/2408.15974v1)|null|
 |**2024-08-28**|**Cocoon shock breakout emission from binary neutron star mergers**|Eduardo M. Gutiérrez et.al.|[2408.15973v1](http://arxiv.org/abs/2408.15973v1)|null|
