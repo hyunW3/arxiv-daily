@@ -2,6 +2,21 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-30**|**Linear constellations in primes with arithmetic restrictions**|Christopher Frei et.al.|[2408.17441v1](http://arxiv.org/abs/2408.17441v1)|null|
+|**2024-08-30**|**Weighted Regression with Sybil Networks**|Nihar Shah et.al.|[2408.17426v1](http://arxiv.org/abs/2408.17426v1)|null|
+|**2024-08-30**|**Comparing Propensity Score-Based Methods in Estimating the Treatment Effects: A Simulation Study**|Sara Poletto et.al.|[2408.17385v1](http://arxiv.org/abs/2408.17385v1)|null|
+|**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333v1](http://arxiv.org/abs/2408.17333v1)|null|
+|**2024-08-30**|**Equation identification for fluid flows via physics-informed neural networks**|Alexander New et.al.|[2408.17271v1](http://arxiv.org/abs/2408.17271v1)|null|
+|**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252v1](http://arxiv.org/abs/2408.17252v1)|null|
+|**2024-08-30**|**Inverse source problem for the space-time fractional parabolic equation on a metric star graph with an integral overdetermination condition**|R. R. Ashurov et.al.|[2408.17144v1](http://arxiv.org/abs/2408.17144v1)|null|
+|**2024-08-30**|**Stochastic Vector Approximate Message Passing with applications to phase retrieval**|Hajime Ueda et.al.|[2408.17102v1](http://arxiv.org/abs/2408.17102v1)|null|
+|**2024-08-30**|**Fictitious null spaces for improving the solution of injective inverse problems**|Ole Løseth Elvetun et.al.|[2408.17074v1](http://arxiv.org/abs/2408.17074v1)|null|
+|**2024-08-30**|**Photospheric Pore Rotation Associated with a C-class Flare from Spectropolarimetric Observations with DKIST**|Rahul Yadav et.al.|[2408.16956v1](http://arxiv.org/abs/2408.16956v1)|null|
+|**2024-08-29**|**Non-Monotone Variational Inequalities**|Sina Arefizadeh et.al.|[2408.16918v1](http://arxiv.org/abs/2408.16918v1)|null|
+|**2024-08-29**|**Concentration and mean field approximation results for Markov processes on large networks**|Dániel Keliger et.al.|[2408.16908v1](http://arxiv.org/abs/2408.16908v1)|null|
+|**2024-08-29**|**Stabilization of beam heated plasmas by beam modulation**|Lukas Einkemmer et.al.|[2408.16888v1](http://arxiv.org/abs/2408.16888v1)|null|
+|**2024-08-29**|**The Star Geometry of Critic-Based Regularizer Learning**|Oscar Leong et.al.|[2408.16852v1](http://arxiv.org/abs/2408.16852v1)|null|
+|**2024-08-29**|**Composition, Structure and Origin of the Moon**|Paolo A. Sossi et.al.|[2408.16840v1](http://arxiv.org/abs/2408.16840v1)|null|
 |**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v1](http://arxiv.org/abs/2408.16766v1)|null|
 |**2024-08-29**|**Bipedal locomotion using geometric techniques**|Antonio Losada Gonzalez et.al.|[2408.16726v1](http://arxiv.org/abs/2408.16726v1)|null|
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704v1](http://arxiv.org/abs/2408.16704v1)|null|
@@ -17,18 +32,3 @@
 |**2024-08-29**|**WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**|Shengpeng Ji et.al.|[2408.16532v1](http://arxiv.org/abs/2408.16532v1)|[link](https://github.com/jishengpeng/wavtokenizer)|
 |**2024-08-29**|**MICDrop: Masking Image and Depth Features via Complementary Dropout for Domain-Adaptive Semantic Segmentation**|Linyan Yang et.al.|[2408.16478v1](http://arxiv.org/abs/2408.16478v1)|null|
 |**2024-08-29**|**Emergence of high-mass stars in complex fiber networks (EMERGE) IV. Environmental dependence of the fiber widths**|A. Socci et.al.|[2408.16427v1](http://arxiv.org/abs/2408.16427v1)|null|
-|**2024-08-29**|**Information theory, Signal Analysis and Inverse Problem**|Dominique Gibert et.al.|[2408.16361v1](http://arxiv.org/abs/2408.16361v1)|null|
-|**2024-08-29**|**Half-integral Erdős-Pósa property for non-null $S$-$T$ paths**|Vera Chekan et.al.|[2408.16344v1](http://arxiv.org/abs/2408.16344v1)|null|
-|**2024-08-29**|**Improving Diffusion-based Data Augmentation with Inversion Spherical Interpolation**|Yanghao Wang et.al.|[2408.16266v1](http://arxiv.org/abs/2408.16266v1)|null|
-|**2024-08-29**|**Anchor-Controlled Generative Adversarial Network for High-Fidelity Electromagnetic and Structurally Diverse Metasurface Design**|Yunhui Zeng et.al.|[2408.16231v1](http://arxiv.org/abs/2408.16231v1)|null|
-|**2024-08-29**|**Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products**|Jiayu Liu et.al.|[2408.16201v1](http://arxiv.org/abs/2408.16201v1)|null|
-|**2024-08-28**|**DiffAge3D: Diffusion-based 3D-aware Face Aging**|Junaid Wahid et.al.|[2408.15922v1](http://arxiv.org/abs/2408.15922v1)|null|
-|**2024-08-28**|**Constraints on Acoustic Wave Energy Fluxes and Radiative Losses in the Solar Chromosphere from Non-LTE Inversions**|J. M. da Silva Santos et.al.|[2408.15908v1](http://arxiv.org/abs/2408.15908v1)|null|
-|**2024-08-28**|**Classifying topological floppy modes in the continuum**|Ian Tan et.al.|[2408.15850v1](http://arxiv.org/abs/2408.15850v1)|null|
-|**2024-08-28**|**Electric field induced second-order anomalous Hall transport in unconventional Rashba system**|Ankita Bhattacharya et.al.|[2408.15840v1](http://arxiv.org/abs/2408.15840v1)|null|
-|**2024-08-28**|**Topological inverse Anderson insulator**|Zheng-Wei Zuo et.al.|[2408.15826v1](http://arxiv.org/abs/2408.15826v1)|null|
-|**2024-08-28**|**Influence of Yttrium(Y) on properties of Lanthanum Cobalt Oxides**|Mohammad Abu Thaher Chowdhury et.al.|[2408.15798v1](http://arxiv.org/abs/2408.15798v1)|null|
-|**2024-08-28**|**Emergent scalar-chirality \& colossal transverse-magnetoresponse in strongly correlated nodal-line half-metal**|Jyotirmoy Sau et.al.|[2408.15754v1](http://arxiv.org/abs/2408.15754v1)|null|
-|**2024-08-28**|**A Neural Material Point Method for Particle-based Simulations**|Omer Rochman Sharabi et.al.|[2408.15753v1](http://arxiv.org/abs/2408.15753v1)|null|
-|**2024-08-28**|**Strongly interacting fermions are non-trivial yet non-glassy**|Eric R. Anschuetz et.al.|[2408.15699v2](http://arxiv.org/abs/2408.15699v2)|null|
-|**2024-08-28**|**Low abundances of TiO and VO on the Dayside of KELT-9 b: Insights from Ground-Based Photometric Observations**|Yuya Hayashi et.al.|[2408.15698v2](http://arxiv.org/abs/2408.15698v2)|null|
