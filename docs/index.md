@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-01 21:15:41 Asia/Shanghai
+ Automated deployment @ 2024-09-02 09:05:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -17,7 +17,7 @@
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626v1](http://arxiv.org/abs/2408.16626v1)|null|
 |**2024-08-29**|**Continuous Gaussian mixture solution for linear Bayesian inversion with application to Laplace priors**|Rafael Flock et.al.|[2408.16594v1](http://arxiv.org/abs/2408.16594v1)|null|
 |**2024-08-29**|**Evaporation-driven tear film thinning and breakup in two space dimensions**|Qinying Chen et.al.|[2408.16572v1](http://arxiv.org/abs/2408.16572v1)|null|
-|**2024-08-29**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562v1](http://arxiv.org/abs/2408.16562v1)|null|
+|**2024-08-29**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562v2](http://arxiv.org/abs/2408.16562v2)|null|
 |**2024-08-29**|**Two Dimensional Magnetic Current Imaging Via L1-Curl Regularized Divergence Free Wavelet Reconstruction**|Christopher Miller et.al.|[2408.16550v1](http://arxiv.org/abs/2408.16550v1)|null|
 |**2024-08-29**|**Impact of oxygen fugacity on atmospheric structure and emission spectra of ultra hot rocky exoplanets**|Fabian L. Seidler et.al.|[2408.16548v1](http://arxiv.org/abs/2408.16548v1)|null|
 |**2024-08-29**|**WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**|Shengpeng Ji et.al.|[2408.16532v1](http://arxiv.org/abs/2408.16532v1)|[link](https://github.com/jishengpeng/wavtokenizer)|
@@ -54,7 +54,7 @@
 |**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760v1](http://arxiv.org/abs/2408.16760v1)|null|
 |**2024-08-29**|**Variational approach to atom-membrane dynamics**|Dennis P. Clougherty et.al.|[2408.16759v1](http://arxiv.org/abs/2408.16759v1)|null|
 |**2024-08-29**|**Hypergraph saturation for the bow tie**|Stijn Cambie et.al.|[2408.16758v1](http://arxiv.org/abs/2408.16758v1)|null|
-|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757v1](http://arxiv.org/abs/2408.16757v1)|[link](https://github.com/visual-ai/dissect-ood-osr)|
+|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757v2](http://arxiv.org/abs/2408.16757v2)|[link](https://github.com/visual-ai/dissect-ood-osr)|
 |**2024-08-29**|**How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of Large Language Models**|Jiyue Jiang et.al.|[2408.16756v1](http://arxiv.org/abs/2408.16756v1)|null|
 |**2024-08-29**|**Auricular Vagus Nerve Stimulation for Enhancing Remote Pilot Training and Operations**|William J. Tyler et.al.|[2408.16755v1](http://arxiv.org/abs/2408.16755v1)|null|
 |**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754v1](http://arxiv.org/abs/2408.16754v1)|[link](https://github.com/AdamDHines/LENS)|

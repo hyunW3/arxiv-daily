@@ -11,7 +11,7 @@
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626v1](http://arxiv.org/abs/2408.16626v1)|null|
 |**2024-08-29**|**Continuous Gaussian mixture solution for linear Bayesian inversion with application to Laplace priors**|Rafael Flock et.al.|[2408.16594v1](http://arxiv.org/abs/2408.16594v1)|null|
 |**2024-08-29**|**Evaporation-driven tear film thinning and breakup in two space dimensions**|Qinying Chen et.al.|[2408.16572v1](http://arxiv.org/abs/2408.16572v1)|null|
-|**2024-08-29**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562v1](http://arxiv.org/abs/2408.16562v1)|null|
+|**2024-08-29**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562v2](http://arxiv.org/abs/2408.16562v2)|null|
 |**2024-08-29**|**Two Dimensional Magnetic Current Imaging Via L1-Curl Regularized Divergence Free Wavelet Reconstruction**|Christopher Miller et.al.|[2408.16550v1](http://arxiv.org/abs/2408.16550v1)|null|
 |**2024-08-29**|**Impact of oxygen fugacity on atmospheric structure and emission spectra of ultra hot rocky exoplanets**|Fabian L. Seidler et.al.|[2408.16548v1](http://arxiv.org/abs/2408.16548v1)|null|
 |**2024-08-29**|**WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**|Shengpeng Ji et.al.|[2408.16532v1](http://arxiv.org/abs/2408.16532v1)|[link](https://github.com/jishengpeng/wavtokenizer)|
