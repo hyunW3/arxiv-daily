@@ -9,7 +9,7 @@
 |**2024-08-30**|**Equation identification for fluid flows via physics-informed neural networks**|Alexander New et.al.|[2408.17271v1](http://arxiv.org/abs/2408.17271v1)|null|
 |**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252v1](http://arxiv.org/abs/2408.17252v1)|null|
 |**2024-08-30**|**Inverse source problem for the space-time fractional parabolic equation on a metric star graph with an integral overdetermination condition**|R. R. Ashurov et.al.|[2408.17144v1](http://arxiv.org/abs/2408.17144v1)|null|
-|**2024-08-30**|**Stochastic Vector Approximate Message Passing with applications to phase retrieval**|Hajime Ueda et.al.|[2408.17102v1](http://arxiv.org/abs/2408.17102v1)|null|
+|**2024-08-30**|**Stochastic Vector Approximate Message Passing with applications to phase retrieval**|Hajime Ueda et.al.|[2408.17102v2](http://arxiv.org/abs/2408.17102v2)|null|
 |**2024-08-30**|**Fictitious null spaces for improving the solution of injective inverse problems**|Ole Løseth Elvetun et.al.|[2408.17074v1](http://arxiv.org/abs/2408.17074v1)|null|
 |**2024-08-30**|**Photospheric Pore Rotation Associated with a C-class Flare from Spectropolarimetric Observations with DKIST**|Rahul Yadav et.al.|[2408.16956v1](http://arxiv.org/abs/2408.16956v1)|null|
 |**2024-08-29**|**Non-Monotone Variational Inequalities**|Sina Arefizadeh et.al.|[2408.16918v1](http://arxiv.org/abs/2408.16918v1)|null|
@@ -31,4 +31,4 @@
 |**2024-08-29**|**Impact of oxygen fugacity on atmospheric structure and emission spectra of ultra hot rocky exoplanets**|Fabian L. Seidler et.al.|[2408.16548v1](http://arxiv.org/abs/2408.16548v1)|null|
 |**2024-08-29**|**WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**|Shengpeng Ji et.al.|[2408.16532v1](http://arxiv.org/abs/2408.16532v1)|[link](https://github.com/jishengpeng/wavtokenizer)|
 |**2024-08-29**|**MICDrop: Masking Image and Depth Features via Complementary Dropout for Domain-Adaptive Semantic Segmentation**|Linyan Yang et.al.|[2408.16478v1](http://arxiv.org/abs/2408.16478v1)|null|
-|**2024-08-29**|**Emergence of high-mass stars in complex fiber networks (EMERGE) IV. Environmental dependence of the fiber widths**|A. Socci et.al.|[2408.16427v1](http://arxiv.org/abs/2408.16427v1)|null|
+|**2024-08-29**|**Direct finiteness of representable regular rings with involution: A counterexample**|Christian Herrmann et.al.|[2408.16437v2](http://arxiv.org/abs/2408.16437v2)|null|
