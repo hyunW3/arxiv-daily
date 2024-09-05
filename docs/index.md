@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-04 21:25:25 Asia/Shanghai
+ Automated deployment @ 2024-09-05 09:04:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -9,7 +9,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-30**|**Linear constellations in primes with arithmetic restrictions**|Christopher Frei et.al.|[2408.17441v1](http://arxiv.org/abs/2408.17441v1)|null|
-|**2024-08-30**|**Weighted Regression with Sybil Networks**|Nihar Shah et.al.|[2408.17426v1](http://arxiv.org/abs/2408.17426v1)|null|
+|**2024-08-30**|**Weighted Regression with Sybil Networks**|Nihar Shah et.al.|[2408.17426v2](http://arxiv.org/abs/2408.17426v2)|null|
 |**2024-08-30**|**Comparing Propensity Score-Based Methods in Estimating the Treatment Effects: A Simulation Study**|Sara Poletto et.al.|[2408.17385v1](http://arxiv.org/abs/2408.17385v1)|null|
 |**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333v1](http://arxiv.org/abs/2408.17333v1)|null|
 |**2024-08-30**|**Equation identification for fluid flows via physics-informed neural networks**|Alexander New et.al.|[2408.17271v1](http://arxiv.org/abs/2408.17271v1)|null|
@@ -23,7 +23,7 @@
 |**2024-08-29**|**Stabilization of beam heated plasmas by beam modulation**|Lukas Einkemmer et.al.|[2408.16888v1](http://arxiv.org/abs/2408.16888v1)|null|
 |**2024-08-29**|**The Star Geometry of Critic-Based Regularizer Learning**|Oscar Leong et.al.|[2408.16852v1](http://arxiv.org/abs/2408.16852v1)|null|
 |**2024-08-29**|**Composition, Structure and Origin of the Moon**|Paolo A. Sossi et.al.|[2408.16840v1](http://arxiv.org/abs/2408.16840v1)|null|
-|**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v1](http://arxiv.org/abs/2408.16766v1)|null|
+|**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v2](http://arxiv.org/abs/2408.16766v2)|null|
 |**2024-08-29**|**Bipedal locomotion using geometric techniques**|Antonio Losada Gonzalez et.al.|[2408.16726v1](http://arxiv.org/abs/2408.16726v1)|null|
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704v1](http://arxiv.org/abs/2408.16704v1)|null|
 |**2024-08-29**|**Enhancing precision thermometry with nonlinear qubits**|Sebastian Deffner et.al.|[2408.16664v1](http://arxiv.org/abs/2408.16664v1)|null|
@@ -35,7 +35,7 @@
 |**2024-08-29**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562v2](http://arxiv.org/abs/2408.16562v2)|null|
 |**2024-08-29**|**Two Dimensional Magnetic Current Imaging Via L1-Curl Regularized Divergence Free Wavelet Reconstruction**|Christopher Miller et.al.|[2408.16550v1](http://arxiv.org/abs/2408.16550v1)|null|
 |**2024-08-29**|**Impact of oxygen fugacity on atmospheric structure and emission spectra of ultra hot rocky exoplanets**|Fabian L. Seidler et.al.|[2408.16548v1](http://arxiv.org/abs/2408.16548v1)|null|
-|**2024-08-29**|**WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**|Shengpeng Ji et.al.|[2408.16532v1](http://arxiv.org/abs/2408.16532v1)|[link](https://github.com/jishengpeng/wavtokenizer)|
+|**2024-08-29**|**WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**|Shengpeng Ji et.al.|[2408.16532v1](http://arxiv.org/abs/2408.16532v1)|null|
 |**2024-08-29**|**MICDrop: Masking Image and Depth Features via Complementary Dropout for Domain-Adaptive Semantic Segmentation**|Linyan Yang et.al.|[2408.16478v1](http://arxiv.org/abs/2408.16478v1)|null|
 |**2024-08-29**|**Direct finiteness of representable regular rings with involution: A counterexample**|Christian Herrmann et.al.|[2408.16437v2](http://arxiv.org/abs/2408.16437v2)|null|
 
@@ -67,7 +67,7 @@
 |**2024-08-30**|**Neural network-based closure models for large-eddy simulations with explicit filtering**|Mark Benjamin et.al.|[2408.17429v1](http://arxiv.org/abs/2408.17429v1)|null|
 |**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428v1](http://arxiv.org/abs/2408.17428v1)|null|
 |**2024-08-30**|**Frequency-Dependent Conductivity of Concentrated Electrolytes: A Stochastic Density Functional Theory**|Haggai Bonneau et.al.|[2408.17427v1](http://arxiv.org/abs/2408.17427v1)|null|
-|**2024-08-30**|**Weighted Regression with Sybil Networks**|Nihar Shah et.al.|[2408.17426v1](http://arxiv.org/abs/2408.17426v1)|null|
+|**2024-08-30**|**Weighted Regression with Sybil Networks**|Nihar Shah et.al.|[2408.17426v2](http://arxiv.org/abs/2408.17426v2)|null|
 |**2024-08-30**|**Detecting cluster patterns in tensor data**|Peter A. Brooksbank et.al.|[2408.17425v1](http://arxiv.org/abs/2408.17425v1)|null|
 |**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424v1](http://arxiv.org/abs/2408.17424v1)|null|
 |**2024-08-30**|**Corrections to Hawking radiation from asteroid-mass primordial black holes: Numerical evaluation of dissipative effects**|Emily Koivu et.al.|[2408.17423v1](http://arxiv.org/abs/2408.17423v1)|null|
