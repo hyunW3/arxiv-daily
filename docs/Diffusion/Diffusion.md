@@ -24,7 +24,7 @@
 |**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032v1](http://arxiv.org/abs/2409.03032v1)|null|
 |**2024-09-04**|**Rigid-Body Attitude Control on $\mathsf{SO(3)}$ using Nonlinear Dynamic Inversion**|Hafiz Zeeshan Iqbal Khan et.al.|[2409.03028v1](http://arxiv.org/abs/2409.03028v1)|null|
 |**2024-09-04**|**Signatures of high-redshift galactic outflows in the thermal Sunyaev Zel'dovich effect**|Guochao Sun et.al.|[2409.02988v1](http://arxiv.org/abs/2409.02988v1)|null|
-|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919v1](http://arxiv.org/abs/2409.02919v1)|[link](https://github.com/Liuxinyv/HiPrompt)|
+|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919v2](http://arxiv.org/abs/2409.02919v2)|[link](https://github.com/Liuxinyv/HiPrompt)|
 |**2024-09-04**|**Theoretical modelling of the exceptional GRB 221009A afterglow**|L. Foffano et.al.|[2409.02859v1](http://arxiv.org/abs/2409.02859v1)|null|
 |**2024-09-04**|**Efficient Simulation of 1D Long-Range Interacting Systems at Any Temperature**|Rakesh Achutha et.al.|[2409.02819v1](http://arxiv.org/abs/2409.02819v1)|null|
 |**2024-09-04**|**Hong-Ou-Mandel Interference in a temporal-average-inversion-symmetric chain**|Shi Hu et.al.|[2409.02767v1](http://arxiv.org/abs/2409.02767v1)|null|
