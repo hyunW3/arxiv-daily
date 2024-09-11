@@ -2,6 +2,23 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-10**|**Classifying Functions via growth rates of repeated iterations**|Titus Hilberdink et.al.|[2409.06661v1](http://arxiv.org/abs/2409.06661v1)|null|
+|**2024-09-10**|**A Primer on Variational Inference for Physics-Informed Deep Generative Modelling**|Alex Glyn-Davies et.al.|[2409.06560v1](http://arxiv.org/abs/2409.06560v1)|null|
+|**2024-09-10**|**A Novel Ternary Evolving Estimator for Positioning Unmanned Aerial Vehicle in Harsh Environments**|Kaiwen Xiong et.al.|[2409.06501v1](http://arxiv.org/abs/2409.06501v1)|null|
+|**2024-09-10**|**Learning local and semi-local density functionals from exact exchange-correlation potentials and energies**|Bikash Kanungo et.al.|[2409.06498v1](http://arxiv.org/abs/2409.06498v1)|null|
+|**2024-09-10**|**Exploring the Parameter Space of Inflation Model on the Brane and its Compatibility with the Swampland Conjectures**|Saeed Noori Gashti et.al.|[2409.06488v1](http://arxiv.org/abs/2409.06488v1)|null|
+|**2024-09-10**|**A spiral sampling method for calculating the complex orbital angular momentum spectrum**|Zheng Han et.al.|[2409.06430v1](http://arxiv.org/abs/2409.06430v1)|null|
+|**2024-09-10**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385v1](http://arxiv.org/abs/2409.06385v1)|null|
+|**2024-09-10**|**Proposal to Observe Transverse Sound in Normal Liquid $^3$He in Aerogel**|Priya Sharma et.al.|[2409.06363v1](http://arxiv.org/abs/2409.06363v1)|null|
+|**2024-09-10**|**On semitopological simple inverse $ω$-semigroups with compact maximal subgroups**|Oleg Gutik et.al.|[2409.06344v1](http://arxiv.org/abs/2409.06344v1)|null|
+|**2024-09-10**|**Inverse design of Mie resonators with minimal backscattering**|Vladimir Igoshin et.al.|[2409.06331v1](http://arxiv.org/abs/2409.06331v1)|null|
+|**2024-09-10**|**Lipschitz Stability of an Inverse Problem of Transmission Waves with Variable Jumps**|L Baudouin et.al.|[2409.06260v1](http://arxiv.org/abs/2409.06260v1)|null|
+|**2024-09-10**|**Denoising: A Powerful Building-Block for Imaging, Inverse Problems, and Machine Learning**|Peyman Milanfar et.al.|[2409.06219v1](http://arxiv.org/abs/2409.06219v1)|null|
+|**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191v1](http://arxiv.org/abs/2409.06191v1)|null|
+|**2024-09-10**|**A Policy Iteration Method for Inverse Mean Field Games**|Kui Ren et.al.|[2409.06184v1](http://arxiv.org/abs/2409.06184v1)|null|
+|**2024-09-09**|**Reduced-order modeling for complex 3D seismic wave propagation**|John M. Rekoske et.al.|[2409.06102v1](http://arxiv.org/abs/2409.06102v1)|null|
+|**2024-09-09**|**Optimal Distillation of Coherent States with Phase-Insensitive Operations**|Shiv Akshar Yadavalli et.al.|[2409.05974v1](http://arxiv.org/abs/2409.05974v1)|null|
+|**2024-09-09**|**RUBIES: a complete census of the bright and red distant Universe with JWST/NIRSpec**|Anna de Graaff et.al.|[2409.05948v1](http://arxiv.org/abs/2409.05948v1)|null|
 |**2024-09-09**|**Flash Cache: Reducing Bias in Radiance Cache Based Inverse Rendering**|Benjamin Attal et.al.|[2409.05867v1](http://arxiv.org/abs/2409.05867v1)|null|
 |**2024-09-09**|**Dynamics of interacting particles on a rhombus chain: Aharonov-Bohm caging and inverse Anderson transition**|Sitaram Maity et.al.|[2409.05853v1](http://arxiv.org/abs/2409.05853v1)|null|
 |**2024-09-09**|**Jaynes-Cummings model in a unitary fractional-time description**|Danilo Cius et.al.|[2409.05841v1](http://arxiv.org/abs/2409.05841v1)|null|
@@ -15,20 +32,3 @@
 |**2024-09-09**|**Fast Computation of Kemeny's Constant for Directed Graphs**|Haisong Xia et.al.|[2409.05471v1](http://arxiv.org/abs/2409.05471v1)|null|
 |**2024-09-09**|**Differential Inversion of the Implicit Euler Method: Symbolic Analysis**|Uwe Naumann et.al.|[2409.05445v1](http://arxiv.org/abs/2409.05445v1)|null|
 |**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399v1](http://arxiv.org/abs/2409.05399v1)|null|
-|**2024-09-09**|**Well-posedness of the time-periodic Jordan-Moore-Gibson-Thompson equation**|Barbara Kaltenbacher et.al.|[2409.05355v1](http://arxiv.org/abs/2409.05355v1)|null|
-|**2024-09-09**|**Full Stokes-vector inversion of the solar Mg II h & k lines**|Hao Li et.al.|[2409.05328v1](http://arxiv.org/abs/2409.05328v1)|null|
-|**2024-09-09**|**Continuous Relaxation of Discontinuous Shrinkage Operator: Proximal Inclusion and Conversion**|Masahiro Yukawa et.al.|[2409.05316v1](http://arxiv.org/abs/2409.05316v1)|null|
-|**2024-09-09**|**Complex structure on quantum-braided planes**|Edwin Beggs et.al.|[2409.05253v1](http://arxiv.org/abs/2409.05253v1)|null|
-|**2024-09-08**|**Transverse-freeness in finite geometries**|Charlie Bruggemann et.al.|[2409.05248v1](http://arxiv.org/abs/2409.05248v1)|null|
-|**2024-09-08**|**Inner Product Free Krylov Methods for Large-Scale Inverse Problems**|Ariana N. Brown et.al.|[2409.05239v1](http://arxiv.org/abs/2409.05239v1)|null|
-|**2024-09-08**|**Infinite-Length Limit of Spectral Curves and Inverse Scattering**|Niklas Beisert et.al.|[2409.05228v1](http://arxiv.org/abs/2409.05228v1)|null|
-|**2024-09-08**|**Exploring spectropolarimetric inversions using neural fields. Solar chromospheric magnetic field under the weak-field approximation**|C. J. Díaz Baso et.al.|[2409.05156v1](http://arxiv.org/abs/2409.05156v1)|null|
-|**2024-09-08**|**Testing the tomographic Fermi liquid hypothesis with high-order cyclotron resonance**|Ilia Moiseenko et.al.|[2409.05147v1](http://arxiv.org/abs/2409.05147v1)|null|
-|**2024-09-08**|**Inverse cascade in zonal flows**|Siddhant Mishra et.al.|[2409.05127v1](http://arxiv.org/abs/2409.05127v1)|null|
-|**2024-09-08**|**Error estimates of the Euler's method for stochastic differential equations with multiplicative noise via relative entropy**|Lei Li et.al.|[2409.04991v1](http://arxiv.org/abs/2409.04991v1)|null|
-|**2024-09-08**|**Online learning of eddy-viscosity and backscattering closures for geophysical turbulence using ensemble Kalman inversion**|Yifei Guan et.al.|[2409.04985v1](http://arxiv.org/abs/2409.04985v1)|null|
-|**2024-09-08**|**2DSig-Detect: a semi-supervised framework for anomaly detection on image data using 2D-signatures**|Xinheng Xie et.al.|[2409.04982v1](http://arxiv.org/abs/2409.04982v1)|null|
-|**2024-09-08**|**Stochastic gradient descent method with convex penalty for ill-posed problems in Banach spaces**|Ruixue Gu et.al.|[2409.04973v1](http://arxiv.org/abs/2409.04973v1)|null|
-|**2024-09-07**|**Direct Sampling for recovering a clamped cavity from biharmonic far field data**|Isaac Harris et.al.|[2409.04870v1](http://arxiv.org/abs/2409.04870v1)|null|
-|**2024-09-07**|**Simulation and optimization of computed torque control 3 DOF RRR manipulator using MATLAB**|Md Saad et.al.|[2409.04785v1](http://arxiv.org/abs/2409.04785v1)|null|
-|**2024-09-07**|**Cross-Dataset Gaze Estimation by Evidential Inter-intra Fusion**|Shijing Wang et.al.|[2409.04766v1](http://arxiv.org/abs/2409.04766v1)|null|
