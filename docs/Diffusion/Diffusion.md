@@ -11,7 +11,7 @@
 |**2024-09-09**|**Robust Estimation of Structural Orientation Parameters and 2D/3D Local Anisotropic Tikhonov Regularization**|Ali Gholami et.al.|[2409.05754v1](http://arxiv.org/abs/2409.05754v1)|null|
 |**2024-09-09**|**Uniform Estimation and Inference for Nonparametric Partitioning-Based M-Estimators**|Matias D. Cattaneo et.al.|[2409.05715v1](http://arxiv.org/abs/2409.05715v1)|null|
 |**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701v1](http://arxiv.org/abs/2409.05701v1)|null|
-|**2024-09-09**|**A framework to compute resonances arising from multiple scattering**|Jan David Fischbach et.al.|[2409.05563v1](http://arxiv.org/abs/2409.05563v1)|null|
+|**2024-09-09**|**A framework to compute resonances arising from multiple scattering**|Jan David Fischbach et.al.|[2409.05563v2](http://arxiv.org/abs/2409.05563v2)|null|
 |**2024-09-09**|**Fast Computation of Kemeny's Constant for Directed Graphs**|Haisong Xia et.al.|[2409.05471v1](http://arxiv.org/abs/2409.05471v1)|null|
 |**2024-09-09**|**Differential Inversion of the Implicit Euler Method: Symbolic Analysis**|Uwe Naumann et.al.|[2409.05445v1](http://arxiv.org/abs/2409.05445v1)|null|
 |**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399v1](http://arxiv.org/abs/2409.05399v1)|null|

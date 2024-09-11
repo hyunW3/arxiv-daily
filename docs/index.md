@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-10 20:59:44 Asia/Shanghai
+ Automated deployment @ 2024-09-11 09:05:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -17,7 +17,7 @@
 |**2024-09-09**|**Robust Estimation of Structural Orientation Parameters and 2D/3D Local Anisotropic Tikhonov Regularization**|Ali Gholami et.al.|[2409.05754v1](http://arxiv.org/abs/2409.05754v1)|null|
 |**2024-09-09**|**Uniform Estimation and Inference for Nonparametric Partitioning-Based M-Estimators**|Matias D. Cattaneo et.al.|[2409.05715v1](http://arxiv.org/abs/2409.05715v1)|null|
 |**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701v1](http://arxiv.org/abs/2409.05701v1)|null|
-|**2024-09-09**|**A framework to compute resonances arising from multiple scattering**|Jan David Fischbach et.al.|[2409.05563v1](http://arxiv.org/abs/2409.05563v1)|null|
+|**2024-09-09**|**A framework to compute resonances arising from multiple scattering**|Jan David Fischbach et.al.|[2409.05563v2](http://arxiv.org/abs/2409.05563v2)|null|
 |**2024-09-09**|**Fast Computation of Kemeny's Constant for Directed Graphs**|Haisong Xia et.al.|[2409.05471v1](http://arxiv.org/abs/2409.05471v1)|null|
 |**2024-09-09**|**Differential Inversion of the Implicit Euler Method: Symbolic Analysis**|Uwe Naumann et.al.|[2409.05445v1](http://arxiv.org/abs/2409.05445v1)|null|
 |**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399v1](http://arxiv.org/abs/2409.05399v1)|null|
@@ -47,7 +47,7 @@
 |**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865v1](http://arxiv.org/abs/2409.05865v1)|null|
 |**2024-09-09**|**Neural MP: A Generalist Neural Motion Planner**|Murtaza Dalal et.al.|[2409.05864v1](http://arxiv.org/abs/2409.05864v1)|null|
 |**2024-09-09**|**Promptable Closed-loop Traffic Simulation**|Shuhan Tan et.al.|[2409.05863v1](http://arxiv.org/abs/2409.05863v1)|null|
-|**2024-09-09**|**Evaluating Multiview Object Consistency in Humans and Image Models**|Tyler Bonnen et.al.|[2409.05862v1](http://arxiv.org/abs/2409.05862v1)|[link](https://github.com/tzler/mochi_code)|
+|**2024-09-09**|**Evaluating Multiview Object Consistency in Humans and Image Models**|Tyler Bonnen et.al.|[2409.05862v2](http://arxiv.org/abs/2409.05862v2)|[link](https://github.com/tzler/mochi_code)|
 |**2024-09-09**|**Effective spin dynamics of spin-orbit coupled matter-wave solitons in optical lattices**|Kajal Krishna Dey et.al.|[2409.05861v1](http://arxiv.org/abs/2409.05861v1)|null|
 |**2024-09-09**|**Nonlinear Gravitational Radiation Reaction: Failed Tail, Memories & Squares**|Rafael A. Porto et.al.|[2409.05860v1](http://arxiv.org/abs/2409.05860v1)|null|
 |**2024-09-09**|**Asymptotically conformal CFL quark matter within a nonlocal chiral quark model**|Oleksii Ivanytskyi et.al.|[2409.05859v1](http://arxiv.org/abs/2409.05859v1)|null|
@@ -66,7 +66,7 @@
 |**2024-09-09**|**Algorithms for complementary sequences**|Chai Wah Wu et.al.|[2409.05844v1](http://arxiv.org/abs/2409.05844v1)|null|
 |**2024-09-09**|**Optimizing Vehicular Users Association in Urban Mobile Networks**|Geymerson S. Ramos et.al.|[2409.05845v1](http://arxiv.org/abs/2409.05845v1)|null|
 |**2024-09-09**|**Fast quantum gates for exchange-only qubits using simultaneous exchange pulses**|Irina Heinz et.al.|[2409.05843v1](http://arxiv.org/abs/2409.05843v1)|null|
-|**2024-09-09**|**Finite-size topological phases from semimetals**|Adipta Pal et.al.|[2409.05842v1](http://arxiv.org/abs/2409.05842v1)|null|
+|**2024-09-09**|**Finite-size topological phases from semimetals**|Adipta Pal et.al.|[2409.05842v2](http://arxiv.org/abs/2409.05842v2)|null|
 |**2024-09-09**|**Jaynes-Cummings model in a unitary fractional-time description**|Danilo Cius et.al.|[2409.05841v1](http://arxiv.org/abs/2409.05841v1)|null|
 |**2024-09-09**|**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**|Run Luo et.al.|[2409.05840v1](http://arxiv.org/abs/2409.05840v1)|null|
 |**2024-09-09**|**Recognizing molecular chirality via twisted 2D materials**|Lorenzo Cavicchi et.al.|[2409.05839v1](http://arxiv.org/abs/2409.05839v1)|null|
