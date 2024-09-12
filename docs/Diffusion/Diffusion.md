@@ -8,14 +8,14 @@
 |**2024-09-10**|**Learning local and semi-local density functionals from exact exchange-correlation potentials and energies**|Bikash Kanungo et.al.|[2409.06498v1](http://arxiv.org/abs/2409.06498v1)|null|
 |**2024-09-10**|**Exploring the Parameter Space of Inflation Model on the Brane and its Compatibility with the Swampland Conjectures**|Saeed Noori Gashti et.al.|[2409.06488v1](http://arxiv.org/abs/2409.06488v1)|null|
 |**2024-09-10**|**A spiral sampling method for calculating the complex orbital angular momentum spectrum**|Zheng Han et.al.|[2409.06430v1](http://arxiv.org/abs/2409.06430v1)|null|
-|**2024-09-10**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385v1](http://arxiv.org/abs/2409.06385v1)|null|
+|**2024-09-10**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385v2](http://arxiv.org/abs/2409.06385v2)|null|
 |**2024-09-10**|**Proposal to Observe Transverse Sound in Normal Liquid $^3$He in Aerogel**|Priya Sharma et.al.|[2409.06363v1](http://arxiv.org/abs/2409.06363v1)|null|
 |**2024-09-10**|**On semitopological simple inverse $ω$-semigroups with compact maximal subgroups**|Oleg Gutik et.al.|[2409.06344v1](http://arxiv.org/abs/2409.06344v1)|null|
 |**2024-09-10**|**Inverse design of Mie resonators with minimal backscattering**|Vladimir Igoshin et.al.|[2409.06331v1](http://arxiv.org/abs/2409.06331v1)|null|
 |**2024-09-10**|**Lipschitz Stability of an Inverse Problem of Transmission Waves with Variable Jumps**|L Baudouin et.al.|[2409.06260v1](http://arxiv.org/abs/2409.06260v1)|null|
 |**2024-09-10**|**Denoising: A Powerful Building-Block for Imaging, Inverse Problems, and Machine Learning**|Peyman Milanfar et.al.|[2409.06219v1](http://arxiv.org/abs/2409.06219v1)|null|
 |**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191v1](http://arxiv.org/abs/2409.06191v1)|null|
-|**2024-09-10**|**A Policy Iteration Method for Inverse Mean Field Games**|Kui Ren et.al.|[2409.06184v1](http://arxiv.org/abs/2409.06184v1)|null|
+|**2024-09-10**|**A Policy Iteration Method for Inverse Mean Field Games**|Kui Ren et.al.|[2409.06184v2](http://arxiv.org/abs/2409.06184v2)|null|
 |**2024-09-09**|**Reduced-order modeling for complex 3D seismic wave propagation**|John M. Rekoske et.al.|[2409.06102v1](http://arxiv.org/abs/2409.06102v1)|null|
 |**2024-09-09**|**Optimal Distillation of Coherent States with Phase-Insensitive Operations**|Shiv Akshar Yadavalli et.al.|[2409.05974v1](http://arxiv.org/abs/2409.05974v1)|null|
 |**2024-09-09**|**RUBIES: a complete census of the bright and red distant Universe with JWST/NIRSpec**|Anna de Graaff et.al.|[2409.05948v1](http://arxiv.org/abs/2409.05948v1)|null|

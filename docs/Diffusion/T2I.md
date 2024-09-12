@@ -22,7 +22,7 @@
 |**2024-09-10**|**Stabilization of a two-dimensional quantum electron solid in perpendicular magnetic fields**|M. Yu. Melnikov et.al.|[2409.06686v1](http://arxiv.org/abs/2409.06686v1)|null|
 |**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685v1](http://arxiv.org/abs/2409.06685v1)|null|
 |**2024-09-10**|**Entanglement transfer during quantum frequency conversion in gas-filled hollow-core fibers**|Tasio Gonzalez-Raya et.al.|[2409.06684v1](http://arxiv.org/abs/2409.06684v1)|null|
-|**2024-09-10**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683v1](http://arxiv.org/abs/2409.06683v1)|null|
+|**2024-09-10**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683v2](http://arxiv.org/abs/2409.06683v2)|null|
 |**2024-09-10**|**Black hole scattering amplitudes via analytic small-frequency expansion and monodromy**|Gleb Aminov et.al.|[2409.06681v1](http://arxiv.org/abs/2409.06681v1)|null|
 |**2024-09-10**|**Sequential stratified inference for the mean**|Jacob V. Spertus et.al.|[2409.06680v1](http://arxiv.org/abs/2409.06680v1)|null|
 |**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679v1](http://arxiv.org/abs/2409.06679v1)|null|

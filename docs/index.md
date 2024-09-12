@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-11 21:25:09 Asia/Shanghai
+ Automated deployment @ 2024-09-12 09:05:23 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -14,14 +14,14 @@
 |**2024-09-10**|**Learning local and semi-local density functionals from exact exchange-correlation potentials and energies**|Bikash Kanungo et.al.|[2409.06498v1](http://arxiv.org/abs/2409.06498v1)|null|
 |**2024-09-10**|**Exploring the Parameter Space of Inflation Model on the Brane and its Compatibility with the Swampland Conjectures**|Saeed Noori Gashti et.al.|[2409.06488v1](http://arxiv.org/abs/2409.06488v1)|null|
 |**2024-09-10**|**A spiral sampling method for calculating the complex orbital angular momentum spectrum**|Zheng Han et.al.|[2409.06430v1](http://arxiv.org/abs/2409.06430v1)|null|
-|**2024-09-10**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385v1](http://arxiv.org/abs/2409.06385v1)|null|
+|**2024-09-10**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385v2](http://arxiv.org/abs/2409.06385v2)|null|
 |**2024-09-10**|**Proposal to Observe Transverse Sound in Normal Liquid $^3$He in Aerogel**|Priya Sharma et.al.|[2409.06363v1](http://arxiv.org/abs/2409.06363v1)|null|
 |**2024-09-10**|**On semitopological simple inverse $ω$-semigroups with compact maximal subgroups**|Oleg Gutik et.al.|[2409.06344v1](http://arxiv.org/abs/2409.06344v1)|null|
 |**2024-09-10**|**Inverse design of Mie resonators with minimal backscattering**|Vladimir Igoshin et.al.|[2409.06331v1](http://arxiv.org/abs/2409.06331v1)|null|
 |**2024-09-10**|**Lipschitz Stability of an Inverse Problem of Transmission Waves with Variable Jumps**|L Baudouin et.al.|[2409.06260v1](http://arxiv.org/abs/2409.06260v1)|null|
 |**2024-09-10**|**Denoising: A Powerful Building-Block for Imaging, Inverse Problems, and Machine Learning**|Peyman Milanfar et.al.|[2409.06219v1](http://arxiv.org/abs/2409.06219v1)|null|
 |**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191v1](http://arxiv.org/abs/2409.06191v1)|null|
-|**2024-09-10**|**A Policy Iteration Method for Inverse Mean Field Games**|Kui Ren et.al.|[2409.06184v1](http://arxiv.org/abs/2409.06184v1)|null|
+|**2024-09-10**|**A Policy Iteration Method for Inverse Mean Field Games**|Kui Ren et.al.|[2409.06184v2](http://arxiv.org/abs/2409.06184v2)|null|
 |**2024-09-09**|**Reduced-order modeling for complex 3D seismic wave propagation**|John M. Rekoske et.al.|[2409.06102v1](http://arxiv.org/abs/2409.06102v1)|null|
 |**2024-09-09**|**Optimal Distillation of Coherent States with Phase-Insensitive Operations**|Shiv Akshar Yadavalli et.al.|[2409.05974v1](http://arxiv.org/abs/2409.05974v1)|null|
 |**2024-09-09**|**RUBIES: a complete census of the bright and red distant Universe with JWST/NIRSpec**|Anna de Graaff et.al.|[2409.05948v1](http://arxiv.org/abs/2409.05948v1)|null|
@@ -62,7 +62,7 @@
 |**2024-09-10**|**Stabilization of a two-dimensional quantum electron solid in perpendicular magnetic fields**|M. Yu. Melnikov et.al.|[2409.06686v1](http://arxiv.org/abs/2409.06686v1)|null|
 |**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685v1](http://arxiv.org/abs/2409.06685v1)|null|
 |**2024-09-10**|**Entanglement transfer during quantum frequency conversion in gas-filled hollow-core fibers**|Tasio Gonzalez-Raya et.al.|[2409.06684v1](http://arxiv.org/abs/2409.06684v1)|null|
-|**2024-09-10**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683v1](http://arxiv.org/abs/2409.06683v1)|null|
+|**2024-09-10**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683v2](http://arxiv.org/abs/2409.06683v2)|null|
 |**2024-09-10**|**Black hole scattering amplitudes via analytic small-frequency expansion and monodromy**|Gleb Aminov et.al.|[2409.06681v1](http://arxiv.org/abs/2409.06681v1)|null|
 |**2024-09-10**|**Sequential stratified inference for the mean**|Jacob V. Spertus et.al.|[2409.06680v1](http://arxiv.org/abs/2409.06680v1)|null|
 |**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679v1](http://arxiv.org/abs/2409.06679v1)|null|
