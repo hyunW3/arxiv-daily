@@ -2,6 +2,22 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-11**|**Efficient One-Step Diffusion Refinement for Snapshot Compressive Imaging**|Yunzhen Wang et.al.|[2409.07417v1](http://arxiv.org/abs/2409.07417v1)|null|
+|**2024-09-11**|**Hofstadter Butterflies in Topological Insulators**|Larry Li et.al.|[2409.07383v1](http://arxiv.org/abs/2409.07383v1)|null|
+|**2024-09-11**|**$^{61}$Cr as a Doorway to the N = 40 Island of Inversion**|L. Lalanne et.al.|[2409.07324v1](http://arxiv.org/abs/2409.07324v1)|null|
+|**2024-09-11**|**Exploring User-level Gradient Inversion with a Diffusion Prior**|Zhuohang Li et.al.|[2409.07291v1](http://arxiv.org/abs/2409.07291v1)|null|
+|**2024-09-11**|**Photospheric signatures of CME onset**|Aslam Ottupara et.al.|[2409.07261v1](http://arxiv.org/abs/2409.07261v1)|null|
+|**2024-09-11**|**Estimating neural connection strengths from firing intervals**|Maren Bråthen Kristoffersen et.al.|[2409.07241v1](http://arxiv.org/abs/2409.07241v1)|null|
+|**2024-09-11**|**Nernst Plateau in the Quantum Limit of Topological Insulators**|Peng-Lu Zhao et.al.|[2409.07199v1](http://arxiv.org/abs/2409.07199v1)|null|
+|**2024-09-11**|**Resummed spin hydrodynamics from quantum kinetic theory**|David Wagner et.al.|[2409.07143v1](http://arxiv.org/abs/2409.07143v1)|null|
+|**2024-09-11**|**Statistical Finite Elements via Interacting Particle Langevin Dynamics**|Alex Glyn-Davies et.al.|[2409.07101v1](http://arxiv.org/abs/2409.07101v1)|null|
+|**2024-09-11**|**A Reynolds-semi-robust and pressure robust Hybrid High-Order method for the time dependent incompressible Navier--Stokes equations on general meshes**|Daniel Castanon Quiroz et.al.|[2409.07037v1](http://arxiv.org/abs/2409.07037v1)|null|
+|**2024-09-11**|**$M$-QR decomposition and hyperpower iterative methods for computing outer inverses of tensors**|Ratikanta Behera et.al.|[2409.07007v1](http://arxiv.org/abs/2409.07007v1)|null|
+|**2024-09-10**|**Attosecond Inner-Shell Lasing at Angstrom Wavelengths**|Thomas M. Linker et.al.|[2409.06914v1](http://arxiv.org/abs/2409.06914v1)|null|
+|**2024-09-10**|**RATNUS: Rapid, Automatic Thalamic Nuclei Segmentation using Multimodal MRI inputs**|Anqi Feng et.al.|[2409.06897v1](http://arxiv.org/abs/2409.06897v1)|null|
+|**2024-09-10**|**Stratospheric aerosol source inversion: Noise, variability, and uncertainty quantification**|J. Hart et.al.|[2409.06846v1](http://arxiv.org/abs/2409.06846v1)|null|
+|**2024-09-10**|**Uncertainty Quantification in Seismic Inversion Through Integrated Importance Sampling and Ensemble Methods**|Luping Qu et.al.|[2409.06840v1](http://arxiv.org/abs/2409.06840v1)|null|
+|**2024-09-10**|**A Liang-Kleeman Causality Analysis based on Linear Inverse Modeling**|Justin Lien et.al.|[2409.06797v1](http://arxiv.org/abs/2409.06797v1)|null|
 |**2024-09-10**|**Classifying Functions via growth rates of repeated iterations**|Titus Hilberdink et.al.|[2409.06661v1](http://arxiv.org/abs/2409.06661v1)|null|
 |**2024-09-10**|**A Primer on Variational Inference for Physics-Informed Deep Generative Modelling**|Alex Glyn-Davies et.al.|[2409.06560v1](http://arxiv.org/abs/2409.06560v1)|null|
 |**2024-09-10**|**A Novel Ternary Evolving Estimator for Positioning Unmanned Aerial Vehicle in Harsh Environments**|Kaiwen Xiong et.al.|[2409.06501v1](http://arxiv.org/abs/2409.06501v1)|null|
@@ -16,19 +32,3 @@
 |**2024-09-10**|**Denoising: A Powerful Building-Block for Imaging, Inverse Problems, and Machine Learning**|Peyman Milanfar et.al.|[2409.06219v1](http://arxiv.org/abs/2409.06219v1)|null|
 |**2024-09-10**|**VQCrystal: Leveraging Vector Quantization for Discovery of Stable Crystal Structures**|ZiJie Qiu et.al.|[2409.06191v1](http://arxiv.org/abs/2409.06191v1)|null|
 |**2024-09-10**|**A Policy Iteration Method for Inverse Mean Field Games**|Kui Ren et.al.|[2409.06184v2](http://arxiv.org/abs/2409.06184v2)|null|
-|**2024-09-09**|**Reduced-order modeling for complex 3D seismic wave propagation**|John M. Rekoske et.al.|[2409.06102v1](http://arxiv.org/abs/2409.06102v1)|null|
-|**2024-09-09**|**Optimal Distillation of Coherent States with Phase-Insensitive Operations**|Shiv Akshar Yadavalli et.al.|[2409.05974v1](http://arxiv.org/abs/2409.05974v1)|null|
-|**2024-09-09**|**RUBIES: a complete census of the bright and red distant Universe with JWST/NIRSpec**|Anna de Graaff et.al.|[2409.05948v1](http://arxiv.org/abs/2409.05948v1)|null|
-|**2024-09-09**|**Flash Cache: Reducing Bias in Radiance Cache Based Inverse Rendering**|Benjamin Attal et.al.|[2409.05867v1](http://arxiv.org/abs/2409.05867v1)|null|
-|**2024-09-09**|**Dynamics of interacting particles on a rhombus chain: Aharonov-Bohm caging and inverse Anderson transition**|Sitaram Maity et.al.|[2409.05853v1](http://arxiv.org/abs/2409.05853v1)|null|
-|**2024-09-09**|**Jaynes-Cummings model in a unitary fractional-time description**|Danilo Cius et.al.|[2409.05841v1](http://arxiv.org/abs/2409.05841v1)|null|
-|**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798v1](http://arxiv.org/abs/2409.05798v1)|null|
-|**2024-09-09**|**A refinement of the multinomial distribution with application**|Andrew V. Sills et.al.|[2409.05788v1](http://arxiv.org/abs/2409.05788v1)|null|
-|**2024-09-09**|**How to unravel the nature of the $Σ^*(1430) (1/2^-)$ state from correlation functions**|Hai-Peng Li et.al.|[2409.05787v1](http://arxiv.org/abs/2409.05787v1)|null|
-|**2024-09-09**|**Robust Estimation of Structural Orientation Parameters and 2D/3D Local Anisotropic Tikhonov Regularization**|Ali Gholami et.al.|[2409.05754v1](http://arxiv.org/abs/2409.05754v1)|null|
-|**2024-09-09**|**Uniform Estimation and Inference for Nonparametric Partitioning-Based M-Estimators**|Matias D. Cattaneo et.al.|[2409.05715v1](http://arxiv.org/abs/2409.05715v1)|null|
-|**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701v1](http://arxiv.org/abs/2409.05701v1)|null|
-|**2024-09-09**|**A framework to compute resonances arising from multiple scattering**|Jan David Fischbach et.al.|[2409.05563v2](http://arxiv.org/abs/2409.05563v2)|null|
-|**2024-09-09**|**Fast Computation of Kemeny's Constant for Directed Graphs**|Haisong Xia et.al.|[2409.05471v1](http://arxiv.org/abs/2409.05471v1)|null|
-|**2024-09-09**|**Differential Inversion of the Implicit Euler Method: Symbolic Analysis**|Uwe Naumann et.al.|[2409.05445v1](http://arxiv.org/abs/2409.05445v1)|null|
-|**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399v1](http://arxiv.org/abs/2409.05399v1)|null|
