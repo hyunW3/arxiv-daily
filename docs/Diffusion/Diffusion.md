@@ -8,7 +8,7 @@
 |**2024-09-11**|**Exploring User-level Gradient Inversion with a Diffusion Prior**|Zhuohang Li et.al.|[2409.07291v1](http://arxiv.org/abs/2409.07291v1)|null|
 |**2024-09-11**|**Photospheric signatures of CME onset**|Aslam Ottupara et.al.|[2409.07261v1](http://arxiv.org/abs/2409.07261v1)|null|
 |**2024-09-11**|**Estimating neural connection strengths from firing intervals**|Maren Bråthen Kristoffersen et.al.|[2409.07241v1](http://arxiv.org/abs/2409.07241v1)|null|
-|**2024-09-11**|**Nernst Plateau in the Quantum Limit of Topological Insulators**|Peng-Lu Zhao et.al.|[2409.07199v1](http://arxiv.org/abs/2409.07199v1)|null|
+|**2024-09-11**|**Nernst Plateau in the Quantum Limit of Topological Insulators**|Peng-Lu Zhao et.al.|[2409.07199v2](http://arxiv.org/abs/2409.07199v2)|null|
 |**2024-09-11**|**Resummed spin hydrodynamics from quantum kinetic theory**|David Wagner et.al.|[2409.07143v1](http://arxiv.org/abs/2409.07143v1)|null|
 |**2024-09-11**|**Statistical Finite Elements via Interacting Particle Langevin Dynamics**|Alex Glyn-Davies et.al.|[2409.07101v1](http://arxiv.org/abs/2409.07101v1)|null|
 |**2024-09-11**|**A Reynolds-semi-robust and pressure robust Hybrid High-Order method for the time dependent incompressible Navier--Stokes equations on general meshes**|Daniel Castanon Quiroz et.al.|[2409.07037v1](http://arxiv.org/abs/2409.07037v1)|null|
