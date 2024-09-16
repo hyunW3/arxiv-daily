@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-15 21:15:53 Asia/Shanghai
+ Automated deployment @ 2024-09-16 09:09:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -35,7 +35,7 @@
 |**2024-09-11**|**Dyonic bound states**|Anson Hook et.al.|[2409.07549v1](http://arxiv.org/abs/2409.07549v1)|null|
 |**2024-09-11**|**Identifying sea and valence quarks in a magnetically driven catalysis**|Daniel Kosoi et.al.|[2409.07531v1](http://arxiv.org/abs/2409.07531v1)|null|
 |**2024-09-11**|**Charge Susceptibility and Kubo Response in Hatsugai-Kohmoto-related Models**|Yuhao Ma et.al.|[2409.07522v1](http://arxiv.org/abs/2409.07522v1)|null|
-|**2024-09-11**|**Anomalous Ionization in the Central Molecular Zone by sub-GeV Dark Matter**|Pedro De la Torre Luque et.al.|[2409.07515v1](http://arxiv.org/abs/2409.07515v1)|null|
+|**2024-09-11**|**Anomalous Ionization in the Central Molecular Zone by sub-GeV Dark Matter**|Pedro De la Torre Luque et.al.|[2409.07515v2](http://arxiv.org/abs/2409.07515v2)|null|
 |**2024-09-11**|**Variational wavefunction for Mott insulator at finite $U$ using ancilla qubits**|Boran Zhou et.al.|[2409.07512v1](http://arxiv.org/abs/2409.07512v1)|null|
 |**2024-09-11**|**Efficient One-Step Diffusion Refinement for Snapshot Compressive Imaging**|Yunzhen Wang et.al.|[2409.07417v1](http://arxiv.org/abs/2409.07417v1)|null|
 
@@ -57,7 +57,7 @@
 |**2024-09-12**|**Generalized Komar charges and Smarr formulas for black holes and boson stars**|Romina Ballesteros et.al.|[2409.08268v1](http://arxiv.org/abs/2409.08268v1)|null|
 |**2024-09-12**|**CROSS: A Contributor-Project Interaction Lifecycle Model for Open Source Software**|Tapajit Dey et.al.|[2409.08267v1](http://arxiv.org/abs/2409.08267v1)|null|
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264v1](http://arxiv.org/abs/2409.08264v1)|[link](https://github.com/microsoft/windowsagentarena)|
-|**2024-09-12**|**Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas**|Mohsen Bagherimehrab et.al.|[2409.08265v1](http://arxiv.org/abs/2409.08265v1)|null|
+|**2024-09-12**|**Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas**|Mohsen Bagherimehrab et.al.|[2409.08265v2](http://arxiv.org/abs/2409.08265v2)|null|
 |**2024-09-12**|**Digital twin of a large-aspect-ratio Rayleigh-Bénard experiment: Role of thermal boundary conditions, measurement errors and uncertainties**|Philipp Patrick Vieweg et.al.|[2409.08263v1](http://arxiv.org/abs/2409.08263v1)|null|
 |**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262v1](http://arxiv.org/abs/2409.08262v1)|[link](https://github.com/paulhausner/neural-incomplete-factorization)|
 |**2024-09-12**|**Toric mirror monodromies and Lagrangian spheres**|Vivek Shende et.al.|[2409.08261v1](http://arxiv.org/abs/2409.08261v1)|null|
@@ -68,7 +68,7 @@
 |**2024-09-12**|**Multi-period railway line planning for integrated passenger-freight transportation**|Wanru Chen et.al.|[2409.08256v1](http://arxiv.org/abs/2409.08256v1)|null|
 |**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255v1](http://arxiv.org/abs/2409.08255v1)|null|
 |**2024-09-12**|**The Retrieved Atmospheric Properties of the Sub-stellar Object VHS 1256 b from Analyzing HST, VLT and JWST Spectra**|Anna Lueber et.al.|[2409.08254v1](http://arxiv.org/abs/2409.08254v1)|null|
-|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253v1](http://arxiv.org/abs/2409.08253v1)|null|
+|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253v2](http://arxiv.org/abs/2409.08253v2)|null|
 |**2024-09-12**|**HST Proper Motion of Andromeda III: Another Satellite Co-orbiting The M31 Satellite Plane**|Dana I. Casetti-Dinescu et.al.|[2409.08252v1](http://arxiv.org/abs/2409.08252v1)|null|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251v1](http://arxiv.org/abs/2409.08251v1)|null|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250v1](http://arxiv.org/abs/2409.08250v1)|null|

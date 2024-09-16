@@ -29,6 +29,6 @@
 |**2024-09-11**|**Dyonic bound states**|Anson Hook et.al.|[2409.07549v1](http://arxiv.org/abs/2409.07549v1)|null|
 |**2024-09-11**|**Identifying sea and valence quarks in a magnetically driven catalysis**|Daniel Kosoi et.al.|[2409.07531v1](http://arxiv.org/abs/2409.07531v1)|null|
 |**2024-09-11**|**Charge Susceptibility and Kubo Response in Hatsugai-Kohmoto-related Models**|Yuhao Ma et.al.|[2409.07522v1](http://arxiv.org/abs/2409.07522v1)|null|
-|**2024-09-11**|**Anomalous Ionization in the Central Molecular Zone by sub-GeV Dark Matter**|Pedro De la Torre Luque et.al.|[2409.07515v1](http://arxiv.org/abs/2409.07515v1)|null|
+|**2024-09-11**|**Anomalous Ionization in the Central Molecular Zone by sub-GeV Dark Matter**|Pedro De la Torre Luque et.al.|[2409.07515v2](http://arxiv.org/abs/2409.07515v2)|null|
 |**2024-09-11**|**Variational wavefunction for Mott insulator at finite $U$ using ancilla qubits**|Boran Zhou et.al.|[2409.07512v1](http://arxiv.org/abs/2409.07512v1)|null|
 |**2024-09-11**|**Efficient One-Step Diffusion Refinement for Snapshot Compressive Imaging**|Yunzhen Wang et.al.|[2409.07417v1](http://arxiv.org/abs/2409.07417v1)|null|
