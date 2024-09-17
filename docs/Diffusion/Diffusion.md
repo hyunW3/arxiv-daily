@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476v1](http://arxiv.org/abs/2409.10476v1)|null|
+|**2024-09-16**|**Trade-off relations between quantum coherence and measure of many-body localization**|Arti Garg et.al.|[2409.10449v1](http://arxiv.org/abs/2409.10449v1)|null|
+|**2024-09-16**|**Stochastic Control of UAVs: An Optimal Tradeoff between Performance, Flight Smoothness and Control Effort**|George Rapakoulias et.al.|[2409.10369v1](http://arxiv.org/abs/2409.10369v1)|null|
+|**2024-09-16**|**Phys3DGS: Physically-based 3D Gaussian Splatting for Inverse Rendering**|Euntae Choi et.al.|[2409.10335v1](http://arxiv.org/abs/2409.10335v1)|null|
+|**2024-09-16**|**Identifying activity induced RV periodicities and correlations using Central Line Moments**|J. R. Barnes et.al.|[2409.10306v1](http://arxiv.org/abs/2409.10306v1)|null|
+|**2024-09-16**|**Controllability and Inverse Problems for Parabolic Systems with Dynamic Boundary Conditions**|S. E. Chorfi et.al.|[2409.10302v1](http://arxiv.org/abs/2409.10302v1)|null|
+|**2024-09-16**|**Atomic Norm Minimization-based DoA Estimation for IRS-assisted Sensing Systems**|Renwang Li et.al.|[2409.09982v1](http://arxiv.org/abs/2409.09982v1)|null|
+|**2024-09-16**|**Josephson diodes induced by the loop current states**|Qi-Kai Shen et.al.|[2409.09938v1](http://arxiv.org/abs/2409.09938v1)|null|
+|**2024-09-15**|**Proximal Ranking Policy Optimization for Practical Safety in Counterfactual Learning to Rank**|Shashank Gupta et.al.|[2409.09881v1](http://arxiv.org/abs/2409.09881v1)|null|
+|**2024-09-15**|**Topology and geometry of the general composition of formal power series - towards Fréchet-Lie group-like formalism**|Dawid Bugajewski et.al.|[2409.09853v1](http://arxiv.org/abs/2409.09853v1)|null|
+|**2024-09-15**|**Efficient 3D Bayesian Full Waveform Inversion and Analysis of Prior Hypotheses**|Xuebin Zhao et.al.|[2409.09746v1](http://arxiv.org/abs/2409.09746v1)|null|
+|**2024-09-15**|**Crystal Structure Determination via Inverse EXAFS Analysis: A Comparative Study Utilizing the Demeter Software Package**|Osman Murat Ozkendir et.al.|[2409.09693v1](http://arxiv.org/abs/2409.09693v1)|null|
+|**2024-09-15**|**On the critical finite-size gap scaling for frustration-free Hamiltonians**|Marius Lemm et.al.|[2409.09685v1](http://arxiv.org/abs/2409.09685v1)|null|
+|**2024-09-15**|**Improving parameters estimation in Gaussian channels using quantum coherence**|Jonas F. G. Santos et.al.|[2409.09675v1](http://arxiv.org/abs/2409.09675v1)|null|
+|**2024-09-15**|**Conditional sampling within generative diffusion models**|Zheng Zhao et.al.|[2409.09650v1](http://arxiv.org/abs/2409.09650v1)|[link](https://github.com/spdes/gdcs)|
+|**2024-09-15**|**HJ-sampler: A Bayesian sampler for inverse problems of a stochastic process by leveraging Hamilton-Jacobi PDEs and score-based generative models**|Tingwei Meng et.al.|[2409.09614v1](http://arxiv.org/abs/2409.09614v1)|null|
+|**2024-09-15**|**Learning Transferable Features for Implicit Neural Representations**|Kushal Vyas et.al.|[2409.09566v1](http://arxiv.org/abs/2409.09566v1)|null|
+|**2024-09-14**|**Graph-Based Signal Sampling with Adaptive Subspace Reconstruction for Spatially-Irregular Sensor Data**|Darukeesan Pakiyarajah et.al.|[2409.09526v1](http://arxiv.org/abs/2409.09526v1)|null|
+|**2024-09-14**|**Neumann Series-based Neural Operator for Solving Inverse Medium Problem**|Ziyang Liu et.al.|[2409.09480v1](http://arxiv.org/abs/2409.09480v1)|null|
+|**2024-09-14**|**Integrating Deep Unfolding with Direct Diffusion Bridges for Computed Tomography Reconstruction**|Herman Verinaz-Jadan et.al.|[2409.09477v1](http://arxiv.org/abs/2409.09477v1)|null|
+|**2024-09-14**|**Zipf's law in the distribution of Brazilian firm size**|Thiago Trafane Oliveira Santos et.al.|[2409.09470v1](http://arxiv.org/abs/2409.09470v1)|null|
+|**2024-09-14**|**Two-grid convergence theory for symmetric positive semidefinite linear systems**|Xuefeng Xu et.al.|[2409.09442v1](http://arxiv.org/abs/2409.09442v1)|null|
+|**2024-09-14**|**Factorization method for inverse elastic cavity scattering**|Shuxin Li et.al.|[2409.09434v1](http://arxiv.org/abs/2409.09434v1)|null|
+|**2024-09-14**|**Characterization of the Eigenvalues and Eigenfunctions of the Helmholtz Newtonian operator N^k**|Zhe Wang et.al.|[2409.09394v1](http://arxiv.org/abs/2409.09394v1)|null|
+|**2024-09-14**|**Microlocal inversion of a restricted mixed ray transform for second-order tensor fields in $\mathbb{R}^3$**|Chandni Thakkar et.al.|[2409.09341v1](http://arxiv.org/abs/2409.09341v1)|null|
+|**2024-09-13**|**Spectral U-Net: Enhancing Medical Image Segmentation via Spectral Decomposition**|Yaopeng Peng et.al.|[2409.09216v1](http://arxiv.org/abs/2409.09216v1)|null|
+|**2024-09-13**|**Robust optimal design of large-scale Bayesian nonlinear inverse problems**|Abhijit Chowdhary et.al.|[2409.09137v1](http://arxiv.org/abs/2409.09137v1)|null|
+|**2024-09-13**|**Production and magnetic self-confinement of $e^-e^+$ plasma by an extremely intense laser pulse incident on a structured solid target**|Alexander Samsonov et.al.|[2409.09131v1](http://arxiv.org/abs/2409.09131v1)|null|
+|**2024-09-13**|**Knobs and dials of retrieving JWST transmission spectra. I. The importance of p-T profile complexity**|Simon Schleich et.al.|[2409.09127v1](http://arxiv.org/abs/2409.09127v1)|null|
 |**2024-09-13**|**Inverse Spin Hall Effect in Nonequilibrium Dirac Systems Induced by Anomalous Flow Imbalance**|Hung-Hsuan Teh et.al.|[2409.09025v1](http://arxiv.org/abs/2409.09025v1)|null|
-|**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021v1](http://arxiv.org/abs/2409.09021v1)|null|
-|**2024-09-13**|**PINNfluence: Influence Functions for Physics-Informed Neural Networks**|Jonas R. Naujoks et.al.|[2409.08958v1](http://arxiv.org/abs/2409.08958v1)|[link](https://github.com/aleks-krasowski/PINNfluence)|
-|**2024-09-13**|**Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling**|Nebiyou Yismaw et.al.|[2409.08906v1](http://arxiv.org/abs/2409.08906v1)|null|
-|**2024-09-13**|**Inferring hyperuniformity from local structures via persistent homology**|Abel H. G. Milor et.al.|[2409.08899v1](http://arxiv.org/abs/2409.08899v1)|null|
-|**2024-09-13**|**The Fundamental Subspaces of Ensemble Kalman Inversion**|Elizabeth Qian et.al.|[2409.08862v1](http://arxiv.org/abs/2409.08862v1)|null|
-|**2024-09-13**|**Les squelettes accessibles d'un espace de Berkovich**|Antoine Ducros et.al.|[2409.08755v1](http://arxiv.org/abs/2409.08755v1)|null|
-|**2024-09-13**|**Tilted Solid-On-Solid is liquid: scaling limit of SOS with a potential on a slope**|Benoît Laslier et.al.|[2409.08745v1](http://arxiv.org/abs/2409.08745v1)|null|
-|**2024-09-13**|**Computation of $M$-QDR decomposition of tensors and applications**|Krushnachandra Panigrahy et.al.|[2409.08743v1](http://arxiv.org/abs/2409.08743v1)|null|
-|**2024-09-13**|**Applications of multiscale hierarchical decomposition to blind deconvolution**|Tobias Wolf et.al.|[2409.08734v1](http://arxiv.org/abs/2409.08734v1)|null|
-|**2024-09-13**|**GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction**|Siyu Li et.al.|[2409.08688v1](http://arxiv.org/abs/2409.08688v1)|[link](https://github.com/lynn-yu/genmapping)|
-|**2024-09-13**|**Shadow Program Inversion with Differentiable Planning: A Framework for Unified Robot Program Parameter and Trajectory Optimization**|Benjamin Alt et.al.|[2409.08678v1](http://arxiv.org/abs/2409.08678v1)|[link](https://github.com/benjaminalt/dgpmp2-nd)|
-|**2024-09-13**|**Space Charge and Future Light Sources**|S. A. Antipov et.al.|[2409.08637v1](http://arxiv.org/abs/2409.08637v1)|null|
-|**2024-09-13**|**Think Twice Before You Act: Improving Inverse Problem Solving With MCMC**|Yaxuan Zhu et.al.|[2409.08551v1](http://arxiv.org/abs/2409.08551v1)|null|
-|**2024-09-13**|**Phaseless uniqueness for determining internal source in photo-thermal effect**|Li-Ping Deng et.al.|[2409.08532v1](http://arxiv.org/abs/2409.08532v1)|null|
-|**2024-09-13**|**Lecture note on inverse problems and reconstruction methods**|Manabu Machida et.al.|[2409.08505v2](http://arxiv.org/abs/2409.08505v2)|null|
-|**2024-09-12**|**Learning Generalized Statistical Mechanics with Matrix Product States**|Pablo Díez-Valle et.al.|[2409.08352v1](http://arxiv.org/abs/2409.08352v1)|null|
-|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351v1](http://arxiv.org/abs/2409.08351v1)|null|
-|**2024-09-12**|**Mixed precision iterative refinement for linear inverse problems**|James G. Nagy et.al.|[2409.08335v1](http://arxiv.org/abs/2409.08335v1)|null|
-|**2024-09-12**|**Towards Online Safety Corrections for Robotic Manipulation Policies**|Ariana Spalter et.al.|[2409.08233v1](http://arxiv.org/abs/2409.08233v1)|null|
-|**2024-09-12**|**Adaptive Language-Guided Abstraction from Contrastive Explanations**|Andi Peng et.al.|[2409.08212v2](http://arxiv.org/abs/2409.08212v2)|null|
-|**2024-09-12**|**Machine Learning for Two-Sample Testing under Right-Censored Data: A Simulation Study**|Petr Philonenko et.al.|[2409.08201v1](http://arxiv.org/abs/2409.08201v1)|[link](https://github.com/pfilonenko/ml_for_twosampletesting)|
-|**2024-09-12**|**Trends and biases in the social cost of carbon**|Richard S. J. Tol et.al.|[2409.08158v1](http://arxiv.org/abs/2409.08158v1)|null|
-|**2024-09-12**|**MagicStyle: Portrait Stylization Based on Reference Image**|Zhaoli Deng et.al.|[2409.08156v1](http://arxiv.org/abs/2409.08156v1)|null|
-|**2024-09-12**|**Probing the radiation-dominated regime of laser-plasma interaction in multi-beam configurations of petawatt lasers**|T. Liseykina et.al.|[2409.08134v1](http://arxiv.org/abs/2409.08134v1)|null|
-|**2024-09-12**|**Large inverse Faraday effect for Rydberg states of free atoms and isolated donors in semiconductors**|Patrick J. Wong et.al.|[2409.08088v1](http://arxiv.org/abs/2409.08088v1)|null|
-|**2024-09-12**|**Digging deeper into NGC 6868 II: ionized gas and excitation mechanism**|João P. V. Benedetti et.al.|[2409.08047v1](http://arxiv.org/abs/2409.08047v1)|null|
-|**2024-09-12**|**Threshold displacement energies in refractory high-entropy alloys**|Jesper Byggmästar et.al.|[2409.08030v1](http://arxiv.org/abs/2409.08030v1)|null|
-|**2024-09-12**|**Learning Causally Invariant Reward Functions from Diverse Demonstrations**|Ivan Ovinnikov et.al.|[2409.08012v1](http://arxiv.org/abs/2409.08012v1)|null|
-|**2024-09-12**|**Quantum Inverse Fast Fourier Transform**|Mayank Roy et.al.|[2409.07983v1](http://arxiv.org/abs/2409.07983v1)|null|
