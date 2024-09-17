@@ -22,7 +22,7 @@
 |**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351v1](http://arxiv.org/abs/2409.08351v1)|null|
 |**2024-09-12**|**Mixed precision iterative refinement for linear inverse problems**|James G. Nagy et.al.|[2409.08335v1](http://arxiv.org/abs/2409.08335v1)|null|
 |**2024-09-12**|**Towards Online Safety Corrections for Robotic Manipulation Policies**|Ariana Spalter et.al.|[2409.08233v1](http://arxiv.org/abs/2409.08233v1)|null|
-|**2024-09-12**|**Adaptive Language-Guided Abstraction from Contrastive Explanations**|Andi Peng et.al.|[2409.08212v1](http://arxiv.org/abs/2409.08212v1)|null|
+|**2024-09-12**|**Adaptive Language-Guided Abstraction from Contrastive Explanations**|Andi Peng et.al.|[2409.08212v2](http://arxiv.org/abs/2409.08212v2)|null|
 |**2024-09-12**|**Machine Learning for Two-Sample Testing under Right-Censored Data: A Simulation Study**|Petr Philonenko et.al.|[2409.08201v1](http://arxiv.org/abs/2409.08201v1)|[link](https://github.com/pfilonenko/ml_for_twosampletesting)|
 |**2024-09-12**|**Trends and biases in the social cost of carbon**|Richard S. J. Tol et.al.|[2409.08158v1](http://arxiv.org/abs/2409.08158v1)|null|
 |**2024-09-12**|**MagicStyle: Portrait Stylization Based on Reference Image**|Zhaoli Deng et.al.|[2409.08156v1](http://arxiv.org/abs/2409.08156v1)|null|
