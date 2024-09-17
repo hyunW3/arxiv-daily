@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-17 08:55:05 Asia/Shanghai
+ Automated deployment @ 2024-09-17 09:50:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -35,7 +35,7 @@
 |**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007v1](http://arxiv.org/abs/2409.09007v1)|[link](https://github.com/qitianwu/sgformer)|
 |**2024-09-13**|**Dunkl and Cherednik operators**|Oleg Chalykh et.al.|[2409.09005v1](http://arxiv.org/abs/2409.09005v1)|null|
 |**2024-09-13**|**Turbo Equalization with Coarse Quantization using the Information Bottleneck Method**|Philipp Mohr et.al.|[2409.09004v1](http://arxiv.org/abs/2409.09004v1)|null|
-|**2024-09-13**|**Model-independent variable selection via the rule-based variable priorit**|Min Lu et.al.|[2409.09003v1](http://arxiv.org/abs/2409.09003v1)|null|
+|**2024-09-13**|**Model-independent variable selection via the rule-based variable priority**|Min Lu et.al.|[2409.09003v2](http://arxiv.org/abs/2409.09003v2)|null|
 |**2024-09-13**|**Enigmatic 2+6/13 Filling Factor: A Prototype Intermittent Topological State**|Sudipto Das et.al.|[2409.09002v1](http://arxiv.org/abs/2409.09002v1)|null|
 |**2024-09-13**|**E2MoCase: A Dataset for Emotional, Event and Moral Observations in News Articles on High-impact Legal Cases**|Candida M. Greco et.al.|[2409.09001v1](http://arxiv.org/abs/2409.09001v1)|null|
 
@@ -57,7 +57,7 @@
 |**2024-09-13**|**Space Charge and Future Light Sources**|S. A. Antipov et.al.|[2409.08637v1](http://arxiv.org/abs/2409.08637v1)|null|
 |**2024-09-13**|**Think Twice Before You Act: Improving Inverse Problem Solving With MCMC**|Yaxuan Zhu et.al.|[2409.08551v1](http://arxiv.org/abs/2409.08551v1)|null|
 |**2024-09-13**|**Phaseless uniqueness for determining internal source in photo-thermal effect**|Li-Ping Deng et.al.|[2409.08532v1](http://arxiv.org/abs/2409.08532v1)|null|
-|**2024-09-13**|**Lecture note on inverse problems and reconstruction methods**|Manabu Machida et.al.|[2409.08505v1](http://arxiv.org/abs/2409.08505v1)|null|
+|**2024-09-13**|**Lecture note on inverse problems and reconstruction methods**|Manabu Machida et.al.|[2409.08505v2](http://arxiv.org/abs/2409.08505v2)|null|
 |**2024-09-12**|**Learning Generalized Statistical Mechanics with Matrix Product States**|Pablo Díez-Valle et.al.|[2409.08352v1](http://arxiv.org/abs/2409.08352v1)|null|
 |**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351v1](http://arxiv.org/abs/2409.08351v1)|null|
 |**2024-09-12**|**Mixed precision iterative refinement for linear inverse problems**|James G. Nagy et.al.|[2409.08335v1](http://arxiv.org/abs/2409.08335v1)|null|

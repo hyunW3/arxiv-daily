@@ -17,7 +17,7 @@
 |**2024-09-13**|**Space Charge and Future Light Sources**|S. A. Antipov et.al.|[2409.08637v1](http://arxiv.org/abs/2409.08637v1)|null|
 |**2024-09-13**|**Think Twice Before You Act: Improving Inverse Problem Solving With MCMC**|Yaxuan Zhu et.al.|[2409.08551v1](http://arxiv.org/abs/2409.08551v1)|null|
 |**2024-09-13**|**Phaseless uniqueness for determining internal source in photo-thermal effect**|Li-Ping Deng et.al.|[2409.08532v1](http://arxiv.org/abs/2409.08532v1)|null|
-|**2024-09-13**|**Lecture note on inverse problems and reconstruction methods**|Manabu Machida et.al.|[2409.08505v1](http://arxiv.org/abs/2409.08505v1)|null|
+|**2024-09-13**|**Lecture note on inverse problems and reconstruction methods**|Manabu Machida et.al.|[2409.08505v2](http://arxiv.org/abs/2409.08505v2)|null|
 |**2024-09-12**|**Learning Generalized Statistical Mechanics with Matrix Product States**|Pablo Díez-Valle et.al.|[2409.08352v1](http://arxiv.org/abs/2409.08352v1)|null|
 |**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351v1](http://arxiv.org/abs/2409.08351v1)|null|
 |**2024-09-12**|**Mixed precision iterative refinement for linear inverse problems**|James G. Nagy et.al.|[2409.08335v1](http://arxiv.org/abs/2409.08335v1)|null|
