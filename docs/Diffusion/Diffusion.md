@@ -22,7 +22,7 @@
 |**2024-09-14**|**Graph-Based Signal Sampling with Adaptive Subspace Reconstruction for Spatially-Irregular Sensor Data**|Darukeesan Pakiyarajah et.al.|[2409.09526v1](http://arxiv.org/abs/2409.09526v1)|null|
 |**2024-09-14**|**Neumann Series-based Neural Operator for Solving Inverse Medium Problem**|Ziyang Liu et.al.|[2409.09480v1](http://arxiv.org/abs/2409.09480v1)|null|
 |**2024-09-14**|**Integrating Deep Unfolding with Direct Diffusion Bridges for Computed Tomography Reconstruction**|Herman Verinaz-Jadan et.al.|[2409.09477v1](http://arxiv.org/abs/2409.09477v1)|null|
-|**2024-09-14**|**Zipf's law in the distribution of Brazilian firm size**|Thiago Trafane Oliveira Santos et.al.|[2409.09470v1](http://arxiv.org/abs/2409.09470v1)|null|
+|**2024-09-14**|**Zipf's law in the distribution of Brazilian firm size**|Thiago Trafane Oliveira Santos et.al.|[2409.09470v2](http://arxiv.org/abs/2409.09470v2)|null|
 |**2024-09-14**|**Two-grid convergence theory for symmetric positive semidefinite linear systems**|Xuefeng Xu et.al.|[2409.09442v1](http://arxiv.org/abs/2409.09442v1)|null|
 |**2024-09-14**|**Factorization method for inverse elastic cavity scattering**|Shuxin Li et.al.|[2409.09434v1](http://arxiv.org/abs/2409.09434v1)|null|
 |**2024-09-14**|**Characterization of the Eigenvalues and Eigenfunctions of the Helmholtz Newtonian operator N^k**|Zhe Wang et.al.|[2409.09394v1](http://arxiv.org/abs/2409.09394v1)|null|
