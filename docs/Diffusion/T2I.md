@@ -23,7 +23,7 @@
 |**2024-09-17**|**Giant magnetocrystalline anisotropy energy in Fe--Co alloy under uniaxial compression: first-principles prediction**|Wojciech Marciniak et.al.|[2409.11388v1](http://arxiv.org/abs/2409.11388v1)|null|
 |**2024-09-17**|**Rigidity of equivariant Schubert classes**|Anders S. Buch et.al.|[2409.11387v1](http://arxiv.org/abs/2409.11387v1)|null|
 |**2024-09-17**|**Pauli form factor contributions to the inelastic proton bremsstrahlung and dark photon production**|Dmitry Gorbunov et.al.|[2409.11386v1](http://arxiv.org/abs/2409.11386v1)|null|
-|**2024-09-17**|**Probability-scale residuals for event-time data**|Eric S. Kawaguchi et.al.|[2409.11385v1](http://arxiv.org/abs/2409.11385v1)|null|
+|**2024-09-17**|**Probability-scale residuals for event-time data**|Eric S. Kawaguchi et.al.|[2409.11385v2](http://arxiv.org/abs/2409.11385v2)|null|
 |**2024-09-17**|**Large Deviations Principle for Bures-Wasserstein Barycenters**|Adam Quinn Jaffe et.al.|[2409.11384v1](http://arxiv.org/abs/2409.11384v1)|null|
 |**2024-09-17**|**Training Datasets Generation for Machine Learning: Application to Vision Based Navigation**|Jérémy Lebreton et.al.|[2409.11383v1](http://arxiv.org/abs/2409.11383v1)|null|
 |**2024-09-17**|**A lattice Boltzmann method for Biot's consolidation model of linear poroelasticity**|Stephan B. Lunowa et.al.|[2409.11382v1](http://arxiv.org/abs/2409.11382v1)|null|
