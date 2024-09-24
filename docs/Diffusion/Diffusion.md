@@ -18,7 +18,7 @@
 |**2024-09-18**|**Three-dimensional valley-contrasting sound**|Haoran Xue et.al.|[2409.11714v1](http://arxiv.org/abs/2409.11714v1)|null|
 |**2024-09-18**|**From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving**|Xu Han et.al.|[2409.11694v1](http://arxiv.org/abs/2409.11694v1)|null|
 |**2024-09-18**|**Normal/inverse Doppler effect of backward volume magnetostatic spin waves**|Xuhui Su et.al.|[2409.11674v1](http://arxiv.org/abs/2409.11674v1)|null|
-|**2024-09-17**|**VertiEncoder: Self-Supervised Kinodynamic Representation Learning on Vertically Challenging Terrain**|Mohammad Nazeri et.al.|[2409.11570v1](http://arxiv.org/abs/2409.11570v1)|null|
+|**2024-09-17**|**VertiEncoder: Self-Supervised Kinodynamic Representation Learning on Vertically Challenging Terrain**|Mohammad Nazeri et.al.|[2409.11570v1](http://arxiv.org/abs/2409.11570v1)|[link](https://github.com/mhnazeri/vertiencoder)|
 |**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536v1](http://arxiv.org/abs/2409.11536v1)|null|
 |**2024-09-17**|**Selection Principle for the Screening Parameters in the Mechanical Response of Amorphous Solids**|Pawandeep Kaur et.al.|[2409.11507v1](http://arxiv.org/abs/2409.11507v1)|null|
 |**2024-09-17**|**Existence of a unique solution to parametrized systems of generalized polynomial equations**|Abhishek Deshpande et.al.|[2409.11288v1](http://arxiv.org/abs/2409.11288v1)|null|
