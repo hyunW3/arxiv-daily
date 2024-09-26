@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192v1](http://arxiv.org/abs/2409.12192v1)|null|
-|**2024-09-18**|**Far-from-equilibrium attractors with Full Relativistic Boltzmann approach in 3+1 D: moments of distribution function and anisotropic flows $v_n$**|Vincenzo Nugara et.al.|[2409.12123v1](http://arxiv.org/abs/2409.12123v1)|null|
-|**2024-09-18**|**Weak Lensing analysis of Abell 2390 using short exposures**|A. Dutta et.al.|[2409.12119v1](http://arxiv.org/abs/2409.12119v1)|null|
-|**2024-09-18**|**The $η_c$-meson leading-twist distribution amplitude**|Benoît Blossier et.al.|[2409.12084v1](http://arxiv.org/abs/2409.12084v1)|null|
-|**2024-09-18**|**Fitting Multilevel Factor Models**|Tetiana Parshakova et.al.|[2409.12067v1](http://arxiv.org/abs/2409.12067v1)|[link](https://github.com/cvxgrp/multilevel_factor_model)|
-|**2024-09-18**|**Quantum Magic and Multi-Partite Entanglement in the Structure of Nuclei**|Florian Brökemeier et.al.|[2409.12064v1](http://arxiv.org/abs/2409.12064v1)|null|
-|**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983v1](http://arxiv.org/abs/2409.11983v1)|null|
-|**2024-09-18**|**Developing Orbital-Dependent Corrections for the Non-Additive Kinetic Energy in Subsystem Density Functional Theory**|Larissa Sophie Eitelhuber et.al.|[2409.11914v1](http://arxiv.org/abs/2409.11914v1)|null|
-|**2024-09-18**|**Direct and inverse cascades scaling in real shell models of turbulence**|James Creswell et.al.|[2409.11898v1](http://arxiv.org/abs/2409.11898v1)|null|
-|**2024-09-18**|**Reversal of charge transfer doping on the negative electronic compressibility surface of MoS2**|Liam Watson et.al.|[2409.11886v1](http://arxiv.org/abs/2409.11886v1)|null|
-|**2024-09-18**|**A new complex fluid flow phenomenon: Bubbles-on-a-String**|Thomas P. John et.al.|[2409.11879v1](http://arxiv.org/abs/2409.11879v1)|null|
-|**2024-09-18**|**Non-Invertible T-duality at Any Radius via Non-Compact SymTFT**|Riccardo Argurio et.al.|[2409.11822v1](http://arxiv.org/abs/2409.11822v1)|null|
-|**2024-09-18**|**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models**|Yan Zheng et.al.|[2409.11734v1](http://arxiv.org/abs/2409.11734v1)|null|
-|**2024-09-18**|**Three-dimensional valley-contrasting sound**|Haoran Xue et.al.|[2409.11714v1](http://arxiv.org/abs/2409.11714v1)|null|
-|**2024-09-18**|**From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving**|Xu Han et.al.|[2409.11694v1](http://arxiv.org/abs/2409.11694v1)|null|
-|**2024-09-18**|**Normal/inverse Doppler effect of backward volume magnetostatic spin waves**|Xuhui Su et.al.|[2409.11674v1](http://arxiv.org/abs/2409.11674v1)|null|
-|**2024-09-17**|**VertiEncoder: Self-Supervised Kinodynamic Representation Learning on Vertically Challenging Terrain**|Mohammad Nazeri et.al.|[2409.11570v1](http://arxiv.org/abs/2409.11570v1)|[link](https://github.com/mhnazeri/vertiencoder)|
-|**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536v1](http://arxiv.org/abs/2409.11536v1)|null|
-|**2024-09-17**|**Selection Principle for the Screening Parameters in the Mechanical Response of Amorphous Solids**|Pawandeep Kaur et.al.|[2409.11507v1](http://arxiv.org/abs/2409.11507v1)|null|
-|**2024-09-17**|**Existence of a unique solution to parametrized systems of generalized polynomial equations**|Abhishek Deshpande et.al.|[2409.11288v1](http://arxiv.org/abs/2409.11288v1)|null|
-|**2024-09-17**|**Bearing-based Target Localisation in Search and Rescue Scenarios**|Giulia Michieletto et.al.|[2409.11221v1](http://arxiv.org/abs/2409.11221v1)|null|
-|**2024-09-17**|**Analytical expression for $π$-ton vertex contributions to the optical conductivity**|Juraj Krsnik et.al.|[2409.11158v1](http://arxiv.org/abs/2409.11158v1)|null|
-|**2024-09-17**|**Thermodynamics of a Schwarzschild black hole surrounded by quintessence in the generalized uncertainty principle framework**|Soham Sen et.al.|[2409.11073v1](http://arxiv.org/abs/2409.11073v1)|null|
-|**2024-09-17**|**Magneto transport and first principle study of strong topological insulator gray Arsenic**|N. K. Karn et.al.|[2409.11016v1](http://arxiv.org/abs/2409.11016v1)|null|
-|**2024-09-17**|**Asymptotics of the divisor for the good Boussinesq equation**|Andrey Badanin et.al.|[2409.10988v1](http://arxiv.org/abs/2409.10988v1)|null|
-|**2024-09-17**|**Terminating Poincare asymptotic expansion of the Hankel transform of entire exponential type functions**|Nathalie Liezel R. Rojas et.al.|[2409.10948v1](http://arxiv.org/abs/2409.10948v1)|null|
-|**2024-09-17**|**Lepton seesaw model in a modular $A_4$ symmetry**|Takaaki Nomura et.al.|[2409.10912v1](http://arxiv.org/abs/2409.10912v1)|null|
-|**2024-09-17**|**3DIOC: Direct Data-Driven Inverse Optimal Control for LTI Systems**|Chendi Qu et.al.|[2409.10884v1](http://arxiv.org/abs/2409.10884v1)|null|
-|**2024-09-17**|**NSSR-DIL: Null-Shot Image Super-Resolution Using Deep Identity Learning**|Sree Rama Vamsidhar S et.al.|[2409.12165v1](http://arxiv.org/abs/2409.12165v1)|null|
-|**2024-09-17**|**Application of Log-Linear Dynamic Inversion Control to a Multi-rotor**|Li-Yu Lin et.al.|[2409.10866v1](http://arxiv.org/abs/2409.10866v1)|null|
+|**2024-09-24**|**JWST Resolves CIA Features in White Dwarfs**|Simon Blouin et.al.|[2409.16224v1](http://arxiv.org/abs/2409.16224v1)|null|
+|**2024-09-24**|**Preparing Ground and Excited States Using Adiabatic CoVaR**|Wooseop Hwang et.al.|[2409.16194v1](http://arxiv.org/abs/2409.16194v1)|null|
+|**2024-09-24**|**Uniform stability of the inverse problem for the non-self-adjoint Sturm-Liouville operator**|Natalia P. Bondarenko et.al.|[2409.16175v1](http://arxiv.org/abs/2409.16175v1)|null|
+|**2024-09-24**|**A new interpolated pseudodifferential preconditioner for the Helmholtz equation in heterogeneous media**|Sebastian Acosta et.al.|[2409.16172v1](http://arxiv.org/abs/2409.16172v1)|null|
+|**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120v1](http://arxiv.org/abs/2409.16120v1)|[link](https://github.com/ghost-in-moss/ghostos)|
+|**2024-09-24**|**Manipulation of strongly interacting solitons in optical fiber experiments**|Alexandre Mucci et.al.|[2409.16090v1](http://arxiv.org/abs/2409.16090v1)|null|
+|**2024-09-24**|**Particles in Relativistic MHD Jets II: Bridging Jet Dynamics with Multi-waveband Non-Thermal Emission Signatures**|Ravi Pratap Dubey et.al.|[2409.15983v1](http://arxiv.org/abs/2409.15983v1)|null|
+|**2024-09-24**|**Provably Efficient Exploration in Inverse Constrained Reinforcement Learning**|Bo Yue et.al.|[2409.15963v1](http://arxiv.org/abs/2409.15963v1)|null|
+|**2024-09-24**|**Aspects of Hilbert space fragmentation in the quantum East model: fragmentation, subspace-restricted quantum scars, and effects of density-density interactions**|Maitri Ganguli et.al.|[2409.15943v1](http://arxiv.org/abs/2409.15943v1)|null|
+|**2024-09-24**|**Identifying early tumour states in a Cahn-Hilliard-reaction-diffusion model**|Abramo Agosti et.al.|[2409.15925v1](http://arxiv.org/abs/2409.15925v1)|null|
+|**2024-09-24**|**Preserving positivity of Gauss-Newton Hessian through random sampling**|Kathrin Hellmuth et.al.|[2409.15906v1](http://arxiv.org/abs/2409.15906v1)|null|
+|**2024-09-24**|**Aided design of bridge aesthetics based on Stable Diffusion fine-tuning**|Leye Zhang et.al.|[2409.15812v1](http://arxiv.org/abs/2409.15812v1)|[link](https://github.com/zhangleye/Bridge-SD)|
+|**2024-09-23**|**CANDERE-COACH: Reinforcement Learning from Noisy Feedback**|Yuxuan Li et.al.|[2409.15521v1](http://arxiv.org/abs/2409.15521v1)|null|
+|**2024-09-23**|**Bayesian computation with generative diffusion models by Multilevel Monte Carlo**|Abdul-Lateef Haji-Ali et.al.|[2409.15511v1](http://arxiv.org/abs/2409.15511v1)|null|
+|**2024-09-23**|**MaterialFusion: Enhancing Inverse Rendering with Material Diffusion Priors**|Yehonathan Litman et.al.|[2409.15273v1](http://arxiv.org/abs/2409.15273v1)|null|
+|**2024-09-23**|**Founding Quantum Cryptography on Quantum Advantage, or, Towards Cryptography from #P-Hardness**|Dakshita Khurana et.al.|[2409.15248v1](http://arxiv.org/abs/2409.15248v1)|null|
+|**2024-09-23**|**Fractonic Coset Construction for Spontaneously Broken Translations**|Ameya Chavda et.al.|[2409.15193v1](http://arxiv.org/abs/2409.15193v1)|null|
+|**2024-09-23**|**GPU-Accelerated Solution of the Bethe-Salpeter Equation for Large and Heterogeneous Systems**|Victor Wen-zhe Yu et.al.|[2409.15116v1](http://arxiv.org/abs/2409.15116v1)|null|
+|**2024-09-23**|**Merging dynamics of plasma blobs in the Scrape-off Layer of a tokamak**|Souvik Mondal et.al.|[2409.15064v1](http://arxiv.org/abs/2409.15064v1)|null|
+|**2024-09-23**|**A multi-fidelity adaptive dynamical low-rank based optimization algorithm for fission criticality problems**|C. Scalone et.al.|[2409.14938v1](http://arxiv.org/abs/2409.14938v1)|null|
+|**2024-09-23**|**MESC: Re-thinking Algorithmic Priority and/or Criticality Inversions for Heterogeneous MCSs**|Jiapeng Guan et.al.|[2409.14837v1](http://arxiv.org/abs/2409.14837v1)|null|
+|**2024-09-23**|**$\bar{\partial}$-problem for focusing nonlinear Schrödinger equation and soliton shielding**|Marco Bertola et.al.|[2409.14825v1](http://arxiv.org/abs/2409.14825v1)|null|
+|**2024-09-23**|**Automatic Geometric Decomposition for Analytical Inverse Kinematics**|Daniel Ostermeier et.al.|[2409.14815v1](http://arxiv.org/abs/2409.14815v1)|null|
+|**2024-09-23**|**Language-Agnostic Analysis of Speech Depression Detection**|Sona Binu et.al.|[2409.14769v1](http://arxiv.org/abs/2409.14769v1)|null|
+|**2024-09-23**|**ControlEdit: A MultiModal Local Clothing Image Editing Method**|Di Cheng et.al.|[2409.14720v1](http://arxiv.org/abs/2409.14720v1)|[link](https://github.com/cd123-cd/ControlEdit)|
+|**2024-09-23**|**Terahertz Control of Linear and Nonlinear Magno-Phononics**|Tianchuang Luo et.al.|[2409.14669v1](http://arxiv.org/abs/2409.14669v1)|null|
+|**2024-09-23**|**Functional control of anomalous reflection via engineered metagratings without polarization limitations**|Jingwen Li et.al.|[2409.14663v1](http://arxiv.org/abs/2409.14663v1)|null|
+|**2024-09-22**|**An Efficient Algorithm for Constrained CASSCF(1,2) and CASSCF(3,2) Simulations as Relevant to Electron and Hole Transfer Problems**|Tian Qiu et.al.|[2409.14631v1](http://arxiv.org/abs/2409.14631v1)|null|
+|**2024-09-22**|**A Comparative Study on State-Action Spaces for Learning Viewpoint Selection and Manipulation with Diffusion Policy**|Xiatao Sun et.al.|[2409.14615v1](http://arxiv.org/abs/2409.14615v1)|null|
+|**2024-09-22**|**Distributionally Robust Inverse Reinforcement Learning for Identifying Multi-Agent Coordinated Sensing**|Luke Snow et.al.|[2409.14542v1](http://arxiv.org/abs/2409.14542v1)|null|
