@@ -2,6 +2,25 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-25**|**Null geodesics around a black hole with weakly coupled global monopole charge**|Mohsen Fathi et.al.|[2409.17031v1](http://arxiv.org/abs/2409.17031v1)|null|
+|**2024-09-25**|**Improper flexoelectricity in hexagonal rare-earth ferrites**|Xin Li et.al.|[2409.17022v1](http://arxiv.org/abs/2409.17022v1)|null|
+|**2024-09-25**|**Actions of frieze groups on inverse limits of polynomial rings**|Elitza Hristova et.al.|[2409.16985v1](http://arxiv.org/abs/2409.16985v1)|null|
+|**2024-09-25**|**Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation**|Qing Wu et.al.|[2409.16921v1](http://arxiv.org/abs/2409.16921v1)|null|
+|**2024-09-25**|**GB-RVFL: Fusion of Randomized Neural Network and Granular Ball Computing**|M. Sajid et.al.|[2409.16735v1](http://arxiv.org/abs/2409.16735v1)|null|
+|**2024-09-25**|**Simultaneously reconstructing potentials and internal sources for fractional Schrödinger equations**|Xinyan Li et.al.|[2409.16716v1](http://arxiv.org/abs/2409.16716v1)|null|
+|**2024-09-25**|**Convergence of Peter--Weyl Truncations of Compact Quantum Groups**|Malte Leimbach et.al.|[2409.16698v1](http://arxiv.org/abs/2409.16698v1)|null|
+|**2024-09-25**|**Analytic expressions for quasinormal modes of the general parametrized spherically symmetric black holes and the Hod's proposal**|Alexey Dubinsky et.al.|[2409.16569v1](http://arxiv.org/abs/2409.16569v1)|null|
+|**2024-09-25**|**Normalizing flow regularization for photoacoustic tomography**|Chao Wang et.al.|[2409.16564v1](http://arxiv.org/abs/2409.16564v1)|null|
+|**2024-09-25**|**Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models**|Deepak Sridhar et.al.|[2409.16535v1](http://arxiv.org/abs/2409.16535v1)|[link](https://github.com/deepaksridhar/promptsliders)|
+|**2024-09-25**|**Circumventing the Ricci-inverse no-go theorem with complexifiable singularities: a novel dark energy model**|Mattia Scomparin et.al.|[2409.16529v1](http://arxiv.org/abs/2409.16529v1)|null|
+|**2024-09-25**|**Approximation of Smooth Numbers for Harmonic Samples A Stein method Approach**|Arturo Jaramillo et.al.|[2409.16527v1](http://arxiv.org/abs/2409.16527v1)|null|
+|**2024-09-24**|**Clarke Transform -- A Fundamental Tool for Continuum Robotics**|Reinhard Grassmann et.al.|[2409.16501v1](http://arxiv.org/abs/2409.16501v1)|null|
+|**2024-09-24**|**A Butterfly Effect in Encoding-Decoding Quantum Circuits**|Emanuel Dallas et.al.|[2409.16481v1](http://arxiv.org/abs/2409.16481v1)|null|
+|**2024-09-24**|**Sub-Nyquist USF Spectral Estimation: $K$ Frequencies with $6K + 4$ Modulo Samples**|Ruiming Guo et.al.|[2409.16472v1](http://arxiv.org/abs/2409.16472v1)|null|
+|**2024-09-24**|**Parameter Estimation for the Reduced Fracture Model via a Direct Filter Method**|Phuoc Toan Huynh et.al.|[2409.16458v1](http://arxiv.org/abs/2409.16458v1)|null|
+|**2024-09-24**|**Solving the Wave Equation on Discrete Time Scales**|Davis Funk et.al.|[2409.16424v1](http://arxiv.org/abs/2409.16424v1)|null|
+|**2024-09-24**|**Computing $G$-Crossed Extensions and Orbifolds of Vertex Operator Algebras**|César Galindo et.al.|[2409.16357v1](http://arxiv.org/abs/2409.16357v1)|null|
+|**2024-09-24**|**Enhancing the Energy Gap of Random Graph Problems via XX-catalysts in Quantum Annealing**|Luca A. Nutricati et.al.|[2409.16350v1](http://arxiv.org/abs/2409.16350v1)|null|
 |**2024-09-24**|**JWST Resolves CIA Features in White Dwarfs**|Simon Blouin et.al.|[2409.16224v1](http://arxiv.org/abs/2409.16224v1)|null|
 |**2024-09-24**|**Preparing Ground and Excited States Using Adiabatic CoVaR**|Wooseop Hwang et.al.|[2409.16194v1](http://arxiv.org/abs/2409.16194v1)|null|
 |**2024-09-24**|**Uniform stability of the inverse problem for the non-self-adjoint Sturm-Liouville operator**|Natalia P. Bondarenko et.al.|[2409.16175v1](http://arxiv.org/abs/2409.16175v1)|null|
@@ -13,22 +32,3 @@
 |**2024-09-24**|**Aspects of Hilbert space fragmentation in the quantum East model: fragmentation, subspace-restricted quantum scars, and effects of density-density interactions**|Maitri Ganguli et.al.|[2409.15943v1](http://arxiv.org/abs/2409.15943v1)|null|
 |**2024-09-24**|**Identifying early tumour states in a Cahn-Hilliard-reaction-diffusion model**|Abramo Agosti et.al.|[2409.15925v1](http://arxiv.org/abs/2409.15925v1)|null|
 |**2024-09-24**|**Preserving positivity of Gauss-Newton Hessian through random sampling**|Kathrin Hellmuth et.al.|[2409.15906v1](http://arxiv.org/abs/2409.15906v1)|null|
-|**2024-09-24**|**Aided design of bridge aesthetics based on Stable Diffusion fine-tuning**|Leye Zhang et.al.|[2409.15812v1](http://arxiv.org/abs/2409.15812v1)|[link](https://github.com/zhangleye/Bridge-SD)|
-|**2024-09-23**|**CANDERE-COACH: Reinforcement Learning from Noisy Feedback**|Yuxuan Li et.al.|[2409.15521v1](http://arxiv.org/abs/2409.15521v1)|null|
-|**2024-09-23**|**Bayesian computation with generative diffusion models by Multilevel Monte Carlo**|Abdul-Lateef Haji-Ali et.al.|[2409.15511v1](http://arxiv.org/abs/2409.15511v1)|null|
-|**2024-09-23**|**MaterialFusion: Enhancing Inverse Rendering with Material Diffusion Priors**|Yehonathan Litman et.al.|[2409.15273v1](http://arxiv.org/abs/2409.15273v1)|null|
-|**2024-09-23**|**Founding Quantum Cryptography on Quantum Advantage, or, Towards Cryptography from #P-Hardness**|Dakshita Khurana et.al.|[2409.15248v1](http://arxiv.org/abs/2409.15248v1)|null|
-|**2024-09-23**|**Fractonic Coset Construction for Spontaneously Broken Translations**|Ameya Chavda et.al.|[2409.15193v1](http://arxiv.org/abs/2409.15193v1)|null|
-|**2024-09-23**|**GPU-Accelerated Solution of the Bethe-Salpeter Equation for Large and Heterogeneous Systems**|Victor Wen-zhe Yu et.al.|[2409.15116v1](http://arxiv.org/abs/2409.15116v1)|null|
-|**2024-09-23**|**Merging dynamics of plasma blobs in the Scrape-off Layer of a tokamak**|Souvik Mondal et.al.|[2409.15064v1](http://arxiv.org/abs/2409.15064v1)|null|
-|**2024-09-23**|**A multi-fidelity adaptive dynamical low-rank based optimization algorithm for fission criticality problems**|C. Scalone et.al.|[2409.14938v1](http://arxiv.org/abs/2409.14938v1)|null|
-|**2024-09-23**|**MESC: Re-thinking Algorithmic Priority and/or Criticality Inversions for Heterogeneous MCSs**|Jiapeng Guan et.al.|[2409.14837v1](http://arxiv.org/abs/2409.14837v1)|null|
-|**2024-09-23**|**$\bar{\partial}$-problem for focusing nonlinear Schrödinger equation and soliton shielding**|Marco Bertola et.al.|[2409.14825v1](http://arxiv.org/abs/2409.14825v1)|null|
-|**2024-09-23**|**Automatic Geometric Decomposition for Analytical Inverse Kinematics**|Daniel Ostermeier et.al.|[2409.14815v1](http://arxiv.org/abs/2409.14815v1)|null|
-|**2024-09-23**|**Language-Agnostic Analysis of Speech Depression Detection**|Sona Binu et.al.|[2409.14769v1](http://arxiv.org/abs/2409.14769v1)|null|
-|**2024-09-23**|**ControlEdit: A MultiModal Local Clothing Image Editing Method**|Di Cheng et.al.|[2409.14720v1](http://arxiv.org/abs/2409.14720v1)|[link](https://github.com/cd123-cd/ControlEdit)|
-|**2024-09-23**|**Terahertz Control of Linear and Nonlinear Magno-Phononics**|Tianchuang Luo et.al.|[2409.14669v1](http://arxiv.org/abs/2409.14669v1)|null|
-|**2024-09-23**|**Functional control of anomalous reflection via engineered metagratings without polarization limitations**|Jingwen Li et.al.|[2409.14663v1](http://arxiv.org/abs/2409.14663v1)|null|
-|**2024-09-22**|**An Efficient Algorithm for Constrained CASSCF(1,2) and CASSCF(3,2) Simulations as Relevant to Electron and Hole Transfer Problems**|Tian Qiu et.al.|[2409.14631v1](http://arxiv.org/abs/2409.14631v1)|null|
-|**2024-09-22**|**A Comparative Study on State-Action Spaces for Learning Viewpoint Selection and Manipulation with Diffusion Policy**|Xiatao Sun et.al.|[2409.14615v1](http://arxiv.org/abs/2409.14615v1)|null|
-|**2024-09-22**|**Distributionally Robust Inverse Reinforcement Learning for Identifying Multi-Agent Coordinated Sensing**|Luke Snow et.al.|[2409.14542v1](http://arxiv.org/abs/2409.14542v1)|null|
