@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-09-27**|**Towards Super-Nominal Payload Handling: Inverse Dynamics Analysis for Multi-Skill Robotic Manipulation**|Anuj Pasricha et.al.|[2409.18939v1](http://arxiv.org/abs/2409.18939v1)|null|
-|**2024-09-27**|**Permutation polynomials over finite fields by the local criterion**|Danyao Wu et.al.|[2409.18758v1](http://arxiv.org/abs/2409.18758v1)|null|
-|**2024-09-27**|**Enhancing Spectrum Efficiency in 6G Satellite Networks: A GAIL-Powered Policy Learning via Asynchronous Federated Inverse Reinforcement Learning**|Sheikh Salman Hassan et.al.|[2409.18718v1](http://arxiv.org/abs/2409.18718v1)|null|
-|**2024-09-27**|**Spectral Imaging with QUBIC: building frequency maps from Time-Ordered-Data using Bolometric Interferometry**|P. Chanial et.al.|[2409.18698v1](http://arxiv.org/abs/2409.18698v1)|null|
-|**2024-09-27**|**Heavy Elements Abundances Inferred from the First Adiabatic Exponent in the Solar Envelope**|V. A. Baturin et.al.|[2409.18693v1](http://arxiv.org/abs/2409.18693v1)|null|
-|**2024-09-27**|**The compositional inverses of permutation polynomials of the form $\sum_{i=1}^kb_i(x^{p^m}+x+δ)^{s_i}-x$ over $\mathbb{F}_{p^{2m}}$**|Danyao Wu et.al.|[2409.18662v1](http://arxiv.org/abs/2409.18662v1)|null|
-|**2024-09-27**|**Rigidity in the Lorentzian Calderón problem with formally determined data**|Lauri Oksanen et.al.|[2409.18604v1](http://arxiv.org/abs/2409.18604v1)|null|
-|**2024-09-27**|**Effective chiral response of anisotropic multilayered metamaterials**|Konstantin Baranov et.al.|[2409.18571v1](http://arxiv.org/abs/2409.18571v1)|null|
-|**2024-09-27**|**The compositional inverses of three classes of permutation polynomials over finite fields**|Danyao Wu et.al.|[2409.18517v1](http://arxiv.org/abs/2409.18517v1)|null|
-|**2024-09-27**|**Med-IC: Fusing a Single Layer Involution with Convolutions for Enhanced Medical Image Classification and Segmentation**|Md. Farhadul Islam et.al.|[2409.18506v1](http://arxiv.org/abs/2409.18506v1)|null|
-|**2024-09-27**|**Gradient-free Decoder Inversion in Latent Diffusion Models**|Seongmin Hong et.al.|[2409.18442v1](http://arxiv.org/abs/2409.18442v1)|null|
-|**2024-09-27**|**Moment varieties of the inverse Gaussian and gamma distributions are nondefective**|Oskar Henriksson et.al.|[2409.18421v1](http://arxiv.org/abs/2409.18421v1)|null|
-|**2024-09-27**|**Robust Network Learning via Inverse Scale Variational Sparsification**|Zhiling Zhou et.al.|[2409.18419v1](http://arxiv.org/abs/2409.18419v1)|null|
-|**2024-09-27**|**Consistency of variational Bayesian inference for non-linear inverse problems of partial differential equations**|Shaokang Zu et.al.|[2409.18415v1](http://arxiv.org/abs/2409.18415v1)|null|
-|**2024-09-27**|**Scientific Machine Learning Seismology**|Tomohisa Okazaki et.al.|[2409.18397v1](http://arxiv.org/abs/2409.18397v1)|null|
-|**2024-09-27**|**Discovery and inversion of the viscoelastic wave equation in inhomogeneous media**|Su Chen et.al.|[2409.18370v1](http://arxiv.org/abs/2409.18370v1)|null|
-|**2024-09-26**|**An Eccentric Binary with a Misaligned Circumbinary Disk**|Zhecheng Hu et.al.|[2409.18296v1](http://arxiv.org/abs/2409.18296v1)|null|
-|**2024-09-26**|**Inverse Design of Unitary Transmission Matrices in Silicon Photonic Coupled Waveguide Arrays using a Neural Adjoint Model**|Thomas W. Radford et.al.|[2409.18284v1](http://arxiv.org/abs/2409.18284v1)|null|
-|**2024-09-26**|**On Inverse Problems for Two-Dimensional Steady Supersonic Euler Flows past Curved Wedges**|Gui-Qiang G. Chen et.al.|[2409.18241v1](http://arxiv.org/abs/2409.18241v1)|null|
-|**2024-09-26**|**Exploring Intrinsic Bond Orbitals in Solids**|Benjamin Wöckinger et.al.|[2409.18212v1](http://arxiv.org/abs/2409.18212v1)|null|
-|**2024-09-26**|**Inverse Design of an All-Dielectric Nonlinear Polaritonic Metasurface**|Simon Stich et.al.|[2409.18196v1](http://arxiv.org/abs/2409.18196v1)|null|
-|**2024-09-26**|**Self-consistent Keldysh-Usadel formalism unravels crossed Andreev reflection**|Johanne Bratland Tjernshaugen et.al.|[2409.18191v1](http://arxiv.org/abs/2409.18191v1)|null|
-|**2024-09-26**|**Casimirs of the Virasoro Algebra**|Jean-François Fortin et.al.|[2409.18172v1](http://arxiv.org/abs/2409.18172v1)|null|
-|**2024-09-26**|**Inverse Reinforcement Learning with Multiple Planning Horizons**|Jiayu Yao et.al.|[2409.18051v1](http://arxiv.org/abs/2409.18051v1)|null|
-|**2024-09-26**|**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**|Zhian Ruan et.al.|[2409.17997v1](http://arxiv.org/abs/2409.17997v1)|null|
-|**2024-09-26**|**Perfectoid pure singularities**|Bhargav Bhatt et.al.|[2409.17965v1](http://arxiv.org/abs/2409.17965v1)|null|
-|**2024-09-26**|**Relativistic diffusion model for hadron production in p-Pb collisions at the LHC**|Philipp Schulz et.al.|[2409.17960v1](http://arxiv.org/abs/2409.17960v1)|null|
-|**2024-09-26**|**Nonlinear stability of periodic wave trains in the FitzHugh-Nagumo system against fully nonlocalized perturbations**|Joannis Alexopoulos et.al.|[2409.17859v1](http://arxiv.org/abs/2409.17859v1)|null|
-|**2024-09-26**|**Small Leidenfrost droplet dynamics**|Benjamin Sobac et.al.|[2409.17853v1](http://arxiv.org/abs/2409.17853v1)|null|
-|**2024-09-26**|**Federated Learning under Attack: Improving Gradient Inversion for Batch of Images**|Luiz Leite et.al.|[2409.17767v1](http://arxiv.org/abs/2409.17767v1)|null|
+|**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556v1](http://arxiv.org/abs/2409.20556v1)|null|
+|**2024-09-30**|**Dual Encoder GAN Inversion for High-Fidelity 3D Head Reconstruction from Single Images**|Bahri Batuhan Bilecen et.al.|[2409.20530v1](http://arxiv.org/abs/2409.20530v1)|null|
+|**2024-09-30**|**Doping dependence of linear-in-temperature scattering rate in three-orbital Emery model**|Xun Liu et.al.|[2409.20497v1](http://arxiv.org/abs/2409.20497v1)|null|
+|**2024-09-30**|**"What" x "When" working memory representations using Laplace Neural Manifolds**|Aakash Sarkar et.al.|[2409.20484v1](http://arxiv.org/abs/2409.20484v1)|null|
+|**2024-09-30**|**Measuring Coherent Radio and Microwave Photons from the Solar Corona**|Liang Chen et.al.|[2409.20459v1](http://arxiv.org/abs/2409.20459v1)|null|
+|**2024-09-30**|**Approaching upper bounds to resonant nonlinear optical susceptibilities with inverse-designed quantum wells**|Hao Li et.al.|[2409.20351v1](http://arxiv.org/abs/2409.20351v1)|null|
+|**2024-09-30**|**Relative bounded cohomology on groups with contracting elements**|Zhenguo Huangfu et.al.|[2409.20348v1](http://arxiv.org/abs/2409.20348v1)|null|
+|**2024-09-30**|**Design, manufacturing, and inverse dynamic modeling of soft parallel robots actuated by dielectric elastomer actuators**|Jung-Che Chang et.al.|[2409.20344v1](http://arxiv.org/abs/2409.20344v1)|null|
+|**2024-09-30**|**Inverse coefficient problem for one-dimensional evolution equation vanishing initial condition**|Oleg Y et.al.|[2409.20321v1](http://arxiv.org/abs/2409.20321v1)|null|
+|**2024-09-30**|**A hybrid finite element/finite difference method for reconstruction of dielectric properties of conductive objects**|Eric Lindström et.al.|[2409.20257v1](http://arxiv.org/abs/2409.20257v1)|null|
+|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v1](http://arxiv.org/abs/2409.20195v1)|null|
+|**2024-09-30**|**Laboratory and beam-test performance study of a 55$~μ$m pitch iLGAD sensor bonded to a Timepix3 readout chip**|Peter Svihra et.al.|[2409.20194v1](http://arxiv.org/abs/2409.20194v1)|null|
+|**2024-09-30**|**Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems**|Hongkai Zheng et.al.|[2409.20175v1](http://arxiv.org/abs/2409.20175v1)|null|
+|**2024-09-30**|**Simplified magnet design and manufacture based on patterning of wide conductors**|Diego Pereira Botelho et.al.|[2409.20143v1](http://arxiv.org/abs/2409.20143v1)|null|
+|**2024-09-30**|**RISE-SDF: a Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering**|Deheng Zhang et.al.|[2409.20140v1](http://arxiv.org/abs/2409.20140v1)|null|
+|**2024-09-30**|**Bireflectionality in special orthogonal groups**|Klaus Nielsen et.al.|[2409.20088v1](http://arxiv.org/abs/2409.20088v1)|null|
+|**2024-09-30**|**Acceleration Meets Inverse Maintenance: Faster $\ell_{\infty}$-Regression**|Deeksha Adil et.al.|[2409.20030v1](http://arxiv.org/abs/2409.20030v1)|null|
+|**2024-09-30**|**Anomalous quantum oscillations from boson-mediated interband scattering**|Léo Mangeolle et.al.|[2409.20006v1](http://arxiv.org/abs/2409.20006v1)|null|
+|**2024-09-30**|**The compositional inverses of permutation polynomials from trace functions over finite fields**|Danyao Wu et.al.|[2409.20000v1](http://arxiv.org/abs/2409.20000v1)|null|
+|**2024-09-30**|**NeDF: neural deflection fields for sparse-view tomographic background oriented Schlieren**|Jiawei Li et.al.|[2409.19971v1](http://arxiv.org/abs/2409.19971v1)|null|
+|**2024-09-30**|**Fourier Domain Physics Informed Neural Network**|Jonathan Musgrave et.al.|[2409.19895v1](http://arxiv.org/abs/2409.19895v1)|null|
+|**2024-09-30**|**VAP: The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines**|Zishen Wan et.al.|[2409.19892v1](http://arxiv.org/abs/2409.19892v1)|null|
+|**2024-09-30**|**Inference of water waves surface elevation from horizontal velocity components using physics informed neural networks (PINN)**|Omar Sallam et.al.|[2409.19851v1](http://arxiv.org/abs/2409.19851v1)|null|
+|**2024-09-29**|**Automatic debiasing of neural networks via moment-constrained learning**|Christian L. Hines et.al.|[2409.19777v1](http://arxiv.org/abs/2409.19777v1)|[link](https://github.com/crimbs/madnet)|
+|**2024-09-29**|**On positive Jacobi matrices with compact inverses**|Pavel Šťovíček et.al.|[2409.19644v1](http://arxiv.org/abs/2409.19644v1)|null|
+|**2024-09-29**|**Growth of finitely generated subgroups of the topological full groups of inverse semigroups of bounded type**|Zheng Kuang et.al.|[2409.19491v1](http://arxiv.org/abs/2409.19491v1)|null|
+|**2024-09-28**|**Classification of Chern Numbers Based on High-Symmetry Points**|Yu-Hao Wan et.al.|[2409.19332v1](http://arxiv.org/abs/2409.19332v1)|null|
+|**2024-09-28**|**Distributed Optimization via Energy Conservation Laws in Dilated Coordinates**|Mayank Baranwal et.al.|[2409.19279v1](http://arxiv.org/abs/2409.19279v1)|null|
+|**2024-09-28**|**OpenSep: Leveraging Large Language Models with Textual Inversion for Open World Audio Separation**|Tanvir Mahmud et.al.|[2409.19270v1](http://arxiv.org/abs/2409.19270v1)|[link](https://github.com/tanvir-utexas/opensep)|
+|**2024-09-28**|**Interacting systems with zero thermodynamic curvature**|Juan Rodrigo et.al.|[2409.19264v1](http://arxiv.org/abs/2409.19264v1)|null|
