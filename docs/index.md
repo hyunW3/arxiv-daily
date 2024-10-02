@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-01 21:02:36 Asia/Shanghai
+ Automated deployment @ 2024-10-02 09:08:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -35,7 +35,7 @@
 |**2024-09-30**|**Complete 1-loop study of exclusive $ J/ψ$ and $ Υ$ photoproduction with full GPD evolution**|Chris Flett et.al.|[2409.20544v1](http://arxiv.org/abs/2409.20544v1)|null|
 |**2024-09-30**|**Crystallinity for reduced syntomic cohomology and the mod $(p,v_1^{p^{n-2}})$ $K$-theory of $\mathbb{Z}/p^{n}$**|Jeremy Hahn et.al.|[2409.20543v1](http://arxiv.org/abs/2409.20543v1)|null|
 |**2024-09-30**|**Preservación de la memoria colectiva-científica, en la astronomía argentina, desde el Observatorio de La Plata**|Natalia Soledad Meilán et.al.|[2409.20542v1](http://arxiv.org/abs/2409.20542v1)|null|
-|**2024-09-30**|**Rapidly Rotating Wall-Mode Convection**|Geoffrey M. Vasil et.al.|[2409.20541v1](http://arxiv.org/abs/2409.20541v1)|null|
+|**2024-09-30**|**Rapidly Rotating Wall-Mode Convection**|Geoffrey M. Vasil et.al.|[2409.20541v2](http://arxiv.org/abs/2409.20541v2)|null|
 |**2024-09-30**|**Statistical view of orbital circularisation with 14 000 characterised TESS eclipsing binaries**|L. W. IJspeert et.al.|[2409.20540v1](http://arxiv.org/abs/2409.20540v1)|null|
 |**2024-09-30**|**Visual collective behaviors on spherical robots**|Diego Castro et.al.|[2409.20539v1](http://arxiv.org/abs/2409.20539v1)|null|
 
