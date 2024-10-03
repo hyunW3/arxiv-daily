@@ -12,7 +12,7 @@
 |**2024-09-30**|**Design, manufacturing, and inverse dynamic modeling of soft parallel robots actuated by dielectric elastomer actuators**|Jung-Che Chang et.al.|[2409.20344v1](http://arxiv.org/abs/2409.20344v1)|null|
 |**2024-09-30**|**Inverse coefficient problem for one-dimensional evolution equation vanishing initial condition**|Oleg Y et.al.|[2409.20321v1](http://arxiv.org/abs/2409.20321v1)|null|
 |**2024-09-30**|**A hybrid finite element/finite difference method for reconstruction of dielectric properties of conductive objects**|Eric Lindström et.al.|[2409.20257v1](http://arxiv.org/abs/2409.20257v1)|null|
-|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v1](http://arxiv.org/abs/2409.20195v1)|null|
+|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v1](http://arxiv.org/abs/2409.20195v1)|[link](https://github.com/arunava555/Forecast_parallel_hyperplanes)|
 |**2024-09-30**|**Laboratory and beam-test performance study of a 55$~μ$m pitch iLGAD sensor bonded to a Timepix3 readout chip**|Peter Svihra et.al.|[2409.20194v1](http://arxiv.org/abs/2409.20194v1)|null|
 |**2024-09-30**|**Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems**|Hongkai Zheng et.al.|[2409.20175v1](http://arxiv.org/abs/2409.20175v1)|null|
 |**2024-09-30**|**Simplified magnet design and manufacture based on patterning of wide conductors**|Diego Pereira Botelho et.al.|[2409.20143v1](http://arxiv.org/abs/2409.20143v1)|null|
