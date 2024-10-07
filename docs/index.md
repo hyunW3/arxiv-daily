@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-06 21:18:45 Asia/Shanghai
+ Automated deployment @ 2024-10-07 09:11:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -18,7 +18,7 @@
 |**2024-10-03**|**Towards new relativistic doubly $κ$-deformed D=4 quantum phase spaces**|Jerzy Lukierski et.al.|[2410.02339v1](http://arxiv.org/abs/2410.02339v1)|null|
 |**2024-10-03**|**Polynomial time constructive decision algorithm for multivariable quantum signal processing**|Yuki Ito et.al.|[2410.02332v1](http://arxiv.org/abs/2410.02332v1)|null|
 |**2024-10-03**|**Efficient Second-Order Neural Network Optimization via Adaptive Trust Region Methods**|James Vo et.al.|[2410.02293v1](http://arxiv.org/abs/2410.02293v1)|null|
-|**2024-10-03**|**SCA: Highly Efficient Semantic-Consistent Unrestricted Adversarial Attack**|Zihao Pan et.al.|[2410.02240v1](http://arxiv.org/abs/2410.02240v1)|[link](https://github.com/pan-zihao/sca)|
+|**2024-10-03**|**SCA: Highly Efficient Semantic-Consistent Unrestricted Adversarial Attack**|Zihao Pan et.al.|[2410.02240v2](http://arxiv.org/abs/2410.02240v2)|[link](https://github.com/pan-zihao/sca)|
 |**2024-10-03**|**An Efficient Scaled spectral preconditioner for sequences of symmetric positive definite linear systems**|Youssef Diouane et.al.|[2410.02204v1](http://arxiv.org/abs/2410.02204v1)|null|
 |**2024-10-03**|**Plug-and-Play Controllable Generation for Discrete Masked Models**|Wei Guo et.al.|[2410.02143v1](http://arxiv.org/abs/2410.02143v1)|null|
 |**2024-10-03**|**Quantum Mutual Information in Time**|James Fullwood et.al.|[2410.02137v1](http://arxiv.org/abs/2410.02137v1)|null|
@@ -66,7 +66,7 @@
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740v1](http://arxiv.org/abs/2410.02740v1)|null|
 |**2024-10-03**|**On an Axiomatization of Path Integral Quantization and its Equivalence to Berezin's Quantization**|Joshua Lackman et.al.|[2410.02739v1](http://arxiv.org/abs/2410.02739v1)|null|
 |**2024-10-03**|**Discovery of three magnetic He-sdOs with SALT**|M. Dorsch et.al.|[2410.02737v1](http://arxiv.org/abs/2410.02737v1)|null|
-|**2024-10-03**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736v1](http://arxiv.org/abs/2410.02736v1)|null|
+|**2024-10-03**|**Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge**|Jiayi Ye et.al.|[2410.02736v2](http://arxiv.org/abs/2410.02736v2)|null|
 |**2024-10-03**|**OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?**|Liangze Jiang et.al.|[2410.02735v1](http://arxiv.org/abs/2410.02735v1)|null|
 |**2024-10-03**|**Data Similarity-Based One-Shot Clustering for Multi-Task Hierarchical Federated Learning**|Abdulmoneam Ali et.al.|[2410.02733v1](http://arxiv.org/abs/2410.02733v1)|null|
 |**2024-10-03**|**Custom Non-Linear Model Predictive Control for Obstacle Avoidance in Indoor and Outdoor Environments**|Lara Laban et.al.|[2410.02732v1](http://arxiv.org/abs/2410.02732v1)|[link](https://github.com/larasupernovae/nmpc_flash_multi_obstacle)|

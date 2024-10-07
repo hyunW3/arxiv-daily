@@ -12,7 +12,7 @@
 |**2024-10-03**|**Towards new relativistic doubly $κ$-deformed D=4 quantum phase spaces**|Jerzy Lukierski et.al.|[2410.02339v1](http://arxiv.org/abs/2410.02339v1)|null|
 |**2024-10-03**|**Polynomial time constructive decision algorithm for multivariable quantum signal processing**|Yuki Ito et.al.|[2410.02332v1](http://arxiv.org/abs/2410.02332v1)|null|
 |**2024-10-03**|**Efficient Second-Order Neural Network Optimization via Adaptive Trust Region Methods**|James Vo et.al.|[2410.02293v1](http://arxiv.org/abs/2410.02293v1)|null|
-|**2024-10-03**|**SCA: Highly Efficient Semantic-Consistent Unrestricted Adversarial Attack**|Zihao Pan et.al.|[2410.02240v1](http://arxiv.org/abs/2410.02240v1)|[link](https://github.com/pan-zihao/sca)|
+|**2024-10-03**|**SCA: Highly Efficient Semantic-Consistent Unrestricted Adversarial Attack**|Zihao Pan et.al.|[2410.02240v2](http://arxiv.org/abs/2410.02240v2)|[link](https://github.com/pan-zihao/sca)|
 |**2024-10-03**|**An Efficient Scaled spectral preconditioner for sequences of symmetric positive definite linear systems**|Youssef Diouane et.al.|[2410.02204v1](http://arxiv.org/abs/2410.02204v1)|null|
 |**2024-10-03**|**Plug-and-Play Controllable Generation for Discrete Masked Models**|Wei Guo et.al.|[2410.02143v1](http://arxiv.org/abs/2410.02143v1)|null|
 |**2024-10-03**|**Quantum Mutual Information in Time**|James Fullwood et.al.|[2410.02137v1](http://arxiv.org/abs/2410.02137v1)|null|
