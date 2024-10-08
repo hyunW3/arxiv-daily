@@ -27,7 +27,7 @@
 |**2024-10-03**|**Rescaled Equations of Fluid Motion for Well-Conditioned Direct Numerical Simulations of Rapidly Rotating Convection**|Keith Julien et.al.|[2410.02702v1](http://arxiv.org/abs/2410.02702v1)|null|
 |**2024-10-03**|**Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization**|Mikhail Persiianov et.al.|[2410.02628v1](http://arxiv.org/abs/2410.02628v1)|null|
 |**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619v1](http://arxiv.org/abs/2410.02619v1)|null|
-|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423v1](http://arxiv.org/abs/2410.02423v1)|null|
+|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423v1](http://arxiv.org/abs/2410.02423v1)|[link](https://github.com/annegnx/PnP-Flow)|
 |**2024-10-03**|**Quasi Inverse of Qubit Channels for Mixed States**|Muhammad Faizan et.al.|[2410.02414v1](http://arxiv.org/abs/2410.02414v1)|null|
 |**2024-10-03**|**Distributed Learning with Discretely Observed Functional Data**|Jiading Liu et.al.|[2410.02376v1](http://arxiv.org/abs/2410.02376v1)|null|
 |**2024-10-03**|**Towards new relativistic doubly $κ$-deformed D=4 quantum phase spaces**|Jerzy Lukierski et.al.|[2410.02339v1](http://arxiv.org/abs/2410.02339v1)|null|
