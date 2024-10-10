@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-07**|**Topological Insulator in Twisted Transition Metal Dichalcogenide Heterotrilayers**|Hao He et.al.|[2410.05197v1](http://arxiv.org/abs/2410.05197v1)|null|
-|**2024-10-07**|**MIBench: A Comprehensive Benchmark for Model Inversion Attack and Defense**|Yixiang Qiu et.al.|[2410.05159v2](http://arxiv.org/abs/2410.05159v2)|[link](https://github.com/ffhibnese/model-inversion-attack-toolbox)|
-|**2024-10-07**|**Leveraging Multimodal Diffusion Models to Accelerate Imaging with Side Information**|Timofey Efimov et.al.|[2410.05143v1](http://arxiv.org/abs/2410.05143v1)|null|
-|**2024-10-07**|**Tuning-Free Bilevel Optimization: New Algorithms and Convergence Analysis**|Yifan Yang et.al.|[2410.05140v1](http://arxiv.org/abs/2410.05140v1)|[link](https://github.com/optmn-lab/tfbo)|
-|**2024-10-07**|**Magnetocaloric effect for the topological semimetal Co$_3$Sn$_2$S$_2$ due to the antiferromagnetic coupling of the bulk and surface spin-polarized phases**|N. N. Orlova et.al.|[2410.05138v1](http://arxiv.org/abs/2410.05138v1)|null|
-|**2024-10-07**|**Constructing probing functions for direct sampling methods for inverse scattering problems with limited-aperture data: finite space framework and deep probing network**|Jianfeng Ning et.al.|[2410.05098v1](http://arxiv.org/abs/2410.05098v1)|null|
-|**2024-10-07**|**HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation**|Xinyu Zhou et.al.|[2410.05090v1](http://arxiv.org/abs/2410.05090v1)|[link](https://github.com/blackzxy/hyperinf)|
-|**2024-10-07**|**Nonlinearity helps the convergence of the inverse Born series**|Nicholas Defilippis et.al.|[2410.04998v1](http://arxiv.org/abs/2410.04998v1)|null|
-|**2024-10-07**|**Classical molecular dynamic simulation to assess the non-Maxwellian behavior of inverse bremsstrahlung heating in weakly coupled plasmas**|Ronan Devriendt et.al.|[2410.04945v1](http://arxiv.org/abs/2410.04945v1)|null|
-|**2024-10-07**|**Inverse Problems for Twisted Geodesic Flows**|Shubham R. Jathar et.al.|[2410.04911v1](http://arxiv.org/abs/2410.04911v1)|null|
-|**2024-10-07**|**PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing**|Feng Tian et.al.|[2410.04844v1](http://arxiv.org/abs/2410.04844v1)|null|
-|**2024-10-07**|**Observation of converse flexoelectric effect in topological semimetals**|Hidefumi Takahashi et.al.|[2410.04831v1](http://arxiv.org/abs/2410.04831v1)|null|
-|**2024-10-07**|**Constraining Planetary Albedo of JWST Targets in the TESS bandpass, using TESS, HST and Spitzer Eclipse Depth Observations**|Rahul Arora et.al.|[2410.04804v1](http://arxiv.org/abs/2410.04804v1)|null|
-|**2024-10-07**|**Granular Ball Twin Support Vector Machine**|A. Quadir et.al.|[2410.04774v1](http://arxiv.org/abs/2410.04774v1)|[link](https://github.com/mtanveer1/GBTSVM)|
-|**2024-10-07**|**Stochastic and secular anomalies in pulsar braking indices**|Andrés F. Vargas et.al.|[2410.04757v1](http://arxiv.org/abs/2410.04757v1)|null|
-|**2024-10-07**|**Origin of TeV Emission in GRB 221009A: Co-effort of the External Reverse and Forward Shocks**|Zhi-Lin Chen et.al.|[2410.04747v1](http://arxiv.org/abs/2410.04747v1)|null|
-|**2024-10-06**|**Quantum Noise Analysis of Gravitational Waves via Numerical Iterations**|Noah M. MacKay et.al.|[2410.04562v1](http://arxiv.org/abs/2410.04562v1)|null|
-|**2024-10-06**|**$\texttt{dattri}$: A Library for Efficient Data Attribution**|Junwei Deng et.al.|[2410.04555v1](http://arxiv.org/abs/2410.04555v1)|[link](https://github.com/trais-lab/dattri)|
-|**2024-10-06**|**Finite-Lens Effect on Self-Lensing in detached White Dwarfs-Main Sequence Binary Systems**|Sedighe Sajadian et.al.|[2410.04550v1](http://arxiv.org/abs/2410.04550v1)|null|
-|**2024-10-06**|**The Fourier Cosine Method for Discrete Probability Distributions**|Xiaoyu Shen et.al.|[2410.04487v2](http://arxiv.org/abs/2410.04487v2)|null|
-|**2024-10-06**|**SITCOM: Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems**|Ismail Alkhouri et.al.|[2410.04479v1](http://arxiv.org/abs/2410.04479v1)|[link](https://github.com/sjames40/SITCOM)|
-|**2024-10-06**|**LHAASO detection of very-high-energy gamma-ray emission surrounding PSR J0248+6021**|Zhen Cao et.al.|[2410.04425v1](http://arxiv.org/abs/2410.04425v1)|null|
-|**2024-10-06**|**Mixed single, double, and triple poles solutions for the space-time shifted nonlocal DNLS equation with nonzero boundary conditions via Riemann--Hilbert approach**|Xin-Yu Liu et.al.|[2410.04406v1](http://arxiv.org/abs/2410.04406v1)|null|
-|**2024-10-06**|**Studying the $B_{d(s)} \rightarrow K^{(\ast)}\bar{K}^{(\ast)}$ puzzle and $B^+ \rightarrow K^+ν\barν$ in $R$-parity violating MSSM with seesaw mechanism**|Min-Di Zheng et.al.|[2410.04348v1](http://arxiv.org/abs/2410.04348v1)|null|
-|**2024-10-06**|**Accelerating Inference of Networks in the Frequency Domain**|Chenqiu Zhao et.al.|[2410.04342v1](http://arxiv.org/abs/2410.04342v1)|null|
-|**2024-10-06**|**Effect of Turbulent Kinetic Helicity on Diffusive \b{eta} effect for Large Scale Dynamo**|Kiwan Park et.al.|[2410.04319v1](http://arxiv.org/abs/2410.04319v1)|null|
-|**2024-10-05**|**Adjusting for Spatial Correlation in Machine and Deep Learning**|Matthew J. Heaton et.al.|[2410.04312v1](http://arxiv.org/abs/2410.04312v1)|null|
-|**2024-10-05**|**Bernstein-type inequalities for mean $n$-valent functions**|Anton Baranov et.al.|[2410.04308v1](http://arxiv.org/abs/2410.04308v1)|null|
-|**2024-10-05**|**Analytical QNMs of fields of various spin in the Hayward spacetime**|Zainab Malik et.al.|[2410.04306v1](http://arxiv.org/abs/2410.04306v1)|null|
-|**2024-10-05**|**A shape derivative algorithm for reconstructing elastic dislocations in geophysics**|Andrea Aspri et.al.|[2410.04273v1](http://arxiv.org/abs/2410.04273v1)|null|
+|**2024-10-09**|**RM4D: A Combined Reachability and Inverse Reachability Map for Common 6-/7-axis Robot Arms by Dimensionality Reduction to 4D**|Martin Rudorfer et.al.|[2410.06968v1](http://arxiv.org/abs/2410.06968v1)|null|
+|**2024-10-09**|**Simultaneous estimation of electrical conductivity and permittivity in quantitative thermoacoustic tomography**|Teemu Sahlström et.al.|[2410.06926v1](http://arxiv.org/abs/2410.06926v1)|null|
+|**2024-10-09**|**Invertibility in the misère multiverse**|Alfie Davies et.al.|[2410.06924v1](http://arxiv.org/abs/2410.06924v1)|null|
+|**2024-10-09**|**Adversarial Vulnerability as a Consequence of On-Manifold Inseparibility**|Rajdeep Haldar et.al.|[2410.06921v1](http://arxiv.org/abs/2410.06921v1)|null|
+|**2024-10-09**|**Entwining tetrahedron maps**|Pavlos Kassotakis et.al.|[2410.06888v1](http://arxiv.org/abs/2410.06888v1)|null|
+|**2024-10-09**|**Rigidity for fixed angle inverse scattering for Riemannian metrics**|Lauri Oksanen et.al.|[2410.06864v1](http://arxiv.org/abs/2410.06864v1)|null|
+|**2024-10-09**|**$φ_0$-junction and Josephson diode effect in high-temperature superconductor**|Guo-Liang Guo et.al.|[2410.06838v1](http://arxiv.org/abs/2410.06838v1)|null|
+|**2024-10-09**|**Comparing direct limit and inverse limit of even $K$-groups in non-commutative $p$-adic Lie extensions**|Meng Fai Lim et.al.|[2410.06826v1](http://arxiv.org/abs/2410.06826v1)|null|
+|**2024-10-09**|**On an acyclic relaxation of incomparable families of sets**|Maximilian Krone et.al.|[2410.06812v1](http://arxiv.org/abs/2410.06812v1)|null|
+|**2024-10-09**|**Diff-FMT: Diffusion Models for Fluorescence Molecular Tomography**|Qianqian Xue et.al.|[2410.06757v1](http://arxiv.org/abs/2410.06757v1)|null|
+|**2024-10-09**|**Inclusive rare $Λ_b$ decays to photon**|Francesco Loparco et.al.|[2410.06737v1](http://arxiv.org/abs/2410.06737v1)|null|
+|**2024-10-09**|**Spin Quenching and Transport by Hidden Dzyaloshinskii-Moriya Interactions**|Xiyin Ye et.al.|[2410.06690v1](http://arxiv.org/abs/2410.06690v1)|null|
+|**2024-10-09**|**Aperiodic Flows on Finite Semigroups: Foundations and First Examples**|Stuart Margolis et.al.|[2410.06668v1](http://arxiv.org/abs/2410.06668v1)|null|
+|**2024-10-09**|**Does Vec2Text Pose a New Corpus Poisoning Threat?**|Shengyao Zhuang et.al.|[2410.06628v1](http://arxiv.org/abs/2410.06628v1)|[link](https://github.com/ielab/vec2text-corpus-poisoning)|
+|**2024-10-09**|**Towards optimal algorithms for the recovery of low-dimensional models with linear rates**|Yann Traonmilin et.al.|[2410.06607v1](http://arxiv.org/abs/2410.06607v1)|null|
+|**2024-10-09**|**$q$-Breathers in the diatomic $β$-Fermi-Pasta-Ulam- Tsingou chains**|Lin Deng et.al.|[2410.06575v1](http://arxiv.org/abs/2410.06575v1)|null|
+|**2024-10-09**|**Iron phosphate glass structure at different length scale with emphasis on the medium range: a classical molecular dynamic study**|Shakti Singh et.al.|[2410.06546v1](http://arxiv.org/abs/2410.06546v1)|null|
+|**2024-10-09**|**DeepMuon: Accelerating Cosmic-Ray Muon Simulation Based on Optimal Transport**|Ao-Bo Wang et.al.|[2410.06539v1](http://arxiv.org/abs/2410.06539v1)|null|
+|**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537v1](http://arxiv.org/abs/2410.06537v1)|null|
+|**2024-10-09**|**Phase Diagram from Nonlinear Interaction between Superconducting Order and Density: Toward Data-Based Holographic Superconductor**|Sejin Kim et.al.|[2410.06523v1](http://arxiv.org/abs/2410.06523v1)|null|
+|**2024-10-09**|**On the Solution of Linearized Inverse Scattering Problems in Near-Field Microwave Imaging by Operator Inversion and Matched Filtering**|Matthias M. Saurer et.al.|[2410.06465v1](http://arxiv.org/abs/2410.06465v1)|null|
+|**2024-10-08**|**A novel, finite-element-based framework for sparse data solution reconstruction and multiple choices**|Wiera Bielajewa et.al.|[2410.06386v1](http://arxiv.org/abs/2410.06386v1)|null|
+|**2024-10-08**|**Inverse Design of Photonic Crystal Waveguides Using Neural Networks and Dispersion Optimization**|Lucian Feng et.al.|[2410.06374v1](http://arxiv.org/abs/2410.06374v1)|null|
+|**2024-10-08**|**Recovery of piecewise smooth parameters in an acoustic-gravitational system of equations from exterior Cauchy data**|Sombuddha Bhattacharyya et.al.|[2410.06360v1](http://arxiv.org/abs/2410.06360v1)|null|
+|**2024-10-08**|**Describing Hadronization via Histories and Observables for Monte-Carlo Event Reweighting**|Christian Bierlich et.al.|[2410.06342v1](http://arxiv.org/abs/2410.06342v1)|null|
+|**2024-10-08**|**Non-Halting Queries: Exploiting Fixed Points in LLMs**|Ghaith Hammouri et.al.|[2410.06287v1](http://arxiv.org/abs/2410.06287v1)|null|
+|**2024-10-08**|**Anomalous size dependence of the coercivity of nanopatterned CrGeTe3**|Avia Noah et.al.|[2410.06258v1](http://arxiv.org/abs/2410.06258v1)|null|
+|**2024-10-08**|**RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**|Tianyuan Zhang et.al.|[2410.06231v1](http://arxiv.org/abs/2410.06231v1)|null|
+|**2024-10-08**|**Linear and nonlinear optical response based on many-body GW-Bethe-Salpeter and Kadanoff-Baym approaches for two-dimensional layered semiconductors**|Dmitry Skachkov et.al.|[2410.06218v1](http://arxiv.org/abs/2410.06218v1)|null|
+|**2024-10-08**|**Methods for robustly measuring the minimum spanning tree and other field level statistics from galaxy surveys**|Krishna Naidoo et.al.|[2410.06202v1](http://arxiv.org/abs/2410.06202v1)|null|
