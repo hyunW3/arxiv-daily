@@ -19,7 +19,7 @@
 |**2024-10-09**|**Towards optimal algorithms for the recovery of low-dimensional models with linear rates**|Yann Traonmilin et.al.|[2410.06607v1](http://arxiv.org/abs/2410.06607v1)|null|
 |**2024-10-09**|**$q$-Breathers in the diatomic $β$-Fermi-Pasta-Ulam- Tsingou chains**|Lin Deng et.al.|[2410.06575v1](http://arxiv.org/abs/2410.06575v1)|null|
 |**2024-10-09**|**Iron phosphate glass structure at different length scale with emphasis on the medium range: a classical molecular dynamic study**|Shakti Singh et.al.|[2410.06546v1](http://arxiv.org/abs/2410.06546v1)|null|
-|**2024-10-09**|**DeepMuon: Accelerating Cosmic-Ray Muon Simulation Based on Optimal Transport**|Ao-Bo Wang et.al.|[2410.06539v1](http://arxiv.org/abs/2410.06539v1)|null|
+|**2024-10-09**|**DeepMuon: Accelerating Cosmic-Ray Muon Simulation Based on Optimal Transport**|Ao-Bo Wang et.al.|[2410.06539v2](http://arxiv.org/abs/2410.06539v2)|null|
 |**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537v1](http://arxiv.org/abs/2410.06537v1)|null|
 |**2024-10-09**|**Phase Diagram from Nonlinear Interaction between Superconducting Order and Density: Toward Data-Based Holographic Superconductor**|Sejin Kim et.al.|[2410.06523v1](http://arxiv.org/abs/2410.06523v1)|null|
 |**2024-10-09**|**On the Solution of Linearized Inverse Scattering Problems in Near-Field Microwave Imaging by Operator Inversion and Matched Filtering**|Matthias M. Saurer et.al.|[2410.06465v1](http://arxiv.org/abs/2410.06465v1)|null|
@@ -29,6 +29,6 @@
 |**2024-10-08**|**Describing Hadronization via Histories and Observables for Monte-Carlo Event Reweighting**|Christian Bierlich et.al.|[2410.06342v1](http://arxiv.org/abs/2410.06342v1)|null|
 |**2024-10-08**|**Non-Halting Queries: Exploiting Fixed Points in LLMs**|Ghaith Hammouri et.al.|[2410.06287v1](http://arxiv.org/abs/2410.06287v1)|null|
 |**2024-10-08**|**Anomalous size dependence of the coercivity of nanopatterned CrGeTe3**|Avia Noah et.al.|[2410.06258v1](http://arxiv.org/abs/2410.06258v1)|null|
-|**2024-10-08**|**RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**|Tianyuan Zhang et.al.|[2410.06231v1](http://arxiv.org/abs/2410.06231v1)|null|
+|**2024-10-08**|**RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**|Tianyuan Zhang et.al.|[2410.06231v2](http://arxiv.org/abs/2410.06231v2)|null|
 |**2024-10-08**|**Linear and nonlinear optical response based on many-body GW-Bethe-Salpeter and Kadanoff-Baym approaches for two-dimensional layered semiconductors**|Dmitry Skachkov et.al.|[2410.06218v1](http://arxiv.org/abs/2410.06218v1)|null|
 |**2024-10-08**|**Methods for robustly measuring the minimum spanning tree and other field level statistics from galaxy surveys**|Krishna Naidoo et.al.|[2410.06202v1](http://arxiv.org/abs/2410.06202v1)|null|
