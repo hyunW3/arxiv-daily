@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-13 09:13:16 Asia/Shanghai
+ Automated deployment @ 2024-10-13 20:26:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -22,7 +22,7 @@
 |**2024-10-10**|**Efficient Dictionary Learning with Switch Sparse Autoencoders**|Anish Mudide et.al.|[2410.08201v1](http://arxiv.org/abs/2410.08201v1)|[link](https://github.com/amudide/switch_sae)|
 |**2024-10-10**|**Spectropolarimetry of SN 2023ixf reveals both circumstellar material and helium core to be aspherical**|Manisha Shrestha et.al.|[2410.08199v1](http://arxiv.org/abs/2410.08199v1)|null|
 |**2024-10-10**|**Adam Exploits $\ell_\infty$-geometry of Loss Landscape via Coordinate-wise Adaptivity**|Shuo Xie et.al.|[2410.08198v1](http://arxiv.org/abs/2410.08198v1)|null|
-|**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197v1](http://arxiv.org/abs/2410.08197v1)|null|
+|**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197v1](http://arxiv.org/abs/2410.08197v1)|[link](https://github.com/quchangle1/DRAFT)|
 |**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196v1](http://arxiv.org/abs/2410.08196v1)|[link](https://github.com/mathllm/mathcoder2)|
 |**2024-10-10**|**Unusual portals to new exotics, the W-gluon portal**|Linda M. Carpenter et.al.|[2410.08195v1](http://arxiv.org/abs/2410.08195v1)|null|
 |**2024-10-10**|**Features are fate: a theory of transfer learning in high-dimensional regression**|Javan Tahir et.al.|[2410.08194v1](http://arxiv.org/abs/2410.08194v1)|null|
