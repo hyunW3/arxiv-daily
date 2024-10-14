@@ -2,6 +2,24 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-11**|**Anomalously extended Floquet prethermal lifetimes and applications to long-time quantum sensing**|Kieren A. Harkins et.al.|[2410.09028v1](http://arxiv.org/abs/2410.09028v1)|null|
+|**2024-10-11**|**Ensemble Kalman Inversion for Geothermal Reservoir Modelling**|Alex de Beer et.al.|[2410.09017v1](http://arxiv.org/abs/2410.09017v1)|null|
+|**2024-10-11**|**WaveDiffusion: Exploring Full Waveform Inversion via Joint Diffusion in the Latent Space**|Hanchen Wang et.al.|[2410.09002v1](http://arxiv.org/abs/2410.09002v1)|null|
+|**2024-10-11**|**DEL: Discrete Element Learner for Learning 3D Particle Dynamics with Neural Rendering**|Jiaxu Wang et.al.|[2410.08983v1](http://arxiv.org/abs/2410.08983v1)|null|
+|**2024-10-11**|**Quasipolynomial inverse theorem for the $\mathsf{U}^4(\mathbb{F}_p^n)$ norm**|Luka Milićević et.al.|[2410.08966v1](http://arxiv.org/abs/2410.08966v1)|null|
+|**2024-10-11**|**Distribution-free uncertainty quantification for inverse problems: application to weak lensing mass mapping**|Hubert Leterme et.al.|[2410.08831v1](http://arxiv.org/abs/2410.08831v1)|null|
+|**2024-10-11**|**Term structure shapes and their consistent dynamics in the Svensson family**|Martin Keller-Ressel et.al.|[2410.08808v1](http://arxiv.org/abs/2410.08808v1)|null|
+|**2024-10-11**|**A Flexible GMRES Solver with Reduced Order Model Enhanced Synthetic Acceleration Preconditioenr for Parametric Radiative Transfer Equation**|Zhichao Peng et.al.|[2410.08735v1](http://arxiv.org/abs/2410.08735v1)|null|
+|**2024-10-11**|**Uncertainty Estimation and Out-of-Distribution Detection for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei et.al.|[2410.08687v1](http://arxiv.org/abs/2410.08687v1)|null|
+|**2024-10-11**|**Canonical Ramsey numbers of sparse graphs**|Lior Gishboliner et.al.|[2410.08644v1](http://arxiv.org/abs/2410.08644v1)|null|
+|**2024-10-11**|**Magnetic Steklov problem on surfaces**|Mihajlo Cekić et.al.|[2410.08591v1](http://arxiv.org/abs/2410.08591v1)|null|
+|**2024-10-11**|**Higher-order gap ratios of singular values in open quantum systems**|S. Harshini Tekur et.al.|[2410.08590v1](http://arxiv.org/abs/2410.08590v1)|null|
+|**2024-10-11**|**Optical modeling, solver, and design of wafer-scale single-enantiomer carbon nanotube film and reconfigurable chiral photonic device**|Jichao Fan et.al.|[2410.08586v1](http://arxiv.org/abs/2410.08586v1)|null|
+|**2024-10-11**|**GPR Full-Waveform Inversion through Adaptive Filtering of Model Parameters and Gradients Using CNN**|Peng Jiang et.al.|[2410.08568v1](http://arxiv.org/abs/2410.08568v1)|null|
+|**2024-10-11**|**On a Hidden Property in Computational Imaging**|Yinan Feng et.al.|[2410.08498v1](http://arxiv.org/abs/2410.08498v1)|null|
+|**2024-10-10**|**Heating Up Quasi-Monte Carlo Graph Random Features: A Diffusion Kernel Perspective**|Brooke Feinberg et.al.|[2410.08389v1](http://arxiv.org/abs/2410.08389v1)|null|
+|**2024-10-10**|**UNIQ: Offline Inverse Q-learning for Avoiding Undesirable Demonstrations**|Huy Hoang et.al.|[2410.08307v1](http://arxiv.org/abs/2410.08307v1)|null|
+|**2024-10-10**|**Light scalar quarkonia from Laplace sum rule at NLO**|R. M. Albuquerque et.al.|[2410.08281v1](http://arxiv.org/abs/2410.08281v1)|null|
 |**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207v1](http://arxiv.org/abs/2410.08207v1)|null|
 |**2024-10-10**|**Spectropolarimetry of SN 2023ixf reveals both circumstellar material and helium core to be aspherical**|Manisha Shrestha et.al.|[2410.08199v1](http://arxiv.org/abs/2410.08199v1)|null|
 |**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192v1](http://arxiv.org/abs/2410.08192v1)|null|
@@ -14,21 +32,3 @@
 |**2024-10-10**|**Time-domain direct sampling method for inverse electromagnetic scattering with a single incident source**|Chen Geng et.al.|[2410.07703v1](http://arxiv.org/abs/2410.07703v1)|null|
 |**2024-10-10**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2410.07643v1](http://arxiv.org/abs/2410.07643v1)|null|
 |**2024-10-10**|**A Variational Bayesian Inference Theory of Elasticity and Its Mixed Probabilistic Finite Element Method for Inverse Deformation Solutions in Any Dimension**|Chao Wang et.al.|[2410.07605v1](http://arxiv.org/abs/2410.07605v1)|null|
-|**2024-10-10**|**Imitation Learning with Limited Actions via Diffusion Planners and Deep Koopman Controllers**|Jianxin Bi et.al.|[2410.07584v1](http://arxiv.org/abs/2410.07584v1)|null|
-|**2024-10-10**|**Edge-guided inverse design of digital metamaterials for ultra-high-capacity on-chip multi-dimensional interconnect**|Aolong Sun et.al.|[2410.07572v1](http://arxiv.org/abs/2410.07572v1)|null|
-|**2024-10-10**|**Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare**|Nan Fang et.al.|[2410.07525v1](http://arxiv.org/abs/2410.07525v1)|null|
-|**2024-10-10**|**Strategic Facility Location via Predictions**|Qingyun Chen et.al.|[2410.07497v1](http://arxiv.org/abs/2410.07497v1)|null|
-|**2024-10-09**|**Pattern avoidance enumerated by inversions**|Atli Fannar Franklín et.al.|[2410.07467v1](http://arxiv.org/abs/2410.07467v1)|null|
-|**2024-10-09**|**New tools for the study of Bochner differential operators**|L. M. Anguas et.al.|[2410.07449v1](http://arxiv.org/abs/2410.07449v1)|null|
-|**2024-10-09**|**Bounded Time Inverse Scattering for Semilinear Dirac Equation**|Yuchao Yi et.al.|[2410.07438v1](http://arxiv.org/abs/2410.07438v1)|null|
-|**2024-10-09**|**Deciphering the origin of spin current in spintronic terahertz emitters and its imprint on their electromagnetic radiation via time-dependent density functional theory**|Ali Kefayati et.al.|[2410.07360v1](http://arxiv.org/abs/2410.07360v1)|null|
-|**2024-10-09**|**Fabrication-Aware Inverse Design For Shape Optimization**|Shaheer Khan et.al.|[2410.07353v1](http://arxiv.org/abs/2410.07353v1)|null|
-|**2024-10-09**|**RM4D: A Combined Reachability and Inverse Reachability Map for Common 6-/7-axis Robot Arms by Dimensionality Reduction to 4D**|Martin Rudorfer et.al.|[2410.06968v1](http://arxiv.org/abs/2410.06968v1)|null|
-|**2024-10-09**|**Simultaneous estimation of electrical conductivity and permittivity in quantitative thermoacoustic tomography**|Teemu Sahlström et.al.|[2410.06926v1](http://arxiv.org/abs/2410.06926v1)|null|
-|**2024-10-09**|**Invertibility in the misère multiverse**|Alfie Davies et.al.|[2410.06924v1](http://arxiv.org/abs/2410.06924v1)|null|
-|**2024-10-09**|**Adversarial Vulnerability as a Consequence of On-Manifold Inseparibility**|Rajdeep Haldar et.al.|[2410.06921v1](http://arxiv.org/abs/2410.06921v1)|null|
-|**2024-10-09**|**Entwining tetrahedron maps**|Pavlos Kassotakis et.al.|[2410.06888v1](http://arxiv.org/abs/2410.06888v1)|null|
-|**2024-10-09**|**Rigidity for fixed angle inverse scattering for Riemannian metrics**|Lauri Oksanen et.al.|[2410.06864v1](http://arxiv.org/abs/2410.06864v1)|null|
-|**2024-10-09**|**$φ_0$-junction and Josephson diode effect in high-temperature superconductor**|Guo-Liang Guo et.al.|[2410.06838v1](http://arxiv.org/abs/2410.06838v1)|null|
-|**2024-10-09**|**Comparing direct limit and inverse limit of even $K$-groups in non-commutative $p$-adic Lie extensions**|Meng Fai Lim et.al.|[2410.06826v1](http://arxiv.org/abs/2410.06826v1)|null|
-|**2024-10-09**|**On an acyclic relaxation of incomparable families of sets**|Maximilian Krone et.al.|[2410.06812v1](http://arxiv.org/abs/2410.06812v1)|null|
