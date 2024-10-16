@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821v1](http://arxiv.org/abs/2410.10821v1)|null|
-|**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817v1](http://arxiv.org/abs/2410.10817v1)|null|
-|**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818v1](http://arxiv.org/abs/2410.10818v1)|null|
-|**2024-10-14**|**DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads**|Guangxuan Xiao et.al.|[2410.10819v1](http://arxiv.org/abs/2410.10819v1)|[link](https://github.com/mit-han-lab/duo-attention)|
-|**2024-10-14**|**High-resolution transmission spectroscopy of the hot-Saturn HD 149026b**|Federico Biassoni et.al.|[2410.10820v1](http://arxiv.org/abs/2410.10820v1)|null|
-|**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816v1](http://arxiv.org/abs/2410.10816v1)|[link](https://github.com/silentview/lvd-2m)|
-|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815v1](http://arxiv.org/abs/2410.10815v1)|null|
-|**2024-10-14**|**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**|Di Wu et.al.|[2410.10813v1](http://arxiv.org/abs/2410.10813v1)|[link](https://github.com/xiaowu0162/longmemeval)|
-|**2024-10-14**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814v1](http://arxiv.org/abs/2410.10814v1)|null|
-|**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812v1](http://arxiv.org/abs/2410.10812v1)|[link](https://github.com/mit-han-lab/hart)|
-|**2024-10-14**|**Deep Linear Probe Generators for Weight Space Learning**|Jonathan Kahana et.al.|[2410.10811v1](http://arxiv.org/abs/2410.10811v1)|null|
-|**2024-10-14**|**Local and Global Decoding in Text Generation**|Daniel Gareev et.al.|[2410.10810v1](http://arxiv.org/abs/2410.10810v1)|[link](https://github.com/lowlypalace/global-decoding)|
-|**2024-10-14**|**Response theory for locally gapped systems**|Joscha Henheik et.al.|[2410.10809v1](http://arxiv.org/abs/2410.10809v1)|null|
-|**2024-10-14**|**The Atacama Cosmology Telescope DR6 and DESI: Structure growth measurements from the cross-correlation of DESI Legacy Imaging galaxies and CMB lensing from ACT DR6 and \textit{Planck} PR4**|Frank J. Qu et.al.|[2410.10808v1](http://arxiv.org/abs/2410.10808v1)|null|
-|**2024-10-14**|**Hard-Constrained Neural Networks with Universal Approximation Guarantees**|Youngjae Min et.al.|[2410.10807v1](http://arxiv.org/abs/2410.10807v1)|null|
-|**2024-10-14**|**Synthetic Mutual Gauge Field in Microwave-Shielded Polar Molecular Gases**|Bei Xu et.al.|[2410.10806v1](http://arxiv.org/abs/2410.10806v1)|null|
-|**2024-10-14**|**TL-PCA: Transfer Learning of Principal Component Analysis**|Sharon Hendy et.al.|[2410.10805v1](http://arxiv.org/abs/2410.10805v1)|null|
-|**2024-10-14**|**TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**|Qingze et.al.|[2410.10804v1](http://arxiv.org/abs/2410.10804v1)|[link](https://github.com/tl-qz/trajdiffuse)|
-|**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803v1](http://arxiv.org/abs/2410.10803v1)|[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)|
-|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802v1](http://arxiv.org/abs/2410.10802v1)|null|
-|**2024-10-14**|**Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning**|Aakanksha et.al.|[2410.10801v1](http://arxiv.org/abs/2410.10801v1)|null|
-|**2024-10-14**|**Optimizing $(L_0, L_1)$-Smooth Functions by Gradient Methods**|Daniil Vankov et.al.|[2410.10800v1](http://arxiv.org/abs/2410.10800v1)|null|
-|**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799v1](http://arxiv.org/abs/2410.10799v1)|null|
-|**2024-10-14**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**|Jian Yang et.al.|[2410.10798v2](http://arxiv.org/abs/2410.10798v2)|null|
-|**2024-10-14**|**MEV Capture Through Time-Advantaged Arbitrage**|Robin Fritsch et.al.|[2410.10797v1](http://arxiv.org/abs/2410.10797v1)|null|
-|**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796v1](http://arxiv.org/abs/2410.10796v1)|[link](https://github.com/locuslab/context-parametric-inversion)|
-|**2024-10-14**|**New Limits for Existence of Transverse Zero Sound in Fermi Liquid 3He**|M. D. Nguyen et.al.|[2410.10795v1](http://arxiv.org/abs/2410.10795v1)|null|
-|**2024-10-14**|**Robustness of near-thermal dynamics on digital quantum computers**|Eli Chertkov et.al.|[2410.10794v1](http://arxiv.org/abs/2410.10794v1)|null|
-|**2024-10-14**|**Kinetic uncertainty relations for quantum transport**|Didrik Palmqvist et.al.|[2410.10793v1](http://arxiv.org/abs/2410.10793v1)|null|
-|**2024-10-14**|**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations**|Litu Rout et.al.|[2410.10792v1](http://arxiv.org/abs/2410.10792v1)|null|
+|**2024-10-15**|**MoH: Multi-Head Attention as Mixture-of-Head Attention**|Peng Jin et.al.|[2410.11842v1](http://arxiv.org/abs/2410.11842v1)|[link](https://github.com/skyworkai/moh)|
+|**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841v1](http://arxiv.org/abs/2410.11841v1)|null|
+|**2024-10-15**|**A Hitchhiker's Guide to Scaling Law Estimation**|Leshem Choshen et.al.|[2410.11840v1](http://arxiv.org/abs/2410.11840v1)|null|
+|**2024-10-15**|**Molecular Quantum Control Algorithm Design by Reinforcement Learning**|Anastasia Pipi et.al.|[2410.11839v1](http://arxiv.org/abs/2410.11839v1)|null|
+|**2024-10-15**|**High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion**|Junhwa Hur et.al.|[2410.11838v1](http://arxiv.org/abs/2410.11838v1)|null|
+|**2024-10-15**|**Minimal models for minimal BCOV theories**|Surya Raghavendran et.al.|[2410.11837v1](http://arxiv.org/abs/2410.11837v1)|null|
+|**2024-10-15**|**The Paquette-Zeitouni law of fractional logarithms for the GUE minor process**|Jnaneshwar Baslingker et.al.|[2410.11836v1](http://arxiv.org/abs/2410.11836v1)|null|
+|**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835v1](http://arxiv.org/abs/2410.11835v1)|null|
+|**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834v1](http://arxiv.org/abs/2410.11834v1)|null|
+|**2024-10-15**|**Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions**|Ayush Jain et.al.|[2410.11833v1](http://arxiv.org/abs/2410.11833v1)|null|
+|**2024-10-15**|**On Vu's theorem in Waring's problem for thinner sequences**|Javier Pliego et.al.|[2410.11832v1](http://arxiv.org/abs/2410.11832v1)|null|
+|**2024-10-15**|**CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos**|Nikita Karaev et.al.|[2410.11831v1](http://arxiv.org/abs/2410.11831v1)|null|
+|**2024-10-15**|**Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**|L. M. de Sá et.al.|[2410.11830v1](http://arxiv.org/abs/2410.11830v1)|null|
+|**2024-10-15**|**MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding**|Yue Cao et.al.|[2410.11829v1](http://arxiv.org/abs/2410.11829v1)|[link](https://github.com/yuecao0119/MMFuser)|
+|**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828v1](http://arxiv.org/abs/2410.11828v1)|null|
+|**2024-10-15**|**Are uncloneable proof and advice states strictly necessary?**|Rohit Chatterjee et.al.|[2410.11827v1](http://arxiv.org/abs/2410.11827v1)|null|
+|**2024-10-15**|**Bayesian Experimental Design via Contrastive Diffusions**|Jacopo Iollo et.al.|[2410.11826v1](http://arxiv.org/abs/2410.11826v1)|null|
+|**2024-10-15**|**Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies**|Zixuan Chen et.al.|[2410.11825v1](http://arxiv.org/abs/2410.11825v1)|null|
+|**2024-10-15**|**KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities**|Hsin-Ping Huang et.al.|[2410.11824v1](http://arxiv.org/abs/2410.11824v1)|null|
+|**2024-10-15**|**The BV construction for finite spectral triples**|Roberta Anna Iseppi et.al.|[2410.11823v1](http://arxiv.org/abs/2410.11823v1)|null|
+|**2024-10-15**|**Entanglement Oscillations from Many-Body Quantum Scars**|Nicholas O'Dea et.al.|[2410.11822v1](http://arxiv.org/abs/2410.11822v1)|null|
+|**2024-10-15**|**A First-look at Spatially-resolved Infrared Supernova Remnants in M33 with JWST**|Sumit K. Sarbadhicary et.al.|[2410.11821v1](http://arxiv.org/abs/2410.11821v1)|null|
+|**2024-10-15**|**Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws**|Yiding Jiang et.al.|[2410.11820v1](http://arxiv.org/abs/2410.11820v1)|null|
+|**2024-10-15**|**Mind the memory: Artefactual scaling of energy dissipation rate due to inconsistent time reversal**|Tassilo Schwarz et.al.|[2410.11819v1](http://arxiv.org/abs/2410.11819v1)|null|
+|**2024-10-15**|**Permutation gates in the third level of the Clifford hierarchy**|Zhiyang He et.al.|[2410.11818v1](http://arxiv.org/abs/2410.11818v1)|null|
+|**2024-10-15**|**Improving Long-Text Alignment for Text-to-Image Diffusion Models**|Luping Liu et.al.|[2410.11817v1](http://arxiv.org/abs/2410.11817v1)|[link](https://github.com/luping-liu/longalign)|
+|**2024-10-15**|**Jigsaw++: Imagining Complete Shape Priors for Object Reassembly**|Jiaxin Lu et.al.|[2410.11816v1](http://arxiv.org/abs/2410.11816v1)|null|
+|**2024-10-15**|**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**|Zhiyuan Zhang et.al.|[2410.11815v1](http://arxiv.org/abs/2410.11815v1)|null|
+|**2024-10-15**|**Random walks with long-range memory on networks**|Ana Gabriela Guerrero-Estrada et.al.|[2410.11814v1](http://arxiv.org/abs/2410.11814v1)|null|
+|**2024-10-15**|**Forcing Planets to Evolve: The Relationship Between Uranus and Neptune at Late Stages of Dynamical Evolution**|Arcelia Hermosillo Ruiz et.al.|[2410.11813v1](http://arxiv.org/abs/2410.11813v1)|null|
