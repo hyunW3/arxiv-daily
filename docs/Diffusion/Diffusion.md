@@ -21,7 +21,7 @@
 |**2024-10-14**|**The formula for the completion time of project networks**|Manuel Castejón-Limas et.al.|[2410.10252v1](http://arxiv.org/abs/2410.10252v1)|null|
 |**2024-10-14**|**DLR equations for the superstable Bose gas at any temperature and activity**|G Bellot et.al.|[2410.10225v1](http://arxiv.org/abs/2410.10225v1)|null|
 |**2024-10-14**|**Correlations and fluctuations in a magnetized PNJL model with and without inverse magnetic catalysis effect**|Shijun Mao et.al.|[2410.10217v1](http://arxiv.org/abs/2410.10217v1)|null|
-|**2024-10-14**|**Regions of Level $\ell$ of Catalan/Semiorder-Type [5pt] Arrangements**|Yanru Chen et.al.|[2410.10198v1](http://arxiv.org/abs/2410.10198v1)|null|
+|**2024-10-14**|**Regions of Level $\ell$ of Catalan/Semiorder-Type Arrangements**|Yanru Chen et.al.|[2410.10198v2](http://arxiv.org/abs/2410.10198v2)|null|
 |**2024-10-14**|**Minimizing Space Charge Tune Spread and Increasing Beam Quality Parameters with Circular Modes**|Onur Gilanliogullari et.al.|[2410.10156v1](http://arxiv.org/abs/2410.10156v1)|null|
 |**2024-10-14**|**How to Construct Random Unitaries**|Fermi Ma et.al.|[2410.10116v1](http://arxiv.org/abs/2410.10116v1)|null|
 |**2024-10-14**|**NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data**|Md Farhan Tasnim Oshim et.al.|[2410.10085v1](http://arxiv.org/abs/2410.10085v1)|null|

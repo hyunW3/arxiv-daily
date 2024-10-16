@@ -25,7 +25,7 @@
 |**2024-10-14**|**Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning**|Aakanksha et.al.|[2410.10801v1](http://arxiv.org/abs/2410.10801v1)|null|
 |**2024-10-14**|**Optimizing $(L_0, L_1)$-Smooth Functions by Gradient Methods**|Daniil Vankov et.al.|[2410.10800v1](http://arxiv.org/abs/2410.10800v1)|null|
 |**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799v1](http://arxiv.org/abs/2410.10799v1)|null|
-|**2024-10-14**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Prababilistic Modeling**|Jian Yang et.al.|[2410.10798v1](http://arxiv.org/abs/2410.10798v1)|null|
+|**2024-10-14**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**|Jian Yang et.al.|[2410.10798v2](http://arxiv.org/abs/2410.10798v2)|null|
 |**2024-10-14**|**MEV Capture Through Time-Advantaged Arbitrage**|Robin Fritsch et.al.|[2410.10797v1](http://arxiv.org/abs/2410.10797v1)|null|
 |**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796v1](http://arxiv.org/abs/2410.10796v1)|[link](https://github.com/locuslab/context-parametric-inversion)|
 |**2024-10-14**|**New Limits for Existence of Transverse Zero Sound in Fermi Liquid 3He**|M. D. Nguyen et.al.|[2410.10795v1](http://arxiv.org/abs/2410.10795v1)|null|
