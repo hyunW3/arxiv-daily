@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-16 21:01:29 Asia/Shanghai
+ Automated deployment @ 2024-10-17 09:08:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -28,7 +28,7 @@
 |**2024-10-15**|**Tame algebra estimates for product and flag kernels on graded Lie groups**|Amelia Stokolosa et.al.|[2410.11346v1](http://arxiv.org/abs/2410.11346v1)|null|
 |**2024-10-15**|**Multi-Scale Molecular Dynamics Simulations**|Frédéric Boussinot et.al.|[2410.11342v1](http://arxiv.org/abs/2410.11342v1)|null|
 |**2024-10-15**|**Evolution and Instability of Bogoliubov Fermi Surfaces under Zeeman Field**|Tatsuaki Mori et.al.|[2410.11326v1](http://arxiv.org/abs/2410.11326v1)|null|
-|**2024-10-15**|**A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations**|Naveen Gupta et.al.|[2410.11247v1](http://arxiv.org/abs/2410.11247v1)|null|
+|**2024-10-15**|**A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations**|Naveen Gupta et.al.|[2410.11247v2](http://arxiv.org/abs/2410.11247v2)|null|
 |**2024-10-15**|**Learning Diffusion Model from Noisy Measurement using Principled Expectation-Maximization Method**|Weimin Bai et.al.|[2410.11241v1](http://arxiv.org/abs/2410.11241v1)|null|
 |**2024-10-15**|**EFILN: The Electric Field Inversion-Localization Network for High-Precision Underwater Positioning**|Yimian Ding et.al.|[2410.11223v1](http://arxiv.org/abs/2410.11223v1)|null|
 |**2024-10-15**|**On a coupled-physics transmission eigenvalue problem and its spectral properties with applications**|Huaian Diao et.al.|[2410.11167v1](http://arxiv.org/abs/2410.11167v1)|null|
@@ -58,8 +58,8 @@
 |**2024-10-15**|**MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding**|Yue Cao et.al.|[2410.11829v1](http://arxiv.org/abs/2410.11829v1)|[link](https://github.com/yuecao0119/MMFuser)|
 |**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828v1](http://arxiv.org/abs/2410.11828v1)|null|
 |**2024-10-15**|**Are uncloneable proof and advice states strictly necessary?**|Rohit Chatterjee et.al.|[2410.11827v1](http://arxiv.org/abs/2410.11827v1)|null|
-|**2024-10-15**|**Bayesian Experimental Design via Contrastive Diffusions**|Jacopo Iollo et.al.|[2410.11826v1](http://arxiv.org/abs/2410.11826v1)|null|
-|**2024-10-15**|**Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies**|Zixuan Chen et.al.|[2410.11825v1](http://arxiv.org/abs/2410.11825v1)|null|
+|**2024-10-15**|**Bayesian Experimental Design via Contrastive Diffusions**|Jacopo Iollo et.al.|[2410.11826v1](http://arxiv.org/abs/2410.11826v1)|[link](https://github.com/jcopo/ContrastiveDiffusions)|
+|**2024-10-15**|**Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies**|Zixuan Chen et.al.|[2410.11825v2](http://arxiv.org/abs/2410.11825v2)|null|
 |**2024-10-15**|**KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities**|Hsin-Ping Huang et.al.|[2410.11824v1](http://arxiv.org/abs/2410.11824v1)|null|
 |**2024-10-15**|**The BV construction for finite spectral triples**|Roberta Anna Iseppi et.al.|[2410.11823v1](http://arxiv.org/abs/2410.11823v1)|null|
 |**2024-10-15**|**Entanglement Oscillations from Many-Body Quantum Scars**|Nicholas O'Dea et.al.|[2410.11822v1](http://arxiv.org/abs/2410.11822v1)|null|

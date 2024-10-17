@@ -22,7 +22,7 @@
 |**2024-10-15**|**Tame algebra estimates for product and flag kernels on graded Lie groups**|Amelia Stokolosa et.al.|[2410.11346v1](http://arxiv.org/abs/2410.11346v1)|null|
 |**2024-10-15**|**Multi-Scale Molecular Dynamics Simulations**|Frédéric Boussinot et.al.|[2410.11342v1](http://arxiv.org/abs/2410.11342v1)|null|
 |**2024-10-15**|**Evolution and Instability of Bogoliubov Fermi Surfaces under Zeeman Field**|Tatsuaki Mori et.al.|[2410.11326v1](http://arxiv.org/abs/2410.11326v1)|null|
-|**2024-10-15**|**A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations**|Naveen Gupta et.al.|[2410.11247v1](http://arxiv.org/abs/2410.11247v1)|null|
+|**2024-10-15**|**A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations**|Naveen Gupta et.al.|[2410.11247v2](http://arxiv.org/abs/2410.11247v2)|null|
 |**2024-10-15**|**Learning Diffusion Model from Noisy Measurement using Principled Expectation-Maximization Method**|Weimin Bai et.al.|[2410.11241v1](http://arxiv.org/abs/2410.11241v1)|null|
 |**2024-10-15**|**EFILN: The Electric Field Inversion-Localization Network for High-Precision Underwater Positioning**|Yimian Ding et.al.|[2410.11223v1](http://arxiv.org/abs/2410.11223v1)|null|
 |**2024-10-15**|**On a coupled-physics transmission eigenvalue problem and its spectral properties with applications**|Huaian Diao et.al.|[2410.11167v1](http://arxiv.org/abs/2410.11167v1)|null|
