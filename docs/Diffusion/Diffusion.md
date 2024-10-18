@@ -2,6 +2,28 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-17**|**Monte Carlo Study of Critical Fermi Surface with Spatial Disorder Interactions**|Tu Hong et.al.|[2410.13858v1](http://arxiv.org/abs/2410.13858v1)|null|
+|**2024-10-17**|**A Fourier analysis framework for approximate classical simulations of quantum circuits**|Cristina Cirstoiu et.al.|[2410.13856v1](http://arxiv.org/abs/2410.13856v1)|null|
+|**2024-10-17**|**A 1.2 mm$^2$ 416 mW 1.44 Mmat/s 64$\times$16 Matrix Preprocessing ASIC for Massive MIMO in 22FDX**|Darja Nonaca et.al.|[2410.13838v1](http://arxiv.org/abs/2410.13838v1)|null|
+|**2024-10-17**|**Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation**|Da Long et.al.|[2410.13794v1](http://arxiv.org/abs/2410.13794v1)|null|
+|**2024-10-17**|**DPLM-2: A Multimodal Diffusion Protein Language Model**|Xinyou Wang et.al.|[2410.13782v1](http://arxiv.org/abs/2410.13782v1)|null|
+|**2024-10-17**|**Variational Quantum Framework for Nonlinear PDE Constrained Optimization Using Carleman Linearization**|Abeynaya Gnanasekaran et.al.|[2410.13688v1](http://arxiv.org/abs/2410.13688v1)|null|
+|**2024-10-17**|**Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design**|Chenyu Wang et.al.|[2410.13643v1](http://arxiv.org/abs/2410.13643v1)|[link](https://github.com/chenyuwang-monica/drakes)|
+|**2024-10-17**|**Enhancing Text Generation in Joint NLG/NLU Learning Through Curriculum Learning, Semi-Supervised Training, and Advanced Optimization Techniques**|Rahimanuddin Shaik et.al.|[2410.13498v1](http://arxiv.org/abs/2410.13498v1)|null|
+|**2024-10-17**|**The S$^4$G-WISE View of Global Star Formation in the Nearby Universe**|M. E. Cluver et.al.|[2410.13483v1](http://arxiv.org/abs/2410.13483v1)|null|
+|**2024-10-17**|**Dynamic Input Mapping Inversion for Algebraic Loop-Free Control in Hydraulic Actuators**|Alessio Dallabona et.al.|[2410.13389v1](http://arxiv.org/abs/2410.13389v1)|null|
+|**2024-10-17**|**GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting**|Shuichang Lai et.al.|[2410.13349v1](http://arxiv.org/abs/2410.13349v1)|null|
+|**2024-10-17**|**The cloud cover and meteorological parameters at the Lenghu site on the Tibetan Plateau**|Ruiyue Li et.al.|[2410.13306v1](http://arxiv.org/abs/2410.13306v1)|null|
+|**2024-10-17**|**Annealed Stein Variational Gradient Descent for Improved Uncertainty Estimation in Full-Waveform Inversion**|Miguel Corrales et.al.|[2410.13249v1](http://arxiv.org/abs/2410.13249v1)|null|
+|**2024-10-17**|**Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**|Yiyi Chen et.al.|[2410.13237v1](http://arxiv.org/abs/2410.13237v1)|null|
+|**2024-10-17**|**Findings of sub-$T_\mathrm{g}$ endotherm in vapor-deposited ultrastable phenolphthalein glass**|Soichi Tatsumi et.al.|[2410.13209v1](http://arxiv.org/abs/2410.13209v1)|null|
+|**2024-10-17**|**Energy dissipation near the outflow boundary in the vanishing viscosity limit**|Jincheng Yang et.al.|[2410.13127v1](http://arxiv.org/abs/2410.13127v1)|null|
+|**2024-10-17**|**Analyzing longitudinal electronic health records data with clinically informative visiting process: possible choices and comparisons**|Jiacong Du et.al.|[2410.13113v1](http://arxiv.org/abs/2410.13113v1)|null|
+|**2024-10-16**|**Reverse-Engineering the Reader**|Samuel Kiegeland et.al.|[2410.13086v1](http://arxiv.org/abs/2410.13086v1)|[link](https://github.com/samuki/reverse-engineering-the-reader)|
+|**2024-10-16**|**Pressure effect on the formation kinetics of ferroelectric domain structure uner first order phase transitions**|Olga Mazur et.al.|[2410.12946v1](http://arxiv.org/abs/2410.12946v1)|null|
+|**2024-10-16**|**Semi-supervised Learning for Detecting Inverse Compton Emission in Galaxy Clusters**|Sheng-Chieh Lin et.al.|[2410.12943v1](http://arxiv.org/abs/2410.12943v1)|null|
+|**2024-10-16**|**Interpreting token compositionality in LLMs: A robustness analysis**|Nura Aljaafari et.al.|[2410.12924v1](http://arxiv.org/abs/2410.12924v1)|null|
+|**2024-10-16**|**Prevention is better than cure? Feedback from high specific energy winds in cosmological simulations with Arkenstone**|Jake S. Bennett et.al.|[2410.12909v1](http://arxiv.org/abs/2410.12909v1)|null|
 |**2024-10-16**|**Reconfiguring homomorphisms to reflexive graphs via a simple reduction**|Moritz Mühlenthaler et.al.|[2410.12687v1](http://arxiv.org/abs/2410.12687v1)|null|
 |**2024-10-16**|**Solvability for the Ginzburg-Landau equation linearized at the degree-one vortex**|Manuel del Pino et.al.|[2410.12646v1](http://arxiv.org/abs/2410.12646v1)|null|
 |**2024-10-16**|**Field-free superconducting diode effect and magnetochiral anisotropy in FeTe0.7Se0.3 junctions with the inherent asymmetric barrier**|Shengyao Li et.al.|[2410.12624v1](http://arxiv.org/abs/2410.12624v1)|null|
@@ -10,25 +32,3 @@
 |**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414v1](http://arxiv.org/abs/2410.12414v1)|null|
 |**2024-10-16**|**An inverse Cauchy problem of a stochastic hyperbolic equation**|Fangfang Dou et.al.|[2410.12370v1](http://arxiv.org/abs/2410.12370v1)|null|
 |**2024-10-16**|**Warm non-minimally coupled Peccei-Quinn Inflation and de Sitter Swampland Conjecture**|Jureeporn Yuennan et.al.|[2410.12296v1](http://arxiv.org/abs/2410.12296v1)|null|
-|**2024-10-16**|**Highly anisotropic Drude-weight-reduction and enhanced linear-dichroism in van der Waals Weyl semimetal Td-MoTe2 with coherent interlayer electronic transport**|Bo Su et.al.|[2410.12291v1](http://arxiv.org/abs/2410.12291v1)|null|
-|**2024-10-16**|**Off-dynamics Conditional Diffusion Planners**|Wen Zheng Terence Ng et.al.|[2410.12238v1](http://arxiv.org/abs/2410.12238v1)|null|
-|**2024-10-16**|**SAT: Data-light Uncertainty Set Merging via Synthetics, Aggregation, and Test Inversion**|Shenghao Qin et.al.|[2410.12201v1](http://arxiv.org/abs/2410.12201v1)|null|
-|**2024-10-16**|**Acoustic shape-morphing micromachines**|Xiaoyu Su et.al.|[2410.12200v1](http://arxiv.org/abs/2410.12200v1)|null|
-|**2024-10-16**|**Testable leptogenesis and $0νββ$ decay in extended seesaw model**|Gang Li et.al.|[2410.12180v1](http://arxiv.org/abs/2410.12180v1)|null|
-|**2024-10-16**|**Intrinsic grain boundary mobility tensor from three-dimensional interface random walk**|Xinyuan Song et.al.|[2410.12133v1](http://arxiv.org/abs/2410.12133v1)|null|
-|**2024-10-15**|**A Unified Framework for Causal Estimand Selection**|Martha Barnard et.al.|[2410.12093v1](http://arxiv.org/abs/2410.12093v1)|null|
-|**2024-10-15**|**Optimizing Beer Glass Shapes to Minimize Heat Transfer -- New Results**|Cláudio C. Pellegrini et.al.|[2410.12043v1](http://arxiv.org/abs/2410.12043v1)|null|
-|**2024-10-15**|**Regularity, linear response formula and differentiability of the free energy for non-uniformly expanding local homeomorphisms**|Carlos Bocker et.al.|[2410.12038v1](http://arxiv.org/abs/2410.12038v1)|null|
-|**2024-10-15**|**Asymptotic colengths for families of ideals: an analytic approach**|Sudipta Das et.al.|[2410.11991v1](http://arxiv.org/abs/2410.11991v1)|null|
-|**2024-10-15**|**Data-driven core collapse supernova multilateration with first neutrino events**|Farrukh Azfar et.al.|[2410.11984v1](http://arxiv.org/abs/2410.11984v1)|null|
-|**2024-10-15**|**Solving the PTA Data Analysis Problem with a Global Gibbs Scheme**|Nima Laal et.al.|[2410.11944v1](http://arxiv.org/abs/2410.11944v1)|null|
-|**2024-10-15**|**Mind the memory: Artefactual scaling of energy dissipation rate due to inconsistent time reversal**|Tassilo Schwarz et.al.|[2410.11819v1](http://arxiv.org/abs/2410.11819v1)|null|
-|**2024-10-15**|**Fractal Calibration for long-tailed object detection**|Konstantinos Panagiotis Alexandridis et.al.|[2410.11774v1](http://arxiv.org/abs/2410.11774v1)|null|
-|**2024-10-15**|**Identification and modelling of optically thin inverse Compton scattering in the prompt emission of GRB131014A**|Pragyan Pratim Bordoloi et.al.|[2410.11753v1](http://arxiv.org/abs/2410.11753v1)|null|
-|**2024-10-15**|**Addressing the Null Paradox in Epidemic Models: Correcting for Collider Bias in Causal Inference**|Heejong Bong et.al.|[2410.11743v1](http://arxiv.org/abs/2410.11743v1)|null|
-|**2024-10-15**|**Patch-Based Diffusion Models Beat Whole-Image Models for Mismatched Distribution Inverse Problems**|Jason Hu et.al.|[2410.11730v1](http://arxiv.org/abs/2410.11730v1)|null|
-|**2024-10-15**|**Logical Structure on Inverse Functor Categories**|Marcelo Fiore et.al.|[2410.11728v1](http://arxiv.org/abs/2410.11728v1)|null|
-|**2024-10-15**|**Parameter estimation of structural dynamics with neural operators enabled surrogate modeling**|Mingyuan Zhou et.al.|[2410.11712v1](http://arxiv.org/abs/2410.11712v1)|null|
-|**2024-10-15**|**On energy consistent vector hysteresis operators**|Herbert Egger et.al.|[2410.11705v1](http://arxiv.org/abs/2410.11705v1)|null|
-|**2024-10-15**|**Scylla II. The Spatially Resolved Star Formation History of the Large Magellanic Cloud Reveals an Inverted Radial Age Gradient**|Roger E. Cohen et.al.|[2410.11696v1](http://arxiv.org/abs/2410.11696v1)|null|
-|**2024-10-15**|**Polarization-encoded photonic quantum-to-quantum Bernoulli factory based on a quantum dot source**|Giovanni Rodari et.al.|[2410.11685v1](http://arxiv.org/abs/2410.11685v1)|null|
