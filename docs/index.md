@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-18 21:00:44 Asia/Shanghai
+ Automated deployment @ 2024-10-19 09:08:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -52,7 +52,7 @@
 |**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857v1](http://arxiv.org/abs/2410.13857v1)|null|
 |**2024-10-17**|**A Fourier analysis framework for approximate classical simulations of quantum circuits**|Cristina Cirstoiu et.al.|[2410.13856v1](http://arxiv.org/abs/2410.13856v1)|null|
 |**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855v1](http://arxiv.org/abs/2410.13855v1)|[link](https://github.com/ziqian2000/smiling)|
-|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854v1](http://arxiv.org/abs/2410.13854v1)|null|
+|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854v1](http://arxiv.org/abs/2410.13854v1)|[link](https://github.com/MING-ZCH/CII-Bench)|
 |**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853v1](http://arxiv.org/abs/2410.13853v1)|[link](https://github.com/haizailache999/autoal)|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852v1](http://arxiv.org/abs/2410.13852v1)|null|
 |**2024-10-17**|**Influence Functions for Scalable Data Attribution in Diffusion Models**|Bruno Mlodozeniec et.al.|[2410.13850v1](http://arxiv.org/abs/2410.13850v1)|null|
