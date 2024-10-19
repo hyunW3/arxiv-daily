@@ -29,6 +29,6 @@
 |**2024-10-16**|**Field-free superconducting diode effect and magnetochiral anisotropy in FeTe0.7Se0.3 junctions with the inherent asymmetric barrier**|Shengyao Li et.al.|[2410.12624v1](http://arxiv.org/abs/2410.12624v1)|null|
 |**2024-10-16**|**Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing**|Mingce Guo et.al.|[2410.12526v1](http://arxiv.org/abs/2410.12526v1)|null|
 |**2024-10-16**|**Insights from the Inverse: Reconstructing LLM Training Goals Through Inverse RL**|Jared Joselowitz et.al.|[2410.12491v1](http://arxiv.org/abs/2410.12491v1)|null|
-|**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414v1](http://arxiv.org/abs/2410.12414v1)|null|
+|**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414v1](http://arxiv.org/abs/2410.12414v1)|[link](https://github.com/rando11199/triplet)|
 |**2024-10-16**|**An inverse Cauchy problem of a stochastic hyperbolic equation**|Fangfang Dou et.al.|[2410.12370v1](http://arxiv.org/abs/2410.12370v1)|null|
 |**2024-10-16**|**Warm non-minimally coupled Peccei-Quinn Inflation and de Sitter Swampland Conjecture**|Jureeporn Yuennan et.al.|[2410.12296v1](http://arxiv.org/abs/2410.12296v1)|null|
