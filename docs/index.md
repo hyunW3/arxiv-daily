@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-22 21:01:30 Asia/Shanghai
+ Automated deployment @ 2024-10-23 09:08:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-21**|**Lipschitz Stability of Travel Time Data**|Joonas Ilmavirta et.al.|[2410.16224v1](http://arxiv.org/abs/2410.16224v1)|null|
 |**2024-10-21**|**Computing Inverses of Stieltjes Transforms of Probability Measures**|James Chen et.al.|[2410.16178v1](http://arxiv.org/abs/2410.16178v1)|null|
-|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v1](http://arxiv.org/abs/2410.16152v1)|null|
+|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v2](http://arxiv.org/abs/2410.16152v2)|null|
 |**2024-10-21**|**Extracting Spatiotemporal Data from Gradients with Large Language Models**|Lele Zheng et.al.|[2410.16121v1](http://arxiv.org/abs/2410.16121v1)|null|
 |**2024-10-21**|**Unveiling Ferroelectric-Like Behavior in Leaky Dielectrics: A Microscopic Model for Polarization Dynamics and Hysteresis Inversion**|Igor Ricardo Filgueira e Silva et.al.|[2410.16084v1](http://arxiv.org/abs/2410.16084v1)|null|
 |**2024-10-21**|**On the equality of generalized Bajraktarević means under first-order differentiability assumptions**|Zsolt Páles et.al.|[2410.16074v1](http://arxiv.org/abs/2410.16074v1)|null|
@@ -56,7 +56,7 @@
 |**2024-10-21**|**Quantifying the advantages of applying quantum approximate algorithms to portfolio optimisation**|Haomu Yuan et.al.|[2410.16265v1](http://arxiv.org/abs/2410.16265v1)|null|
 |**2024-10-21**|**Hyperbolicity in scalar-Gauss-Bonnet gravity: a gauge invariant study for spherical evolution**|Farid Thaalba et.al.|[2410.16264v1](http://arxiv.org/abs/2410.16264v1)|null|
 |**2024-10-21**|**Surface acoustic waves Brillouin photonics on a silicon nitride chip**|Yvan Klaver et.al.|[2410.16263v1](http://arxiv.org/abs/2410.16263v1)|null|
-|**2024-10-21**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261v1](http://arxiv.org/abs/2410.16261v1)|[link](https://github.com/opengvlab/internvl)|
+|**2024-10-21**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261v2](http://arxiv.org/abs/2410.16261v2)|[link](https://github.com/opengvlab/internvl)|
 |**2024-10-21**|**Characterizing the Effect of Electrode Shift & Sensor Reapplication on Common sEMG Features in Lower Limb Muscles**|Fraser Douglas et.al.|[2410.16262v1](http://arxiv.org/abs/2410.16262v1)|null|
 |**2024-10-21**|**Multi-product Zeno effect with higher order convergence rates**|Tim Möbus et.al.|[2410.16260v1](http://arxiv.org/abs/2410.16260v1)|null|
 |**2024-10-21**|**Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos**|Gengshan Yang et.al.|[2410.16259v1](http://arxiv.org/abs/2410.16259v1)|null|

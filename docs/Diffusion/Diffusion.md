@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-21**|**Lipschitz Stability of Travel Time Data**|Joonas Ilmavirta et.al.|[2410.16224v1](http://arxiv.org/abs/2410.16224v1)|null|
 |**2024-10-21**|**Computing Inverses of Stieltjes Transforms of Probability Measures**|James Chen et.al.|[2410.16178v1](http://arxiv.org/abs/2410.16178v1)|null|
-|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v1](http://arxiv.org/abs/2410.16152v1)|null|
+|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v2](http://arxiv.org/abs/2410.16152v2)|null|
 |**2024-10-21**|**Extracting Spatiotemporal Data from Gradients with Large Language Models**|Lele Zheng et.al.|[2410.16121v1](http://arxiv.org/abs/2410.16121v1)|null|
 |**2024-10-21**|**Unveiling Ferroelectric-Like Behavior in Leaky Dielectrics: A Microscopic Model for Polarization Dynamics and Hysteresis Inversion**|Igor Ricardo Filgueira e Silva et.al.|[2410.16084v1](http://arxiv.org/abs/2410.16084v1)|null|
 |**2024-10-21**|**On the equality of generalized Bajraktarević means under first-order differentiability assumptions**|Zsolt Páles et.al.|[2410.16074v1](http://arxiv.org/abs/2410.16074v1)|null|
