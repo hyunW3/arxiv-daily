@@ -2,6 +2,24 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173v1](http://arxiv.org/abs/2410.17173v1)|null|
+|**2024-10-22**|**A Short Note on the Geometric Ergodicity of Markov Chains for Bayesian Linear Regression Models with Heavy-Tailed Errors**|Yasuyuki Hamura et.al.|[2410.17070v1](http://arxiv.org/abs/2410.17070v1)|null|
+|**2024-10-22**|**Monolithic silicon nitride electro-optic modulator enabled by optically-assisted poling**|Christian Lafforgue et.al.|[2410.16936v1](http://arxiv.org/abs/2410.16936v1)|null|
+|**2024-10-22**|**Inverse first-passage problems of a diffusion with resetting**|Mario Abundo et.al.|[2410.16889v1](http://arxiv.org/abs/2410.16889v1)|null|
+|**2024-10-22**|**Explicit inverse Shapiro isomorphism and its application**|Andrei V. Zavarnitsine et.al.|[2410.16885v1](http://arxiv.org/abs/2410.16885v1)|null|
+|**2024-10-22**|**Network Inversion for Training-Like Data Reconstruction**|Pirzada Suhail et.al.|[2410.16884v1](http://arxiv.org/abs/2410.16884v1)|null|
+|**2024-10-22**|**Rainfall infiltration: Direct and Inverse problems on a linear evolution equation**|Konstantinos Kalimeris et.al.|[2410.16876v1](http://arxiv.org/abs/2410.16876v1)|null|
+|**2024-10-22**|**Random spanning trees in random environment**|Luca Makowiec et.al.|[2410.16830v1](http://arxiv.org/abs/2410.16830v1)|null|
+|**2024-10-22**|**Simultaneous uniqueness for a coefficient inverse problem in one-dimensional fractional diffusion equation from an interior point measurement**|Xiaohua Jing et.al.|[2410.16808v1](http://arxiv.org/abs/2410.16808v1)|null|
+|**2024-10-22**|**Recent development of magnetocaloric effect in Pyrochlore oxides**|Vinod Kumar Dwivedi et.al.|[2410.16777v1](http://arxiv.org/abs/2410.16777v1)|null|
+|**2024-10-22**|**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**|Zhenhao Zhang et.al.|[2410.16722v1](http://arxiv.org/abs/2410.16722v1)|null|
+|**2024-10-22**|**Learning shallow quantum circuits with many-qubit gates**|Francisca Vasconcelos et.al.|[2410.16693v1](http://arxiv.org/abs/2410.16693v1)|null|
+|**2024-10-22**|**(Quantum) Indifferentiability and Pre-Computation**|Joseph Carolan et.al.|[2410.16595v1](http://arxiv.org/abs/2410.16595v1)|null|
+|**2024-10-22**|**Tunable Quantum Anomalous Hall Effect via Crystal Order in Spin-Splitting Antiferromagnets**|Wenxuan Zhu et.al.|[2410.16587v1](http://arxiv.org/abs/2410.16587v1)|null|
+|**2024-10-21**|**On the Bisognano-Wichmann entanglement Hamiltonian of nonrelativistic fermions**|Viktor Eisler et.al.|[2410.16433v1](http://arxiv.org/abs/2410.16433v1)|null|
+|**2024-10-21**|**On conditional diffusion models for PDE simulations**|Aliaksandra Shysheya et.al.|[2410.16415v1](http://arxiv.org/abs/2410.16415v1)|[link](https://github.com/cambridge-mlg/pdediff)|
+|**2024-10-21**|**Is leptogenesis during gravitational reheating flavourful?**|Basabendu Barman et.al.|[2410.16381v1](http://arxiv.org/abs/2410.16381v1)|null|
+|**2024-10-21**|**Is the low-energy optical absorption in correlated insulators controlled by quantum geometry?**|Dan Mao et.al.|[2410.16352v1](http://arxiv.org/abs/2410.16352v1)|null|
 |**2024-10-21**|**Lipschitz Stability of Travel Time Data**|Joonas Ilmavirta et.al.|[2410.16224v1](http://arxiv.org/abs/2410.16224v1)|null|
 |**2024-10-21**|**Computing Inverses of Stieltjes Transforms of Probability Measures**|James Chen et.al.|[2410.16178v1](http://arxiv.org/abs/2410.16178v1)|null|
 |**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v2](http://arxiv.org/abs/2410.16152v2)|null|
@@ -14,21 +32,3 @@
 |**2024-10-21**|**Conditional Dependence via U-Statistics Pruning**|Ferran de Cabrera et.al.|[2410.15888v1](http://arxiv.org/abs/2410.15888v1)|null|
 |**2024-10-21**|**Dispersion properties of pulsar magnetospheric plasmas with relativistic Kappa distribution**|M. Mousavi et.al.|[2410.15838v1](http://arxiv.org/abs/2410.15838v1)|null|
 |**2024-10-21**|**Binding energies, charge radii, spins and moments: odd-odd Ag isotopes and discovery of a new isomer**|B. van den Borne et.al.|[2410.15807v1](http://arxiv.org/abs/2410.15807v1)|null|
-|**2024-10-21**|**Three-dimensional Ising models -- Critical Parameters using $ε$-convergence method**|M V Vismaya et.al.|[2410.15785v1](http://arxiv.org/abs/2410.15785v1)|null|
-|**2024-10-21**|**Solving Continual Offline RL through Selective Weights Activation on Aligned Spaces**|Jifeng Hu et.al.|[2410.15698v1](http://arxiv.org/abs/2410.15698v1)|null|
-|**2024-10-21**|**Inverse Spin Thermal Hall Effect in Non-Reciprocal Photonic Systems**|Philippe Ben-Abdallah et.al.|[2410.15691v1](http://arxiv.org/abs/2410.15691v1)|null|
-|**2024-10-21**|**Intrinsic electromagnetic damping in superconductor-ferromagnet proximity heterostructures**|Dmitriy Seleznyov et.al.|[2410.15680v1](http://arxiv.org/abs/2410.15680v1)|null|
-|**2024-10-21**|**Inverse scattering transform for the defocusing-defocusing coupled Hirota equations with non-parallel boundary conditions at infinity**|Peng-Fei Han et.al.|[2410.15676v1](http://arxiv.org/abs/2410.15676v1)|null|
-|**2024-10-21**|**In-Trajectory Inverse Reinforcement Learning: Learn Incrementally From An Ongoing Trajectory**|Shicheng Liu et.al.|[2410.15612v1](http://arxiv.org/abs/2410.15612v1)|null|
-|**2024-10-21**|**Reinforced Imitative Trajectory Planning for Urban Automated Driving**|Di Zeng et.al.|[2410.15607v1](http://arxiv.org/abs/2410.15607v1)|[link](https://github.com/zigned/nuplan_zigned)|
-|**2024-10-21**|**On the Replica Symmetric Solution in General Diluted Spin Glasses**|Ratul Biswas et.al.|[2410.15599v1](http://arxiv.org/abs/2410.15599v1)|null|
-|**2024-10-21**|**ARTS: Semi-Analytical Regressor using Disentangled Skeletal Representations for Human Mesh Recovery from Videos**|Tao Tang et.al.|[2410.15582v1](http://arxiv.org/abs/2410.15582v1)|[link](https://github.com/tangtao-pku/arts)|
-|**2024-10-20**|**Reverse Question Answering: Can an LLM Write a Question so Hard (or Bad) that it Can't Answer?**|Nishant Balepur et.al.|[2410.15512v1](http://arxiv.org/abs/2410.15512v1)|null|
-|**2024-10-20**|**Lie Theory Based Optimization for Unified State Planning of Mobile Manipulators**|William Smith et.al.|[2410.15443v1](http://arxiv.org/abs/2410.15443v1)|null|
-|**2024-10-20**|**A spinodal decomposition model for the large-scale structure of the universe**|Nitish Yadav et.al.|[2410.15436v1](http://arxiv.org/abs/2410.15436v1)|null|
-|**2024-10-20**|**IKDP: Inverse Kinematics through Diffusion Process**|Hao-Tang Tsui et.al.|[2410.15341v1](http://arxiv.org/abs/2410.15341v1)|null|
-|**2024-10-20**|**On Cold Posteriors of Probabilistic Neural Networks: Understanding the Cold Posterior Effect and A New Way to Learn Cold Posteriors with Tight Generalization Guarantees**|Yijie Zhang et.al.|[2410.15310v1](http://arxiv.org/abs/2410.15310v1)|null|
-|**2024-10-20**|**Physically Guided Deep Unsupervised Inversion for 1D Magnetotelluric Models**|Paul Goyes-Peñafiel et.al.|[2410.15274v1](http://arxiv.org/abs/2410.15274v1)|null|
-|**2024-10-20**|**Interpolation techniques for reconstructing Galactic Faraday rotation**|Affan Khadir et.al.|[2410.15265v1](http://arxiv.org/abs/2410.15265v1)|null|
-|**2024-10-20**|**Improved Time-independent Hamiltonian Simulation**|Nhat A. Nghiem et.al.|[2410.15256v1](http://arxiv.org/abs/2410.15256v1)|null|
-|**2024-10-19**|**Analytic expressions for grey-body factors of the general parametrized spherically symmetric black holes**|Alexey Dubinsky et.al.|[2410.15232v1](http://arxiv.org/abs/2410.15232v1)|null|
