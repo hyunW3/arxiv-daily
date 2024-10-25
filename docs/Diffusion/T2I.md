@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084v1](http://arxiv.org/abs/2410.18084v1)|null|
-|**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083v1](http://arxiv.org/abs/2410.18083v1)|null|
-|**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082v1](http://arxiv.org/abs/2410.18082v1)|null|
-|**2024-10-23**|**Gauge-invariant perturbations of relativistic non-perfect fluids in spherical spacetime**|David Díaz-Guerra et.al.|[2410.18081v1](http://arxiv.org/abs/2410.18081v1)|null|
-|**2024-10-23**|**The physical properties of Cluster Chains**|Laura Posch et.al.|[2410.18080v1](http://arxiv.org/abs/2410.18080v1)|null|
-|**2024-10-23**|**FreeVS: Generative View Synthesis on Free Driving Trajectory**|Qitai Wang et.al.|[2410.18079v1](http://arxiv.org/abs/2410.18079v1)|null|
-|**2024-10-23**|**CO-CAVITY project: Molecular gas and star formation in void galaxies**|M. I. Rodríguez et.al.|[2410.18078v1](http://arxiv.org/abs/2410.18078v1)|null|
-|**2024-10-23**|**ALTA: Compiler-Based Analysis of Transformers**|Peter Shaw et.al.|[2410.18077v1](http://arxiv.org/abs/2410.18077v1)|[link](https://github.com/google-deepmind/alta)|
-|**2024-10-23**|**Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration**|Max Wilcoxson et.al.|[2410.18076v1](http://arxiv.org/abs/2410.18076v1)|null|
-|**2024-10-23**|**ProFL: Performative Robust Optimal Federated Learning**|Xue Zheng et.al.|[2410.18075v1](http://arxiv.org/abs/2410.18075v1)|null|
-|**2024-10-23**|**UnCLe: Unsupervised Continual Learning of Depth Completion**|Suchisrit Gangopadhyay et.al.|[2410.18074v1](http://arxiv.org/abs/2410.18074v1)|null|
-|**2024-10-23**|**Unravelling sub-stellar magnetospheres**|Robert D Kavanagh et.al.|[2410.18073v1](http://arxiv.org/abs/2410.18073v1)|null|
-|**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[2410.18072v1](http://arxiv.org/abs/2410.18072v1)|null|
-|**2024-10-23**|**TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts**|Yuxuan Xie et.al.|[2410.18071v1](http://arxiv.org/abs/2410.18071v1)|null|
-|**2024-10-23**|**Training Free Guided Flow Matching with Optimal Control**|Luran Wang et.al.|[2410.18070v1](http://arxiv.org/abs/2410.18070v1)|null|
-|**2024-10-23**|**The spectrum of perturbed (3, 10) minimal model**|Andrei Katsevich et.al.|[2410.18069v1](http://arxiv.org/abs/2410.18069v1)|null|
-|**2024-10-23**|**Eigenvalue crossings in equivariant families of matrices**|Jonathan Rawlinson et.al.|[2410.18068v1](http://arxiv.org/abs/2410.18068v1)|null|
-|**2024-10-23**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067v1](http://arxiv.org/abs/2410.18067v1)|null|
-|**2024-10-23**|**The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies**|Raman Ebrahimi et.al.|[2410.18066v1](http://arxiv.org/abs/2410.18066v1)|null|
-|**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065v1](http://arxiv.org/abs/2410.18065v1)|null|
-|**2024-10-23**|**Scaling density of axion strings in terasite simulations**|José Correia et.al.|[2410.18064v1](http://arxiv.org/abs/2410.18064v1)|null|
-|**2024-10-23**|**Developing Consistency Among Undergraduate Graders Scoring Open-Ended Statistics Tasks**|Matthew D. Beckman et.al.|[2410.18062v1](http://arxiv.org/abs/2410.18062v1)|null|
-|**2024-10-23**|**Explaining Bayesian Networks in Natural Language using Factor Arguments. Evaluation in the medical domain**|Jaime Sevilla et.al.|[2410.18060v1](http://arxiv.org/abs/2410.18060v1)|null|
-|**2024-10-23**|**Large graph limits of local matching algorithms on uniform random graphs**|Mohamed Habib Aliou Diallo Aoudi et.al.|[2410.18059v1](http://arxiv.org/abs/2410.18059v1)|null|
-|**2024-10-23**|**On the Heine Binomial Operators**|Ronald Orozco López et.al.|[2410.18058v1](http://arxiv.org/abs/2410.18058v1)|null|
-|**2024-10-23**|**CLEAR: Character Unlearning in Textual and Visual Modalities**|Alexey Dontsov et.al.|[2410.18057v1](http://arxiv.org/abs/2410.18057v1)|null|
-|**2024-10-23**|**Fitting, Evaluating, and Comparing Cognitive Architecture Models Using Likelihood: A Primer With Examples in ACT-R**|Andrea Stocco et.al.|[2410.18055v1](http://arxiv.org/abs/2410.18055v1)|null|
-|**2024-10-23**|**Introduction to Fusion Ignition Principles: Zeroth Order Factors of Fusion Energy Research**|Huasheng Xie et.al.|[2410.18054v1](http://arxiv.org/abs/2410.18054v1)|null|
-|**2024-10-23**|**B-Side: Binary-Level Static System Call Identification**|Gaspard Thévenon et.al.|[2410.18053v1](http://arxiv.org/abs/2410.18053v1)|null|
-|**2024-10-23**|**In-Pixel Foreground and Contrast Enhancement Circuits with Customizable Mapping**|Md Rahatul Islam Udoy et.al.|[2410.18052v1](http://arxiv.org/abs/2410.18052v1)|null|
+|**2024-10-24**|**Very massive stars and Nitrogen-emitting galaxies**|Jorick S. Vink et.al.|[2410.18980v1](http://arxiv.org/abs/2410.18980v1)|null|
+|**2024-10-24**|**PixelGaussian: Generalizable 3D Gaussian Reconstruction from Arbitrary Views**|Xin Fei et.al.|[2410.18979v1](http://arxiv.org/abs/2410.18979v1)|[link](https://github.com/barrybarry-smith/pixelgaussian)|
+|**2024-10-24**|**Framer: Interactive Frame Interpolation**|Wen Wang et.al.|[2410.18978v1](http://arxiv.org/abs/2410.18978v1)|null|
+|**2024-10-24**|**MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms**|Ling-Hao Chen et.al.|[2410.18977v1](http://arxiv.org/abs/2410.18977v1)|null|
+|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976v1](http://arxiv.org/abs/2410.18976v1)|null|
+|**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975v1](http://arxiv.org/abs/2410.18975v1)|null|
+|**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974v1](http://arxiv.org/abs/2410.18974v1)|[link](https://github.com/Lakonik/MVEdit)|
+|**2024-10-24**|**Tuning-free coreset Markov chain Monte Carlo**|Naitong Chen et.al.|[2410.18973v1](http://arxiv.org/abs/2410.18973v1)|[link](https://github.com/NaitongChen/automated-coreset-mcmc-experiments)|
+|**2024-10-24**|**Detection of Undeclared EV Charging Events in a Green Energy Certification Scheme**|Luca Domenico Loiacono et.al.|[2410.18971v1](http://arxiv.org/abs/2410.18971v1)|null|
+|**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972v1](http://arxiv.org/abs/2410.18972v1)|null|
+|**2024-10-24**|**ConceptDrift: Uncovering Biases through the Lens of Foundational Models**|Cristian Daniel Păduraru et.al.|[2410.18970v1](http://arxiv.org/abs/2410.18970v1)|null|
+|**2024-10-24**|**Self-Improving Autonomous Underwater Manipulation**|Ruoshi Liu et.al.|[2410.18969v1](http://arxiv.org/abs/2410.18969v1)|null|
+|**2024-10-24**|**Stimulated Emission of Dark Matter via Thermal Scattering: Novel Limits for Freeze-In and eV Cold Dark Matter**|Kodai Sakurai et.al.|[2410.18968v1](http://arxiv.org/abs/2410.18968v1)|null|
+|**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967v1](http://arxiv.org/abs/2410.18967v1)|null|
+|**2024-10-24**|**Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions**|Yujuan Fu et.al.|[2410.18966v1](http://arxiv.org/abs/2410.18966v1)|null|
+|**2024-10-24**|**On the Crucial Role of Initialization for Matrix Factorization**|Bingcong Li et.al.|[2410.18965v1](http://arxiv.org/abs/2410.18965v1)|null|
+|**2024-10-24**|**Learning to Look: Seeking Information for Decision Making via Policy Factorization**|Shivin Dass et.al.|[2410.18964v1](http://arxiv.org/abs/2410.18964v1)|null|
+|**2024-10-24**|**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**|Xiaoqiang Wang et.al.|[2410.18963v1](http://arxiv.org/abs/2410.18963v1)|null|
+|**2024-10-24**|**Where Am I and What Will I See: An Auto-Regressive Model for Spatial Localization and View Prediction**|Junyi Chen et.al.|[2410.18962v1](http://arxiv.org/abs/2410.18962v1)|null|
+|**2024-10-24**|**Casimir repulsion turned into attraction by the nonlocal response of salted water**|Larissa Inácio et.al.|[2410.18961v1](http://arxiv.org/abs/2410.18961v1)|null|
+|**2024-10-24**|**Direct observation of topological magnon edge states**|Jihai Zhang et.al.|[2410.18960v1](http://arxiv.org/abs/2410.18960v1)|null|
+|**2024-10-24**|**Context is Key: A Benchmark for Forecasting with Essential Textual Information**|Andrew Robert Williams et.al.|[2410.18959v1](http://arxiv.org/abs/2410.18959v1)|[link](https://github.com/servicenow/context-is-key-forecasting)|
+|**2024-10-24**|**Stable Consistency Tuning: Understanding and Improving Consistency Models**|Fu-Yun Wang et.al.|[2410.18958v1](http://arxiv.org/abs/2410.18958v1)|[link](https://github.com/G-U-N/Stable-Consistency-Tuning)|
+|**2024-10-24**|**Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code**|Jipeng Zhang et.al.|[2410.18957v1](http://arxiv.org/abs/2410.18957v1)|null|
+|**2024-10-24**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan et.al.|[2410.18956v1](http://arxiv.org/abs/2410.18956v1)|null|
+|**2024-10-24**|**BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning**|Yujuan Velvin Fu et.al.|[2410.18955v1](http://arxiv.org/abs/2410.18955v1)|null|
+|**2024-10-24**|**Learning Structured Compressed Sensing with Automatic Resource Allocation**|Han Wang et.al.|[2410.18954v1](http://arxiv.org/abs/2410.18954v1)|null|
+|**2024-10-24**|**The Learning Stabilizers with Noise problem**|Alexander Poremba et.al.|[2410.18953v1](http://arxiv.org/abs/2410.18953v1)|null|
+|**2024-10-24**|**Dynamic Vocabulary Pruning in Early-Exit LLMs**|Jort Vincenti et.al.|[2410.18952v1](http://arxiv.org/abs/2410.18952v1)|[link](https://github.com/matteonulli/vocabulary_pruning)|
+|**2024-10-24**|**Initial PIP-II Beam Current Monitor Fault Case Analyses & Beam Position Monitor Linearity Studies in CST Studio Suite**|A. Rouzky et.al.|[2410.18951v1](http://arxiv.org/abs/2410.18951v1)|null|

@@ -2,6 +2,24 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-24**|**Twins in Diversity: Understanding circumstellar disk evolution in the twin clusters of W5 complex**|Belinda Damian et.al.|[2410.18920v1](http://arxiv.org/abs/2410.18920v1)|null|
+|**2024-10-24**|**Long term remote reactor power and fuel composition monitoring using antineutrinos**|I. Alekseev et.al.|[2410.18914v1](http://arxiv.org/abs/2410.18914v1)|null|
+|**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897v1](http://arxiv.org/abs/2410.18897v1)|null|
+|**2024-10-24**|**Adaptive reduced tempering For Bayesian inverse problems and rare event simulation**|Frederic Cerou et.al.|[2410.18833v1](http://arxiv.org/abs/2410.18833v1)|null|
+|**2024-10-24**|**Fast constrained sampling in pre-trained diffusion models**|Alexandros Graikos et.al.|[2410.18804v1](http://arxiv.org/abs/2410.18804v1)|null|
+|**2024-10-24**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756v1](http://arxiv.org/abs/2410.18756v1)|null|
+|**2024-10-24**|**Complexity Control**|Korosh Mahmoodi et.al.|[2410.18752v1](http://arxiv.org/abs/2410.18752v1)|null|
+|**2024-10-24**|**A gauge-invariant formulation of optical responses in superconductors**|Sena Watanabe et.al.|[2410.18679v1](http://arxiv.org/abs/2410.18679v1)|null|
+|**2024-10-24**|**Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions**|Antonio D'Orazio et.al.|[2410.18622v1](http://arxiv.org/abs/2410.18622v1)|null|
+|**2024-10-24**|**Learning Transparent Reward Models via Unsupervised Feature Selection**|Daulet Baimukashev et.al.|[2410.18608v1](http://arxiv.org/abs/2410.18608v1)|null|
+|**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556v1](http://arxiv.org/abs/2410.18556v1)|null|
+|**2024-10-24**|**Entanglement dynamics for SCTS in the Jaynes-Cummings model with atoms in Werner state**|Koushik Mandal et.al.|[2410.18466v1](http://arxiv.org/abs/2410.18466v1)|null|
+|**2024-10-24**|**Inferring Latent Graphs from Stationary Signals Using a Graphical Autoregressive Model**|Jedidiah Harwood et.al.|[2410.18445v1](http://arxiv.org/abs/2410.18445v1)|null|
+|**2024-10-24**|**GPU Accelerated 3D P-wave Source Free Adaptive Wavefield Reconstruction Inversion with an application to experimental VSP physical modeling data**|Zhilong Fang et.al.|[2410.18429v1](http://arxiv.org/abs/2410.18429v1)|null|
+|**2024-10-24**|**Joint Modeling of Quasar Variability and Accretion Disk Reprocessing using Latent Stochastic Differential Equation**|Joshua Fagin et.al.|[2410.18423v1](http://arxiv.org/abs/2410.18423v1)|null|
+|**2024-10-23**|**Separating edges from microstructure in X-ray dark-field imaging: Evolving and devolving perspectives via the X-ray Fokker-Planck equation**|Samantha J. Alloo et.al.|[2410.18317v1](http://arxiv.org/abs/2410.18317v1)|null|
+|**2024-10-23**|**Saddlepoint Monte Carlo and its Application to Exact Ecological Inference**|Théo Voldoire et.al.|[2410.18243v1](http://arxiv.org/abs/2410.18243v1)|null|
+|**2024-10-23**|**Wavefront distortions of a laser beam reflected from a diffraction grating with imperfect surface and groove pattern**|Efim Khazanov et.al.|[2410.18236v1](http://arxiv.org/abs/2410.18236v1)|null|
 |**2024-10-23**|**UnCLe: Unsupervised Continual Learning of Depth Completion**|Suchisrit Gangopadhyay et.al.|[2410.18074v1](http://arxiv.org/abs/2410.18074v1)|null|
 |**2024-10-23**|**Non-linear anomalous Edelstein response at altermagnetic interfaces**|Mattia Trama et.al.|[2410.18036v1](http://arxiv.org/abs/2410.18036v1)|null|
 |**2024-10-23**|**Transition from antiferromagnetism to altermagnetism: symmetry breaking theory**|P. Zhou et.al.|[2410.17747v1](http://arxiv.org/abs/2410.17747v1)|null|
@@ -12,23 +30,5 @@
 |**2024-10-23**|**Role of the argon and helium bath gases on the structure of H2/O2 detonations**|Farzane Zangene et.al.|[2410.17561v1](http://arxiv.org/abs/2410.17561v1)|null|
 |**2024-10-23**|**Mechanisms and Computational Design of Multi-Modal End-Effector with Force Sensing using Gated Networks**|Yusuke Tanaka et.al.|[2410.17524v1](http://arxiv.org/abs/2410.17524v1)|null|
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521v1](http://arxiv.org/abs/2410.17521v1)|[link](https://github.com/hust-tan/diffusionvi)|
-|**2024-10-23**|**Univariate Conditional Variational Autoencoder for Morphogenic Patterns Design in Frontal Polymerization-Based Manufacturing**|Qibang Liu et.al.|[2410.17518v1](http://arxiv.org/abs/2410.17518v1)|null|
+|**2024-10-23**|**Univariate Conditional Variational Autoencoder for Morphogenic Patterns Design in Frontal Polymerization-Based Manufacturing**|Qibang Liu et.al.|[2410.17518v1](http://arxiv.org/abs/2410.17518v1)|[link](https://github.com/QibangLiu/UcVAE)|
 |**2024-10-22**|**Non-Abelian Fourier Transforms and Normalized Intertwining Operators for General Parabolics over Finite Fields, and the Kloosterman Fourier Transform for Quadric Cones**|Aaron Slipper et.al.|[2410.17476v1](http://arxiv.org/abs/2410.17476v1)|null|
-|**2024-10-22**|**Kiselev-inspired Wormholes**|Piyachat Panyasiripan et.al.|[2410.17475v1](http://arxiv.org/abs/2410.17475v1)|null|
-|**2024-10-22**|**Unveiling the Emission Mechanisms of Blazar PKS 1510-089: I. Multi-Wavelength Variability**|Alfredo Amador-Portes et.al.|[2410.17349v1](http://arxiv.org/abs/2410.17349v1)|null|
-|**2024-10-22**|**Enhancing Robustness and Efficiency of Least Square Twin SVM via Granular Computing**|M. Tanveer et.al.|[2410.17338v1](http://arxiv.org/abs/2410.17338v1)|null|
-|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173v1](http://arxiv.org/abs/2410.17173v1)|[link](https://github.com/flagshippioneering/pi-rldif)|
-|**2024-10-22**|**A Short Note on the Geometric Ergodicity of Markov Chains for Bayesian Linear Regression Models with Heavy-Tailed Errors**|Yasuyuki Hamura et.al.|[2410.17070v1](http://arxiv.org/abs/2410.17070v1)|null|
-|**2024-10-22**|**Monolithic silicon nitride electro-optic modulator enabled by optically-assisted poling**|Christian Lafforgue et.al.|[2410.16936v1](http://arxiv.org/abs/2410.16936v1)|null|
-|**2024-10-22**|**Inverse first-passage problems of a diffusion with resetting**|Mario Abundo et.al.|[2410.16889v1](http://arxiv.org/abs/2410.16889v1)|null|
-|**2024-10-22**|**Explicit inverse Shapiro isomorphism and its application**|Andrei V. Zavarnitsine et.al.|[2410.16885v1](http://arxiv.org/abs/2410.16885v1)|null|
-|**2024-10-22**|**Network Inversion for Training-Like Data Reconstruction**|Pirzada Suhail et.al.|[2410.16884v1](http://arxiv.org/abs/2410.16884v1)|null|
-|**2024-10-22**|**Rainfall infiltration: Direct and Inverse problems on a linear evolution equation**|Konstantinos Kalimeris et.al.|[2410.16876v1](http://arxiv.org/abs/2410.16876v1)|null|
-|**2024-10-22**|**Random spanning trees in random environment**|Luca Makowiec et.al.|[2410.16830v2](http://arxiv.org/abs/2410.16830v2)|null|
-|**2024-10-22**|**Simultaneous uniqueness for a coefficient inverse problem in one-dimensional fractional diffusion equation from an interior point measurement**|Xiaohua Jing et.al.|[2410.16808v1](http://arxiv.org/abs/2410.16808v1)|null|
-|**2024-10-22**|**Recent development of magnetocaloric effect in Pyrochlore oxides**|Vinod Kumar Dwivedi et.al.|[2410.16777v1](http://arxiv.org/abs/2410.16777v1)|null|
-|**2024-10-22**|**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**|Zhenhao Zhang et.al.|[2410.16722v2](http://arxiv.org/abs/2410.16722v2)|null|
-|**2024-10-22**|**Learning shallow quantum circuits with many-qubit gates**|Francisca Vasconcelos et.al.|[2410.16693v1](http://arxiv.org/abs/2410.16693v1)|null|
-|**2024-10-22**|**(Quantum) Indifferentiability and Pre-Computation**|Joseph Carolan et.al.|[2410.16595v1](http://arxiv.org/abs/2410.16595v1)|null|
-|**2024-10-22**|**Tunable Quantum Anomalous Hall Effect via Crystal Order in Spin-Splitting Antiferromagnets**|Wenxuan Zhu et.al.|[2410.16587v1](http://arxiv.org/abs/2410.16587v1)|null|
-|**2024-10-21**|**On the Bisognano-Wichmann entanglement Hamiltonian of nonrelativistic fermions**|Viktor Eisler et.al.|[2410.16433v1](http://arxiv.org/abs/2410.16433v1)|null|
