@@ -14,7 +14,7 @@
 |**2024-10-24**|**Learning Transparent Reward Models via Unsupervised Feature Selection**|Daulet Baimukashev et.al.|[2410.18608v1](http://arxiv.org/abs/2410.18608v1)|null|
 |**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556v1](http://arxiv.org/abs/2410.18556v1)|null|
 |**2024-10-24**|**Entanglement dynamics for SCTS in the Jaynes-Cummings model with atoms in Werner state**|Koushik Mandal et.al.|[2410.18466v1](http://arxiv.org/abs/2410.18466v1)|null|
-|**2024-10-24**|**Inferring Latent Graphs from Stationary Signals Using a Graphical Autoregressive Model**|Jedidiah Harwood et.al.|[2410.18445v1](http://arxiv.org/abs/2410.18445v1)|null|
+|**2024-10-24**|**Inferring Latent Graphs from Stationary Signals Using a Graphical Autoregressive Model**|Jedidiah Harwood et.al.|[2410.18445v1](http://arxiv.org/abs/2410.18445v1)|[link](https://github.com/jed-harwood/sgm)|
 |**2024-10-24**|**GPU Accelerated 3D P-wave Source Free Adaptive Wavefield Reconstruction Inversion with an application to experimental VSP physical modeling data**|Zhilong Fang et.al.|[2410.18429v1](http://arxiv.org/abs/2410.18429v1)|null|
 |**2024-10-24**|**Joint Modeling of Quasar Variability and Accretion Disk Reprocessing using Latent Stochastic Differential Equation**|Joshua Fagin et.al.|[2410.18423v1](http://arxiv.org/abs/2410.18423v1)|null|
 |**2024-10-23**|**Separating edges from microstructure in X-ray dark-field imaging: Evolving and devolving perspectives via the X-ray Fokker-Planck equation**|Samantha J. Alloo et.al.|[2410.18317v1](http://arxiv.org/abs/2410.18317v1)|null|
