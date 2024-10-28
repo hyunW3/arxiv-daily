@@ -7,20 +7,20 @@
 |**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897v1](http://arxiv.org/abs/2410.18897v1)|null|
 |**2024-10-24**|**Adaptive reduced tempering For Bayesian inverse problems and rare event simulation**|Frederic Cerou et.al.|[2410.18833v1](http://arxiv.org/abs/2410.18833v1)|null|
 |**2024-10-24**|**Fast constrained sampling in pre-trained diffusion models**|Alexandros Graikos et.al.|[2410.18804v1](http://arxiv.org/abs/2410.18804v1)|null|
-|**2024-10-24**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756v1](http://arxiv.org/abs/2410.18756v1)|null|
+|**2024-10-24**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756v2](http://arxiv.org/abs/2410.18756v2)|null|
 |**2024-10-24**|**Complexity Control**|Korosh Mahmoodi et.al.|[2410.18752v1](http://arxiv.org/abs/2410.18752v1)|null|
 |**2024-10-24**|**A gauge-invariant formulation of optical responses in superconductors**|Sena Watanabe et.al.|[2410.18679v1](http://arxiv.org/abs/2410.18679v1)|null|
 |**2024-10-24**|**Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions**|Antonio D'Orazio et.al.|[2410.18622v1](http://arxiv.org/abs/2410.18622v1)|null|
 |**2024-10-24**|**Learning Transparent Reward Models via Unsupervised Feature Selection**|Daulet Baimukashev et.al.|[2410.18608v1](http://arxiv.org/abs/2410.18608v1)|null|
 |**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556v1](http://arxiv.org/abs/2410.18556v1)|null|
-|**2024-10-24**|**Entanglement dynamics for SCTS in the Jaynes-Cummings model with atoms in Werner state**|Koushik Mandal et.al.|[2410.18466v1](http://arxiv.org/abs/2410.18466v1)|null|
+|**2024-10-24**|**Entanglement dynamics for SCTS in the Jaynes-Cummings model with atoms in Werner state**|Koushik Mandal et.al.|[2410.18466v2](http://arxiv.org/abs/2410.18466v2)|null|
 |**2024-10-24**|**Inferring Latent Graphs from Stationary Signals Using a Graphical Autoregressive Model**|Jedidiah Harwood et.al.|[2410.18445v1](http://arxiv.org/abs/2410.18445v1)|[link](https://github.com/jed-harwood/sgm)|
 |**2024-10-24**|**GPU Accelerated 3D P-wave Source Free Adaptive Wavefield Reconstruction Inversion with an application to experimental VSP physical modeling data**|Zhilong Fang et.al.|[2410.18429v1](http://arxiv.org/abs/2410.18429v1)|null|
 |**2024-10-24**|**Joint Modeling of Quasar Variability and Accretion Disk Reprocessing using Latent Stochastic Differential Equation**|Joshua Fagin et.al.|[2410.18423v1](http://arxiv.org/abs/2410.18423v1)|null|
 |**2024-10-23**|**Separating edges from microstructure in X-ray dark-field imaging: Evolving and devolving perspectives via the X-ray Fokker-Planck equation**|Samantha J. Alloo et.al.|[2410.18317v1](http://arxiv.org/abs/2410.18317v1)|null|
 |**2024-10-23**|**Saddlepoint Monte Carlo and its Application to Exact Ecological Inference**|Théo Voldoire et.al.|[2410.18243v1](http://arxiv.org/abs/2410.18243v1)|null|
 |**2024-10-23**|**Wavefront distortions of a laser beam reflected from a diffraction grating with imperfect surface and groove pattern**|Efim Khazanov et.al.|[2410.18236v1](http://arxiv.org/abs/2410.18236v1)|null|
-|**2024-10-23**|**UnCLe: Unsupervised Continual Learning of Depth Completion**|Suchisrit Gangopadhyay et.al.|[2410.18074v1](http://arxiv.org/abs/2410.18074v1)|null|
+|**2024-10-23**|**UnCLe: Unsupervised Continual Learning of Depth Completion**|Suchisrit Gangopadhyay et.al.|[2410.18074v2](http://arxiv.org/abs/2410.18074v2)|null|
 |**2024-10-23**|**Non-linear anomalous Edelstein response at altermagnetic interfaces**|Mattia Trama et.al.|[2410.18036v1](http://arxiv.org/abs/2410.18036v1)|null|
 |**2024-10-23**|**Transition from antiferromagnetism to altermagnetism: symmetry breaking theory**|P. Zhou et.al.|[2410.17747v1](http://arxiv.org/abs/2410.17747v1)|null|
 |**2024-10-23**|**Under the magnifying glass: A combined 3D model applied to cloudy warm Saturn type exoplanets around M-dwarfs**|Sven Kiefer et.al.|[2410.17716v1](http://arxiv.org/abs/2410.17716v1)|null|
