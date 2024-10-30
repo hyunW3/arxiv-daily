@@ -5,7 +5,7 @@
 |**2024-10-28**|**Impact of the NO annealing duration on the SiO2/4H-SiC interface properties in lateral MOSFETs: the energetic profile of the near-interface-oxide traps**|Patrick Fiorenza et.al.|[2410.21235v1](http://arxiv.org/abs/2410.21235v1)|null|
 |**2024-10-28**|**Identification of source terms in the Schrödinger equation with dynamic boundary conditions from final data**|Salah-Eddine Chorfi et.al.|[2410.21123v1](http://arxiv.org/abs/2410.21123v1)|null|
 |**2024-10-28**|**LAMA: Stable Dual-Domain Deep Reconstruction For Sparse-View CT**|Chi Ding et.al.|[2410.21111v1](http://arxiv.org/abs/2410.21111v1)|null|
-|**2024-10-28**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069v1](http://arxiv.org/abs/2410.21069v1)|null|
+|**2024-10-28**|**EMOCPD: Efficient Attention-based Models for Computational Protein Design Using Amino Acid Microenvironment**|Xiaoqi Ling et.al.|[2410.21069v2](http://arxiv.org/abs/2410.21069v2)|null|
 |**2024-10-28**|**Predictive Reachability for Embodiment Selection in Mobile Manipulation Behaviors**|Xiaoxu Feng et.al.|[2410.21059v1](http://arxiv.org/abs/2410.21059v1)|null|
 |**2024-10-28**|**Transferable Post-training via Inverse Value Learning**|Xinyu Lu et.al.|[2410.21027v1](http://arxiv.org/abs/2410.21027v1)|null|
 |**2024-10-28**|**A parametric study of population inversions in relativistic plasmas through nonresonant interactions with Alfvén waves and their applications to Fast Radio Bursts**|Killian Long et.al.|[2410.21022v1](http://arxiv.org/abs/2410.21022v1)|null|
@@ -24,7 +24,7 @@
 |**2024-10-27**|**Encrypted system identification as-a-service via reliable encrypted matrix inversion**|Janis Adamek et.al.|[2410.20575v1](http://arxiv.org/abs/2410.20575v1)|null|
 |**2024-10-27**|**$A_\infty$ Sabloff Duality via the LSFT Algebra**|Zhenyi Chen et.al.|[2410.20523v1](http://arxiv.org/abs/2410.20523v1)|null|
 |**2024-10-27**|**Optimal Hardening Strategy for Electricity-Hydrogen Networks with Hydrogen Leakage Risk Control against Extreme Weather**|Sicheng Liu et.al.|[2410.20475v1](http://arxiv.org/abs/2410.20475v1)|null|
-|**2024-10-27**|**An approximation of the $S$ matrix for solving the Marchenko equation**|N. A. Khokhlov et.al.|[2410.20409v1](http://arxiv.org/abs/2410.20409v1)|null|
+|**2024-10-27**|**An approximation of the $S$ matrix for solving the Marchenko equation**|N. A. Khokhlov et.al.|[2410.20409v2](http://arxiv.org/abs/2410.20409v2)|null|
 |**2024-10-27**|**Large-area photonic circuits for terahertz detection and beam profiling**|A. Tomasino et.al.|[2410.20407v1](http://arxiv.org/abs/2410.20407v1)|null|
 |**2024-10-27**|**Ionic Selectivity of Nanopores: Comparison among Cases under the Hydrostatic Pressure, Electric Field, and Concentration Gradient**|Chao Zhang et.al.|[2410.20365v1](http://arxiv.org/abs/2410.20365v1)|null|
 |**2024-10-27**|**Modulation of ionic current rectification in short bipolar nanopores**|Hongwen Zhang et.al.|[2410.20360v1](http://arxiv.org/abs/2410.20360v1)|null|
