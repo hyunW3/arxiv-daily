@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-10-29**|**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**|Kai Wang et.al.|[2410.22317v1](http://arxiv.org/abs/2410.22317v1)|[link](https://github.com/wangkai930418/mc_ti)|
-|**2024-10-29**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309v1](http://arxiv.org/abs/2410.22309v1)|null|
+|**2024-10-29**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309v2](http://arxiv.org/abs/2410.22309v2)|null|
 |**2024-10-29**|**Active Event Alignment for Monocular Distance Estimation**|Nan Cai et.al.|[2410.22280v1](http://arxiv.org/abs/2410.22280v1)|null|
 |**2024-10-29**|**A note on polynomial-time tolerant testing stabilizer states**|Srinivasan Arunachalam et.al.|[2410.22220v1](http://arxiv.org/abs/2410.22220v1)|null|
 |**2024-10-29**|**GRINNs: Godunov-Riemann Informed Neural Networks for Learning Hyperbolic Conservation Laws**|Dimitrios G. Patsatzis et.al.|[2410.22193v1](http://arxiv.org/abs/2410.22193v1)|null|
