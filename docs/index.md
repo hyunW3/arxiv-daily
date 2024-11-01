@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-31 21:00:53 Asia/Shanghai
+ Automated deployment @ 2024-11-01 09:14:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -32,7 +32,7 @@
 |**2024-10-30**|**Zero-energy Quantum Many-Body Scar under Emergent Chiral Symmetry and Pseudo Hilbert Space Fragmentation**|Li Zhang et.al.|[2410.22778v1](http://arxiv.org/abs/2410.22778v1)|null|
 |**2024-10-30**|**Practical and Accurate Reconstruction of an Illuminant's Spectral Power Distribution for Inverse Rendering Pipelines**|Parisha Joshi et.al.|[2410.22679v1](http://arxiv.org/abs/2410.22679v1)|null|
 |**2024-10-30**|**A Walsh Hadamard Derived Linear Vector Symbolic Architecture**|Mohammad Mahmudul Alam et.al.|[2410.22669v1](http://arxiv.org/abs/2410.22669v1)|null|
-|**2024-10-30**|**The exponential Teichmüller theory: Ahlfors--Hopf differentials and diffeomorphisms**|Gaven Martin et.al.|[2410.22667v1](http://arxiv.org/abs/2410.22667v1)|null|
+|**2024-10-30**|**The exponential Teichmüller theory: Ahlfors--Hopf differentials and diffeomorphisms**|Gaven Martin et.al.|[2410.22667v2](http://arxiv.org/abs/2410.22667v2)|null|
 |**2024-10-30**|**Inverse of the Gomory Corner Relaxation of Integer Programs**|Fatemeh Nosrat et.al.|[2410.22653v1](http://arxiv.org/abs/2410.22653v1)|null|
 |**2024-10-30**|**A physics-aware data-driven surrogate approach for fast atmospheric radiative transfer inversion**|Cristina Sgattoni et.al.|[2410.22609v1](http://arxiv.org/abs/2410.22609v1)|null|
 |**2024-10-29**|**Analytical Solution for Inverse Kinematics**|Serdar Kalaycioglu et.al.|[2410.22582v1](http://arxiv.org/abs/2410.22582v1)|null|
