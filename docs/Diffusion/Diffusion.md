@@ -31,4 +31,4 @@
 |**2024-11-02**|**Privacy-Preserving Federated Learning with Differentially Private Hyperdimensional Computing**|Fardin Jalil Piran et.al.|[2411.01140v1](http://arxiv.org/abs/2411.01140v1)|null|
 |**2024-11-02**|**Optimal low-rank approximations of posteriors for linear Gaussian inverse problems on Hilbert spaces**|Giuseppe Carere et.al.|[2411.01112v1](http://arxiv.org/abs/2411.01112v1)|null|
 |**2024-11-01**|**Towards Robust Text Classification: Mitigating Spurious Correlations with Causal Learning**|Yuqing Zhou et.al.|[2411.01045v1](http://arxiv.org/abs/2411.01045v1)|null|
-|**2024-11-01**|**On the Strong Convexity of PnP Regularization Using Linear Denoisers**|Arghya Sinha et.al.|[2411.01027v1](http://arxiv.org/abs/2411.01027v1)|null|
+|**2024-11-01**|**On the Strong Convexity of PnP Regularization Using Linear Denoisers**|Arghya Sinha et.al.|[2411.01027v1](http://arxiv.org/abs/2411.01027v1)|[link](https://github.com/arghyasinha/PnP-StrongConvexity)|
