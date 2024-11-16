@@ -25,7 +25,7 @@
 |**2024-11-14**|**X-ray reverberation modelling of the continuum, optical/UV time-lags in quasars**|D. A. Langis et.al.|[2411.09681v1](http://arxiv.org/abs/2411.09681v1)|null|
 |**2024-11-14**|**Spectral decomposition and high-accuracy Greens functions: Overcoming the Nyquist-Shannon limit via complex-time Krylov expansion**|Sebastian Paeckel et.al.|[2411.09680v1](http://arxiv.org/abs/2411.09680v1)|null|
 |**2024-11-14**|**Geodesic normal coordinates and natural tensors for pseudo-Riemannian submanifolds**|C Robin Graham et.al.|[2411.09679v1](http://arxiv.org/abs/2411.09679v1)|null|
-|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678v1](http://arxiv.org/abs/2411.09678v1)|null|
+|**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678v1](http://arxiv.org/abs/2411.09678v1)|null|
 |**2024-11-14**|**Effect of invisible neutrino decay on the neutrino oscillation at long-baselines**|Animesh Chatterjee et.al.|[2411.09677v1](http://arxiv.org/abs/2411.09677v1)|null|
 |**2024-11-14**|**On Vulnerability Conditional Risk Measures: Comparisons and Applications in Cryptocurrency Market**|Tong Pu et.al.|[2411.09676v1](http://arxiv.org/abs/2411.09676v1)|null|
 |**2024-11-14**|**Citation Sentiment Reflects Multiscale Sociocultural Norms**|Xiaohuan Xia et.al.|[2411.09675v1](http://arxiv.org/abs/2411.09675v1)|null|
