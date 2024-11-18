@@ -2,6 +2,25 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-15**|**Inverse Melting of Polar Order in a Ferroelectric Oxide**|Yang Zhang et.al.|[2411.10445v1](http://arxiv.org/abs/2411.10445v1)|null|
+|**2024-11-15**|**Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**|Feiqin Zhu et.al.|[2411.10431v1](http://arxiv.org/abs/2411.10431v1)|null|
+|**2024-11-15**|**Oxidation Kinetics of Superconducting Niobium and a-Tantalum in Atmosphere at Short and Intermediate Time Scales**|Hunter J. Frost et.al.|[2411.10410v1](http://arxiv.org/abs/2411.10410v1)|null|
+|**2024-11-15**|**Scrambled Halton Subsequences and Inverse Star-Discrepancy**|Christian Weiß et.al.|[2411.10363v1](http://arxiv.org/abs/2411.10363v1)|null|
+|**2024-11-15**|**Ranking and Unranking of the Planar Embeddings of a Planar Graph**|Giuseppe Di Battista et.al.|[2411.10319v1](http://arxiv.org/abs/2411.10319v1)|null|
+|**2024-11-15**|**Offline and Online Nonlinear Inverse Differential Games with Known and Approximated Cost and Value Function Structures**|Philipp Karg et.al.|[2411.10297v1](http://arxiv.org/abs/2411.10297v1)|null|
+|**2024-11-15**|**Transformers -- Messages in Disguise**|Joshua H. Tyler et.al.|[2411.10287v1](http://arxiv.org/abs/2411.10287v1)|null|
+|**2024-11-15**|**Towards Sample-Efficiency and Generalization of Transfer and Inverse Reinforcement Learning: A Comprehensive Literature Review**|Hossein Hassani et.al.|[2411.10268v1](http://arxiv.org/abs/2411.10268v1)|null|
+|**2024-11-15**|**NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics**|Chenhao Li et.al.|[2411.10189v1](http://arxiv.org/abs/2411.10189v1)|null|
+|**2024-11-15**|**Model Inversion Attacks: A Survey of Approaches and Countermeasures**|Zhanke Zhou et.al.|[2411.10023v1](http://arxiv.org/abs/2411.10023v1)|null|
+|**2024-11-15**|**Geometric optics approximation sampling**|Zejun Sun et.al.|[2411.09964v1](http://arxiv.org/abs/2411.09964v1)|null|
+|**2024-11-15**|**A Polarization Image Dehazing Method Based on the Principle of Physical Diffusion**|Zhenjun Zhang et.al.|[2411.09924v1](http://arxiv.org/abs/2411.09924v1)|null|
+|**2024-11-15**|**Determination and reconstruction of a semilinear term from point measurements**|Yavar Kian et.al.|[2411.09922v1](http://arxiv.org/abs/2411.09922v1)|null|
+|**2024-11-15**|**Inverse problems for a quasilinear hyperbolic equation with multiple unknowns**|Yan Jiang et.al.|[2411.09917v1](http://arxiv.org/abs/2411.09917v1)|null|
+|**2024-11-15**|**Modeling the X-ray emission of the Boomerang nebula and implication for its potential ultrahigh-energy gamma-ray emission**|Xiao-Bin Chen et.al.|[2411.09901v1](http://arxiv.org/abs/2411.09901v1)|null|
+|**2024-11-15**|**Enhancing Diffusion Posterior Sampling for Inverse Problems by Integrating Crafted Measurements**|Shijie Zhou et.al.|[2411.09850v1](http://arxiv.org/abs/2411.09850v1)|null|
+|**2024-11-14**|**Twisted partial group algebra and related topological partial dynamical system**|Mikhailo Dokuchaev et.al.|[2411.09824v1](http://arxiv.org/abs/2411.09824v1)|null|
+|**2024-11-14**|**Large critical fields in superconducting Ti$_{4}$Ir$_2$O from spin-orbit coupling**|Hao Wu et.al.|[2411.09793v1](http://arxiv.org/abs/2411.09793v1)|null|
+|**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749v1](http://arxiv.org/abs/2411.09749v1)|null|
 |**2024-11-14**|**CropCraft: Inverse Procedural Modeling for 3D Reconstruction of Crop Plants**|Albert J. Zhai et.al.|[2411.09693v1](http://arxiv.org/abs/2411.09693v1)|null|
 |**2024-11-14**|**Inverse Nonlinear Scattering by a Metric**|Peter Hintz et.al.|[2411.09671v1](http://arxiv.org/abs/2411.09671v1)|null|
 |**2024-11-14**|**Revisiting the LHC Constraints on Gauge-Mediated Supersymmetry Breaking Scenarios**|Kirtiman Ghosh et.al.|[2411.09650v1](http://arxiv.org/abs/2411.09650v1)|null|
@@ -13,22 +32,3 @@
 |**2024-11-14**|**AI-driven inverse design of materials: Past, present and future**|Xiao-Qi Han et.al.|[2411.09429v1](http://arxiv.org/abs/2411.09429v1)|null|
 |**2024-11-14**|**Magnetic dipole moments of the singly-heavy baryons with spin-$\frac{1}{2}$ and spin-$\frac{3}{2}$**|U. Özdem et.al.|[2411.09405v1](http://arxiv.org/abs/2411.09405v1)|null|
 |**2024-11-14**|**Inverse scattering problems for non-linear wave equations on Lorentzian manifolds**|Spyros Alexakis et.al.|[2411.09354v1](http://arxiv.org/abs/2411.09354v1)|null|
-|**2024-11-14**|**Approximated Variational Bayesian Inverse Reinforcement Learning for Large Language Model Alignment**|Yuang Cai et.al.|[2411.09341v1](http://arxiv.org/abs/2411.09341v1)|null|
-|**2024-11-14**|**A Method to Extrapolate the Data for the Inverse Magnetisation Problem with a Planar Sample**|Dmitry Ponomarev et.al.|[2411.09331v1](http://arxiv.org/abs/2411.09331v1)|null|
-|**2024-11-14**|**Mixing Douglas' and weak majorization and factorization theorems**|Pierre Lissy et.al.|[2411.09305v1](http://arxiv.org/abs/2411.09305v1)|null|
-|**2024-11-14**|**Aerobars Position Effect: What is the Interaction Between Aerodynamic Drag and Power Production?**|Terol Sébastien et.al.|[2411.09280v1](http://arxiv.org/abs/2411.09280v1)|null|
-|**2024-11-14**|**Integrated Data Analysis and Validation**|R. Fischer et.al.|[2411.09270v1](http://arxiv.org/abs/2411.09270v1)|null|
-|**2024-11-14**|**Iterated Generalized Counting Process and its Extensions**|M. Dhillon et.al.|[2411.09257v1](http://arxiv.org/abs/2411.09257v1)|null|
-|**2024-11-14**|**Multiphase superconductivity in PdBi2**|Lewis Powell et.al.|[2411.09239v1](http://arxiv.org/abs/2411.09239v1)|null|
-|**2024-11-14**|**A note on an inversion algorithm for vertical ionograms for the prediction of plasma frequency profiles**|Renzo Kenyi Takagui Perez et.al.|[2411.09215v1](http://arxiv.org/abs/2411.09215v1)|[link](https://github.com/TAOGenna/inversion-algorithm-plasma-frequency-profile)|
-|**2024-11-14**|**Solving the Inverse Band-Structure Problem for Photonic Crystals**|Aditya Bahulikar et.al.|[2411.09165v1](http://arxiv.org/abs/2411.09165v1)|null|
-|**2024-11-14**|**Nonlinear Hall Effect in KTaO$_3$ Two-Dimensional Electron Gases**|Patrick W. Krantz et.al.|[2411.09161v1](http://arxiv.org/abs/2411.09161v1)|null|
-|**2024-11-14**|**Performance Boundaries and Tradeoffs in Super-Resolution Imaging Technologies for Space Targets**|XiaoLe He et.al.|[2411.09155v1](http://arxiv.org/abs/2411.09155v1)|null|
-|**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153v1](http://arxiv.org/abs/2411.09153v1)|null|
-|**2024-11-14**|**Laplace Transform Interpretation of Differential Privacy**|Rishav Chourasia et.al.|[2411.09142v1](http://arxiv.org/abs/2411.09142v1)|null|
-|**2024-11-14**|**Computational metaoptics for imaging**|Charles Roques-Carmes et.al.|[2411.09133v1](http://arxiv.org/abs/2411.09133v1)|null|
-|**2024-11-14**|**Bottomonium Properties in QGP from a Lattice-QCD Informed T-Matrix Approach**|Zhanduo Tang et.al.|[2411.09132v1](http://arxiv.org/abs/2411.09132v1)|null|
-|**2024-11-14**|**Quantum multi-output Gaussian Processes based Machine Learning for Line Parameter Estimation in Electrical Grids**|Priyanka Arkalgud Ganeshamurthy et.al.|[2411.09123v1](http://arxiv.org/abs/2411.09123v1)|null|
-|**2024-11-14**|**Convergence rates of Landweber-type methods for inverse problems in Banach spaces**|Qinian Jin et.al.|[2411.09113v1](http://arxiv.org/abs/2411.09113v1)|null|
-|**2024-11-13**|**Injection process of pickup ion acceleration at an oblique heliospheric termination shock**|S. Matsukiyo et.al.|[2411.09078v1](http://arxiv.org/abs/2411.09078v1)|null|
-|**2024-11-13**|**Weak Poincaré Inequalities, Simulated Annealing, and Sampling from Spherical Spin Glasses**|Brice Huang et.al.|[2411.09075v1](http://arxiv.org/abs/2411.09075v1)|null|
