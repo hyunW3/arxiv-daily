@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-23 21:23:42 Asia/Shanghai
+ Automated deployment @ 2024-11-24 09:18:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -28,7 +28,7 @@
 |**2024-11-20**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525v2](http://arxiv.org/abs/2411.13525v2)|null|
 |**2024-11-20**|**Neural machine translation of seismic waves for petrophysical inversion**|José Cunha Teixeira et.al.|[2411.13491v1](http://arxiv.org/abs/2411.13491v1)|null|
 |**2024-11-20**|**Crystal to liquid cross-over in the active Calogero-Moser model**|Saikat Santra et.al.|[2411.13478v1](http://arxiv.org/abs/2411.13478v1)|null|
-|**2024-11-20**|**Functional normalizing flow for statistical inverse problems of partial differential equations**|Yang Zhao et.al.|[2411.13277v1](http://arxiv.org/abs/2411.13277v1)|null|
+|**2024-11-20**|**Functional normalizing flow for statistical inverse problems of partial differential equations**|Yang Zhao et.al.|[2411.13277v1](http://arxiv.org/abs/2411.13277v1)|[link](https://github.com/jjx323/FunctionalNormalizingFlow)|
 |**2024-11-20**|**Estimating the tails of the spectrum of the Hessian of the log-likelihood for \textit{ab-initio} single-particle reconstruction in electron cryomicroscopy**|Aaditya V. Rangan et.al.|[2411.13263v1](http://arxiv.org/abs/2411.13263v1)|null|
 |**2024-11-20**|**BIPro: Zero-shot Chinese Poem Generation via Block Inverse Prompting Constrained Generation Framework**|Xu Zou et.al.|[2411.13237v1](http://arxiv.org/abs/2411.13237v1)|null|
 |**2024-11-20**|**The impact of recovery rate heterogeneity in achieving herd immunity**|Gabriel Turinici et.al.|[2411.13130v1](http://arxiv.org/abs/2411.13130v1)|null|
@@ -36,7 +36,7 @@
 |**2024-11-20**|**RobustFormer: Noise-Robust Pre-training for images and videos**|Ashish Bastola et.al.|[2411.13040v1](http://arxiv.org/abs/2411.13040v1)|null|
 |**2024-11-20**|**Comparison of Kikuchi Diffraction Geometries in Scanning Electron Microscope**|Tianbi Zhang et.al.|[2411.13018v1](http://arxiv.org/abs/2411.13018v1)|null|
 |**2024-11-20**|**Data driven learning to enhance a kinetic model of distressed crowd dynamics**|Daewa Kim et.al.|[2411.12974v1](http://arxiv.org/abs/2411.12974v1)|null|
-|**2024-11-20**|**Probability distributions and calculations for Hake's ratio statistics in measuring effect size**|Jozef Hanč et.al.|[2411.12938v1](http://arxiv.org/abs/2411.12938v1)|null|
+|**2024-11-20**|**Probability distributions and calculations for Hake's ratio statistics in measuring effect size**|Jozef Hanč et.al.|[2411.12938v1](http://arxiv.org/abs/2411.12938v1)|[link](https://github.com/jupyterper/hakeratio)|
 |**2024-11-19**|**On large Sidon sets**|Ingo Czerwinski et.al.|[2411.12911v1](http://arxiv.org/abs/2411.12911v1)|null|
 
 ### T2I
