@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-27**|**Magnetic-field dependence of spin-phonon relaxation and dephasing due to g-factor fluctuations from first principles**|Joshua Quinton et.al.|[2411.18608v1](http://arxiv.org/abs/2411.18608v1)|null|
-|**2024-11-27**|**TorchOptics: An open-source Python library for differentiable Fourier optics simulations**|Matthew J. Filipovich et.al.|[2411.18591v1](http://arxiv.org/abs/2411.18591v1)|null|
+|**2024-11-27**|**TorchOptics: An open-source Python library for differentiable Fourier optics simulations**|Matthew J. Filipovich et.al.|[2411.18591v1](http://arxiv.org/abs/2411.18591v1)|[link](https://github.com/matthewfilipovich/torchoptics)|
 |**2024-11-27**|**Topological Magnons on the Ferromagnetic Zigzag Lattice**|Skandan Subramanian et.al.|[2411.18515v1](http://arxiv.org/abs/2411.18515v1)|null|
 |**2024-11-27**|**The large $N$ vector model on $S^1\times S^2$**|Justin R. David et.al.|[2411.18509v1](http://arxiv.org/abs/2411.18509v1)|null|
 |**2024-11-27**|**Physics Informed Neural Networks (PINNs) as intelligent computing technique for solving partial differential equations: Limitation and Future prospects**|Weiwei Zhang et.al.|[2411.18240v1](http://arxiv.org/abs/2411.18240v1)|null|
@@ -14,7 +14,7 @@
 |**2024-11-27**|**Derivative-free stochastic bilevel optimization for inverse problems**|Mathias Staudigl et.al.|[2411.18100v1](http://arxiv.org/abs/2411.18100v1)|null|
 |**2024-11-27**|**Effective Medium Theory for Heat Generation Using Plasmonics: A Parabolic Transmission Problem Driven by the Maxwell System**|Xinlin Cao et.al.|[2411.18091v1](http://arxiv.org/abs/2411.18091v1)|null|
 |**2024-11-27**|**Linearly scalable fast direct solver based on proxy surface method for two-dimensional elastic wave scattering by cavity**|Yasuhiro Matsumoto et.al.|[2411.18026v1](http://arxiv.org/abs/2411.18026v1)|null|
-|**2024-11-27**|**Monocular Obstacle Avoidance Based on Inverse PPO for Fixed-wing UAVs**|Haochen Chai et.al.|[2411.18009v1](http://arxiv.org/abs/2411.18009v1)|null|
+|**2024-11-27**|**Monocular Obstacle Avoidance Based on Inverse PPO for Fixed-wing UAVs**|Haochen Chai et.al.|[2411.18009v1](http://arxiv.org/abs/2411.18009v1)|[link](https://github.com/ch9397/fixedwing-monoppo)|
 |**2024-11-27**|**Quantification of Uncertainty and Its Propagation in Seismic Velocity Structure and Earthquake Source Inversion**|Ryoichiro Agata et.al.|[2411.17997v1](http://arxiv.org/abs/2411.17997v1)|null|
 |**2024-11-27**|**Differentiable Inverse Rendering with Interpretable Basis BRDFs**|Hoon-Gyu Chung et.al.|[2411.17994v1](http://arxiv.org/abs/2411.17994v1)|null|
 |**2024-11-27**|**Convergence of the inverse Monge-Ampere flow and Nadel multiplier ideal sheaves**|Nikita Klemyatin et.al.|[2411.17978v1](http://arxiv.org/abs/2411.17978v1)|null|
