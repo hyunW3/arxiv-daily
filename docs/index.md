@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-03 09:15:41 Asia/Shanghai
+ Automated deployment @ 2024-12-03 20:31:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -34,7 +34,7 @@
 |**2024-11-28**|**Distribution of the Diagonal Entries of the Resolvent of a Complex Ginibre Matrix**|Pierre Bousseyroux et.al.|[2411.19266v1](http://arxiv.org/abs/2411.19266v1)|null|
 |**2024-11-28**|**Band-gap reduction and band alignments of dilute bismide III--V alloys**|Abdul Saboor et.al.|[2411.19257v1](http://arxiv.org/abs/2411.19257v1)|null|
 |**2024-11-28**|**Sparse optimization for estimating the cross-power spectrum in linear inverse models : from theory to the application in brain connectivity**|Laura Carini et.al.|[2411.19225v1](http://arxiv.org/abs/2411.19225v1)|null|
-|**2024-11-28**|**Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions**|Alessio Spagnoletti et.al.|[2411.19158v1](http://arxiv.org/abs/2411.19158v1)|null|
+|**2024-11-28**|**Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions**|Alessio Spagnoletti et.al.|[2411.19158v1](http://arxiv.org/abs/2411.19158v1)|[link](https://github.com/astrodeepnet/diffusion4astro)|
 |**2024-11-28**|**Advancing Generalization in PINNs through Latent-Space Representations**|Honghui Wang et.al.|[2411.19125v1](http://arxiv.org/abs/2411.19125v1)|null|
 |**2024-11-28**|**Measuring direct flexoelectricity at the nanoscale**|Daniel Moreno-Garcia et.al.|[2411.19118v1](http://arxiv.org/abs/2411.19118v1)|null|
 |**2024-11-28**|**Inverse-design topology optimization of magnonic devices using level-set method**|Andrey A. Voronov et.al.|[2411.19109v1](http://arxiv.org/abs/2411.19109v1)|null|
@@ -42,7 +42,7 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-29**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951v1](http://arxiv.org/abs/2411.19951v1)|[link](https://github.com/xjtupanda/t2vid)|
+|**2024-11-29**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951v2](http://arxiv.org/abs/2411.19951v2)|[link](https://github.com/xjtupanda/t2vid)|
 |**2024-11-29**|**AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos**|Yuze He et.al.|[2411.19950v1](http://arxiv.org/abs/2411.19950v1)|null|
 |**2024-11-29**|**Scaling Laws Governing the Collapse of a Bose-Einstein Condensate**|Sebastian J. Morris et.al.|[2411.19948v1](http://arxiv.org/abs/2411.19948v1)|null|
 |**2024-11-29**|**Efficient short-wave infrared upconversion by self-sensitized holmium-doped nanoparticles**|Rakesh Arul et.al.|[2411.19949v1](http://arxiv.org/abs/2411.19949v1)|null|
@@ -50,7 +50,7 @@
 |**2024-11-29**|**Operator Valued Flow Equation Approach to the Bosonic Lattice Polaron: Dispersion Renormalization Beyond the Fröhlich Paradigm**|Jan-Philipp Christ et.al.|[2411.19947v1](http://arxiv.org/abs/2411.19947v1)|null|
 |**2024-11-29**|**The hot circumgalactic medium in the eROSITA All-Sky Survey III. Star-forming and quiescent galaxies**|Yi Zhang et.al.|[2411.19945v1](http://arxiv.org/abs/2411.19945v1)|null|
 |**2024-11-29**|**Indivisible Sequences and Descendability**|Ivan Zelich et.al.|[2411.19944v1](http://arxiv.org/abs/2411.19944v1)|null|
-|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943v1](http://arxiv.org/abs/2411.19943v1)|null|
+|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943v2](http://arxiv.org/abs/2411.19943v2)|null|
 |**2024-11-29**|**Free-form Generation Enhances Challenging Clothed Human Modeling**|Hang Ye et.al.|[2411.19942v1](http://arxiv.org/abs/2411.19942v1)|null|
 |**2024-11-29**|**Direct local parametrization of nuclear state densities using the back-shifted Bethe formula**|C. Özen et.al.|[2411.19940v1](http://arxiv.org/abs/2411.19940v1)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939v1](http://arxiv.org/abs/2411.19939v1)|null|

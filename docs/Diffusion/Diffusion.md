@@ -28,7 +28,7 @@
 |**2024-11-28**|**Distribution of the Diagonal Entries of the Resolvent of a Complex Ginibre Matrix**|Pierre Bousseyroux et.al.|[2411.19266v1](http://arxiv.org/abs/2411.19266v1)|null|
 |**2024-11-28**|**Band-gap reduction and band alignments of dilute bismide III--V alloys**|Abdul Saboor et.al.|[2411.19257v1](http://arxiv.org/abs/2411.19257v1)|null|
 |**2024-11-28**|**Sparse optimization for estimating the cross-power spectrum in linear inverse models : from theory to the application in brain connectivity**|Laura Carini et.al.|[2411.19225v1](http://arxiv.org/abs/2411.19225v1)|null|
-|**2024-11-28**|**Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions**|Alessio Spagnoletti et.al.|[2411.19158v1](http://arxiv.org/abs/2411.19158v1)|null|
+|**2024-11-28**|**Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions**|Alessio Spagnoletti et.al.|[2411.19158v1](http://arxiv.org/abs/2411.19158v1)|[link](https://github.com/astrodeepnet/diffusion4astro)|
 |**2024-11-28**|**Advancing Generalization in PINNs through Latent-Space Representations**|Honghui Wang et.al.|[2411.19125v1](http://arxiv.org/abs/2411.19125v1)|null|
 |**2024-11-28**|**Measuring direct flexoelectricity at the nanoscale**|Daniel Moreno-Garcia et.al.|[2411.19118v1](http://arxiv.org/abs/2411.19118v1)|null|
 |**2024-11-28**|**Inverse-design topology optimization of magnonic devices using level-set method**|Andrey A. Voronov et.al.|[2411.19109v1](http://arxiv.org/abs/2411.19109v1)|null|
