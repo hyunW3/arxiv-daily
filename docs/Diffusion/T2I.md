@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700v1](http://arxiv.org/abs/2412.02700v1)|null|
-|**2024-12-03**|**UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping**|Wenbo Wang et.al.|[2412.02699v1](http://arxiv.org/abs/2412.02699v1)|null|
-|**2024-12-03**|**Exploring the Diversity of Faint Satellites in the M81 Group**|Katya Gozman et.al.|[2412.02697v1](http://arxiv.org/abs/2412.02697v1)|null|
-|**2024-12-03**|**Scaling BERT Models for Turkish Automatic Punctuation and Capitalization Correction**|Abdulkader Saoud et.al.|[2412.02698v1](http://arxiv.org/abs/2412.02698v1)|null|
-|**2024-12-03**|**Stage IV CMB forecasts for warm inflation**|F. B. M. dos Santos et.al.|[2412.02696v1](http://arxiv.org/abs/2412.02696v1)|null|
-|**2024-12-03**|**An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques**|Medha Pappula et.al.|[2412.02695v1](http://arxiv.org/abs/2412.02695v1)|null|
-|**2024-12-03**|**Increased Surface Temperatures of Habitable White Dwarf Worlds Relative to Main-Sequence Exoplanets**|Aomawa L. Shields et.al.|[2412.02694v1](http://arxiv.org/abs/2412.02694v1)|null|
-|**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693v1](http://arxiv.org/abs/2412.02693v1)|[link](https://github.com/pixtella/anagram-mtl)|
-|**2024-12-03**|**Taming Scalable Visual Tokenizer for Autoregressive Image Generation**|Fengyuan Shi et.al.|[2412.02692v1](http://arxiv.org/abs/2412.02692v1)|null|
-|**2024-12-03**|**Chow-Lam Recovery**|Elizabeth Pratt et.al.|[2412.02691v1](http://arxiv.org/abs/2412.02691v1)|null|
-|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690v1](http://arxiv.org/abs/2412.02690v1)|null|
-|**2024-12-03**|**Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**|Yupeng Zheng et.al.|[2412.02689v1](http://arxiv.org/abs/2412.02689v1)|null|
-|**2024-12-03**|**Molecular gas and dust properties in $z>7$ quasar hosts**|Francesco Salvestrini et.al.|[2412.02688v1](http://arxiv.org/abs/2412.02688v1)|null|
-|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687v1](http://arxiv.org/abs/2412.02687v1)|null|
-|**2024-12-03**|**Electron Beam Characterization via Quantum Coherent Optical Magnetometry**|Nicolas DeStefano et.al.|[2412.02686v1](http://arxiv.org/abs/2412.02686v1)|null|
-|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685v1](http://arxiv.org/abs/2412.02685v1)|null|
-|**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684v1](http://arxiv.org/abs/2412.02684v1)|null|
-|**2024-12-03**|**A counterexample to Tian's Stabilization Conjecture**|Chenzi Jin et.al.|[2412.02683v1](http://arxiv.org/abs/2412.02683v1)|null|
-|**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682v1](http://arxiv.org/abs/2412.02682v1)|null|
-|**2024-12-03**|**Self-Dual Gauge Theory from the Top Down**|Roland Bittleston et.al.|[2412.02680v1](http://arxiv.org/abs/2412.02680v1)|null|
-|**2024-12-03**|**On z-Superstable and Critical Configurations of Chip Firing Pairs**|Zach Benton et.al.|[2412.02679v1](http://arxiv.org/abs/2412.02679v1)|null|
-|**2024-12-03**|**Quasi-normal modes in non-perturbative quantum gravity**|Alexey S. Koshelev et.al.|[2412.02678v1](http://arxiv.org/abs/2412.02678v1)|null|
-|**2024-12-03**|**Negative $c$-axis longitudinal magnetoresistance in FeSe**|M. Lourdes Amigó et.al.|[2412.02677v1](http://arxiv.org/abs/2412.02677v1)|null|
-|**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676v1](http://arxiv.org/abs/2412.02676v1)|null|
-|**2024-12-03**|**Perspective: Time irreversibility in systems observed at coarse resolution**|Cai Dieball et.al.|[2412.02675v1](http://arxiv.org/abs/2412.02675v1)|null|
-|**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674v1](http://arxiv.org/abs/2412.02674v1)|null|
-|**2024-12-03**|**Sample Complexity of Black Box Work Extraction**|Shantanav Chakraborty et.al.|[2412.02673v1](http://arxiv.org/abs/2412.02673v1)|null|
-|**2024-12-03**|**Soft QCD Physics at the LHC: highlights and opportunities**|Peter Christiansen et.al.|[2412.02672v1](http://arxiv.org/abs/2412.02672v1)|null|
-|**2024-12-03**|**In Search of Extraterrestrial Artificial Intelligence through the Dyson Sphere-like structures around the Primordial Black Holes**|Shant Baghram et.al.|[2412.02671v1](http://arxiv.org/abs/2412.02671v1)|null|
-|**2024-12-03**|**The Broader Landscape of Robustness in Algorithmic Statistics**|Gautam Kamath et.al.|[2412.02670v1](http://arxiv.org/abs/2412.02670v1)|null|
+|**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572v1](http://arxiv.org/abs/2412.03572v1)|null|
+|**2024-12-04**|**Style3D: Attention-guided Multi-view Style Transfer for 3D Object Generation**|Bingjie Song et.al.|[2412.03571v1](http://arxiv.org/abs/2412.03571v1)|null|
+|**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570v1](http://arxiv.org/abs/2412.03570v1)|null|
+|**2024-12-04**|**Critical behavior of the Schwinger model via gauge-invariant VUMPS**|Hirotsugu Fujii et.al.|[2412.03569v1](http://arxiv.org/abs/2412.03569v1)|null|
+|**2024-12-04**|**The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**|Ruili Feng et.al.|[2412.03568v1](http://arxiv.org/abs/2412.03568v1)|null|
+|**2024-12-04**|**Streaming Detection of Queried Event Start**|Cristobal Eyzaguirre et.al.|[2412.03567v1](http://arxiv.org/abs/2412.03567v1)|null|
+|**2024-12-04**|**FreeSim: Toward Free-viewpoint Camera Simulation in Driving Scenes**|Lue Fan et.al.|[2412.03566v1](http://arxiv.org/abs/2412.03566v1)|null|
+|**2024-12-04**|**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**|Wujian Peng et.al.|[2412.03565v1](http://arxiv.org/abs/2412.03565v1)|null|
+|**2024-12-04**|**Improving Perturbation Theory with the Sum-of-Squares: Third Order**|M. B. Hastings et.al.|[2412.03564v1](http://arxiv.org/abs/2412.03564v1)|null|
+|**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563v1](http://arxiv.org/abs/2412.03563v1)|null|
+|**2024-12-04**|**Characterizing the Distinguishability of Product Distributions through Multicalibration**|Cassandra Marcussen et.al.|[2412.03562v1](http://arxiv.org/abs/2412.03562v1)|null|
+|**2024-12-04**|**FLAIR: VLM with Fine-grained Language-informed Image Representations**|Rui Xiao et.al.|[2412.03561v1](http://arxiv.org/abs/2412.03561v1)|[link](https://github.com/explainableml/flair)|
+|**2024-12-04**|**Non-asymptotic entropic bounds for non-linear kinetic Langevin sampler with second-order splitting scheme**|Pierre Monmarché et.al.|[2412.03560v1](http://arxiv.org/abs/2412.03560v1)|null|
+|**2024-12-04**|**A family of orthogonal functions on the unit circle and a new multilateral matrix inverse**|Michael J. Schlosser et.al.|[2412.03559v1](http://arxiv.org/abs/2412.03559v1)|null|
+|**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558v1](http://arxiv.org/abs/2412.03558v1)|null|
+|**2024-12-04**|**Best-of-N Jailbreaking**|John Hughes et.al.|[2412.03556v1](http://arxiv.org/abs/2412.03556v1)|null|
+|**2024-12-04**|**PaliGemma 2: A Family of Versatile VLMs for Transfer**|Andreas Steiner et.al.|[2412.03555v1](http://arxiv.org/abs/2412.03555v1)|null|
+|**2024-12-04**|**Categorize and randomize: a model of sequential stochastic choice**|Ester Sudano et.al.|[2412.03554v1](http://arxiv.org/abs/2412.03554v1)|null|
+|**2024-12-04**|**BinSparX: Sparsified Binary Neural Networks for Reduced Hardware Non-Idealities in Xbar Arrays**|Akul Malhotra et.al.|[2412.03553v1](http://arxiv.org/abs/2412.03553v1)|null|
+|**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552v1](http://arxiv.org/abs/2412.03552v1)|null|
+|**2024-12-04**|**SPICE: Smart Projection Interface for Cooking Enhancement**|Vera Prohaska et.al.|[2412.03551v1](http://arxiv.org/abs/2412.03551v1)|null|
+|**2024-12-04**|**Teaching an Old Dog New Tricks: Verifiable FHE Using Commodity Hardware**|Jules Drean et.al.|[2412.03550v1](http://arxiv.org/abs/2412.03550v1)|null|
+|**2024-12-04**|**Quantifying the Critical Micelle Concentration of Nonionic and Ionic Surfactants by Self-Consistent Field Theory**|Chao Duan et.al.|[2412.03549v1](http://arxiv.org/abs/2412.03549v1)|null|
+|**2024-12-04**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548v1](http://arxiv.org/abs/2412.03548v1)|null|
+|**2024-12-04**|**Learning from galactic rotation curves: a neural network approach**|Bihag Dave et.al.|[2412.03547v1](http://arxiv.org/abs/2412.03547v1)|null|
+|**2024-12-04**|**Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data**|Laura Herold et.al.|[2412.03546v1](http://arxiv.org/abs/2412.03546v1)|null|
+|**2024-12-04**|**Absence of altermagnetic magnon band splitting in MnF$_2$**|Vincent C. Morano et.al.|[2412.03545v1](http://arxiv.org/abs/2412.03545v1)|null|
+|**2024-12-04**|**Kibble-Zurek Dynamics & Statistics of Topological Defects in Chiral Superfluid $^3$He Films**|Noble Gluscevich et.al.|[2412.03544v1](http://arxiv.org/abs/2412.03544v1)|null|
+|**2024-12-04**|**Non-Abelian elastic collisions, associated difference systems of equations and discrete analytic functions**|Pavlos Kassotakis et.al.|[2412.03543v1](http://arxiv.org/abs/2412.03543v1)|null|
+|**2024-12-04**|**Vacuum Metastability from Axion-Higgs Criticality**|Maximilian Detering et.al.|[2412.03542v1](http://arxiv.org/abs/2412.03542v1)|null|
