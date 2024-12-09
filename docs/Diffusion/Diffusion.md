@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-06**|**Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases**|Krzysztof Maziarz et.al.|[2412.05269v1](http://arxiv.org/abs/2412.05269v1)|null|
+|**2024-12-06**|**Simultaneous identification of the parameters in the plasticity function for power hardening materials : A Bayesian approach**|Salih Tatar et.al.|[2412.05241v1](http://arxiv.org/abs/2412.05241v1)|null|
+|**2024-12-06**|**A kinetically constrained model exhibiting non-linear diffusion and jamming**|Abhishek Raj et.al.|[2412.05231v1](http://arxiv.org/abs/2412.05231v1)|null|
+|**2024-12-06**|**A simple non-parametric reconstruction of parton distributions from limited Fourier information**|Hervé Dutrieux et.al.|[2412.05227v1](http://arxiv.org/abs/2412.05227v1)|null|
+|**2024-12-06**|**One-shot Federated Learning via Synthetic Distiller-Distillate Communication**|Junyuan Zhang et.al.|[2412.05186v1](http://arxiv.org/abs/2412.05186v1)|[link](https://github.com/carkham/fedsd2c)|
+|**2024-12-06**|**Learning Hidden Physics and System Parameters with Deep Operator Networks**|Vijay Kag et.al.|[2412.05133v1](http://arxiv.org/abs/2412.05133v1)|null|
+|**2024-12-06**|**Asteroseismic Structure Inversions of Main-Sequence Solar-like Oscillators with Convective Cores**|Lynn Buchele et.al.|[2412.05094v1](http://arxiv.org/abs/2412.05094v1)|null|
+|**2024-12-06**|**Angstrom Scale Ionic Memristors' Engineering with van der Waals Materials- A Route to Highly Tunable Memory States**|Dhal Biswabhusan et.al.|[2412.05051v1](http://arxiv.org/abs/2412.05051v1)|null|
+|**2024-12-06**|**Fully independent response in disordered solids**|Mengjie Zu et.al.|[2412.05031v1](http://arxiv.org/abs/2412.05031v1)|null|
+|**2024-12-06**|**Infinite families of irreducible polynomials over finite fields**|Kaimin Cheng et.al.|[2412.04985v1](http://arxiv.org/abs/2412.04985v1)|null|
+|**2024-12-06**|**Spin and Orbital Rashba effects at the Ni/HfO$_2$ interface**|Armando Pezo et.al.|[2412.04927v1](http://arxiv.org/abs/2412.04927v1)|null|
+|**2024-12-06**|**Polymyxin B-Enriched Exogenous Lung Surfactant: Thermodynamics and Structure**|Nina Královič-Kanjaková et.al.|[2412.04894v1](http://arxiv.org/abs/2412.04894v1)|null|
+|**2024-12-06**|**Super-Polynomial Growth of the Generalized Persistence Diagram**|Donghan Kim et.al.|[2412.04889v1](http://arxiv.org/abs/2412.04889v1)|null|
+|**2024-12-06**|**Nonmyopic Global Optimisation via Approximate Dynamic Programming**|Filippo Airaldi et.al.|[2412.04882v1](http://arxiv.org/abs/2412.04882v1)|null|
+|**2024-12-06**|**Regression Analysis of Cure Rate Models with Competing Risks Subjected to Interval Censoring**|Silpa K. et.al.|[2412.04803v1](http://arxiv.org/abs/2412.04803v1)|null|
+|**2024-12-06**|**IterNorm: Fast Iterative Normalization**|ChangMin Ye et.al.|[2412.04778v1](http://arxiv.org/abs/2412.04778v1)|null|
+|**2024-12-06**|**DAWN-SI: Data-Aware and Noise-Informed Stochastic Interpolation for Solving Inverse Problems**|Shadab Ahamed et.al.|[2412.04766v1](http://arxiv.org/abs/2412.04766v1)|null|
+|**2024-12-06**|**Measuring Goal-Directedness**|Matt MacDermott et.al.|[2412.04758v1](http://arxiv.org/abs/2412.04758v1)|null|
+|**2024-12-06**|**Spectral theory for periodic vector NLS equations**|Evgeny Korotyaev et.al.|[2412.04708v1](http://arxiv.org/abs/2412.04708v1)|null|
+|**2024-12-06**|**PerfGen: Automated Performance Benchmark Generation for Big Data Analytics**|Jiyuan Wang et.al.|[2412.04687v1](http://arxiv.org/abs/2412.04687v1)|null|
+|**2024-12-05**|**Exact Inversion from Space-filling Trajectories in Cone-beam Transmission Tomography**|Murdock Grewar et.al.|[2412.04669v1](http://arxiv.org/abs/2412.04669v1)|null|
+|**2024-12-05**|**Inverting the Markovian projection for pure jump processes**|Martin Larsson et.al.|[2412.04589v1](http://arxiv.org/abs/2412.04589v1)|null|
+|**2024-12-05**|**An open-source library for performance-portable neutrino reaction rates: application to neutron star mergers**|Leonardo Chiesa et.al.|[2412.04570v1](http://arxiv.org/abs/2412.04570v1)|null|
+|**2024-12-05**|**Solving High-dimensional Inverse Problems Using Amortized Likelihood-free Inference with Noisy and Incomplete Data**|Jice Zeng et.al.|[2412.04565v1](http://arxiv.org/abs/2412.04565v1)|null|
+|**2024-12-05**|**True mass and atmospheric composition of the non-transiting hot Jupiter HD 143105 b**|Luke Finnerty et.al.|[2412.04552v1](http://arxiv.org/abs/2412.04552v1)|null|
 |**2024-12-05**|**Stabilizing and Solving Inverse Problems using Data and Machine Learning**|Erik Burman et.al.|[2412.04409v1](http://arxiv.org/abs/2412.04409v1)|null|
 |**2024-12-05**|**Intertwining operators beyond the Stark Effect**|Luca Fanelli et.al.|[2412.04406v1](http://arxiv.org/abs/2412.04406v1)|null|
 |**2024-12-05**|**The Thermal Sunyaev-Zel'dovich Effect from the Epoch of Reionization**|Ilian T. Iliev et.al.|[2412.04385v1](http://arxiv.org/abs/2412.04385v1)|null|
 |**2024-12-05**|**Bloch Oscillations of a Soliton in a 1D Quantum Fluid**|F. Rabec et.al.|[2412.04355v1](http://arxiv.org/abs/2412.04355v1)|null|
 |**2024-12-05**|**On the Replica Symmetry of a Variant of the Sherrington-Kirkpatrick Spin Glass**|Christian Brennecke et.al.|[2412.04336v1](http://arxiv.org/abs/2412.04336v1)|null|
-|**2024-12-05**|**Clustering-induced localization of quantum walks on networks**|Lucas Böttcher et.al.|[2412.04325v1](http://arxiv.org/abs/2412.04325v1)|null|
-|**2024-12-05**|**SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion**|Trong-Tung Nguyen et.al.|[2412.04301v1](http://arxiv.org/abs/2412.04301v1)|null|
-|**2024-12-05**|**New Methods for Computer Tomography Based Ion Thruster Diagnostics and Simulation**|Jörn Krenzer et.al.|[2412.04214v1](http://arxiv.org/abs/2412.04214v1)|null|
-|**2024-12-05**|**Modification on thermal motion in Geant4 for neutron capture simulation in Gadolinium loaded water**|Y. Hino et.al.|[2412.04186v1](http://arxiv.org/abs/2412.04186v1)|null|
-|**2024-12-05**|**Deep priors for satellite image restoration with accurate uncertainties**|Biquard Maud et.al.|[2412.04130v1](http://arxiv.org/abs/2412.04130v1)|null|
-|**2024-12-05**|**Type-II Dirac nodal chain semimetal CrB4**|Xiao-Yao Hou et.al.|[2412.03972v1](http://arxiv.org/abs/2412.03972v1)|null|
-|**2024-12-05**|**Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through Measurements Optimization**|Tianyu Chen et.al.|[2412.03941v1](http://arxiv.org/abs/2412.03941v1)|null|
-|**2024-12-05**|**Floquet-Bloch Valleytronics**|Sotirios Fragkos et.al.|[2412.03935v1](http://arxiv.org/abs/2412.03935v1)|null|
-|**2024-12-05**|**A Noise is Worth Diffusion Guidance**|Donghoon Ahn et.al.|[2412.03895v1](http://arxiv.org/abs/2412.03895v1)|null|
-|**2024-12-05**|**On an inverse problem for the active scalar equations**|Li Li et.al.|[2412.03868v1](http://arxiv.org/abs/2412.03868v1)|null|
-|**2024-12-04**|**A Hybrid Deep-Learning Model for El Niño Southern Oscillation in the Low-Data Regime**|Jakob Schlör et.al.|[2412.03743v1](http://arxiv.org/abs/2412.03743v1)|null|
-|**2024-12-04**|**A Global Perspective with Updated Constraints on the Ultra-hot Jupiter WASP-19b: Atmospheric Properties and Stellar Activity**|Abigail A. Tumborang et.al.|[2412.03739v1](http://arxiv.org/abs/2412.03739v1)|null|
-|**2024-12-04**|**Long-lived population inversion in resonantly driven excitonic antiferromagnet**|Jacob A. Warshauer et.al.|[2412.03705v1](http://arxiv.org/abs/2412.03705v1)|null|
-|**2024-12-04**|**Weakness of X-rays and Variability in High-redshift AGNs with Super-Eddington Accretion**|Kohei Inayoshi et.al.|[2412.03653v1](http://arxiv.org/abs/2412.03653v1)|null|
-|**2024-12-04**|**Characterizing the Distinguishability of Product Distributions through Multicalibration**|Cassandra Marcussen et.al.|[2412.03562v1](http://arxiv.org/abs/2412.03562v1)|null|
-|**2024-12-04**|**A family of orthogonal functions on the unit circle and a new multilateral matrix inverse**|Michael J. Schlosser et.al.|[2412.03559v1](http://arxiv.org/abs/2412.03559v1)|null|
-|**2024-12-04**|**Absence of altermagnetic magnon band splitting in MnF$_2$**|Vincent C. Morano et.al.|[2412.03545v1](http://arxiv.org/abs/2412.03545v1)|null|
-|**2024-12-04**|**Microwave Remote Sensing of Soil Moisture, Above Ground Biomass and Freeze-Thaw Dynamic: Modeling and Empirical Approaches**|Laura Angeloni et.al.|[2412.03523v1](http://arxiv.org/abs/2412.03523v1)|null|
-|**2024-12-04**|**Near-optimal shattering in the Ising pure p-spin and rarity of solutions returned by stable algorithms**|Ahmed El Alaoui et.al.|[2412.03511v1](http://arxiv.org/abs/2412.03511v1)|null|
-|**2024-12-04**|**Self-test loss functions for learning weak-form operators and gradient flows**|Yuan Gao et.al.|[2412.03506v1](http://arxiv.org/abs/2412.03506v1)|null|
-|**2024-12-04**|**Higher-order Differentiable Rendering**|Zican et.al.|[2412.03489v1](http://arxiv.org/abs/2412.03489v1)|null|
-|**2024-12-04**|**Modeling of pattern formation of the ordered intermediate phases during co-deposition of binary thin film**|Serhii Abakumov et.al.|[2412.03457v1](http://arxiv.org/abs/2412.03457v1)|null|
-|**2024-12-04**|**On intermediate levels of nested occupancy scheme in random environment generated by stick-breaking: the case of heavy tails**|Oksana Braganets et.al.|[2412.03450v1](http://arxiv.org/abs/2412.03450v1)|null|
-|**2024-12-04**|**The cross section of inverse beta decay**|Giulia Ricciardi et.al.|[2412.03389v1](http://arxiv.org/abs/2412.03389v1)|null|
-|**2024-12-04**|**Gaussian Processes for Probabilistic Estimates of Earthquake Ground Shaking: A 1-D Proof-of-Concept**|Sam A. Scivier et.al.|[2412.03299v1](http://arxiv.org/abs/2412.03299v1)|[link](https://github.com/sscivier/gp-prob-earthquake-shaking)|
