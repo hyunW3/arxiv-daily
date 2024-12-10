@@ -25,7 +25,7 @@
 |**2024-12-06**|**Machine-Learning Electron Dynamics with Moment Propagation Theory: Application to Optical Absorption Spectrum Computation using Real-Time TDDFT**|Nicholas J. Boyer et.al.|[2412.05260v1](http://arxiv.org/abs/2412.05260v1)|null|
 |**2024-12-06**|**A Machine Learning-Based Approach For Detecting Malicious PyPI Packages**|Haya Samaana et.al.|[2412.05259v1](http://arxiv.org/abs/2412.05259v1)|null|
 |**2024-12-06**|**Using the helium triplet as a tracer of the physics of giant planet outflows**|Matthäus Schulik et.al.|[2412.05258v1](http://arxiv.org/abs/2412.05258v1)|null|
-|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256v1](http://arxiv.org/abs/2412.05256v1)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256v1](http://arxiv.org/abs/2412.05256v1)|[link](https://github.com/ai4ce/EUVS-Benchmark)|
 |**2024-12-06**|**TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft**|Qian Long et.al.|[2412.05255v1](http://arxiv.org/abs/2412.05255v1)|[link](https://github.com/teamcraft-bench/teamcraft)|
 |**2024-12-06**|**Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework**|Qiaolin Qin et.al.|[2412.05254v1](http://arxiv.org/abs/2412.05254v1)|null|
 |**2024-12-06**|**Non-linear Transport in Non-centrosymmetric Systems: From Fundamentals to Applications**|Manuel Suárez-Rodríguez et.al.|[2412.05253v1](http://arxiv.org/abs/2412.05253v1)|null|
