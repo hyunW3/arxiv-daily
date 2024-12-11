@@ -10,7 +10,7 @@
 |**2024-12-09**|**Crossover from Conventional to Unconventional Superconductivity in 2M-WS2**|Piumi Samarawickrama et.al.|[2412.06612v1](http://arxiv.org/abs/2412.06612v1)|null|
 |**2024-12-09**|**Seismic Traveltime Inversion with Quantum Annealing**|Hoang Anh Nguyen et.al.|[2412.06611v1](http://arxiv.org/abs/2412.06611v1)|null|
 |**2024-12-09**|**Inverting Visual Representations with Detection Transformers**|Jan Rathjens et.al.|[2412.06534v1](http://arxiv.org/abs/2412.06534v1)|[link](https://github.com/wiskott-lab/inverse-detection-transformer)|
-|**2024-12-09**|**Highest Posterior Density Intervals As Analogues to Profile Likelihood Ratio Confidence Intervals for Modes of Unimodal Distributions**|A. X. Venu et.al.|[2412.06528v1](http://arxiv.org/abs/2412.06528v1)|null|
+|**2024-12-09**|**Highest Posterior Density Intervals As Analogues to Profile Likelihood Ratio Confidence Intervals for Modes of Unimodal Distributions**|A. X. Venu et.al.|[2412.06528v1](http://arxiv.org/abs/2412.06528v1)|[link](https://github.com/axvenu/hpdaslrci)|
 |**2024-12-09**|**Simultaneous stable determination of quasilinear terms for parabolic equations**|Jason Choy et.al.|[2412.06349v1](http://arxiv.org/abs/2412.06349v1)|null|
 |**2024-12-09**|**Quasi-likelihood-based EM algorithm for regime-switching SDE**|Yuzhong Cheng et.al.|[2412.06305v1](http://arxiv.org/abs/2412.06305v1)|null|
 |**2024-12-09**|**You KAN Do It in a Single Shot: Plug-and-Play Methods with Single-Instance Priors**|Yanqi Cheng et.al.|[2412.06204v1](http://arxiv.org/abs/2412.06204v1)|null|
