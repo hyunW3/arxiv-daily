@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640v1](http://arxiv.org/abs/2412.08640v1)|null|
+|**2024-12-11**|**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**|Vladimir Kulikov et.al.|[2412.08629v1](http://arxiv.org/abs/2412.08629v1)|null|
+|**2024-12-11**|**Revisiting light-flavor diquarks in the inverse matrix method of QCD sum rules**|Halil Mutuk et.al.|[2412.08620v1](http://arxiv.org/abs/2412.08620v1)|null|
+|**2024-12-11**|**Fair Primal Dual Splitting Method for Image Inverse Problems**|Yunfei Qu et.al.|[2412.08613v1](http://arxiv.org/abs/2412.08613v1)|null|
+|**2024-12-11**|**Real-Time Trajectory Generation for Soft Robot Manipulators Using Differential Flatness**|Akua Dickson et.al.|[2412.08568v1](http://arxiv.org/abs/2412.08568v1)|null|
+|**2024-12-11**|**Physics Based Differentiable Rendering for Inverse Problems and Beyond**|Preetish Kakkar et.al.|[2412.08563v1](http://arxiv.org/abs/2412.08563v1)|null|
+|**2024-12-11**|**Ray-tracing laser-deposition model for plasma particle-in-cell simulation**|Abdullah Hyder et.al.|[2412.08543v1](http://arxiv.org/abs/2412.08543v1)|null|
+|**2024-12-11**|**On Inverse Problems for Mean Field Games with Common Noise via Carleman Estimate**|Qi Lü et.al.|[2412.08483v1](http://arxiv.org/abs/2412.08483v1)|null|
+|**2024-12-11**|**On profinite groups with the Magnus Property**|Claude Marion et.al.|[2412.08470v1](http://arxiv.org/abs/2412.08470v1)|null|
+|**2024-12-11**|**IRL for Restless Multi-Armed Bandits with Applications in Maternal and Child Health**|Gauri Jain et.al.|[2412.08463v1](http://arxiv.org/abs/2412.08463v1)|[link](https://github.com/gjain234/whirl)|
+|**2024-12-11**|**Heavy Tail Robust Estimation and Inference for Average Treatment Effects**|Jonathan B. Hill et.al.|[2412.08458v1](http://arxiv.org/abs/2412.08458v1)|null|
+|**2024-12-11**|**Adaptive Phase 2/3 Design with Dose Optimization**|Cong Chen et.al.|[2412.08439v1](http://arxiv.org/abs/2412.08439v1)|null|
+|**2024-12-11**|**On-demand Quick Metasurface Design with Neighborhood Attention Transformer**|Zhi Sun et.al.|[2412.08405v1](http://arxiv.org/abs/2412.08405v1)|null|
+|**2024-12-11**|**A phenomenological magnetomechanical model for hysteresis loops**|Alexej Perevertov et.al.|[2412.08323v1](http://arxiv.org/abs/2412.08323v1)|null|
+|**2024-12-11**|**Common-Mode Control and Confinement Inversion of Electrostatically Defined Quantum Dots in a Commercial CMOS Process**|Andrii Sokolov et.al.|[2412.08302v1](http://arxiv.org/abs/2412.08302v1)|null|
+|**2024-12-11**|**Decay of solutions to one-dimensional inhomogeneous nonlinear Schrödinger equations**|Zhi-Yuan Cui et.al.|[2412.08272v1](http://arxiv.org/abs/2412.08272v1)|null|
+|**2024-12-11**|**Efficient gradient-based methods for bilevel learning via recycling Krylov subspaces**|Matthias J. Ehrhardt et.al.|[2412.08264v1](http://arxiv.org/abs/2412.08264v1)|null|
+|**2024-12-11**|**Bireflections of the commutator subgroup of an orthogonal group over the reals**|Klaus Nielsen et.al.|[2412.08253v1](http://arxiv.org/abs/2412.08253v1)|null|
+|**2024-12-11**|**Point Source Identification in Subdiffusion from A Posteriori Internal Measurement**|Kuang Huang et.al.|[2412.08220v1](http://arxiv.org/abs/2412.08220v1)|null|
+|**2024-12-11**|**Neural Operator Feedback for a First-Order PIDE with Spatially-Varying State Delay**|Jie Qi et.al.|[2412.08219v1](http://arxiv.org/abs/2412.08219v1)|null|
+|**2024-12-11**|**Hadronic particle acceleration in the supernova remnant SN 1006 as traced by Fermi-LAT observations**|M. Lemoine-Goumard et.al.|[2412.08190v1](http://arxiv.org/abs/2412.08190v1)|null|
+|**2024-12-11**|**Robust and efficient estimation of time-varying treatment effects using marginal structural models dependent on partial treatment history**|Nodoka Seya et.al.|[2412.08042v1](http://arxiv.org/abs/2412.08042v1)|null|
+|**2024-12-11**|**On radiative corrections to lepton number violating processes**|Takehiko Asaka et.al.|[2412.08015v1](http://arxiv.org/abs/2412.08015v1)|null|
+|**2024-12-11**|**FLRONet: Deep Operator Learning for High-Fidelity Fluid Flow Field Reconstruction from Sparse Sensor Measurements**|Hiep Vo Dang et.al.|[2412.08009v1](http://arxiv.org/abs/2412.08009v1)|null|
+|**2024-12-10**|**Machine Learning-Informed Scattering Correlation Analysis of Sheared Colloids**|Lijie Ding et.al.|[2412.07926v1](http://arxiv.org/abs/2412.07926v1)|null|
+|**2024-12-10**|**Spectral Differential Network Analysis for High-Dimensional Time Series**|Michael Hellstern et.al.|[2412.07905v1](http://arxiv.org/abs/2412.07905v1)|null|
+|**2024-12-10**|**AI-driven Conservative-to-Primitive Conversion in Hybrid Piecewise Polytropic and Tabulated Equations of State**|Semih Kacmaz et.al.|[2412.07836v1](http://arxiv.org/abs/2412.07836v1)|null|
 |**2024-12-10**|**Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control**|Chenhao Lu et.al.|[2412.07773v1](http://arxiv.org/abs/2412.07773v1)|null|
 |**2024-12-10**|**Closed-Form Approximation of the Total Variation Proximal Operator**|Edward P. Chandler et.al.|[2412.07718v1](http://arxiv.org/abs/2412.07718v1)|null|
-|**2024-12-10**|**New calculation of the geo-neutrino energy spectrum and its implication**|Yu-Feng Li et.al.|[2412.07711v1](http://arxiv.org/abs/2412.07711v1)|null|
-|**2024-12-10**|**On volume density and star formation in nearby molecular clouds**|Jan H. Orkisz et.al.|[2412.07595v1](http://arxiv.org/abs/2412.07595v1)|null|
-|**2024-12-10**|**Complexity of inversion of functions on the reals**|George Barmpalias et.al.|[2412.07592v1](http://arxiv.org/abs/2412.07592v1)|null|
-|**2024-12-10**|**Defending Against Neural Network Model Inversion Attacks via Data Poisoning**|Shuai Zhou et.al.|[2412.07575v1](http://arxiv.org/abs/2412.07575v1)|null|
-|**2024-12-10**|**Adaptive Epsilon Adversarial Training for Robust Gravitational Wave Parameter Estimation Using Normalizing Flows**|Yiqian Yang et.al.|[2412.07559v1](http://arxiv.org/abs/2412.07559v1)|null|
-|**2024-12-10**|**FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing**|Yingying Deng et.al.|[2412.07517v1](http://arxiv.org/abs/2412.07517v1)|[link](https://github.com/holmesshuan/fireflow)|
-|**2024-12-10**|**A comparison of Kaplan--Meier-based inverse probability of censoring weighted regression methods**|Morten Overgaard et.al.|[2412.07495v1](http://arxiv.org/abs/2412.07495v1)|null|
-|**2024-12-10**|**Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning**|Kichang Lee et.al.|[2412.07454v1](http://arxiv.org/abs/2412.07454v1)|null|
-|**2024-12-10**|**Reconstructing Deep Neural Networks: Unleashing the Optimization Potential of Natural Gradient Descent**|Weihua Liu et.al.|[2412.07441v1](http://arxiv.org/abs/2412.07441v1)|[link](https://github.com/chaochao-lin/sngd)|
-|**2024-12-10**|**Bacterial liquid-bridge evaporation and deposition**|Kush Kumar Dewangan et.al.|[2412.07423v1](http://arxiv.org/abs/2412.07423v1)|null|
-|**2024-12-10**|**Borg-type theorem for a class of fourth-order differential operators**|Ai-Wei Guan et.al.|[2412.07413v1](http://arxiv.org/abs/2412.07413v1)|null|
-|**2024-12-10**|**Quantitative Comparison of the Total Focusing Method, Reverse Time Migration, and Full Waveform Inversion for Ultrasonic Imaging**|Tim Bürchner et.al.|[2412.07347v1](http://arxiv.org/abs/2412.07347v1)|null|
-|**2024-12-10**|**Controlled Locomotion of a Minimal Soft Structure by Stick-Slip Nonlinearity**|Thomas Barois et.al.|[2412.07343v1](http://arxiv.org/abs/2412.07343v1)|null|
-|**2024-12-10**|**Reconstructing the system coefficients for coupled harmonic oscillators**|Jan Bartsch et.al.|[2412.07301v1](http://arxiv.org/abs/2412.07301v1)|null|
-|**2024-12-10**|**Cubic Bézier-Spline Curves: Interpolation and Maximum Curvature**|Henk Pijls et.al.|[2412.07227v1](http://arxiv.org/abs/2412.07227v1)|null|
-|**2024-12-10**|**A New Federated Learning Framework Against Gradient Inversion Attacks**|Pengxin Guo et.al.|[2412.07187v1](http://arxiv.org/abs/2412.07187v1)|[link](https://github.com/pengxin-guo/hyperfl)|
-|**2024-12-10**|**FE-PINNs: finite-element-based physics-informed neural networks for surrogate modeling**|Pranav Sunil et.al.|[2412.07126v1](http://arxiv.org/abs/2412.07126v1)|null|
-|**2024-12-09**|**GenAI4UQ: A Software for Inverse Uncertainty Quantification Using Conditional Generative Models**|Ming Fan et.al.|[2412.07026v1](http://arxiv.org/abs/2412.07026v1)|[link](https://github.com/patrickfan/genai4uq)|
-|**2024-12-09**|**TAE: A Model-Constrained Tikhonov Autoencoder Approach for Forward and Inverse Problems**|Hai V. Nguyen et.al.|[2412.07010v1](http://arxiv.org/abs/2412.07010v1)|null|
-|**2024-12-09**|**Geological and Well prior assisted full waveform inversion using conditional diffusion models**|Fu Wang et.al.|[2412.06959v1](http://arxiv.org/abs/2412.06959v1)|null|
-|**2024-12-09**|**Hausdorff reflection preserves shape**|Diego Mondéjar et.al.|[2412.06942v1](http://arxiv.org/abs/2412.06942v1)|null|
-|**2024-12-09**|**A Scalable Bayesian Spatiotemporal Model for Water Level Predictions using a Nearest Neighbor Gaussian Process Approach**|Victor Hugo Nagahama et.al.|[2412.06934v1](http://arxiv.org/abs/2412.06934v1)|null|
-|**2024-12-09**|**Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis**|M. Hamza Mughal et.al.|[2412.06786v1](http://arxiv.org/abs/2412.06786v1)|null|
-|**2024-12-09**|**On the Motion of Compact Objects in Relativistic Viscous Fluids**|Beka Modrekiladze et.al.|[2412.06747v1](http://arxiv.org/abs/2412.06747v1)|null|
-|**2024-12-09**|**Harmonic Mean Density Fusion in Distributed Tracking: Performance and Comparison**|Nikhil Sharma et.al.|[2412.06725v1](http://arxiv.org/abs/2412.06725v1)|null|
-|**2024-12-09**|**Enhanced nonlinear Hall effect by Cooper pairs near superconductor criticality**|Zi-Hao Dong et.al.|[2412.06710v1](http://arxiv.org/abs/2412.06710v1)|null|
-|**2024-12-09**|**Matroids and amplitudes**|Thomas Lam et.al.|[2412.06705v1](http://arxiv.org/abs/2412.06705v1)|null|
-|**2024-12-09**|**Crossover from Conventional to Unconventional Superconductivity in 2M-WS2**|Piumi Samarawickrama et.al.|[2412.06612v1](http://arxiv.org/abs/2412.06612v1)|null|
+|**2024-12-10**|**New calculation of the geo-neutrino energy spectrum and its implication**|Yu-Feng Li et.al.|[2412.07711v2](http://arxiv.org/abs/2412.07711v2)|null|
