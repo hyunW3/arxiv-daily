@@ -12,7 +12,7 @@
 |**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640v1](http://arxiv.org/abs/2412.08640v1)|null|
 |**2024-12-11**|**An Improved Precision Calculation of the $0νββ$ Contact Term within Chiral Effective Field Theory**|Graham Van Goffrier et.al.|[2412.08638v1](http://arxiv.org/abs/2412.08638v1)|null|
 |**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639v1](http://arxiv.org/abs/2412.08639v1)|[link](https://github.com/tiktok/fast_prompt_alignment)|
-|**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637v1](http://arxiv.org/abs/2412.08637v1)|null|
+|**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637v1](http://arxiv.org/abs/2412.08637v1)|[link](https://github.com/huawei-lin/DMin)|
 |**2024-12-11**|**Deformation Openness of Big Fundamental Groups and Applications**|Ya Deng et.al.|[2412.08636v1](http://arxiv.org/abs/2412.08636v1)|null|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635v1](http://arxiv.org/abs/2412.08635v1)|null|
 |**2024-12-11**|**Non-local positivity bounds: islands in Terra Incognita**|Luca Buoninfante et.al.|[2412.08634v1](http://arxiv.org/abs/2412.08634v1)|null|

@@ -25,7 +25,7 @@
 |**2024-12-11**|**Hadronic particle acceleration in the supernova remnant SN 1006 as traced by Fermi-LAT observations**|M. Lemoine-Goumard et.al.|[2412.08190v1](http://arxiv.org/abs/2412.08190v1)|null|
 |**2024-12-11**|**Robust and efficient estimation of time-varying treatment effects using marginal structural models dependent on partial treatment history**|Nodoka Seya et.al.|[2412.08042v1](http://arxiv.org/abs/2412.08042v1)|null|
 |**2024-12-11**|**On radiative corrections to lepton number violating processes**|Takehiko Asaka et.al.|[2412.08015v1](http://arxiv.org/abs/2412.08015v1)|null|
-|**2024-12-11**|**FLRONet: Deep Operator Learning for High-Fidelity Fluid Flow Field Reconstruction from Sparse Sensor Measurements**|Hiep Vo Dang et.al.|[2412.08009v1](http://arxiv.org/abs/2412.08009v1)|null|
+|**2024-12-11**|**FLRONet: Deep Operator Learning for High-Fidelity Fluid Flow Field Reconstruction from Sparse Sensor Measurements**|Hiep Vo Dang et.al.|[2412.08009v2](http://arxiv.org/abs/2412.08009v2)|null|
 |**2024-12-10**|**Machine Learning-Informed Scattering Correlation Analysis of Sheared Colloids**|Lijie Ding et.al.|[2412.07926v1](http://arxiv.org/abs/2412.07926v1)|null|
 |**2024-12-10**|**Spectral Differential Network Analysis for High-Dimensional Time Series**|Michael Hellstern et.al.|[2412.07905v1](http://arxiv.org/abs/2412.07905v1)|null|
 |**2024-12-10**|**AI-driven Conservative-to-Primitive Conversion in Hybrid Piecewise Polytropic and Tabulated Equations of State**|Semih Kacmaz et.al.|[2412.07836v1](http://arxiv.org/abs/2412.07836v1)|null|
