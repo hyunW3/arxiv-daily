@@ -17,10 +17,10 @@
 |**2024-12-12**|**Blister Test to Measure the Out-of-Plane Shear Modulus of Few-Layer Graphene**|Metehan Calis et.al.|[2412.09615v1](http://arxiv.org/abs/2412.09615v1)|null|
 |**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614v1](http://arxiv.org/abs/2412.09614v1)|null|
 |**2024-12-12**|**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**|Yusuf Dalva et.al.|[2412.09611v1](http://arxiv.org/abs/2412.09611v1)|null|
-|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612v1](http://arxiv.org/abs/2412.09612v1)|null|
+|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612v1](http://arxiv.org/abs/2412.09612v1)|[link](https://github.com/yuanze-lin/olympus_page)|
 |**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613v1](http://arxiv.org/abs/2412.09613v1)|null|
 |**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610v1](http://arxiv.org/abs/2412.09610v1)|null|
-|**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608v1](http://arxiv.org/abs/2412.09608v1)|null|
+|**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608v1](http://arxiv.org/abs/2412.09608v1)|[link](https://github.com/dendenxu/fast-gaussian-rasterization)|
 |**2024-12-12**|**Axionic quantum criticality of generalized Weyl semimetals**|Gabriel Malave et.al.|[2412.09609v1](http://arxiv.org/abs/2412.09609v1)|null|
 |**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607v1](http://arxiv.org/abs/2412.09607v1)|null|
 |**2024-12-12**|**Feat2GS: Probing Visual Foundation Models with Gaussian Splatting**|Yue Chen et.al.|[2412.09606v1](http://arxiv.org/abs/2412.09606v1)|null|

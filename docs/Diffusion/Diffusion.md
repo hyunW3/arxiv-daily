@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-12**|**GainAdaptor: Learning Quadrupedal Locomotion with Dual Actors for Adaptable and Energy-Efficient Walking on Various Terrains**|Mincheol Kim et.al.|[2412.09520v1](http://arxiv.org/abs/2412.09520v1)|null|
 |**2024-12-12**|**Fast and Automatic Full Waveform Inversion by Dual Augmented Lagrangian**|Kamal Aghazade et.al.|[2412.09458v1](http://arxiv.org/abs/2412.09458v1)|null|
-|**2024-12-12**|**Finite-PINN: A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries**|Haolin Li et.al.|[2412.09453v1](http://arxiv.org/abs/2412.09453v1)|null|
+|**2024-12-12**|**Finite-PINN: A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries**|Haolin Li et.al.|[2412.09453v1](http://arxiv.org/abs/2412.09453v1)|[link](https://github.com/hl4220/Finite_PINN)|
 |**2024-12-12**|**Space-time inverse-scattering of translation-based motion**|Jeongsoo Kim et.al.|[2412.09403v1](http://arxiv.org/abs/2412.09403v1)|null|
 |**2024-12-12**|**Diffusion Model with Representation Alignment for Protein Inverse Folding**|Chenglin Wang et.al.|[2412.09380v1](http://arxiv.org/abs/2412.09380v1)|null|
 |**2024-12-12**|**Revisiting Universal Extra-Dimension Model with Gravity Mediated Decays**|Kirtiman Ghosh et.al.|[2412.09344v1](http://arxiv.org/abs/2412.09344v1)|null|

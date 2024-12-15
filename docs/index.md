@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-14 20:59:57 Asia/Shanghai
+ Automated deployment @ 2024-12-15 09:20:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-12**|**GainAdaptor: Learning Quadrupedal Locomotion with Dual Actors for Adaptable and Energy-Efficient Walking on Various Terrains**|Mincheol Kim et.al.|[2412.09520v1](http://arxiv.org/abs/2412.09520v1)|null|
 |**2024-12-12**|**Fast and Automatic Full Waveform Inversion by Dual Augmented Lagrangian**|Kamal Aghazade et.al.|[2412.09458v1](http://arxiv.org/abs/2412.09458v1)|null|
-|**2024-12-12**|**Finite-PINN: A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries**|Haolin Li et.al.|[2412.09453v1](http://arxiv.org/abs/2412.09453v1)|null|
+|**2024-12-12**|**Finite-PINN: A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries**|Haolin Li et.al.|[2412.09453v1](http://arxiv.org/abs/2412.09453v1)|[link](https://github.com/hl4220/Finite_PINN)|
 |**2024-12-12**|**Space-time inverse-scattering of translation-based motion**|Jeongsoo Kim et.al.|[2412.09403v1](http://arxiv.org/abs/2412.09403v1)|null|
 |**2024-12-12**|**Diffusion Model with Representation Alignment for Protein Inverse Folding**|Chenglin Wang et.al.|[2412.09380v1](http://arxiv.org/abs/2412.09380v1)|null|
 |**2024-12-12**|**Revisiting Universal Extra-Dimension Model with Gravity Mediated Decays**|Kirtiman Ghosh et.al.|[2412.09344v1](http://arxiv.org/abs/2412.09344v1)|null|
@@ -57,10 +57,10 @@
 |**2024-12-12**|**Blister Test to Measure the Out-of-Plane Shear Modulus of Few-Layer Graphene**|Metehan Calis et.al.|[2412.09615v1](http://arxiv.org/abs/2412.09615v1)|null|
 |**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614v1](http://arxiv.org/abs/2412.09614v1)|null|
 |**2024-12-12**|**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**|Yusuf Dalva et.al.|[2412.09611v1](http://arxiv.org/abs/2412.09611v1)|null|
-|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612v1](http://arxiv.org/abs/2412.09612v1)|null|
+|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612v1](http://arxiv.org/abs/2412.09612v1)|[link](https://github.com/yuanze-lin/olympus_page)|
 |**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613v1](http://arxiv.org/abs/2412.09613v1)|null|
 |**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610v1](http://arxiv.org/abs/2412.09610v1)|null|
-|**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608v1](http://arxiv.org/abs/2412.09608v1)|null|
+|**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608v1](http://arxiv.org/abs/2412.09608v1)|[link](https://github.com/dendenxu/fast-gaussian-rasterization)|
 |**2024-12-12**|**Axionic quantum criticality of generalized Weyl semimetals**|Gabriel Malave et.al.|[2412.09609v1](http://arxiv.org/abs/2412.09609v1)|null|
 |**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607v1](http://arxiv.org/abs/2412.09607v1)|null|
 |**2024-12-12**|**Feat2GS: Probing Visual Foundation Models with Gaussian Splatting**|Yue Chen et.al.|[2412.09606v1](http://arxiv.org/abs/2412.09606v1)|null|
