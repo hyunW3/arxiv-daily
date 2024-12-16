@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-12**|**Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors**|Yue Feng et.al.|[2412.09625v1](http://arxiv.org/abs/2412.09625v1)|null|
-|**2024-12-12**|**FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**|Haonan Qiu et.al.|[2412.09626v1](http://arxiv.org/abs/2412.09626v1)|null|
-|**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627v1](http://arxiv.org/abs/2412.09627v1)|[link](https://github.com/wzzheng/doe)|
-|**2024-12-12**|**GenEx: Generating an Explorable World**|Taiming Lu et.al.|[2412.09624v1](http://arxiv.org/abs/2412.09624v1)|null|
-|**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623v1](http://arxiv.org/abs/2412.09623v1)|null|
-|**2024-12-12**|**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**|Enis Simsar et.al.|[2412.09622v1](http://arxiv.org/abs/2412.09622v1)|null|
-|**2024-12-12**|**Learning Camera Movement Control from Real-World Drone Videos**|Yunzhong Hou et.al.|[2412.09620v1](http://arxiv.org/abs/2412.09620v1)|null|
-|**2024-12-12**|**Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos**|Linyi Jin et.al.|[2412.09621v1](http://arxiv.org/abs/2412.09621v1)|null|
-|**2024-12-12**|**SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training**|Dongting Hu et.al.|[2412.09619v1](http://arxiv.org/abs/2412.09619v1)|null|
-|**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618v1](http://arxiv.org/abs/2412.09618v1)|null|
-|**2024-12-12**|**V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding**|Junqi Ge et.al.|[2412.09616v2](http://arxiv.org/abs/2412.09616v2)|[link](https://github.com/opengvlab/v2pe)|
-|**2024-12-12**|**NormalFlow: Fast, Robust, and Accurate Contact-based Object 6DoF Pose Tracking with Vision-based Tactile Sensors**|Hung-Jui Huang et.al.|[2412.09617v1](http://arxiv.org/abs/2412.09617v1)|[link](https://github.com/rpl-cmu/normalflow)|
-|**2024-12-12**|**Blister Test to Measure the Out-of-Plane Shear Modulus of Few-Layer Graphene**|Metehan Calis et.al.|[2412.09615v1](http://arxiv.org/abs/2412.09615v1)|null|
-|**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614v1](http://arxiv.org/abs/2412.09614v1)|null|
-|**2024-12-12**|**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**|Yusuf Dalva et.al.|[2412.09611v1](http://arxiv.org/abs/2412.09611v1)|null|
-|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612v1](http://arxiv.org/abs/2412.09612v1)|[link](https://github.com/yuanze-lin/olympus_page)|
-|**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613v1](http://arxiv.org/abs/2412.09613v1)|null|
-|**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610v1](http://arxiv.org/abs/2412.09610v1)|null|
-|**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608v1](http://arxiv.org/abs/2412.09608v1)|[link](https://github.com/dendenxu/fast-gaussian-rasterization)|
-|**2024-12-12**|**Axionic quantum criticality of generalized Weyl semimetals**|Gabriel Malave et.al.|[2412.09609v1](http://arxiv.org/abs/2412.09609v1)|null|
-|**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607v1](http://arxiv.org/abs/2412.09607v1)|null|
-|**2024-12-12**|**Feat2GS: Probing Visual Foundation Models with Gaussian Splatting**|Yue Chen et.al.|[2412.09606v1](http://arxiv.org/abs/2412.09606v1)|null|
-|**2024-12-12**|**AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials**|Yiheng Xu et.al.|[2412.09605v1](http://arxiv.org/abs/2412.09605v1)|null|
-|**2024-12-12**|**SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding**|Hao Li et.al.|[2412.09604v1](http://arxiv.org/abs/2412.09604v1)|null|
-|**2024-12-12**|**Do Multimodal Large Language Models See Like Humans?**|Jiaying Lin et.al.|[2412.09603v1](http://arxiv.org/abs/2412.09603v1)|null|
-|**2024-12-12**|**Hidden Biases of End-to-End Driving Datasets**|Julian Zimmerlin et.al.|[2412.09602v1](http://arxiv.org/abs/2412.09602v1)|[link](https://github.com/autonomousvision/carla_garage)|
-|**2024-12-12**|**TimeRefine: Temporal Grounding with Time Refining Video LLM**|Xizi Wang et.al.|[2412.09601v1](http://arxiv.org/abs/2412.09601v1)|null|
-|**2024-12-12**|**Owl-1: Omni World Model for Consistent Long Video Generation**|Yuanhui Huang et.al.|[2412.09600v1](http://arxiv.org/abs/2412.09600v1)|[link](https://github.com/huang-yh/owl)|
-|**2024-12-12**|**RatBodyFormer: Rodent Body Surface from Keypoints**|Ayaka Higami et.al.|[2412.09599v1](http://arxiv.org/abs/2412.09599v1)|null|
-|**2024-12-12**|**Bottlenecks in quantum channels and finite temperature phases of matter**|Tibor Rakovszky et.al.|[2412.09598v1](http://arxiv.org/abs/2412.09598v1)|null|
+|**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373v1](http://arxiv.org/abs/2412.10373v1)|[link](https://github.com/zuosc19/gaussianworld)|
+|**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372v1](http://arxiv.org/abs/2412.10372v1)|[link](https://github.com/mbzuai-oryx/unimed-clip)|
+|**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371v1](http://arxiv.org/abs/2412.10371v1)|[link](https://github.com/wzzheng/gaussianad)|
+|**2024-12-13**|**Computational Explorations of Total Variation Distance**|Arnab Bhattacharyya et.al.|[2412.10370v1](http://arxiv.org/abs/2412.10370v1)|null|
+|**2024-12-13**|**A Grounded Typology of Word Classes**|Coleman Haley et.al.|[2412.10369v1](http://arxiv.org/abs/2412.10369v1)|null|
+|**2024-12-13**|**Is inflationary magnetogenesis sensitive to the post-inflationary history ?**|Konstantinos Dimopoulos et.al.|[2412.10367v1](http://arxiv.org/abs/2412.10367v1)|null|
+|**2024-12-13**|**Real-Time Simulation of Asymmetry Generation in Fermion-Bubble Collisions**|Marcela Carena et.al.|[2412.10365v1](http://arxiv.org/abs/2412.10365v1)|null|
+|**2024-12-13**|**Navigating string theory field space with geometric flows**|Saskia Demulder et.al.|[2412.10364v1](http://arxiv.org/abs/2412.10364v1)|null|
+|**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362v1](http://arxiv.org/abs/2412.10362v1)|null|
+|**2024-12-13**|**Protoplanetary discs around sun-like stars appear to live longer when the metallicity is low**|Guido De Marchi et.al.|[2412.10361v1](http://arxiv.org/abs/2412.10361v1)|null|
+|**2024-12-13**|**Apollo: An Exploration of Video Understanding in Large Multimodal Models**|Orr Zohar et.al.|[2412.10360v1](http://arxiv.org/abs/2412.10360v1)|null|
+|**2024-12-13**|**Modeling $(\infty,1)$-categories with Segal spaces**|Lyne Moser et.al.|[2412.10359v1](http://arxiv.org/abs/2412.10359v1)|null|
+|**2024-12-13**|**Critical Point Criteria and Dynamically Monogenic Polynomials**|Joachim König et.al.|[2412.10358v1](http://arxiv.org/abs/2412.10358v1)|null|
+|**2024-12-13**|**The Correlated Gaussian Sparse Histogram Mechanism**|Christian Janos Lebeda et.al.|[2412.10357v1](http://arxiv.org/abs/2412.10357v1)|null|
+|**2024-12-13**|**High-throughput Search for Metallic Altermagnets by Embedded Dynamical Mean Field Theory**|Xuhao Wan et.al.|[2412.10356v1](http://arxiv.org/abs/2412.10356v1)|null|
+|**2024-12-13**|**Old Dogs, New Tricks: Re-examining Photographic Spectra of Plaskett's Star**|T. J. Davidge et.al.|[2412.10355v1](http://arxiv.org/abs/2412.10355v1)|null|
+|**2024-12-13**|**A Library for Learning Neural Operators**|Jean Kossaifi et.al.|[2412.10354v1](http://arxiv.org/abs/2412.10354v1)|null|
+|**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353v1](http://arxiv.org/abs/2412.10353v1)|null|
+|**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352v1](http://arxiv.org/abs/2412.10352v1)|null|
+|**2024-12-13**|**VibrantVS: A high-resolution multi-task transformer for forest canopy height estimation**|Tony Chang et.al.|[2412.10351v1](http://arxiv.org/abs/2412.10351v1)|null|
+|**2024-12-13**|**Adaptive Dual-Headway Unicycle Pose Control and Motion Prediction for Optimal Sampling-Based Feedback Motion Planning**|Aykut İşleyen et.al.|[2412.10350v1](http://arxiv.org/abs/2412.10350v1)|null|
+|**2024-12-13**|**Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration**|Lai Wei et.al.|[2412.10349v1](http://arxiv.org/abs/2412.10349v1)|null|
+|**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348v1](http://arxiv.org/abs/2412.10348v1)|null|
+|**2024-12-13**|**COMET: Benchmark for Comprehensive Biological Multi-omics Evaluation Tasks and Language Models**|Yuchen Ren et.al.|[2412.10347v1](http://arxiv.org/abs/2412.10347v1)|null|
+|**2024-12-13**|**TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies**|Ruijie Zheng et.al.|[2412.10345v1](http://arxiv.org/abs/2412.10345v1)|null|
+|**2024-12-13**|**Quantum vorticity: a not so effective field theory**|Gabriel Cuomo et.al.|[2412.10344v1](http://arxiv.org/abs/2412.10344v1)|null|
+|**2024-12-13**|**Accretion Disc-Jet Decomposition from the Optical-Near Infrared Monitoring of Fermi Blazars**|Garima Rajguru et.al.|[2412.10343v1](http://arxiv.org/abs/2412.10343v1)|null|
+|**2024-12-13**|**Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining**|Zhiqi Ge et.al.|[2412.10342v1](http://arxiv.org/abs/2412.10342v1)|null|
+|**2024-12-13**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341v1](http://arxiv.org/abs/2412.10341v1)|null|
+|**2024-12-13**|**Effective bounds for adelic Galois representations attached to elliptic curves over the rationals**|Lorenzo Furio et.al.|[2412.10340v1](http://arxiv.org/abs/2412.10340v1)|null|

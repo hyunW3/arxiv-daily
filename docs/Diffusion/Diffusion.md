@@ -2,6 +2,23 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352v1](http://arxiv.org/abs/2412.10352v1)|null|
+|**2024-12-13**|**Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration**|Lai Wei et.al.|[2412.10349v1](http://arxiv.org/abs/2412.10349v1)|null|
+|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316v1](http://arxiv.org/abs/2412.10316v1)|null|
+|**2024-12-13**|**Perfect revivals of Rabi oscillations and hybrid Bell states in a trapped ion**|Juan Mauricio Torres et.al.|[2412.10274v1](http://arxiv.org/abs/2412.10274v1)|null|
+|**2024-12-13**|**Probabilistic Inverse Cameras: Image to 3D via Multiview Geometry**|Rishabh Kabra et.al.|[2412.10273v1](http://arxiv.org/abs/2412.10273v1)|null|
+|**2024-12-13**|**Stochastic Multiresolution Image Sketching for Inverse Imaging Problems**|Alessandro Perelli et.al.|[2412.10249v1](http://arxiv.org/abs/2412.10249v1)|null|
+|**2024-12-13**|**Deep Gaussian Process Priors for Bayesian Image Reconstruction**|Jonas Latz et.al.|[2412.10248v1](http://arxiv.org/abs/2412.10248v1)|null|
+|**2024-12-13**|**Analysis of stress in the cohesive zone, dissipation and fracture energy during shear rupture experiments**|Nicolas Brantut et.al.|[2412.10156v1](http://arxiv.org/abs/2412.10156v1)|null|
+|**2024-12-13**|**Appearance of $c$-axis magnetic moment in odd-parity antiferromagnetic state in CeRh$_2$As$_2$ revealed by $^{75}$As-NMR**|Shiki Ogata et.al.|[2412.10148v1](http://arxiv.org/abs/2412.10148v1)|null|
+|**2024-12-13**|**TIGRE v3: Efficient and easy to use iterative computed tomographic reconstruction toolbox for real datasets**|Ander Biguri et.al.|[2412.10129v1](http://arxiv.org/abs/2412.10129v1)|null|
+|**2024-12-13**|**Multiscale Dynamical Indices Reveal Scale-Dependent Atmospheric Dynamics**|Chenyu Dong et.al.|[2412.10069v1](http://arxiv.org/abs/2412.10069v1)|null|
+|**2024-12-13**|**SuperMark: Robust and Training-free Image Watermarking via Diffusion-based Super-Resolution**|Runyi Hu et.al.|[2412.10049v1](http://arxiv.org/abs/2412.10049v1)|null|
+|**2024-12-13**|**PCB Transducer Coil Design for a Low-Noise Magnetic Measurement System in Space Missions**|Jose A. Vílchez Membrilla et.al.|[2412.10043v1](http://arxiv.org/abs/2412.10043v1)|null|
+|**2024-12-13**|**Distributed Inverse Dynamics Control for Quadruped Robots using Geometric Optimization**|Nimesh Khandelwal et.al.|[2412.09816v1](http://arxiv.org/abs/2412.09816v1)|null|
+|**2024-12-13**|**Acquisition of Spatially-Varying Reflectance and Surface Normals via Polarized Reflectance Fields**|Jing Yang et.al.|[2412.09772v1](http://arxiv.org/abs/2412.09772v1)|null|
+|**2024-12-12**|**Private Synthetic Data Generation in Small Memory**|Rayne Holland et.al.|[2412.09756v1](http://arxiv.org/abs/2412.09756v1)|null|
+|**2024-12-12**|**PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields**|Sean Wu et.al.|[2412.09680v1](http://arxiv.org/abs/2412.09680v1)|[link](https://github.com/s3anwu/pbrnerf)|
 |**2024-12-12**|**GainAdaptor: Learning Quadrupedal Locomotion with Dual Actors for Adaptable and Energy-Efficient Walking on Various Terrains**|Mincheol Kim et.al.|[2412.09520v1](http://arxiv.org/abs/2412.09520v1)|null|
 |**2024-12-12**|**Fast and Automatic Full Waveform Inversion by Dual Augmented Lagrangian**|Kamal Aghazade et.al.|[2412.09458v1](http://arxiv.org/abs/2412.09458v1)|null|
 |**2024-12-12**|**Finite-PINN: A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries**|Haolin Li et.al.|[2412.09453v1](http://arxiv.org/abs/2412.09453v1)|[link](https://github.com/hl4220/Finite_PINN)|
@@ -15,20 +32,3 @@
 |**2024-12-12**|**Principal Bautin ideal of monodromic singularities with inverse integrating factors**|Isaac A. García et.al.|[2412.09205v1](http://arxiv.org/abs/2412.09205v1)|null|
 |**2024-12-12**|**Evidence for Local Symmetry Breaking in the Skyrmion-Hosting Ni2In-type Hexagonal Compounds**|Anupam K. Singh et.al.|[2412.09158v1](http://arxiv.org/abs/2412.09158v1)|null|
 |**2024-12-12**|**On sums of dependent random lifetimes under the Time Transformed Exponential model**|Jorge Navarro et.al.|[2412.09151v1](http://arxiv.org/abs/2412.09151v1)|null|
-|**2024-12-12**|**Lifshitz tail states in non-Hermitian disordered photonic lattices**|Stefano Longhi et.al.|[2412.09106v1](http://arxiv.org/abs/2412.09106v1)|null|
-|**2024-12-12**|**Neural Networks for Threshold Dynamics Reconstruction**|Elisa Negrini et.al.|[2412.09079v1](http://arxiv.org/abs/2412.09079v1)|null|
-|**2024-12-12**|**Arbitrary-steps Image Super-resolution via Diffusion Inversion**|Zongsheng Yue et.al.|[2412.09013v1](http://arxiv.org/abs/2412.09013v1)|[link](https://github.com/zsyoaoa/invsr)|
-|**2024-12-12**|**Phase transition and critical behavior in hierarchical integer-valued Gaussian and Coulomb gas models**|Marek Biskup et.al.|[2412.08964v1](http://arxiv.org/abs/2412.08964v1)|null|
-|**2024-12-12**|**Belted and Ensembled Neural Network for Linear and Nonlinear Sufficient Dimension Reduction**|Yin Tang et.al.|[2412.08961v1](http://arxiv.org/abs/2412.08961v1)|null|
-|**2024-12-12**|**Graded isomorphisms of Leavitt path algebras and Leavitt inverse semigroups**|Huanhuan Li et.al.|[2412.08919v1](http://arxiv.org/abs/2412.08919v1)|null|
-|**2024-12-12**|**Self-accelerating Topological Photonics**|Yiqi Zhang et.al.|[2412.08848v1](http://arxiv.org/abs/2412.08848v1)|null|
-|**2024-12-11**|**Integrated modeling of RF-Induced Tungsten Erosion at ICRH Antenna Structures in the WEST Tokamak**|A. Kumar et.al.|[2412.08748v1](http://arxiv.org/abs/2412.08748v1)|null|
-|**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640v1](http://arxiv.org/abs/2412.08640v1)|null|
-|**2024-12-11**|**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**|Vladimir Kulikov et.al.|[2412.08629v1](http://arxiv.org/abs/2412.08629v1)|null|
-|**2024-12-11**|**Revisiting light-flavor diquarks in the inverse matrix method of QCD sum rules**|Halil Mutuk et.al.|[2412.08620v2](http://arxiv.org/abs/2412.08620v2)|null|
-|**2024-12-11**|**Fair Primal Dual Splitting Method for Image Inverse Problems**|Yunfei Qu et.al.|[2412.08613v1](http://arxiv.org/abs/2412.08613v1)|null|
-|**2024-12-11**|**Real-Time Trajectory Generation for Soft Robot Manipulators Using Differential Flatness**|Akua Dickson et.al.|[2412.08568v1](http://arxiv.org/abs/2412.08568v1)|null|
-|**2024-12-11**|**Physics Based Differentiable Rendering for Inverse Problems and Beyond**|Preetish Kakkar et.al.|[2412.08563v1](http://arxiv.org/abs/2412.08563v1)|null|
-|**2024-12-11**|**Ray-tracing laser-deposition model for plasma particle-in-cell simulation**|Abdullah Hyder et.al.|[2412.08543v1](http://arxiv.org/abs/2412.08543v1)|null|
-|**2024-12-11**|**On Inverse Problems for Mean Field Games with Common Noise via Carleman Estimate**|Qi Lü et.al.|[2412.08483v1](http://arxiv.org/abs/2412.08483v1)|null|
-|**2024-12-11**|**On profinite groups with the Magnus Property**|Claude Marion et.al.|[2412.08470v1](http://arxiv.org/abs/2412.08470v1)|null|
