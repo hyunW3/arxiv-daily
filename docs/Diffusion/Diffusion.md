@@ -2,6 +2,23 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-18**|**jinns: a JAX Library for Physics-Informed Neural Networks**|Hugo Gangloff et.al.|[2412.14132v1](http://arxiv.org/abs/2412.14132v1)|null|
+|**2024-12-18**|**Inverse Design of Nonlinear Mechanics of Bio-inspired Materials Through Interface Engineering and Bayesian Optimization**|Wei Zhang et.al.|[2412.14071v1](http://arxiv.org/abs/2412.14071v1)|null|
+|**2024-12-18**|**Classification of Narain CFTs and Ensemble Average**|El Hassan Saidi et.al.|[2412.13932v1](http://arxiv.org/abs/2412.13932v1)|null|
+|**2024-12-18**|**LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via Hierarchical Window Transformer**|Yipeng Zhang et.al.|[2412.13871v1](http://arxiv.org/abs/2412.13871v1)|null|
+|**2024-12-18**|**Multiple reflections on Huygens' principle**|Kees Wapenaar et.al.|[2412.13833v1](http://arxiv.org/abs/2412.13833v1)|null|
+|**2024-12-18**|**Chiral Phonons Enhance Ferromagnetism**|Jonas Fransson et.al.|[2412.13787v1](http://arxiv.org/abs/2412.13787v1)|null|
+|**2024-12-18**|**AnchorInv: Few-Shot Class-Incremental Learning of Physiological Signals via Representation Space Guided Inversion**|Chenqi Li et.al.|[2412.13714v1](http://arxiv.org/abs/2412.13714v1)|null|
+|**2024-12-18**|**Taming flavour violation in the Inverse Seesaw**|Jonathan Kriewald et.al.|[2412.13696v1](http://arxiv.org/abs/2412.13696v1)|null|
+|**2024-12-18**|**Dynamics of Parallel Manipulators with Hybrid Complex Limbs -- Modular Modeling and Parallel Computing**|Andreas Mueller et.al.|[2412.13681v1](http://arxiv.org/abs/2412.13681v1)|null|
+|**2024-12-18**|**Inertia and other properties of the matrix $\left[β(i,j)\right]$**|Priyanka Grover et.al.|[2412.13650v1](http://arxiv.org/abs/2412.13650v1)|null|
+|**2024-12-18**|**A Constraint Embedding Approach for Dynamics Modeling of Parallel Kinematic Manipulators with Hybrid Limbs**|Andreas Mueller et.al.|[2412.13638v1](http://arxiv.org/abs/2412.13638v1)|null|
+|**2024-12-18**|**Low Time Complexity Near-Field Channel and Position Estimations**|Xiyuan Liu et.al.|[2412.13447v1](http://arxiv.org/abs/2412.13447v1)|null|
+|**2024-12-18**|**Unidirectional Raman emissions of Stokes photons via chiral atom-photon coupling in a ring cavity**|Haole Jiao et.al.|[2412.13433v1](http://arxiv.org/abs/2412.13433v1)|null|
+|**2024-12-18**|**QP Based Constrained Optimization for Reliable PINN Training**|Alan Williams et.al.|[2412.13403v1](http://arxiv.org/abs/2412.13403v1)|null|
+|**2024-12-17**|**Inverse design of anisotropic microstructures using physics-augmented neural networks**|Asghar A. Jadoon et.al.|[2412.13370v1](http://arxiv.org/abs/2412.13370v1)|null|
+|**2024-12-17**|**Weak Partial Representations**|Felipe Castro et.al.|[2412.13344v1](http://arxiv.org/abs/2412.13344v1)|null|
+|**2024-12-17**|**Born and Inverse Born Series for a Special Case of the Second Harmonic Generation Problem**|Ross McNeill et.al.|[2412.13284v1](http://arxiv.org/abs/2412.13284v1)|null|
 |**2024-12-17**|**Entanglement principle for the fractional Laplacian with applications to inverse problems**|Ali Feizmohammadi et.al.|[2412.13118v1](http://arxiv.org/abs/2412.13118v1)|null|
 |**2024-12-17**|**Determination of confinement regime boundaries via separatrix parameters on Alcator C-Mod based on a model for interchange-drift-Alfvén turbulence**|M. A. Miller et.al.|[2412.13100v1](http://arxiv.org/abs/2412.13100v1)|null|
 |**2024-12-17**|**Unravelling the orbits of cluster galaxy populations according to their dominant gas ionization source**|Greique A. Valk et.al.|[2412.13089v1](http://arxiv.org/abs/2412.13089v1)|null|
@@ -15,20 +32,3 @@
 |**2024-12-17**|**Improving the Transferability of 3D Point Cloud Attack via Spectral-aware Admix and Optimization Designs**|Shiyu Hu et.al.|[2412.12626v1](http://arxiv.org/abs/2412.12626v1)|null|
 |**2024-12-17**|**A comparative study of efficient multigrid solvers for high-order local discontinuous Galerkin methods: Poisson, elliptic interface, and multiphase Stokes problems**|Robert I. Saye et.al.|[2412.12506v1](http://arxiv.org/abs/2412.12506v1)|null|
 |**2024-12-17**|**Interfacial Perpendicular Magnetic Anisotropy of Ultrathin Fe(001) Film Grown on CoO(001) Surface**|Tong Wu et.al.|[2412.12476v1](http://arxiv.org/abs/2412.12476v1)|null|
-|**2024-12-17**|**On uniqueness of inverse conductive scattering problem with unknown embedded obstacles**|Chengyu Wu et.al.|[2412.12452v1](http://arxiv.org/abs/2412.12452v1)|null|
-|**2024-12-16**|**A flexible framework for large-scale FDTD simulations: open-source inverse design for 3D nanostructures**|Yannik Mahlau et.al.|[2412.12360v1](http://arxiv.org/abs/2412.12360v1)|null|
-|**2024-12-16**|**Target Aggregate Data Adjustment Method for Transportability Analysis Utilizing Summary-Level Data from the Target Population**|Yichen Yan et.al.|[2412.12335v1](http://arxiv.org/abs/2412.12335v1)|null|
-|**2024-12-16**|**The Critical Beta-splitting Random Tree IV: Mellin analysis of Leaf Height**|David Aldous et.al.|[2412.12319v1](http://arxiv.org/abs/2412.12319v1)|null|
-|**2024-12-16**|**The fate of $p$-wave spin polarization in helimagnets with Rashba spin-orbit coupling**|Erik Wegner Hodt et.al.|[2412.12246v1](http://arxiv.org/abs/2412.12246v1)|null|
-|**2024-12-16**|**$F$-birestriction monoids in enriched signature**|Ganna Kudryavtseva et.al.|[2412.12082v1](http://arxiv.org/abs/2412.12082v1)|null|
-|**2024-12-16**|**Quasinormal coupled-mode analysis of dynamic gain in exceptional-point lasers**|Hao He et.al.|[2412.12066v1](http://arxiv.org/abs/2412.12066v1)|null|
-|**2024-12-16**|**Bilevel Learning with Inexact Stochastic Gradients**|Mohammad Sadegh Salehi et.al.|[2412.12049v1](http://arxiv.org/abs/2412.12049v1)|null|
-|**2024-12-16**|**Entanglement Hamiltonian and orthogonal polynomials**|Pierre-Antoine Bernard et.al.|[2412.12021v1](http://arxiv.org/abs/2412.12021v1)|null|
-|**2024-12-16**|**AlphaZero Neural Scaling and Zipf's Law: a Tale of Board Games and Power Laws**|Oren Neumann et.al.|[2412.11979v1](http://arxiv.org/abs/2412.11979v1)|[link](https://github.com/orenneumann/alphazero_zipfs_law)|
-|**2024-12-16**|**Bayesian Surrogate Training on Multiple Data Sources: A Hybrid Modeling Strategy**|Philipp Reiser et.al.|[2412.11875v1](http://arxiv.org/abs/2412.11875v1)|[link](https://github.com/philippreiser/multi-data-source-bayesian-surrogate-paper)|
-|**2024-12-16**|**Are You Doubtful? Oh, It Might Be Difficult Then! Exploring the Use of Model Uncertainty for Question Difficulty Estimation**|Leonidas Zotos et.al.|[2412.11831v1](http://arxiv.org/abs/2412.11831v1)|null|
-|**2024-12-16**|**On orthogonality sampling method for Maxwell's equations and its applications to experimental data**|Thu Le et.al.|[2412.11825v2](http://arxiv.org/abs/2412.11825v2)|null|
-|**2024-12-16**|**Demonstrating Data-to-Knowledge Pipelines for Connecting Production Sites in the World Wide Lab**|Leon Gorißen et.al.|[2412.12231v1](http://arxiv.org/abs/2412.12231v1)|null|
-|**2024-12-16**|**Realizing Fulde-Ferrell-Larkin-Ovchinnikov pairing assisted topological Majorana zero modes and superconducting diode effect in helical Shiba chain**|Sayak Bhowmik et.al.|[2412.11784v1](http://arxiv.org/abs/2412.11784v1)|null|
-|**2024-12-16**|**Near-half-metallic state in the half Heusler PtMnSb film on a III-V substrate**|Shinichi Nishihaya et.al.|[2412.11770v1](http://arxiv.org/abs/2412.11770v1)|null|
-|**2024-12-16**|**Finite type as fundamental objects even non-single-valued and non-continuous**|Zhengyu Yin et.al.|[2412.11675v1](http://arxiv.org/abs/2412.11675v1)|null|
