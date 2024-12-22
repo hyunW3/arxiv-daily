@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200v1](http://arxiv.org/abs/2412.15200v1)|null|
-|**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109v1](http://arxiv.org/abs/2412.15109v1)|null|
+|**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109v1](http://arxiv.org/abs/2412.15109v1)|[link](https://github.com/openrobotlab/seer)|
 |**2024-12-19**|**Constraining the potential of the Milky Way using stellar streams and the Inverse Time Integration method**|C. G. Palau et.al.|[2412.15091v1](http://arxiv.org/abs/2412.15091v1)|null|
 |**2024-12-19**|**Inflation in non-local hybrid metric-Palatini gravity**|Flavio Bombacigno et.al.|[2412.15064v1](http://arxiv.org/abs/2412.15064v1)|null|
 |**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063v1](http://arxiv.org/abs/2412.15063v1)|null|

@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-12-21 21:15:31 Asia/Shanghai
+ Automated deployment @ 2024-12-22 09:14:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -9,7 +9,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200v1](http://arxiv.org/abs/2412.15200v1)|null|
-|**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109v1](http://arxiv.org/abs/2412.15109v1)|null|
+|**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109v1](http://arxiv.org/abs/2412.15109v1)|[link](https://github.com/openrobotlab/seer)|
 |**2024-12-19**|**Constraining the potential of the Milky Way using stellar streams and the Inverse Time Integration method**|C. G. Palau et.al.|[2412.15091v1](http://arxiv.org/abs/2412.15091v1)|null|
 |**2024-12-19**|**Inflation in non-local hybrid metric-Palatini gravity**|Flavio Bombacigno et.al.|[2412.15064v1](http://arxiv.org/abs/2412.15064v1)|null|
 |**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063v1](http://arxiv.org/abs/2412.15063v1)|null|
@@ -50,11 +50,11 @@
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|
 |**2024-12-19**|**Tokenisation is NP-Complete**|Philip Whittington et.al.|[2412.15210v1](http://arxiv.org/abs/2412.15210v1)|null|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209v1](http://arxiv.org/abs/2412.15209v1)|null|
-|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208v1](http://arxiv.org/abs/2412.15208v1)|null|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208v1](http://arxiv.org/abs/2412.15208v1)|[link](https://github.com/taco-group/openemma)|
 |**2024-12-19**|**Quantum diffusion and delocalization in one-dimensional band matrices via the flow method**|Sofiia Dubova et.al.|[2412.15207v1](http://arxiv.org/abs/2412.15207v1)|null|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206v1](http://arxiv.org/abs/2412.15206v1)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206v1](http://arxiv.org/abs/2412.15206v1)|[link](https://github.com/taco-group/autotrust)|
 |**2024-12-19**|**FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching**|Sucheng Ren et.al.|[2412.15205v1](http://arxiv.org/abs/2412.15205v1)|[link](https://github.com/oliverrensu/flowar)|
-|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204v1](http://arxiv.org/abs/2412.15204v1)|null|
+|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204v1](http://arxiv.org/abs/2412.15204v1)|[link](https://github.com/thudm/longbench)|
 |**2024-12-19**|**Anomalous currents and spontaneous vortices in spin-orbit coupled superconductors**|Benjamin A. Levitan et.al.|[2412.15203v1](http://arxiv.org/abs/2412.15203v1)|null|
 |**2024-12-19**|**A Pathway to Decay and Fission of Orthosymplectic Quiver Theories**|Craig Lawrie et.al.|[2412.15202v1](http://arxiv.org/abs/2412.15202v1)|null|
 |**2024-12-19**|**A Central Charge for sub-AdS Holography**|Abir Ghosh et.al.|[2412.15201v1](http://arxiv.org/abs/2412.15201v1)|null|
@@ -64,7 +64,7 @@
 |**2024-12-19**|**Flavor at FASER: Discovering Light Scalars Beyond Minimal Flavor Violation**|Reuven Balkin et.al.|[2412.15197v1](http://arxiv.org/abs/2412.15197v1)|null|
 |**2024-12-19**|**Preventing Local Pitfalls in Vector Quantization via Optimal Transport**|Borui Zhang et.al.|[2412.15195v1](http://arxiv.org/abs/2412.15195v1)|[link](https://github.com/zbr17/OptVQ)|
 |**2024-12-19**|**A Finite-Time Quantum Otto Engine subject to Control Noise and Enhancement Techniques**|Theodore McKeever et.al.|[2412.15196v1](http://arxiv.org/abs/2412.15196v1)|null|
-|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194v1](http://arxiv.org/abs/2412.15194v1)|null|
+|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194v1](http://arxiv.org/abs/2412.15194v1)|[link](https://github.com/microsoft/mmlu-cf)|
 |**2024-12-19**|**Quantum Frequency Conversion of $μs$-long Photons from the Visible to the Telecom-C-Band**|Soeren Wengerowsky et.al.|[2412.15193v1](http://arxiv.org/abs/2412.15193v1)|null|
 |**2024-12-19**|**Accurate method for ultralight axion CMB and matter power spectra**|Rayne Liu et.al.|[2412.15192v1](http://arxiv.org/abs/2412.15192v1)|null|
 |**2024-12-19**|**AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**|Moayed Haji-Ali et.al.|[2412.15191v1](http://arxiv.org/abs/2412.15191v1)|null|
