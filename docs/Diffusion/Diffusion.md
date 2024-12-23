@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-20**|**Inverse problems for sumset sizes of finite sets of integers**|Melvyn B. Nathanson et.al.|[2412.16154v1](http://arxiv.org/abs/2412.16154v1)|null|
+|**2024-12-20**|**LEDA: Log-Euclidean Diffeomorphic Autoencoder for Efficient Statistical Analysis of Diffeomorphism**|Krithika Iyer et.al.|[2412.16129v1](http://arxiv.org/abs/2412.16129v1)|null|
+|**2024-12-20**|**Correct implied volatility shapes and reliable pricing in the rough Heston model**|Svetlana Boyarchenko et.al.|[2412.16067v1](http://arxiv.org/abs/2412.16067v1)|null|
+|**2024-12-20**|**X-ray polarization of the magnetar 1E 1841-045 in outburst**|Rachael Stewart et.al.|[2412.16036v1](http://arxiv.org/abs/2412.16036v1)|null|
+|**2024-12-20**|**Learning sparsity-promoting regularizers for linear inverse problems**|Giovanni S. Alberti et.al.|[2412.16031v1](http://arxiv.org/abs/2412.16031v1)|null|
+|**2024-12-20**|**On statistical model extensions based on randomly stopped extremes**|Jordi Valero et.al.|[2412.15997v1](http://arxiv.org/abs/2412.15997v1)|null|
+|**2024-12-20**|**Keldysh's theorem revisited**|Johannes M. Schumacher et.al.|[2412.15985v1](http://arxiv.org/abs/2412.15985v1)|null|
+|**2024-12-20**|**Cohomology bases of toric surfaces**|Xin Fu et.al.|[2412.15868v1](http://arxiv.org/abs/2412.15868v1)|null|
+|**2024-12-20**|**IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing**|Chun Gu et.al.|[2412.15867v1](http://arxiv.org/abs/2412.15867v1)|null|
+|**2024-12-20**|**Sampling inverse subordinators and subdiffusions**|Ivan Biočić et.al.|[2412.15815v1](http://arxiv.org/abs/2412.15815v1)|null|
+|**2024-12-20**|**Quantitative delocalisation for the Gaussian and $q$-SOS long-range chains**|Loren Coquille et.al.|[2412.15782v1](http://arxiv.org/abs/2412.15782v1)|null|
+|**2024-12-20**|**Uniqueness of six-functor formalisms**|Adam Dauser et.al.|[2412.15780v1](http://arxiv.org/abs/2412.15780v1)|null|
+|**2024-12-20**|**Chemical potential of the warm dense electron gas from ab initio path integral Monte Carlo simulations**|Tobias Dornheim et.al.|[2412.15777v1](http://arxiv.org/abs/2412.15777v1)|null|
+|**2024-12-20**|**Coherent Interactions of Free Electrons and Matter: Toward Tunable Compact X-ray Sources**|Amnon Balanov et.al.|[2412.15775v1](http://arxiv.org/abs/2412.15775v1)|null|
+|**2024-12-20**|**Fabrication and characterization of Transverse Orientation Patterned Gallium Phosphide waveguides for high efficiency second harmonic generation**|Antoine Lemoine et.al.|[2412.15754v1](http://arxiv.org/abs/2412.15754v1)|null|
+|**2024-12-20**|**A $Z_4$ symmetric inverse seesaw model for neutrino masses and FIMP dark matter**|Ziye Wang et.al.|[2412.15672v1](http://arxiv.org/abs/2412.15672v1)|null|
+|**2024-12-20**|**Inverse problems of recovering lower-order coefficients from boundary integral data**|S. G. Pyatkov et.al.|[2412.15635v1](http://arxiv.org/abs/2412.15635v1)|null|
+|**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632v1](http://arxiv.org/abs/2412.15632v1)|null|
+|**2024-12-20**|**Theoretical study of Magnetoresistance Oscillations in Semi-parabolic Plus Semi-inverse Squared Quantum Wells in the Presence of Intense Electromagnetic Waves**|Nguyen Thu Huong et.al.|[2412.15630v1](http://arxiv.org/abs/2412.15630v1)|null|
+|**2024-12-20**|**$K^α$-translators of offset surfaces**|Burcu Bektaş Demirci et.al.|[2412.15612v1](http://arxiv.org/abs/2412.15612v1)|null|
+|**2024-12-20**|**High-dimensional sliced inverse regression with endogeneity**|Linh H. Nghiem et.al.|[2412.15530v1](http://arxiv.org/abs/2412.15530v1)|null|
+|**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513v1](http://arxiv.org/abs/2412.15513v1)|null|
+|**2024-12-20**|**Bi, Cr and Ag dopants in PbTe and SnTe: impact of the host band symmetry on doping properties by ab initio calculations**|A. Łusakowski et.al.|[2412.15512v1](http://arxiv.org/abs/2412.15512v1)|null|
+|**2024-12-20**|**Scattering-Based Structural Inversion of Soft Materials via Kolmogorov-Arnold Networks**|Chi-Huan Tung et.al.|[2412.15474v1](http://arxiv.org/abs/2412.15474v1)|null|
+|**2024-12-19**|**Thermopower across Fermi-volume-changing quantum phase transitions without symmetry breaking**|Peter Lunts et.al.|[2412.15330v1](http://arxiv.org/abs/2412.15330v1)|null|
 |**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200v1](http://arxiv.org/abs/2412.15200v1)|null|
 |**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109v1](http://arxiv.org/abs/2412.15109v1)|[link](https://github.com/openrobotlab/seer)|
 |**2024-12-19**|**Constraining the potential of the Milky Way using stellar streams and the Inverse Time Integration method**|C. G. Palau et.al.|[2412.15091v1](http://arxiv.org/abs/2412.15091v1)|null|
 |**2024-12-19**|**Inflation in non-local hybrid metric-Palatini gravity**|Flavio Bombacigno et.al.|[2412.15064v1](http://arxiv.org/abs/2412.15064v1)|null|
 |**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063v1](http://arxiv.org/abs/2412.15063v1)|null|
-|**2024-12-19**|**Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion**|Zhifei Chen et.al.|[2412.15050v1](http://arxiv.org/abs/2412.15050v1)|null|
-|**2024-12-19**|**Broken symmetry solutions in one-dimensional lattice models via many-body perturbation theory**|Matteo Quinzi et.al.|[2412.15020v1](http://arxiv.org/abs/2412.15020v1)|null|
-|**2024-12-19**|**Graphs that are not minimal for conformal dimension**|Matthew Romney et.al.|[2412.15016v1](http://arxiv.org/abs/2412.15016v1)|null|
-|**2024-12-19**|**Assessing treatment effects in observational data with missing confounders: A comparative study of practical doubly-robust and traditional missing data methods**|Brian D. Williamson et.al.|[2412.15012v1](http://arxiv.org/abs/2412.15012v1)|null|
-|**2024-12-19**|**Possible High temperature Superconductivity above 200K mediated by Bose Einstein Condensation of exciton**|Shisheng Lin et.al.|[2412.15003v1](http://arxiv.org/abs/2412.15003v1)|null|
-|**2024-12-19**|**Reciprocity-aware adaptive tile low-rank factorization for large-scale 3D multidimensional deconvolution**|Fuqiang Chen et.al.|[2412.14973v1](http://arxiv.org/abs/2412.14973v1)|null|
-|**2024-12-19**|**Emergence of unidirectionality and phase separation in optically dense emitter ensembles**|Kasper J. Kusmierek et.al.|[2412.14930v1](http://arxiv.org/abs/2412.14930v1)|null|
-|**2024-12-19**|**Elastic waves in bearing raceways: the forward and inverse problem**|Jessica J. Kent et.al.|[2412.14928v1](http://arxiv.org/abs/2412.14928v1)|null|
-|**2024-12-19**|**Inversion of Dislocation-Impurity Interactions in $α$-Fe under Magnetic State Changes**|Franco Moitzi et.al.|[2412.14920v1](http://arxiv.org/abs/2412.14920v1)|null|
-|**2024-12-19**|**Quadratic maps between non-abelian groups**|Asgar Jamneshan et.al.|[2412.14908v1](http://arxiv.org/abs/2412.14908v1)|null|
-|**2024-12-19**|**Diffusion priors for Bayesian 3D reconstruction from incomplete measurements**|Julian L. Möbius et.al.|[2412.14897v1](http://arxiv.org/abs/2412.14897v1)|null|
-|**2024-12-19**|**Expansion into the vacuum of stochastic gases with long-range interactions**|P. L. Krapivsky et.al.|[2412.14875v1](http://arxiv.org/abs/2412.14875v1)|null|
-|**2024-12-19**|**Corrosion detection by identification of a nonlinear Robin boundary condition**|David Johansson et.al.|[2412.14817v1](http://arxiv.org/abs/2412.14817v1)|null|
-|**2024-12-19**|**Generative CKM Construction using Partially Observed Data with Diffusion Model**|Shen Fu et.al.|[2412.14812v1](http://arxiv.org/abs/2412.14812v1)|null|
-|**2024-12-19**|**Modeling of Real and Imaginary Phase Shifts for $α-α$ Scattering using Malfliet-Tjon Potential**|Shikha Awasthi et.al.|[2412.14807v1](http://arxiv.org/abs/2412.14807v1)|null|
-|**2024-12-19**|**Physics informed neural network for forward and inverse radiation heat transfer in graded-index medium**|K. Murari et.al.|[2412.14699v1](http://arxiv.org/abs/2412.14699v1)|null|
-|**2024-12-19**|**Geometrical optics for the fractional Helmholtz equation and applications to inverse problems**|Giovanni Covi et.al.|[2412.14698v1](http://arxiv.org/abs/2412.14698v1)|null|
-|**2024-12-19**|**Diffuse Supernova Neutrino Background and Neutrino Non-Radiative Decay: a Bayesian Perspective**|Noah Roux et.al.|[2412.14681v1](http://arxiv.org/abs/2412.14681v1)|null|
-|**2024-12-19**|**A preconditioned inverse iteration with an improved convergence guarantee**|Foivos Alimisis et.al.|[2412.14665v1](http://arxiv.org/abs/2412.14665v1)|null|
-|**2024-12-19**|**Dual Photonics Probing of Nano- to Submicron-Scale Structural Alterations in Human Brain Tissues or Cells and Chromatin or DNA with the Progression of Alzheimers Disease**|Fatemah Alharthi et.al.|[2412.14651v1](http://arxiv.org/abs/2412.14651v1)|null|
-|**2024-12-19**|**Correlations Between the Neutron Star Mass-Radius Relation and the Equation of State of Dense Matter**|Boyang Sun et.al.|[2412.14645v1](http://arxiv.org/abs/2412.14645v1)|null|
-|**2024-12-19**|**Microscopic study of supercurrent diode effect in chiral nanotubes**|Chuang Li et.al.|[2412.14610v1](http://arxiv.org/abs/2412.14610v1)|null|
-|**2024-12-19**|**Fast inverse lithography based on a model-driven block stacking convolutional neural network**|Ruixiang Chen et.al.|[2412.14599v1](http://arxiv.org/abs/2412.14599v1)|null|
-|**2024-12-19**|**High-Accuracy Model Predictive Control with Inverse Hysteresis for High-Speed Trajectory Tracking of Piezoelectric Fast Steering Mirror**|Sen Yang et.al.|[2412.14511v1](http://arxiv.org/abs/2412.14511v1)|null|
-|**2024-12-19**|**A class of core inverses associated with Green's relations in semigroups**|Huihui Zhu et.al.|[2412.14472v1](http://arxiv.org/abs/2412.14472v1)|null|
