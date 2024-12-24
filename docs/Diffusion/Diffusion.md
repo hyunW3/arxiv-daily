@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-20**|**Inverse problems for sumset sizes of finite sets of integers**|Melvyn B. Nathanson et.al.|[2412.16154v1](http://arxiv.org/abs/2412.16154v1)|null|
-|**2024-12-20**|**LEDA: Log-Euclidean Diffeomorphic Autoencoder for Efficient Statistical Analysis of Diffeomorphism**|Krithika Iyer et.al.|[2412.16129v1](http://arxiv.org/abs/2412.16129v1)|null|
-|**2024-12-20**|**Correct implied volatility shapes and reliable pricing in the rough Heston model**|Svetlana Boyarchenko et.al.|[2412.16067v1](http://arxiv.org/abs/2412.16067v1)|null|
-|**2024-12-20**|**X-ray polarization of the magnetar 1E 1841-045 in outburst**|Rachael Stewart et.al.|[2412.16036v1](http://arxiv.org/abs/2412.16036v1)|null|
-|**2024-12-20**|**Learning sparsity-promoting regularizers for linear inverse problems**|Giovanni S. Alberti et.al.|[2412.16031v1](http://arxiv.org/abs/2412.16031v1)|null|
-|**2024-12-20**|**On statistical model extensions based on randomly stopped extremes**|Jordi Valero et.al.|[2412.15997v1](http://arxiv.org/abs/2412.15997v1)|null|
-|**2024-12-20**|**Keldysh's theorem revisited**|Johannes M. Schumacher et.al.|[2412.15985v1](http://arxiv.org/abs/2412.15985v1)|null|
-|**2024-12-20**|**Cohomology bases of toric surfaces**|Xin Fu et.al.|[2412.15868v1](http://arxiv.org/abs/2412.15868v1)|null|
-|**2024-12-20**|**IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing**|Chun Gu et.al.|[2412.15867v1](http://arxiv.org/abs/2412.15867v1)|null|
-|**2024-12-20**|**Sampling inverse subordinators and subdiffusions**|Ivan Biočić et.al.|[2412.15815v1](http://arxiv.org/abs/2412.15815v1)|null|
-|**2024-12-20**|**Quantitative delocalisation for the Gaussian and $q$-SOS long-range chains**|Loren Coquille et.al.|[2412.15782v1](http://arxiv.org/abs/2412.15782v1)|null|
-|**2024-12-20**|**Uniqueness of six-functor formalisms**|Adam Dauser et.al.|[2412.15780v1](http://arxiv.org/abs/2412.15780v1)|null|
-|**2024-12-20**|**Chemical potential of the warm dense electron gas from ab initio path integral Monte Carlo simulations**|Tobias Dornheim et.al.|[2412.15777v1](http://arxiv.org/abs/2412.15777v1)|null|
-|**2024-12-20**|**Coherent Interactions of Free Electrons and Matter: Toward Tunable Compact X-ray Sources**|Amnon Balanov et.al.|[2412.15775v1](http://arxiv.org/abs/2412.15775v1)|null|
-|**2024-12-20**|**Fabrication and characterization of Transverse Orientation Patterned Gallium Phosphide waveguides for high efficiency second harmonic generation**|Antoine Lemoine et.al.|[2412.15754v1](http://arxiv.org/abs/2412.15754v1)|null|
-|**2024-12-20**|**A $Z_4$ symmetric inverse seesaw model for neutrino masses and FIMP dark matter**|Ziye Wang et.al.|[2412.15672v1](http://arxiv.org/abs/2412.15672v1)|null|
-|**2024-12-20**|**Inverse problems of recovering lower-order coefficients from boundary integral data**|S. G. Pyatkov et.al.|[2412.15635v1](http://arxiv.org/abs/2412.15635v1)|null|
-|**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632v1](http://arxiv.org/abs/2412.15632v1)|null|
-|**2024-12-20**|**Theoretical study of Magnetoresistance Oscillations in Semi-parabolic Plus Semi-inverse Squared Quantum Wells in the Presence of Intense Electromagnetic Waves**|Nguyen Thu Huong et.al.|[2412.15630v1](http://arxiv.org/abs/2412.15630v1)|null|
-|**2024-12-20**|**$K^α$-translators of offset surfaces**|Burcu Bektaş Demirci et.al.|[2412.15612v1](http://arxiv.org/abs/2412.15612v1)|null|
-|**2024-12-20**|**High-dimensional sliced inverse regression with endogeneity**|Linh H. Nghiem et.al.|[2412.15530v1](http://arxiv.org/abs/2412.15530v1)|null|
-|**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513v1](http://arxiv.org/abs/2412.15513v1)|null|
-|**2024-12-20**|**Bi, Cr and Ag dopants in PbTe and SnTe: impact of the host band symmetry on doping properties by ab initio calculations**|A. Łusakowski et.al.|[2412.15512v1](http://arxiv.org/abs/2412.15512v1)|null|
-|**2024-12-20**|**Scattering-Based Structural Inversion of Soft Materials via Kolmogorov-Arnold Networks**|Chi-Huan Tung et.al.|[2412.15474v1](http://arxiv.org/abs/2412.15474v1)|null|
-|**2024-12-19**|**Thermopower across Fermi-volume-changing quantum phase transitions without symmetry breaking**|Peter Lunts et.al.|[2412.15330v1](http://arxiv.org/abs/2412.15330v1)|null|
-|**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200v1](http://arxiv.org/abs/2412.15200v1)|null|
-|**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109v1](http://arxiv.org/abs/2412.15109v1)|[link](https://github.com/openrobotlab/seer)|
-|**2024-12-19**|**Constraining the potential of the Milky Way using stellar streams and the Inverse Time Integration method**|C. G. Palau et.al.|[2412.15091v1](http://arxiv.org/abs/2412.15091v1)|null|
-|**2024-12-19**|**Inflation in non-local hybrid metric-Palatini gravity**|Flavio Bombacigno et.al.|[2412.15064v1](http://arxiv.org/abs/2412.15064v1)|null|
-|**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063v1](http://arxiv.org/abs/2412.15063v1)|null|
+|**2024-12-23**|**A $C^0$-continuous nonconforming virtual element method for linear strain gradient elasticity**|Jianguo Huang et.al.|[2412.17631v1](http://arxiv.org/abs/2412.17631v1)|null|
+|**2024-12-23**|**A Fast Inverse Design Method for Multilayered, Multiport Pixelated Surfaces**|Woojun Lee et.al.|[2412.17617v1](http://arxiv.org/abs/2412.17617v1)|null|
+|**2024-12-23**|**Leveraging Cardiovascular Simulations for In-Vivo Prediction of Cardiac Biomarkers**|Laura Manduchi et.al.|[2412.17542v1](http://arxiv.org/abs/2412.17542v1)|null|
+|**2024-12-23**|**Effective transport by 2D turbulence: Vortex-gas intermittency vs. Kraichnan-Leith-Batchelor theory**|Julie Meunier et.al.|[2412.17431v1](http://arxiv.org/abs/2412.17431v1)|null|
+|**2024-12-23**|**On Coefficient problems for \textbf{$S^*_ρ$}**|S. Sivaprasad Kumar et.al.|[2412.17403v1](http://arxiv.org/abs/2412.17403v1)|null|
+|**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390v1](http://arxiv.org/abs/2412.17390v1)|null|
+|**2024-12-23**|**An Experimental Evaluation of Japanese Tokenizers for Sentiment-Based Text Classification**|Andre Rusli et.al.|[2412.17361v1](http://arxiv.org/abs/2412.17361v1)|[link](https://github.com/arusl/anlp_nlp2021_d3-1)|
+|**2024-12-23**|**Spin current generation by acousto-electric evanescent wave**|Takuya Kawada et.al.|[2412.17291v1](http://arxiv.org/abs/2412.17291v1)|null|
+|**2024-12-23**|**Coupled differential-algebraic equations framework for modeling six-degree-of-freedom flight dynamics of asymmetric fixed-wing aircraft**|Osama A. Marzouk et.al.|[2412.17280v1](http://arxiv.org/abs/2412.17280v1)|null|
+|**2024-12-22**|**Highly efficient broadband THz upconversion with Dirac materials**|Tatiana A. Uaman Svetikova et.al.|[2412.17179v1](http://arxiv.org/abs/2412.17179v1)|null|
+|**2024-12-22**|**Convexification of Multi-period Quadratic Programs with Indicators**|Jisun Lee et.al.|[2412.17178v1](http://arxiv.org/abs/2412.17178v1)|null|
+|**2024-12-22**|**Mixing phases of the Glauber dynamics for the $p$-spin Curie-Weiss model**|Ramkrishna Jyoti Samanta et.al.|[2412.16952v1](http://arxiv.org/abs/2412.16952v1)|null|
+|**2024-12-22**|**The Island of Inversion at N=40**|Martha Liliana Cortes et.al.|[2412.16940v1](http://arxiv.org/abs/2412.16940v1)|null|
+|**2024-12-22**|**Optimal error bounds on an exponential wave integrator Fourier spectral method for the logarithmic Schrödinger equation**|Weizhu Bao et.al.|[2412.16902v1](http://arxiv.org/abs/2412.16902v1)|null|
+|**2024-12-22**|**Anchor3DLane++: 3D Lane Detection via Sample-Adaptive Sparse 3D Anchor Regression**|Shaofei Huang et.al.|[2412.16889v1](http://arxiv.org/abs/2412.16889v1)|[link](https://github.com/tusen-ai/anchor3dlane)|
+|**2024-12-22**|**Local integrability breaking and exponential localization of leading Lyapunov vectors**|Jiaozi Wang et.al.|[2412.16887v1](http://arxiv.org/abs/2412.16887v1)|null|
+|**2024-12-22**|**MCMC-Net: Accelerating Markov Chain Monte Carlo with Neural Networks for Inverse Problems**|Sudeb Majee et.al.|[2412.16883v1](http://arxiv.org/abs/2412.16883v1)|null|
+|**2024-12-22**|**Stability for an inverse random source problem of the biharmonic Schrodinger equation**|Tianjiao Wang et.al.|[2412.16836v1](http://arxiv.org/abs/2412.16836v1)|null|
+|**2024-12-22**|**Quantum-inspired super-resolution of fluorescent point-like sources**|Cheyenne S. Mitchell et.al.|[2412.16835v1](http://arxiv.org/abs/2412.16835v1)|null|
+|**2024-12-22**|**Optimal Error Analysis of Channel Estimation for IRS-assisted MIMO Systems**|Zhen Qin et.al.|[2412.16827v1](http://arxiv.org/abs/2412.16827v1)|null|
+|**2024-12-21**|**Well-posed Cauchy problem and the Hamiltonian form of (2+1) nonlinear equations integrable by inverse scattering transform**|Leonid Nizhnik et.al.|[2412.16801v1](http://arxiv.org/abs/2412.16801v1)|null|
+|**2024-12-21**|**The southern shore of the island of inversion studied via quasi-free scattering**|J. Kahlbow et.al.|[2412.16799v1](http://arxiv.org/abs/2412.16799v1)|null|
+|**2024-12-21**|**Gradient-Based Non-Linear Inverse Learning**|Abhishake et.al.|[2412.16794v1](http://arxiv.org/abs/2412.16794v1)|null|
+|**2024-12-21**|**Solving Inverse Problems via Diffusion Optimal Control**|Henry Li et.al.|[2412.16748v1](http://arxiv.org/abs/2412.16748v1)|[link](https://github.com/lihenryhfl/diffusion_optimal_control)|
+|**2024-12-21**|**Quantum entanglement, coherence and Dark Matter**|Martin Houde et.al.|[2412.16663v1](http://arxiv.org/abs/2412.16663v1)|null|
+|**2024-12-21**|**Direct Inversion for the Squared Bessel Process and Applications**|Simon J. A. Malham et.al.|[2412.16655v1](http://arxiv.org/abs/2412.16655v1)|null|
+|**2024-12-21**|**The Tractability Border of Reachability in Simple Vector Addition Systems with States**|Dmitry Chistikov et.al.|[2412.16612v1](http://arxiv.org/abs/2412.16612v1)|null|
+|**2024-12-21**|**Analysis of two direct sampling methods for an anisotropic scatterer with a conductive boundary**|Isaac Harris et.al.|[2412.16605v1](http://arxiv.org/abs/2412.16605v1)|null|
+|**2024-12-21**|**Mixed geometry information regularization for image multiplicative denoising**|Shengkun Yang et.al.|[2412.16445v1](http://arxiv.org/abs/2412.16445v1)|null|
+|**2024-12-21**|**Has LLM Reached the Scaling Ceiling Yet? Unified Insights into LLM Regularities and Constraints**|Charles Luo et.al.|[2412.16443v1](http://arxiv.org/abs/2412.16443v1)|null|
