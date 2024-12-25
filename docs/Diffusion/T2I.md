@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812v1](http://arxiv.org/abs/2412.17812v1)|null|
-|**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811v1](http://arxiv.org/abs/2412.17811v1)|null|
-|**2024-12-23**|**Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction**|Ziyang Wu et.al.|[2412.17810v1](http://arxiv.org/abs/2412.17810v1)|null|
-|**2024-12-23**|**Measurements of the quantum geometric tensor in solids**|Mingu Kang et.al.|[2412.17809v1](http://arxiv.org/abs/2412.17809v1)|null|
-|**2024-12-23**|**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**|Rui Chen et.al.|[2412.17808v1](http://arxiv.org/abs/2412.17808v1)|null|
-|**2024-12-23**|**Cross-View Referring Multi-Object Tracking**|Sijia Chen et.al.|[2412.17807v1](http://arxiv.org/abs/2412.17807v1)|[link](https://github.com/chen-si-jia/crmot)|
-|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806v1](http://arxiv.org/abs/2412.17806v1)|null|
-|**2024-12-23**|**Large Motion Video Autoencoding with Cross-modal Video VAE**|Yazhou Xing et.al.|[2412.17805v1](http://arxiv.org/abs/2412.17805v1)|null|
-|**2024-12-23**|**GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**|Yidi Shao et.al.|[2412.17804v1](http://arxiv.org/abs/2412.17804v1)|null|
-|**2024-12-23**|**Examining Imbalance Effects on Performance and Demographic Fairness of Clinical Language Models**|Precious Jones et.al.|[2412.17803v1](http://arxiv.org/abs/2412.17803v1)|null|
-|**2024-12-23**|**Feebly-Interacting Peccei-Quinn Model**|Wen Yin et.al.|[2412.17802v1](http://arxiv.org/abs/2412.17802v1)|null|
-|**2024-12-23**|**Probing the magnetic origin of the pseudogap using a Fermi-Hubbard quantum simulator**|Thomas Chalopin et.al.|[2412.17801v1](http://arxiv.org/abs/2412.17801v1)|null|
-|**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800v1](http://arxiv.org/abs/2412.17800v1)|[link](https://github.com/row11n/prova)|
-|**2024-12-23**|**Automating the Search for Artificial Life with Foundation Models**|Akarsh Kumar et.al.|[2412.17799v1](http://arxiv.org/abs/2412.17799v1)|[link](https://github.com/sakanaai/asal)|
-|**2024-12-23**|**Observation Interference in Partially Observable Assistance Games**|Scott Emmons et.al.|[2412.17797v1](http://arxiv.org/abs/2412.17797v1)|null|
-|**2024-12-23**|**Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution**|Orchid Chetia Phukan et.al.|[2412.17796v1](http://arxiv.org/abs/2412.17796v1)|null|
-|**2024-12-23**|**Modular Arrangements**|A. Levin et.al.|[2412.17795v1](http://arxiv.org/abs/2412.17795v1)|null|
-|**2024-12-23**|**Memory makes computation universal, remember?**|Erik Garrison et.al.|[2412.17794v1](http://arxiv.org/abs/2412.17794v1)|null|
-|**2024-12-23**|**On the Optimization of Singular Spectrum Analyses: A Pragmatic Approach**|Fernando Lopes et.al.|[2412.17793v1](http://arxiv.org/abs/2412.17793v1)|null|
-|**2024-12-23**|**Distributed Estimation and Gap-Free Analysis of Canonical Correlations**|Canyi Chen et.al.|[2412.17792v1](http://arxiv.org/abs/2412.17792v1)|null|
-|**2024-12-23**|**To Study Properties of a Known Procedure in Adaptive Sequential Sampling Design**|Sampurna Kundu et.al.|[2412.17791v1](http://arxiv.org/abs/2412.17791v1)|null|
-|**2024-12-23**|**Classification of exchange relation planar algebras through sieving forest fusion graphs**|Fan Lu et.al.|[2412.17790v1](http://arxiv.org/abs/2412.17790v1)|null|
-|**2024-12-23**|**Power-optimized amplitude modulation for robust trapped-ion entangling gates: a study of gate-timing errors**|Luke Ellert-Beck et.al.|[2412.17789v1](http://arxiv.org/abs/2412.17789v1)|null|
-|**2024-12-23**|**Spectro-temporal symmetry in action-detected optical spectroscopy: highlighting excited-state dynamics in large systems**|Pavel Malý et.al.|[2412.17788v1](http://arxiv.org/abs/2412.17788v1)|null|
-|**2024-12-23**|**Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective**|Xinmiao Yu et.al.|[2412.17787v1](http://arxiv.org/abs/2412.17787v1)|null|
-|**2024-12-23**|**Hiding, Shuffling, and Triangle Finding: Quantum Algorithms on Edge Lists**|Amin Shiraz Gilani et.al.|[2412.17786v1](http://arxiv.org/abs/2412.17786v1)|null|
-|**2024-12-23**|**Krylov spread complexity as holographic complexity beyond JT gravity**|Michal P. Heller et.al.|[2412.17785v1](http://arxiv.org/abs/2412.17785v1)|null|
-|**2024-12-23**|**High-Energy Fixed-Angle Meson Scattering and the Constituent Counting Rule in Holographic QCD**|Adi Armoni et.al.|[2412.17784v1](http://arxiv.org/abs/2412.17784v1)|null|
-|**2024-12-23**|**Encoding off-shell effects in top pair production in Direct Diffusion networks**|Mathias Kuschick et.al.|[2412.17783v1](http://arxiv.org/abs/2412.17783v1)|null|
-|**2024-12-23**|**Electromagnetic Selection Rules for $^{24}\mathrm{Mg}$ in a $6α$ Cluster Model with $\mathcal{D}_{4h}$ Symmetry**|Gianluca Stellin et.al.|[2412.17782v1](http://arxiv.org/abs/2412.17782v1)|null|
+|**2024-12-24**|**Crosscap Quenches and Entanglement Evolution**|Zixia Wei et.al.|[2412.18610v1](http://arxiv.org/abs/2412.18610v1)|null|
+|**2024-12-24**|**Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models**|Jinhui Yi et.al.|[2412.18609v1](http://arxiv.org/abs/2412.18609v1)|[link](https://github.com/jh-yi/video-panda)|
+|**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608v1](http://arxiv.org/abs/2412.18608v1)|null|
+|**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607v1](http://arxiv.org/abs/2412.18607v1)|null|
+|**2024-12-24**|**Lattice T-duality from non-invertible symmetries in quantum spin chains**|Salvatore D. Pace et.al.|[2412.18606v1](http://arxiv.org/abs/2412.18606v1)|null|
+|**2024-12-24**|**Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models**|Zehan Wang et.al.|[2412.18605v1](http://arxiv.org/abs/2412.18605v1)|null|
+|**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604v1](http://arxiv.org/abs/2412.18604v1)|null|
+|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603v1](http://arxiv.org/abs/2412.18603v1)|[link](https://github.com/google-deepmind/librispeech-long)|
+|**2024-12-24**|**Probing Entanglement Scaling Across a Quantum Phase Transition on a Quantum Computer**|Qiang Miao et.al.|[2412.18602v1](http://arxiv.org/abs/2412.18602v1)|null|
+|**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601v1](http://arxiv.org/abs/2412.18601v1)|null|
+|**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600v1](http://arxiv.org/abs/2412.18600v1)|null|
+|**2024-12-24**|**Double Spending Analysis of Nakamoto Consensus for Time-Varying Mining Rates with Ruin Theory**|Mustafa Doger et.al.|[2412.18599v1](http://arxiv.org/abs/2412.18599v1)|null|
+|**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597v1](http://arxiv.org/abs/2412.18597v1)|[link](https://github.com/tencentarc/ditctrl)|
+|**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596v1](http://arxiv.org/abs/2412.18596v1)|null|
+|**2024-12-24**|**Structure Learning in Gaussian Graphical Models from Glauber Dynamics**|Vignesh Tirukkonda et.al.|[2412.18594v1](http://arxiv.org/abs/2412.18594v1)|null|
+|**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593v1](http://arxiv.org/abs/2412.18593v1)|null|
+|**2024-12-24**|**KP integrability of non-perturbative differentials**|Alexander Alexandrov et.al.|[2412.18592v1](http://arxiv.org/abs/2412.18592v1)|null|
+|**2024-12-24**|**ClassifyViStA:WCE Classification with Visual understanding through Segmentation and Attention**|S. Balasubramanian et.al.|[2412.18591v1](http://arxiv.org/abs/2412.18591v1)|[link](https://github.com/1980x/WCEClassifyViStA)|
+|**2024-12-24**|**Modularity of Some Nahm Sums as Vector-valued Functions**|Liuquan Wang et.al.|[2412.18590v1](http://arxiv.org/abs/2412.18590v1)|null|
+|**2024-12-24**|**Text-Driven Tumor Synthesis**|Xinran Li et.al.|[2412.18589v1](http://arxiv.org/abs/2412.18589v1)|null|
+|**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588v1](http://arxiv.org/abs/2412.18588v1)|null|
+|**2024-12-24**|**The allowed baryon to baryon-meson strong transitions**|A. R. Olamaei et.al.|[2412.18587v1](http://arxiv.org/abs/2412.18587v1)|null|
+|**2024-12-24**|**Uniform Additivity of Tripartite Optimized Correlation Measures**|Joshua Levin et.al.|[2412.18586v1](http://arxiv.org/abs/2412.18586v1)|null|
+|**2024-12-24**|**The Neveu-Schwarz group and Schwarz's extended super Mumford form**|Katherine A. Maxwell et.al.|[2412.18585v1](http://arxiv.org/abs/2412.18585v1)|null|
+|**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584v1](http://arxiv.org/abs/2412.18584v1)|null|
+|**2024-12-24**|**Assessment of Sustainability Value and Dignified Well-Being in Inclusive Product Lifecycle**|Naz Yaldiz et.al.|[2412.18583v1](http://arxiv.org/abs/2412.18583v1)|null|
+|**2024-12-24**|**Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control**|Sergey Sedov et.al.|[2412.18582v1](http://arxiv.org/abs/2412.18582v1)|null|
+|**2024-12-24**|**Relativistic Lévy processes**|Lucas G. B. de Souza et.al.|[2412.18581v1](http://arxiv.org/abs/2412.18581v1)|null|
+|**2024-12-24**|**A mathematical framework for modelling CLMM dynamics in continuous time**|Shen-Ning Tung et.al.|[2412.18580v1](http://arxiv.org/abs/2412.18580v1)|null|
+|**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579v1](http://arxiv.org/abs/2412.18579v1)|null|

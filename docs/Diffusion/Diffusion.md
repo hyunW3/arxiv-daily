@@ -2,9 +2,27 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-24**|**Fermion masses and mixings and charged lepton flavor violation in a 3-3-1 model with inverse seesaw**|A. E. Cárcamo Hernández et.al.|[2412.18550v1](http://arxiv.org/abs/2412.18550v1)|null|
+|**2024-12-24**|**FedGIG: Graph Inversion from Gradient in Federated Learning**|Tianzhe Xiao et.al.|[2412.18513v1](http://arxiv.org/abs/2412.18513v1)|null|
+|**2024-12-24**|**Interaction-induced inversion of chiral transports**|Li Pan et.al.|[2412.18451v1](http://arxiv.org/abs/2412.18451v1)|null|
+|**2024-12-24**|**How accurate is mechanobiology?**|Aleix Boquet-Pujadas et.al.|[2412.18406v1](http://arxiv.org/abs/2412.18406v1)|null|
+|**2024-12-24**|**Characteristic Mode Analysis of Acoustic Scatterers**|Lukas Jelinek et.al.|[2412.18383v1](http://arxiv.org/abs/2412.18383v1)|null|
+|**2024-12-24**|**Schur-hooks and Bernoulli number recurrences**|John M. Campbell et.al.|[2412.18368v1](http://arxiv.org/abs/2412.18368v1)|null|
+|**2024-12-24**|**Bose-Einstein condensation of THz photons in an optical microcavity with Landau-quantized electrons**|Timofey V. Maximov et.al.|[2412.18352v1](http://arxiv.org/abs/2412.18352v1)|null|
+|**2024-12-24**|**An Optimized Path Planning of Manipulator Using Spline Curves and Real Quantifier Elimination Based on Comprehensive Gröbner Systems**|Yusuke Shirato et.al.|[2412.18294v1](http://arxiv.org/abs/2412.18294v1)|null|
+|**2024-12-24**|**Learning to engineer protein flexibility**|Petr Kouba et.al.|[2412.18275v1](http://arxiv.org/abs/2412.18275v1)|null|
+|**2024-12-24**|**Theoretical Study of Nonlinear Absorption of a Strong Electromagnetic Wave in Infinite Semi-parabolic plus Semi-inverse Squared Quantum Wells by Using Quantum Kinetic Equation**|Cao Thi Vi Ba et.al.|[2412.18245v1](http://arxiv.org/abs/2412.18245v1)|null|
+|**2024-12-24**|**Nonlinear nonreciprocal electronic conductivity driven by magnetic field gradients**|Taisei Yamanaka et.al.|[2412.18155v1](http://arxiv.org/abs/2412.18155v1)|null|
+|**2024-12-24**|**A Review of 3D Particle Tracking and Flow Diagnostics Using Digital Holography**|Shyam Kumar M et.al.|[2412.18094v1](http://arxiv.org/abs/2412.18094v1)|null|
+|**2024-12-24**|**Competing electronic ground states in the heavy-fermion superconductor CeRh2As2**|Joanna Bławat et.al.|[2412.18068v1](http://arxiv.org/abs/2412.18068v1)|null|
+|**2024-12-23**|**VITRO: Vocabulary Inversion for Time-series Representation Optimization**|Filippos Bellos et.al.|[2412.17921v1](http://arxiv.org/abs/2412.17921v1)|null|
+|**2024-12-23**|**Emulation of the final r-process abundance pattern with a neural network**|Yukiya Saito et.al.|[2412.17918v1](http://arxiv.org/abs/2412.17918v1)|null|
+|**2024-12-23**|**Data-Driven Priors in the Maximum Entropy on the Mean Method for Linear Inverse Problems**|Matthew King-Roskamp et.al.|[2412.17916v1](http://arxiv.org/abs/2412.17916v1)|[link](https://github.com/mattkingros/MEM-Denoising-and-Deblurring)|
 |**2024-12-23**|**A $C^0$-continuous nonconforming virtual element method for linear strain gradient elasticity**|Jianguo Huang et.al.|[2412.17631v1](http://arxiv.org/abs/2412.17631v1)|null|
 |**2024-12-23**|**A Fast Inverse Design Method for Multilayered, Multiport Pixelated Surfaces**|Woojun Lee et.al.|[2412.17617v1](http://arxiv.org/abs/2412.17617v1)|null|
 |**2024-12-23**|**Leveraging Cardiovascular Simulations for In-Vivo Prediction of Cardiac Biomarkers**|Laura Manduchi et.al.|[2412.17542v1](http://arxiv.org/abs/2412.17542v1)|null|
+|**2024-12-23**|**Stability Bounds for the Unfolded Forward-Backward Algorithm**|Emilie Chouzenoux et.al.|[2412.17888v1](http://arxiv.org/abs/2412.17888v1)|null|
+|**2024-12-23**|**Detectors for next-generation quasi-free scattering experiments**|Junki Tanaka et.al.|[2412.17887v1](http://arxiv.org/abs/2412.17887v1)|null|
 |**2024-12-23**|**Effective transport by 2D turbulence: Vortex-gas intermittency vs. Kraichnan-Leith-Batchelor theory**|Julie Meunier et.al.|[2412.17431v1](http://arxiv.org/abs/2412.17431v1)|null|
 |**2024-12-23**|**On Coefficient problems for \textbf{$S^*_ρ$}**|S. Sivaprasad Kumar et.al.|[2412.17403v1](http://arxiv.org/abs/2412.17403v1)|null|
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390v1](http://arxiv.org/abs/2412.17390v1)|null|
@@ -14,21 +32,3 @@
 |**2024-12-22**|**Highly efficient broadband THz upconversion with Dirac materials**|Tatiana A. Uaman Svetikova et.al.|[2412.17179v1](http://arxiv.org/abs/2412.17179v1)|null|
 |**2024-12-22**|**Convexification of Multi-period Quadratic Programs with Indicators**|Jisun Lee et.al.|[2412.17178v1](http://arxiv.org/abs/2412.17178v1)|null|
 |**2024-12-22**|**Mixing phases of the Glauber dynamics for the $p$-spin Curie-Weiss model**|Ramkrishna Jyoti Samanta et.al.|[2412.16952v1](http://arxiv.org/abs/2412.16952v1)|null|
-|**2024-12-22**|**The Island of Inversion at N=40**|Martha Liliana Cortes et.al.|[2412.16940v1](http://arxiv.org/abs/2412.16940v1)|null|
-|**2024-12-22**|**Optimal error bounds on an exponential wave integrator Fourier spectral method for the logarithmic Schrödinger equation**|Weizhu Bao et.al.|[2412.16902v1](http://arxiv.org/abs/2412.16902v1)|null|
-|**2024-12-22**|**Anchor3DLane++: 3D Lane Detection via Sample-Adaptive Sparse 3D Anchor Regression**|Shaofei Huang et.al.|[2412.16889v1](http://arxiv.org/abs/2412.16889v1)|[link](https://github.com/tusen-ai/anchor3dlane)|
-|**2024-12-22**|**Local integrability breaking and exponential localization of leading Lyapunov vectors**|Jiaozi Wang et.al.|[2412.16887v1](http://arxiv.org/abs/2412.16887v1)|null|
-|**2024-12-22**|**MCMC-Net: Accelerating Markov Chain Monte Carlo with Neural Networks for Inverse Problems**|Sudeb Majee et.al.|[2412.16883v1](http://arxiv.org/abs/2412.16883v1)|null|
-|**2024-12-22**|**Stability for an inverse random source problem of the biharmonic Schrodinger equation**|Tianjiao Wang et.al.|[2412.16836v1](http://arxiv.org/abs/2412.16836v1)|null|
-|**2024-12-22**|**Quantum-inspired super-resolution of fluorescent point-like sources**|Cheyenne S. Mitchell et.al.|[2412.16835v1](http://arxiv.org/abs/2412.16835v1)|null|
-|**2024-12-22**|**Optimal Error Analysis of Channel Estimation for IRS-assisted MIMO Systems**|Zhen Qin et.al.|[2412.16827v1](http://arxiv.org/abs/2412.16827v1)|null|
-|**2024-12-21**|**Well-posed Cauchy problem and the Hamiltonian form of (2+1) nonlinear equations integrable by inverse scattering transform**|Leonid Nizhnik et.al.|[2412.16801v1](http://arxiv.org/abs/2412.16801v1)|null|
-|**2024-12-21**|**The southern shore of the island of inversion studied via quasi-free scattering**|J. Kahlbow et.al.|[2412.16799v1](http://arxiv.org/abs/2412.16799v1)|null|
-|**2024-12-21**|**Gradient-Based Non-Linear Inverse Learning**|Abhishake et.al.|[2412.16794v1](http://arxiv.org/abs/2412.16794v1)|null|
-|**2024-12-21**|**Solving Inverse Problems via Diffusion Optimal Control**|Henry Li et.al.|[2412.16748v1](http://arxiv.org/abs/2412.16748v1)|[link](https://github.com/lihenryhfl/diffusion_optimal_control)|
-|**2024-12-21**|**Quantum entanglement, coherence and Dark Matter**|Martin Houde et.al.|[2412.16663v1](http://arxiv.org/abs/2412.16663v1)|null|
-|**2024-12-21**|**Direct Inversion for the Squared Bessel Process and Applications**|Simon J. A. Malham et.al.|[2412.16655v1](http://arxiv.org/abs/2412.16655v1)|null|
-|**2024-12-21**|**The Tractability Border of Reachability in Simple Vector Addition Systems with States**|Dmitry Chistikov et.al.|[2412.16612v1](http://arxiv.org/abs/2412.16612v1)|null|
-|**2024-12-21**|**Analysis of two direct sampling methods for an anisotropic scatterer with a conductive boundary**|Isaac Harris et.al.|[2412.16605v1](http://arxiv.org/abs/2412.16605v1)|null|
-|**2024-12-21**|**Mixed geometry information regularization for image multiplicative denoising**|Shengkun Yang et.al.|[2412.16445v1](http://arxiv.org/abs/2412.16445v1)|null|
-|**2024-12-21**|**Has LLM Reached the Scaling Ceiling Yet? Unified Insights into LLM Regularities and Constraints**|Charles Luo et.al.|[2412.16443v1](http://arxiv.org/abs/2412.16443v1)|null|
