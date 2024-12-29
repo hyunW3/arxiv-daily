@@ -10,7 +10,7 @@
 |**2024-12-24**|**Schur-hooks and Bernoulli number recurrences**|John M. Campbell et.al.|[2412.18368v1](http://arxiv.org/abs/2412.18368v1)|null|
 |**2024-12-24**|**Bose-Einstein condensation of THz photons in an optical microcavity with Landau-quantized electrons**|Timofey V. Maximov et.al.|[2412.18352v1](http://arxiv.org/abs/2412.18352v1)|null|
 |**2024-12-24**|**An Optimized Path Planning of Manipulator Using Spline Curves and Real Quantifier Elimination Based on Comprehensive Gröbner Systems**|Yusuke Shirato et.al.|[2412.18294v1](http://arxiv.org/abs/2412.18294v1)|null|
-|**2024-12-24**|**Learning to engineer protein flexibility**|Petr Kouba et.al.|[2412.18275v1](http://arxiv.org/abs/2412.18275v1)|null|
+|**2024-12-24**|**Learning to engineer protein flexibility**|Petr Kouba et.al.|[2412.18275v1](http://arxiv.org/abs/2412.18275v1)|[link](https://github.com/KoubaPetr/Flexpert)|
 |**2024-12-24**|**Theoretical Study of Nonlinear Absorption of a Strong Electromagnetic Wave in Infinite Semi-parabolic plus Semi-inverse Squared Quantum Wells by Using Quantum Kinetic Equation**|Cao Thi Vi Ba et.al.|[2412.18245v1](http://arxiv.org/abs/2412.18245v1)|null|
 |**2024-12-24**|**Nonlinear nonreciprocal electronic conductivity driven by magnetic field gradients**|Taisei Yamanaka et.al.|[2412.18155v1](http://arxiv.org/abs/2412.18155v1)|null|
 |**2024-12-24**|**A Review of 3D Particle Tracking and Flow Diagnostics Using Digital Holography**|Shyam Kumar M et.al.|[2412.18094v1](http://arxiv.org/abs/2412.18094v1)|null|
