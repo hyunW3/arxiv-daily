@@ -9,7 +9,7 @@
 |**2024-12-30**|**Two-component Dark Matter and low scale Thermal Leptogenesis**|Subhaditya Bhattacharya et.al.|[2412.21202v1](http://arxiv.org/abs/2412.21202v1)|null|
 |**2024-12-30**|**Vector-like quark doublets, weak-basis invariants and CP violation**|F. Albergaria et.al.|[2412.21201v1](http://arxiv.org/abs/2412.21201v1)|null|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200v1](http://arxiv.org/abs/2412.21200v1)|[link](https://github.com/purbeshmitra/distributed_moa)|
-|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v1](http://arxiv.org/abs/2412.21199v1)|null|
+|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v1](http://arxiv.org/abs/2412.21199v1)|[link](https://github.com/CodeEval-Pro/CodeEval-Pro)|
 |**2024-12-30**|**Dynamic magnetic response in ABA type trilayered systems and compensation phenomenon**|Enakshi Guru et.al.|[2412.21198v1](http://arxiv.org/abs/2412.21198v1)|null|
 |**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|null|
 |**2024-12-30**|**Topological Responses of the Standard Model Gauge Group**|Zheyan Wan et.al.|[2412.21196v1](http://arxiv.org/abs/2412.21196v1)|null|
