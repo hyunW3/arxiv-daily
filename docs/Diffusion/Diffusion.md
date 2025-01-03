@@ -8,6 +8,7 @@
 |**2024-12-30**|**DeepF-fNet: a physics-informed neural network for vibration isolation optimization**|A. Tollardo et.al.|[2412.21132v1](http://arxiv.org/abs/2412.21132v1)|null|
 |**2024-12-30**|**Exponentially reduced circuit depths in Lindbladian simulation**|Wenjun Yu et.al.|[2412.21062v1](http://arxiv.org/abs/2412.21062v1)|null|
 |**2024-12-30**|**On-chip, inverse-designed active wavelength division multiplexer at THz frequencies**|Valerio Digiorgio et.al.|[2412.20967v1](http://arxiv.org/abs/2412.20967v1)|null|
+|**2024-12-30**|**Identifying average causal effect in regression discontinuity design with auxiliary data**|Xinqin Feng et.al.|[2412.20840v2](http://arxiv.org/abs/2412.20840v2)|null|
 |**2024-12-30**|**An accurate approach to determining the spatiotemporal vehicle load on bridges based on measured boundary slopes**|Alemdar Hasanov et.al.|[2412.20778v1](http://arxiv.org/abs/2412.20778v1)|null|
 |**2024-12-30**|**Baryon number violating hydrogen decay**|Wei-Qi Fan et.al.|[2412.20774v1](http://arxiv.org/abs/2412.20774v1)|null|
 |**2024-12-30**|**Inverse medium problems, saddle point formulation**|Kazufumi Ito et.al.|[2412.20713v1](http://arxiv.org/abs/2412.20713v1)|null|
@@ -31,4 +32,3 @@
 |**2024-12-28**|**Neuromorphic circuit for temporal odor encoding in turbulent environments**|Shavika Rastogi et.al.|[2412.20117v1](http://arxiv.org/abs/2412.20117v1)|null|
 |**2024-12-28**|**Inverse Rashba-Edelstein THz emission modulation induced by ferroelectricity in CoFeB/PtSe2/MoSe2//LiNbO3 systems**|S. Massabeau et.al.|[2412.20108v1](http://arxiv.org/abs/2412.20108v1)|null|
 |**2024-12-28**|**Wall-chamber decompositions for generalized Monge-Ampère equations**|Sohaib Khalid et.al.|[2412.20089v1](http://arxiv.org/abs/2412.20089v1)|null|
-|**2024-12-28**|**Photonics detection of molecular-specific spatial structural alterations in cell nuclei due to chronic alcoholism and probiotics treatments on colon cancer via a light localization method using confocal imaging**|Ishmael Apachigawo et.al.|[2412.20063v1](http://arxiv.org/abs/2412.20063v1)|null|

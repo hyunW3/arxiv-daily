@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-03 09:09:29 Asia/Shanghai
+ Automated deployment @ 2025-01-03 20:28:59 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -14,6 +14,7 @@
 |**2024-12-30**|**DeepF-fNet: a physics-informed neural network for vibration isolation optimization**|A. Tollardo et.al.|[2412.21132v1](http://arxiv.org/abs/2412.21132v1)|null|
 |**2024-12-30**|**Exponentially reduced circuit depths in Lindbladian simulation**|Wenjun Yu et.al.|[2412.21062v1](http://arxiv.org/abs/2412.21062v1)|null|
 |**2024-12-30**|**On-chip, inverse-designed active wavelength division multiplexer at THz frequencies**|Valerio Digiorgio et.al.|[2412.20967v1](http://arxiv.org/abs/2412.20967v1)|null|
+|**2024-12-30**|**Identifying average causal effect in regression discontinuity design with auxiliary data**|Xinqin Feng et.al.|[2412.20840v2](http://arxiv.org/abs/2412.20840v2)|null|
 |**2024-12-30**|**An accurate approach to determining the spatiotemporal vehicle load on bridges based on measured boundary slopes**|Alemdar Hasanov et.al.|[2412.20778v1](http://arxiv.org/abs/2412.20778v1)|null|
 |**2024-12-30**|**Baryon number violating hydrogen decay**|Wei-Qi Fan et.al.|[2412.20774v1](http://arxiv.org/abs/2412.20774v1)|null|
 |**2024-12-30**|**Inverse medium problems, saddle point formulation**|Kazufumi Ito et.al.|[2412.20713v1](http://arxiv.org/abs/2412.20713v1)|null|
@@ -37,7 +38,6 @@
 |**2024-12-28**|**Neuromorphic circuit for temporal odor encoding in turbulent environments**|Shavika Rastogi et.al.|[2412.20117v1](http://arxiv.org/abs/2412.20117v1)|null|
 |**2024-12-28**|**Inverse Rashba-Edelstein THz emission modulation induced by ferroelectricity in CoFeB/PtSe2/MoSe2//LiNbO3 systems**|S. Massabeau et.al.|[2412.20108v1](http://arxiv.org/abs/2412.20108v1)|null|
 |**2024-12-28**|**Wall-chamber decompositions for generalized Monge-Ampère equations**|Sohaib Khalid et.al.|[2412.20089v1](http://arxiv.org/abs/2412.20089v1)|null|
-|**2024-12-28**|**Photonics detection of molecular-specific spatial structural alterations in cell nuclei due to chronic alcoholism and probiotics treatments on colon cancer via a light localization method using confocal imaging**|Ishmael Apachigawo et.al.|[2412.20063v1](http://arxiv.org/abs/2412.20063v1)|null|
 
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
@@ -49,13 +49,13 @@
 |**2024-12-30**|**Two-component Dark Matter and low scale Thermal Leptogenesis**|Subhaditya Bhattacharya et.al.|[2412.21202v1](http://arxiv.org/abs/2412.21202v1)|null|
 |**2024-12-30**|**Vector-like quark doublets, weak-basis invariants and CP violation**|F. Albergaria et.al.|[2412.21201v1](http://arxiv.org/abs/2412.21201v1)|null|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200v1](http://arxiv.org/abs/2412.21200v1)|[link](https://github.com/purbeshmitra/distributed_moa)|
-|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v1](http://arxiv.org/abs/2412.21199v1)|[link](https://github.com/CodeEval-Pro/CodeEval-Pro)|
+|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v2](http://arxiv.org/abs/2412.21199v2)|[link](https://github.com/CodeEval-Pro/CodeEval-Pro)|
 |**2024-12-30**|**Dynamic magnetic response in ABA type trilayered systems and compensation phenomenon**|Enakshi Guru et.al.|[2412.21198v1](http://arxiv.org/abs/2412.21198v1)|null|
 |**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|null|
 |**2024-12-30**|**Topological Responses of the Standard Model Gauge Group**|Zheyan Wan et.al.|[2412.21196v1](http://arxiv.org/abs/2412.21196v1)|null|
 |**2024-12-30**|**Re-programmable self-assembly of magnetic lattices**|Audrey A. Watkins et.al.|[2412.21195v1](http://arxiv.org/abs/2412.21195v1)|null|
 |**2024-12-30**|**On the clique number of random Cayley graphs and related topics**|David Conlon et.al.|[2412.21194v1](http://arxiv.org/abs/2412.21194v1)|null|
-|**2024-12-30**|**Injective norm of random tensors with independent entries**|March T. Boedihardjo et.al.|[2412.21193v1](http://arxiv.org/abs/2412.21193v1)|null|
+|**2024-12-30**|**Injective norm of random tensors with independent entries**|March T. Boedihardjo et.al.|[2412.21193v2](http://arxiv.org/abs/2412.21193v2)|null|
 |**2024-12-30**|**Rough differential equations for volatility**|Ofelia Bonesini et.al.|[2412.21192v1](http://arxiv.org/abs/2412.21192v1)|null|
 |**2024-12-30**|**Investigating Temporal and Spatial Variation of Jupiter's Atmosphere with Radio Observations**|Joanna Hardesty et.al.|[2412.21191v1](http://arxiv.org/abs/2412.21191v1)|null|
 |**2024-12-30**|**Cut-Out Wedges in $H_{3}$ and the Borel-Resurgent Chern-Simons Matrix Integrals**|Tuo Jia et.al.|[2412.21190v1](http://arxiv.org/abs/2412.21190v1)|null|
