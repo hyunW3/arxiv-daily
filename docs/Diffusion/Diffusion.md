@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-02**|**Fast data inversion for high-dimensional dynamical systems from noisy measurements**|Yizi Lin et.al.|[2501.01324v1](http://arxiv.org/abs/2501.01324v1)|null|
+|**2025-01-02**|**Transport Signatures of Inverted Andreev Bands in Topological Josephson Junctions**|Jonathan Sturm et.al.|[2501.01307v1](http://arxiv.org/abs/2501.01307v1)|null|
+|**2025-01-02**|**Citations and Trust in LLM Generated Responses**|Yifan Ding et.al.|[2501.01303v1](http://arxiv.org/abs/2501.01303v1)|null|
+|**2025-01-02**|**Time-dependent Predictive Accuracy Metrics in the Context of Interval Censoring and Competing Risks**|Zhenwei Yang et.al.|[2501.01280v1](http://arxiv.org/abs/2501.01280v1)|null|
+|**2025-01-02**|**Solving all laminar flows around airfoils all-at-once using a parametric neural network solver**|Wenbo Cao et.al.|[2501.01165v1](http://arxiv.org/abs/2501.01165v1)|null|
+|**2025-01-02**|**Characteristic oscillations in frequency-resolved heat dissipation of linear time-delayed Langevin systems: Approach from the violation of the fluctuation-dissipation relation**|Xin Wang et.al.|[2501.01151v1](http://arxiv.org/abs/2501.01151v1)|null|
+|**2025-01-02**|**Adaptive posterior distributions for uncertainty analysis of covariance matrices in Bayesian inversion problems for multioutput signals**|E. Curbelo et.al.|[2501.01148v1](http://arxiv.org/abs/2501.01148v1)|null|
+|**2025-01-02**|**Higher serum 25(OH)D concentration is associated with lower risk of metabolic syndrome among Aboriginal and Torres Strait Islander peoples in Australia**|Belinda Neo et.al.|[2501.01043v1](http://arxiv.org/abs/2501.01043v1)|null|
+|**2025-01-02**|**The R Package WMAP: Tools for Causal Meta-Analysis by Integrating Multiple Observational Studies**|Subharup Guha et.al.|[2501.01041v1](http://arxiv.org/abs/2501.01041v1)|null|
+|**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013v1](http://arxiv.org/abs/2501.01013v1)|null|
+|**2025-01-01**|**Locally compact piecewise full groups of homeomorphisms**|Alejandra Garrido et.al.|[2501.00908v1](http://arxiv.org/abs/2501.00908v1)|null|
+|**2025-01-01**|**Lieb--Thirring inequalities for large quantum systems with inverse nearest-neighbor interactions**|G. K. Duong et.al.|[2501.00866v1](http://arxiv.org/abs/2501.00866v1)|null|
+|**2025-01-01**|**Extended Landauer-Büttiker Formula for Current through Open Quantum Systems with Gain or Loss**|Chao Yang et.al.|[2501.00844v1](http://arxiv.org/abs/2501.00844v1)|null|
+|**2025-01-01**|**Information Sifting Funnel: Privacy-preserving Collaborative Inference Against Model Inversion Attacks**|Rongke Liu et.al.|[2501.00824v1](http://arxiv.org/abs/2501.00824v1)|null|
+|**2025-01-01**|**Genuine and Robust Magnetoelectric Coupling Effect in van der Waals Multiferroic Tunnel Junctions**|Zhi Yan et.al.|[2501.00761v1](http://arxiv.org/abs/2501.00761v1)|null|
+|**2025-01-01**|**Stable inversion of potential in nonlinear wave equations with cubic nonlinearity**|Xi Chen et.al.|[2501.00748v1](http://arxiv.org/abs/2501.00748v1)|null|
+|**2025-01-01**|**Comprehensive Measurement of the Reactor Antineutrino Spectrum and Flux at Daya Bay**|F. P. An et.al.|[2501.00746v1](http://arxiv.org/abs/2501.00746v1)|null|
+|**2024-12-31**|**Universal Embedding spaces for $G$-manifolds**|Arthur G. Wasserman et.al.|[2501.00624v1](http://arxiv.org/abs/2501.00624v1)|null|
+|**2024-12-31**|**Light intensity does not always decay with the inverse of the square of the distance: an open-inquiry laboratory**|Cecilia Stari et.al.|[2501.00622v1](http://arxiv.org/abs/2501.00622v1)|null|
+|**2024-12-31**|**AI and Quantum Computing in Binary Photocatalytic Hydrogen Production**|Dennis Delali Kwesi Wayo et.al.|[2501.00575v1](http://arxiv.org/abs/2501.00575v1)|null|
+|**2024-12-31**|**Time-reversal invariant TQFTs from self-mirror symmetric SCFTs**|Hongliang Jiang et.al.|[2501.00460v1](http://arxiv.org/abs/2501.00460v1)|null|
+|**2024-12-31**|**SLoG-Net: Algorithm Unrolling for Source Localization on Graphs**|Chang Ye et.al.|[2501.00442v1](http://arxiv.org/abs/2501.00442v1)|null|
+|**2024-12-31**|**Toward Information Theoretic Active Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[2501.00381v1](http://arxiv.org/abs/2501.00381v1)|null|
+|**2024-12-31**|**Deep learning for exploring hadron-hadron interactions**|Lingxiao Wang et.al.|[2501.00374v1](http://arxiv.org/abs/2501.00374v1)|null|
+|**2024-12-31**|**The discrete inverse conductivity problem solved by the weights of an interpretable neural network**|Elena Beretta et.al.|[2501.00345v1](http://arxiv.org/abs/2501.00345v1)|null|
+|**2024-12-31**|**Temporal Dynamics Decoupling with Inverse Processing for Enhancing Human Motion Prediction**|Jiexin Wang et.al.|[2501.00315v1](http://arxiv.org/abs/2501.00315v1)|null|
+|**2024-12-31**|**Equilibria in Network Constrained Markets with Market Maker**|Giacomo Como et.al.|[2501.00191v1](http://arxiv.org/abs/2501.00191v1)|null|
+|**2024-12-30**|**Algebraic Control: Complete Stable Inversion with Necessary and Sufficient Conditions**|Burak Kürkçü et.al.|[2501.00172v1](http://arxiv.org/abs/2501.00172v1)|null|
+|**2024-12-30**|**On the discrete Kuznetsov-Ma solutions for the defocusing Ablowitz-Ladik equation with large background amplitude**|Evans C. Boadi et.al.|[2501.00121v1](http://arxiv.org/abs/2501.00121v1)|null|
 |**2024-12-30**|**Cut-Out Wedges in $H_{3}$ and the Borel-Resurgent Chern-Simons Matrix Integrals**|Tuo Jia et.al.|[2412.21190v1](http://arxiv.org/abs/2412.21190v1)|null|
-|**2024-12-30**|**Causality and Stability from Acoustic Geometry**|Ignacy Sawicki et.al.|[2412.21169v1](http://arxiv.org/abs/2412.21169v1)|null|
-|**2024-12-30**|**Using AI for Efficient Statistical Inference of Lattice Correlators Across Mass Parameters**|Octavio Vega et.al.|[2412.21147v1](http://arxiv.org/abs/2412.21147v1)|null|
-|**2024-12-30**|**DeepF-fNet: a physics-informed neural network for vibration isolation optimization**|A. Tollardo et.al.|[2412.21132v1](http://arxiv.org/abs/2412.21132v1)|null|
-|**2024-12-30**|**Exponentially reduced circuit depths in Lindbladian simulation**|Wenjun Yu et.al.|[2412.21062v1](http://arxiv.org/abs/2412.21062v1)|null|
-|**2024-12-30**|**On-chip, inverse-designed active wavelength division multiplexer at THz frequencies**|Valerio Digiorgio et.al.|[2412.20967v1](http://arxiv.org/abs/2412.20967v1)|null|
-|**2024-12-30**|**Identifying average causal effect in regression discontinuity design with auxiliary data**|Xinqin Feng et.al.|[2412.20840v2](http://arxiv.org/abs/2412.20840v2)|null|
-|**2024-12-30**|**An accurate approach to determining the spatiotemporal vehicle load on bridges based on measured boundary slopes**|Alemdar Hasanov et.al.|[2412.20778v1](http://arxiv.org/abs/2412.20778v1)|null|
-|**2024-12-30**|**Baryon number violating hydrogen decay**|Wei-Qi Fan et.al.|[2412.20774v1](http://arxiv.org/abs/2412.20774v1)|null|
-|**2024-12-30**|**Inverse medium problems, saddle point formulation**|Kazufumi Ito et.al.|[2412.20713v1](http://arxiv.org/abs/2412.20713v1)|null|
-|**2024-12-30**|**The Restricted Inverse Optimal Value Problem under Weighted Bottle-neck Hamming distance on trees**|Qiao Zhang et.al.|[2412.20703v1](http://arxiv.org/abs/2412.20703v1)|null|
-|**2024-12-30**|**An inverse obstacle scattering problem with random sources in the time domain**|Xiaoli Liu et.al.|[2412.20697v1](http://arxiv.org/abs/2412.20697v1)|null|
-|**2024-12-30**|**Prototypical Distillation and Debiased Tuning for Black-box Unsupervised Domain Adaptation**|Jian Liang et.al.|[2412.20670v1](http://arxiv.org/abs/2412.20670v1)|null|
-|**2024-12-30**|**Direct and inverse spectral problems for the Schrodinger operator with double generalized Regge boundary conditions**|Xiao-Chuan Xu et.al.|[2412.20642v1](http://arxiv.org/abs/2412.20642v1)|null|
-|**2024-12-30**|**Topological invariant of non-Hermitian space-time modulated photonic crystals**|Xiaoke Gao et.al.|[2412.20636v1](http://arxiv.org/abs/2412.20636v1)|null|
-|**2024-12-29**|**2D Internal Gravity Wave Turbulence**|Vincent Labarre et.al.|[2412.20534v1](http://arxiv.org/abs/2412.20534v1)|null|
-|**2024-12-29**|**The smallest normalized signless $\infty$-Laplacian eigenvalue for non-bipartite connected graphs**|Yi Dai et.al.|[2412.20513v1](http://arxiv.org/abs/2412.20513v1)|null|
-|**2024-12-29**|**Extensive manipulation of transition rates and substantial population inversion of rotating atoms inside a cavity**|Yan Peng et.al.|[2412.20411v1](http://arxiv.org/abs/2412.20411v1)|null|
-|**2024-12-29**|**Analytically Informed Inverse Kinematics Solution at Singularities**|Andreas Mueller et.al.|[2412.20409v1](http://arxiv.org/abs/2412.20409v1)|null|
-|**2024-12-28**|**Well-posedness and approximation of reflected McKean-Vlasov SDEs with applications**|P. D. Hinds et.al.|[2412.20247v1](http://arxiv.org/abs/2412.20247v1)|null|
-|**2024-12-28**|**Fractional Integrals and Tangency Problems in Integral Geometry**|Boris Rubin et.al.|[2412.20198v1](http://arxiv.org/abs/2412.20198v1)|null|
-|**2024-12-28**|**Anatomy of information scrambling and decoherence in the integrable Sachdev-Ye-Kitaev model**|Antonio M. García-García et.al.|[2412.20182v1](http://arxiv.org/abs/2412.20182v1)|null|
-|**2024-12-28**|**Explicit bounds on common projective torsion points of elliptic curves**|Christian Böhning et.al.|[2412.20174v1](http://arxiv.org/abs/2412.20174v1)|null|
-|**2024-12-28**|**Quantum phase estimation and realistic detection schemes in Mach-Zehnder interferometer using SU(2) coherent states**|Mohammed Abdellaoui et.al.|[2412.20152v1](http://arxiv.org/abs/2412.20152v1)|null|
-|**2024-12-28**|**Magnetic Phase Diagram of Mn3+xSn1-x Epitaxial Thin Films: Extending the Anomalous Hall Effect to Low Temperatures via Intrinsic Alloying**|K. Gas et.al.|[2412.20139v1](http://arxiv.org/abs/2412.20139v1)|null|
-|**2024-12-28**|**Determinant, Characteristic Polynomial, and Inverse in Commutative Analogues of Clifford Algebras**|Heerak Sharma et.al.|[2412.20135v1](http://arxiv.org/abs/2412.20135v1)|null|
-|**2024-12-28**|**Eigenvalue distribution of canonical systems: trace class and sparse spectrum**|Matthias Langer et.al.|[2412.20124v1](http://arxiv.org/abs/2412.20124v1)|null|
-|**2024-12-28**|**Neuromorphic circuit for temporal odor encoding in turbulent environments**|Shavika Rastogi et.al.|[2412.20117v1](http://arxiv.org/abs/2412.20117v1)|null|
-|**2024-12-28**|**Inverse Rashba-Edelstein THz emission modulation induced by ferroelectricity in CoFeB/PtSe2/MoSe2//LiNbO3 systems**|S. Massabeau et.al.|[2412.20108v1](http://arxiv.org/abs/2412.20108v1)|null|
-|**2024-12-28**|**Wall-chamber decompositions for generalized Monge-Ampère equations**|Sohaib Khalid et.al.|[2412.20089v1](http://arxiv.org/abs/2412.20089v1)|null|
