@@ -26,7 +26,7 @@
 |**2025-01-02**|**Characteristic oscillations in frequency-resolved heat dissipation of linear time-delayed Langevin systems: Approach from the violation of the fluctuation-dissipation relation**|Xin Wang et.al.|[2501.01151v1](http://arxiv.org/abs/2501.01151v1)|null|
 |**2025-01-02**|**Adaptive posterior distributions for uncertainty analysis of covariance matrices in Bayesian inversion problems for multioutput signals**|E. Curbelo et.al.|[2501.01148v1](http://arxiv.org/abs/2501.01148v1)|null|
 |**2025-01-02**|**Higher serum 25(OH)D concentration is associated with lower risk of metabolic syndrome among Aboriginal and Torres Strait Islander peoples in Australia**|Belinda Neo et.al.|[2501.01043v1](http://arxiv.org/abs/2501.01043v1)|null|
-|**2025-01-02**|**The R Package WMAP: Tools for Causal Meta-Analysis by Integrating Multiple Observational Studies**|Subharup Guha et.al.|[2501.01041v1](http://arxiv.org/abs/2501.01041v1)|null|
+|**2025-01-02**|**The R Package WMAP: Tools for Causal Meta-Analysis by Integrating Multiple Observational Studies**|Subharup Guha et.al.|[2501.01041v2](http://arxiv.org/abs/2501.01041v2)|null|
 |**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013v1](http://arxiv.org/abs/2501.01013v1)|null|
 |**2025-01-01**|**Locally compact piecewise full groups of homeomorphisms**|Alejandra Garrido et.al.|[2501.00908v1](http://arxiv.org/abs/2501.00908v1)|null|
 |**2025-01-01**|**Lieb--Thirring inequalities for large quantum systems with inverse nearest-neighbor interactions**|G. K. Duong et.al.|[2501.00866v1](http://arxiv.org/abs/2501.00866v1)|null|
