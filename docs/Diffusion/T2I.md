@@ -20,7 +20,7 @@
 |**2025-01-08**|**Integrating IPbus ALFRED into the ALICE-FIT setup**|Krystian Roslon et.al.|[2501.04685v1](http://arxiv.org/abs/2501.04685v1)|null|
 |**2025-01-08**|**A Novel Highly Parallelizable Machine-Learning Based Method for the Fast Solution of Integral Equations for Electromagnetic Scattering Problems**|Enes Koç et.al.|[2501.04684v1](http://arxiv.org/abs/2501.04684v1)|null|
 |**2025-01-08**|**Toward Sufficient Statistical Power in Algorithmic Bias Assessment: A Test for ABROCA**|Conrad Borchers et.al.|[2501.04683v1](http://arxiv.org/abs/2501.04683v1)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
 |**2025-01-08**|**Learning by Confusion: The Phase Diagram of the Holstein Model**|George Issa et.al.|[2501.04681v1](http://arxiv.org/abs/2501.04681v1)|null|
 |**2025-01-08**|**Cosmic deceptions due to peculiar motions**|Christos G. Tsagas et.al.|[2501.04680v1](http://arxiv.org/abs/2501.04680v1)|null|
 |**2025-01-08**|**Exploring nontrivial topology at quantum criticality in a superconducting processor**|Ziqi Tan et.al.|[2501.04679v1](http://arxiv.org/abs/2501.04679v1)|null|
