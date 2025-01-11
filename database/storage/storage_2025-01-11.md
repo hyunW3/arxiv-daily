@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-11 09:10:06 Asia/Shanghai
+ Automated deployment @ 2025-01-11 20:27:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -27,7 +27,7 @@
 |**2025-01-08**|**Lorentzian OPE Inversion Formula: A Geometric Perspective**|Pulkit Agarwal et.al.|[2501.04621v1](http://arxiv.org/abs/2501.04621v1)|null|
 |**2025-01-08**|**Doubly Robust and Efficient Calibration of Prediction Sets for Censored Time-to-Event Outcomes**|Rebecca Farina et.al.|[2501.04615v1](http://arxiv.org/abs/2501.04615v1)|null|
 |**2025-01-08**|**Comprehensive Examination of Unrolled Networks for Linear Inverse Problems**|Eric Chen et.al.|[2501.04608v1](http://arxiv.org/abs/2501.04608v1)|[link](https://github.com/yuxichen25/memory-net-inverse)|
-|**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606v1](http://arxiv.org/abs/2501.04606v1)|null|
+|**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606v1](http://arxiv.org/abs/2501.04606v1)|[link](https://github.com/codepassionor/tokenflow_adapter)|
 |**2025-01-08**|**Accelerated Discovery of Vanadium Oxide Compositions: A WGAN-VAE Framework for Materials Design**|Danial Ebrahimzadeh et.al.|[2501.04604v1](http://arxiv.org/abs/2501.04604v1)|null|
 |**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487v1](http://arxiv.org/abs/2501.04487v1)|null|
 |**2025-01-08**|**State-dependent preconditioning for the inner-loop in Variational Data Assimilation using Machine Learning**|Victor Trappler et.al.|[2501.04369v1](http://arxiv.org/abs/2501.04369v1)|null|
@@ -36,7 +36,7 @@
 |**2025-01-08**|**Alternative writings of classical elastodynamics equations as a first order symmetric system**|Dimitris Sfyris et.al.|[2501.04743v1](http://arxiv.org/abs/2501.04743v1)|null|
 |**2025-01-08**|**LU Decomposition and Generalized Autoone-Takagi Decomposition of Dual Matrices and their Applications**|Renjie Xu et.al.|[2501.04324v1](http://arxiv.org/abs/2501.04324v1)|null|
 |**2025-01-08**|**ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**|Hyungjin Chung et.al.|[2501.04284v2](http://arxiv.org/abs/2501.04284v2)|[link](https://github.com/dohunlee1/contextmri)|
-|**2025-01-08**|**Stable Derivative Free Gaussian Mixture Variational Inference for Bayesian Inverse Problems**|Baojun Che et.al.|[2501.04259v1](http://arxiv.org/abs/2501.04259v1)|null|
+|**2025-01-08**|**Stable Derivative Free Gaussian Mixture Variational Inference for Bayesian Inverse Problems**|Baojun Che et.al.|[2501.04259v1](http://arxiv.org/abs/2501.04259v1)|[link](https://github.com/pku-cmegroup/inverseproblems.jl)|
 |**2025-01-07**|**Estimating Propensities of Selection for Big Datasets via Data Integration**|Lyndon Ang et.al.|[2501.04185v1](http://arxiv.org/abs/2501.04185v1)|null|
 
 ### T2I
