@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-10**|**The Radiowave Hunt for Young Stellar Object Emission and Demographics (RADIOHEAD): A Radio Luminosity${-}$Spectral Type Dependence in Taurus${-}$Auriga YSOs**|Ramisa Akther Rahman et.al.|[2501.06188v1](http://arxiv.org/abs/2501.06188v1)|null|
-|**2025-01-10**|**Multi-subject Open-set Personalization in Video Generation**|Tsai-Shien Chen et.al.|[2501.06187v1](http://arxiv.org/abs/2501.06187v1)|null|
-|**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186v1](http://arxiv.org/abs/2501.06186v1)|[link](https://github.com/mbzuai-oryx/llamav-o1)|
-|**2025-01-10**|**QPEs as Lense-Thirring precession of super-Eddington flows**|M. Middleton et.al.|[2501.06185v1](http://arxiv.org/abs/2501.06185v1)|null|
-|**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184v1](http://arxiv.org/abs/2501.06184v1)|null|
-|**2025-01-10**|**Theory of Irreversibility in Quantum Many-Body Systems**|Takato Yoshimura et.al.|[2501.06183v1](http://arxiv.org/abs/2501.06183v1)|null|
-|**2025-01-10**|**Algebraic solutions for $SU(2)\otimes SU(2)$ Hamiltonian eigensystems: generic statistical ensembles and a mesoscopic system application**|Alex E. Bernardini et.al.|[2501.06182v1](http://arxiv.org/abs/2501.06182v1)|null|
-|**2025-01-10**|**Best Response Convergence for Zero-sum Stochastic Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2501.06181v1](http://arxiv.org/abs/2501.06181v1)|null|
-|**2025-01-10**|**Probabilistic Forecasts of Load, Solar and Wind for Electricity Price Forecasting**|Bartosz Uniejewski et.al.|[2501.06180v1](http://arxiv.org/abs/2501.06180v1)|null|
-|**2025-01-10**|**Measuring Non-Gaussian Magic in Fermions: Convolution, Entropy, and the Violation of Wick's Theorem and the Matchgate Identity**|Luke Coffman et.al.|[2501.06179v1](http://arxiv.org/abs/2501.06179v1)|null|
-|**2025-01-10**|**Precoding Design for Limited-Feedback MISO Systems via Character-Polynomial Codes**|Siva Aditya Gooty et.al.|[2501.06178v1](http://arxiv.org/abs/2501.06178v1)|null|
-|**2025-01-10**|**ScooterLab: A Programmable and Participatory Sensing Research Testbed using Micromobility Vehicles**|Ubaidullah Khan et.al.|[2501.06177v1](http://arxiv.org/abs/2501.06177v1)|null|
-|**2025-01-10**|**GR-WiFi: A GNU Radio based WiFi Platform with Single-User and Multi-User MIMO Capability**|Natong Lin et.al.|[2501.06176v1](http://arxiv.org/abs/2501.06176v1)|null|
-|**2025-01-10**|**Batched DGEMMs for scientific codes running on long vector architectures**|Fabio Banchelli et.al.|[2501.06175v1](http://arxiv.org/abs/2501.06175v1)|null|
-|**2025-01-10**|**Existence, uniqueness and asymptotic stability of invariant measures for the stochastic Allen-Cahn-Navier-Stokes system with singular potential**|Andrea Di Primio et.al.|[2501.06174v1](http://arxiv.org/abs/2501.06174v1)|null|
-|**2025-01-10**|**VideoAuteur: Towards Long Narrative Video Generation**|Junfei Xiao et.al.|[2501.06173v1](http://arxiv.org/abs/2501.06173v1)|null|
-|**2025-01-10**|**Randomized benchmarking with non-Markovian noise and realistic finite-time gates**|Antoine Brillant et.al.|[2501.06172v1](http://arxiv.org/abs/2501.06172v1)|null|
-|**2025-01-10**|**Machine Learning Force-Field Approach for Itinerant Electron Magnets**|Sheng Zhang et.al.|[2501.06171v1](http://arxiv.org/abs/2501.06171v1)|null|
-|**2025-01-10**|**Black holes from chaos**|Matthew Dodelson et.al.|[2501.06170v1](http://arxiv.org/abs/2501.06170v1)|null|
-|**2025-01-10**|**Optimal multipole center for subwavelength acoustic scatterers**|Nikita Ustimenko et.al.|[2501.06168v1](http://arxiv.org/abs/2501.06168v1)|null|
-|**2025-01-10**|**Using a minimally parametrised SHAM to constrain the link between dark matter and galaxies**|F. L. Davidson et.al.|[2501.06169v1](http://arxiv.org/abs/2501.06169v1)|null|
-|**2025-01-10**|**Meta-Learning for Physically-Constrained Neural System Identification**|Ankush Chakrabarty et.al.|[2501.06167v1](http://arxiv.org/abs/2501.06167v1)|null|
-|**2025-01-10**|**Statistical Challenges in Analyzing Migrant Backgrounds Among University Students: a Case Study from Italy**|Lorenzo Giammei et.al.|[2501.06166v1](http://arxiv.org/abs/2501.06166v1)|null|
-|**2025-01-10**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura et.al.|[2501.06165v1](http://arxiv.org/abs/2501.06165v1)|null|
-|**2025-01-10**|**Model Alignment Search**|Satchel Grant et.al.|[2501.06164v1](http://arxiv.org/abs/2501.06164v1)|null|
-|**2025-01-10**|**Exploring Metastability in Ising models: critical droplets, energy barriers and exit time**|Vanessa Jacquier et.al.|[2501.06163v1](http://arxiv.org/abs/2501.06163v1)|null|
-|**2025-01-10**|**Supercharging Single-Atom Traps by Collisional Blockade**|Mark IJspeert et.al.|[2501.06162v1](http://arxiv.org/abs/2501.06162v1)|null|
-|**2025-01-10**|**RIOT-based smart metering system for privacy-preserving data aggregation using watermarking and encryption**|David Megias et.al.|[2501.06161v1](http://arxiv.org/abs/2501.06161v1)|null|
-|**2025-01-10**|**Spin polarised quantised transport via one-dimensional nanowire-graphene contacts**|Daniel Burrow et.al.|[2501.06160v1](http://arxiv.org/abs/2501.06160v1)|null|
-|**2025-01-10**|**Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials**|Jonah Marks et.al.|[2501.06159v1](http://arxiv.org/abs/2501.06159v1)|null|
+|**2025-01-13**|**The Guitar's Magnetic Field Revealed by Starlight Polarization**|Jack T. Dinsmore et.al.|[2501.07577v1](http://arxiv.org/abs/2501.07577v1)|null|
+|**2025-01-13**|**Dataset Distillation via Committee Voting**|Jiacheng Cui et.al.|[2501.07575v1](http://arxiv.org/abs/2501.07575v1)|[link](https://github.com/jiacheng8/cv-dd)|
+|**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574v1](http://arxiv.org/abs/2501.07574v1)|[link](https://github.com/facebookresearch/uco3d)|
+|**2025-01-13**|**A generalized Lalanne--Kreweras involution for rectangular and staircase tableaux**|Sergi Elizalde et.al.|[2501.07573v1](http://arxiv.org/abs/2501.07573v1)|null|
+|**2025-01-13**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572v1](http://arxiv.org/abs/2501.07572v1)|[link](https://github.com/alibaba-nlp/webwalker)|
+|**2025-01-13**|**Statistical learnability of smooth boundaries via pairwise binary classification with deep ReLU networks**|Hiroki Waida et.al.|[2501.07571v1](http://arxiv.org/abs/2501.07571v1)|null|
+|**2025-01-13**|**Digital Twin for Smart Societies: A Catalyst for Inclusive and Accessible Healthcare**|Joshit Mohanty et.al.|[2501.07570v1](http://arxiv.org/abs/2501.07570v1)|null|
+|**2025-01-13**|**A reference framework for extremely metal-poor OB star studies: calibrations for stellar parameters and intrinsic colours**|Marta Lorenzo et.al.|[2501.07569v1](http://arxiv.org/abs/2501.07569v1)|null|
+|**2025-01-13**|**Construction of approximate invariants for non-integrable Hamiltonian systems**|Yongjun Li et.al.|[2501.07568v1](http://arxiv.org/abs/2501.07568v1)|null|
+|**2025-01-13**|**From Fiber to Fabric: Designing the Mechanics of Machine Knitting**|Cosima du Pasquier et.al.|[2501.07567v1](http://arxiv.org/abs/2501.07567v1)|null|
+|**2025-01-13**|**SafeSwarm: Decentralized Safe RL for the Swarm of Drones Landing in Dense Crowds**|Grik Tadevosyan et.al.|[2501.07566v1](http://arxiv.org/abs/2501.07566v1)|null|
+|**2025-01-13**|**The $m$th order Orlicz projection bodies**|Xia Zhou et.al.|[2501.07565v1](http://arxiv.org/abs/2501.07565v1)|null|
+|**2025-01-13**|**E2ESlack: An End-to-End Graph-Based Framework for Pre-Routing Slack Prediction**|Saurabh Bodhe et.al.|[2501.07564v1](http://arxiv.org/abs/2501.07564v1)|null|
+|**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563v1](http://arxiv.org/abs/2501.07563v1)|null|
+|**2025-01-13**|**Zero-temperature phase-flip rate in a biased parametric oscillator**|Daniel K. J. Boneß et.al.|[2501.07562v1](http://arxiv.org/abs/2501.07562v1)|null|
+|**2025-01-13**|**Design and Analysis of a Concatenated Code for Intersymbol Interference Wiretap Channels**|Aria Nouri et.al.|[2501.07561v1](http://arxiv.org/abs/2501.07561v1)|null|
+|**2025-01-13**|**Euclid: Optimising tomographic redshift binning for 3$\times$2pt power spectrum constraints on dark energy**|J. H. W. Wong et.al.|[2501.07559v1](http://arxiv.org/abs/2501.07559v1)|null|
+|**2025-01-13**|**3D-grids are not transducible from planar graphs**|Jakub Gajarský et.al.|[2501.07558v1](http://arxiv.org/abs/2501.07558v1)|null|
+|**2025-01-13**|**Decoding Musical Evolution Through Network Science**|Niccolo' Di Marco et.al.|[2501.07557v1](http://arxiv.org/abs/2501.07557v1)|null|
+|**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556v1](http://arxiv.org/abs/2501.07556v1)|null|
+|**2025-01-13**|**Dynamic Prototype Rehearsal for Continual Learning in ECG Arrhythmia Detection**|Sana Rahmani et.al.|[2501.07555v1](http://arxiv.org/abs/2501.07555v1)|null|
+|**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554v1](http://arxiv.org/abs/2501.07554v1)|[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)|
+|**2025-01-13**|**Simulink Mutation Testing using CodeBERT**|Jingfan Zhang et.al.|[2501.07553v1](http://arxiv.org/abs/2501.07553v1)|null|
+|**2025-01-13**|**Spectral distribution of the free Jacobi process with equal rank projections**|Nizar Demni et.al.|[2501.07552v1](http://arxiv.org/abs/2501.07552v1)|null|
+|**2025-01-13**|**disco: Distributional Synthetic Controls**|Florian Gunsilius et.al.|[2501.07550v1](http://arxiv.org/abs/2501.07550v1)|[link](https://github.com/davidvandijcke/discos_stata)|
+|**2025-01-13**|**The shape of cleaved tethered membranes**|A. D. Chen et.al.|[2501.07549v1](http://arxiv.org/abs/2501.07549v1)|null|
+|**2025-01-13**|**Compact Size, High $Σ$SFR: Defining Morphological Features of Ly$α$-Emitters**|Keunho Kim et.al.|[2501.07548v1](http://arxiv.org/abs/2501.07548v1)|null|
+|**2025-01-13**|**Spacetime Wavelet Method for the Solution of Nonlinear Partial Differential Equations**|Cody D. Cochran et.al.|[2501.07547v1](http://arxiv.org/abs/2501.07547v1)|null|
+|**2025-01-13**|**Kinesin-driven de-mixing of cytoskeleton composites drives emergent mechanical properties**|Janet Sheung et.al.|[2501.07546v1](http://arxiv.org/abs/2501.07546v1)|null|
+|**2025-01-13**|**Paper Fortune Tellers in the combinatorial dynamics of some generalized McMullen maps with both critical orbits bounded**|Suzanne Boyd et.al.|[2501.07545v1](http://arxiv.org/abs/2501.07545v1)|null|

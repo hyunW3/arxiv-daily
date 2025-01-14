@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-10**|**Exact steady state of perturbed open quantum systems**|Omar Nagib et.al.|[2501.06134v1](http://arxiv.org/abs/2501.06134v1)|null|
-|**2025-01-10**|**Development of an Advisory System for Parking of a Car and Trailer**|Xincheng Cao et.al.|[2501.06115v1](http://arxiv.org/abs/2501.06115v1)|null|
-|**2025-01-10**|**Inferring High-Order Couplings with Neural Networks**|Aurélien Decelle et.al.|[2501.06108v1](http://arxiv.org/abs/2501.06108v1)|null|
-|**2025-01-10**|**Bias voltage controlled inversions of tunneling magnetoresistance in van der Waals heterostructures Fe3GaTe2/hBN/Fe3GaTe2**|Lihao Zhang et.al.|[2501.06063v1](http://arxiv.org/abs/2501.06063v1)|null|
-|**2025-01-10**|**Analytical closed-form solution of the Bagley-Torvik equation**|Juan Luis González-Santander et.al.|[2501.05972v1](http://arxiv.org/abs/2501.05972v1)|null|
-|**2025-01-10**|**A Brain Age Residual Biomarker (BARB): Leveraging MRI-Based Models to Detect Latent Health Conditions in U.S. Veterans**|Arthur Bousquet et.al.|[2501.05970v1](http://arxiv.org/abs/2501.05970v1)|null|
-|**2025-01-10**|**Model Inversion in Split Learning for Personalized LLMs: New Insights from Information Bottleneck Theory**|Yunmeng Shu et.al.|[2501.05965v1](http://arxiv.org/abs/2501.05965v1)|null|
-|**2025-01-10**|**Estimation and Restoration of Unknown Nonlinear Distortion using Diffusion**|Michal Švento et.al.|[2501.05959v1](http://arxiv.org/abs/2501.05959v1)|null|
-|**2025-01-10**|**Universal-2-TF: Robust All-Neural Text Formatting for ASR**|Yash Khare et.al.|[2501.05948v1](http://arxiv.org/abs/2501.05948v1)|null|
-|**2025-01-10**|**Inverse Design of 3D Nanophotonic Devices with Structural Integrity Using Auxiliary Thermal Solvers**|Oliver Kuster et.al.|[2501.05900v1](http://arxiv.org/abs/2501.05900v1)|null|
-|**2025-01-10**|**The Born approximation for the fixed energy Calderón problem**|Fabricio Macià et.al.|[2501.05889v1](http://arxiv.org/abs/2501.05889v1)|null|
-|**2025-01-10**|**UltraRay: Full-Path Ray Tracing for Enhancing Realism in Ultrasound Simulation**|Felix Duelmer et.al.|[2501.05828v1](http://arxiv.org/abs/2501.05828v1)|null|
-|**2025-01-10**|**Self-generated time crystal in hybrid Josephson junctions**|M. Nashaat et.al.|[2501.05797v1](http://arxiv.org/abs/2501.05797v1)|null|
-|**2025-01-10**|**Conditional Diffusion Model for Electrical Impedance Tomography**|Duanpeng Shi et.al.|[2501.05769v1](http://arxiv.org/abs/2501.05769v1)|null|
-|**2025-01-10**|**Deep Reversible Consistency Learning for Cross-modal Retrieval**|Ruitao Pu et.al.|[2501.05686v1](http://arxiv.org/abs/2501.05686v1)|[link](https://github.com/perquisite/drcl)|
-|**2025-01-10**|**Network Diffuser for Placing-Scheduling Service Function Chains with Inverse Demonstration**|Zuyuan Zhang et.al.|[2501.05673v1](http://arxiv.org/abs/2501.05673v1)|null|
-|**2025-01-10**|**Towards optimization of the Josephson diode effect**|Michiyasu Mori et.al.|[2501.05671v1](http://arxiv.org/abs/2501.05671v1)|null|
-|**2025-01-10**|**FIRM: Federated Image Reconstruction using Multimodal Tomographic Data**|Geunyeong Byeon et.al.|[2501.05642v1](http://arxiv.org/abs/2501.05642v1)|null|
-|**2025-01-10**|**Regularized Top-$k$: A Bayesian Framework for Gradient Sparsification**|Ali Bereyhi et.al.|[2501.05633v1](http://arxiv.org/abs/2501.05633v1)|null|
-|**2025-01-09**|**Learned Discrepancy Reconstruction and Benchmark Dataset for Magnetic Particle Imaging**|Meira Iske et.al.|[2501.05583v1](http://arxiv.org/abs/2501.05583v1)|null|
-|**2025-01-09**|**Physics-Driven Learning for Inverse Problems in Quantum Chromodynamics**|Gert Aarts et.al.|[2501.05580v1](http://arxiv.org/abs/2501.05580v1)|null|
-|**2025-01-09**|**Mel-Spectrogram Inversion via Alternating Direction Method of Multipliers**|Yoshiki Masuyama et.al.|[2501.05557v1](http://arxiv.org/abs/2501.05557v1)|null|
-|**2025-01-09**|**Atmospheric stability sets maximum moist heat and convection in the midlatitudes**|Funing Li et.al.|[2501.05351v1](http://arxiv.org/abs/2501.05351v1)|null|
-|**2025-01-09**|**Martian atmospheric disturbances from orbital images and surface pressure at Jezero Crater, Mars, during Martian Year 36**|A. Sánchez-Lavega et.al.|[2501.05337v1](http://arxiv.org/abs/2501.05337v1)|null|
-|**2025-01-09**|**Unveiling structure-property correlations in ferroelectric $Hf_{0.5}Zr_{0.5}O_2$ films using variational autoencoders**|Kévin Alhada-Lahbabi et.al.|[2501.05312v1](http://arxiv.org/abs/2501.05312v1)|null|
-|**2025-01-09**|**Continuity in Potential Infinite Models**|Matthias Eberl et.al.|[2501.05276v1](http://arxiv.org/abs/2501.05276v1)|null|
-|**2025-01-09**|**Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing**|Atharva Mutsaddi et.al.|[2501.05260v1](http://arxiv.org/abs/2501.05260v1)|[link](https://github.com/aditya-choudhary599/Marathi-Plagiarism-Detection)|
-|**2025-01-09**|**A study on the 1-$Γ$ inverse of tensors via the M-Product**|Siran Chen et.al.|[2501.05201v1](http://arxiv.org/abs/2501.05201v1)|null|
-|**2025-01-09**|**Rashba effect modulation in two-dimensional A2B2Te6 (A = Sb, Bi; B = Si, Ge) materials via charge transfer**|Haipeng Wu et.al.|[2501.05191v1](http://arxiv.org/abs/2501.05191v1)|null|
-|**2025-01-09**|**Properties of the one-component Coulomb gas on a sphere with two macroscopic external charges**|Sung-Soo Byun et.al.|[2501.05061v1](http://arxiv.org/abs/2501.05061v1)|null|
+|**2025-01-13**|**A Comprehensive Search for Leptoquarks Decaying into Top-$τ$ Final States at the Future LHC**|Debabrata Sahoo et.al.|[2501.07543v1](http://arxiv.org/abs/2501.07543v1)|null|
+|**2025-01-13**|**Determining Disturbance Recovery Conditions by Inverse Sensitivity Minimization**|Michael W. Fisher et.al.|[2501.07516v1](http://arxiv.org/abs/2501.07516v1)|null|
+|**2025-01-13**|**An inversion formula for the X-ray normal operator over closed hyperbolic surfaces**|Sean Richardson et.al.|[2501.07467v1](http://arxiv.org/abs/2501.07467v1)|null|
+|**2025-01-13**|**Nonreciprocal charge transport in polar Dirac metals with tunable spin-valley coupling**|M. Kondo et.al.|[2501.07442v1](http://arxiv.org/abs/2501.07442v1)|null|
+|**2025-01-13**|**Boundary deformation techniques for Neumann problems for the Helmholtz equation**|Manuel Cañizares et.al.|[2501.07411v1](http://arxiv.org/abs/2501.07411v1)|null|
+|**2025-01-13**|**On the inverse stability of $z^n+c.$**|Yang Gao Qingzhong Ji et.al.|[2501.07409v1](http://arxiv.org/abs/2501.07409v1)|null|
+|**2025-01-13**|**Initial Findings on Sensor based Open Vocabulary Activity Recognition via Text Embedding Inversion**|Lala Shakti Swarup Ray et.al.|[2501.07408v1](http://arxiv.org/abs/2501.07408v1)|null|
+|**2025-01-13**|**Bigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction**|Lukas Glaszner et.al.|[2501.07376v1](http://arxiv.org/abs/2501.07376v1)|null|
+|**2025-01-13**|**Ultrasonic Medical Tissue Imaging Using Probabilistic Inversion: Leveraging Variational Inference for Speed Reconstruction and Uncertainty Quantification**|Qiang Li et.al.|[2501.07348v1](http://arxiv.org/abs/2501.07348v1)|null|
+|**2025-01-13**|**Improving Incremental Nonlinear Dynamic Inversion Robustness Using Robust Control in Aerial Robotics**|Mohamad Hachem et.al.|[2501.07223v1](http://arxiv.org/abs/2501.07223v1)|null|
+|**2025-01-13**|**Provable Low-Rank Tensor-Train Approximations in the Inverse of Large-Scale Structured Matrices**|Chuanfu Xiao et.al.|[2501.07210v1](http://arxiv.org/abs/2501.07210v1)|null|
+|**2025-01-13**|**Myocardial T1 mapping at 5T using multi-inversion recovery real-time spoiled GRE**|Linqi Ge et.al.|[2501.07081v1](http://arxiv.org/abs/2501.07081v1)|null|
+|**2025-01-13**|**The timing and spectral properties of the 2022 outburst of SGR J1935+2154 observed with NICER**|Fu Yu-Cong et.al.|[2501.07049v1](http://arxiv.org/abs/2501.07049v1)|null|
+|**2025-01-12**|**On the origin of heating-induced stiffening and enthalpic reinforcement in elastomeric nanocomposites**|Pierre Kawak et.al.|[2501.06971v1](http://arxiv.org/abs/2501.06971v1)|null|
+|**2025-01-12**|**Doubly Robust Inference on Causal Derivative Effects for Continuous Treatments**|Yikun Zhang et.al.|[2501.06969v1](http://arxiv.org/abs/2501.06969v1)|null|
+|**2025-01-12**|**Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning**|Tribhi Kathuria et.al.|[2501.06946v1](http://arxiv.org/abs/2501.06946v1)|null|
+|**2025-01-12**|**Synthetic Prior for Few-Shot Drivable Head Avatar Inversion**|Wojciech Zielonka et.al.|[2501.06903v1](http://arxiv.org/abs/2501.06903v1)|null|
+|**2025-01-12**|**Stable characterization of diagonal heat kernel upper bounds for symmetric Dirichlet forms**|Soobin Cho et.al.|[2501.06866v1](http://arxiv.org/abs/2501.06866v1)|null|
+|**2025-01-12**|**Symmetry-breaking induced transition among net-zero-magnetization magnets**|San-Dong Guo et.al.|[2501.06829v1](http://arxiv.org/abs/2501.06829v1)|null|
+|**2025-01-12**|**Full-waveform inversion via the scaled boundary finite element method**|Alireza Daneshyar et.al.|[2501.06748v1](http://arxiv.org/abs/2501.06748v1)|null|
+|**2025-01-12**|**Left reductive regular semigroups**|P. A. Azeef Muhammed et.al.|[2501.06676v1](http://arxiv.org/abs/2501.06676v1)|null|
+|**2025-01-11**|**Mean-field behavior of the quantum Ising susceptibility and a new lace expansion for the classical Ising model**|Yoshinori Kamijima et.al.|[2501.06592v1](http://arxiv.org/abs/2501.06592v1)|null|
+|**2025-01-11**|**Is the Monetary Transmission Mechanism Broken? Time for People's Quantitative Easing**|Sebastian Dragoe et.al.|[2501.06575v1](http://arxiv.org/abs/2501.06575v1)|null|
+|**2025-01-11**|**A theoretical analysis on the resolution of parametric PDEs via neural networks designed with Strassen algorithm**|Gonzalo Romera et.al.|[2501.06539v1](http://arxiv.org/abs/2501.06539v1)|null|
+|**2025-01-11**|**Some results on core EP Drazin matrices and partial isometries**|Gholamreza Aghamollaei et.al.|[2501.06520v1](http://arxiv.org/abs/2501.06520v1)|null|
+|**2025-01-11**|**Experimental Evidence of Quantum Drude Oscillator Behavior in Liquids Revealed with Probabilistic Iterative Boltzmann Inversion**|Brennon L. Shanks et.al.|[2501.06501v1](http://arxiv.org/abs/2501.06501v1)|null|
+|**2025-01-11**|**Ptychography using Blind Multi-Mode PMACE**|Qiuchen Zhai et.al.|[2501.06470v1](http://arxiv.org/abs/2501.06470v1)|null|
+|**2025-01-11**|**Holographic Entanglement Entropy as a Probe of Dynamical Criticality in Scalarizing Black Holes**|Yi Li et.al.|[2501.06419v1](http://arxiv.org/abs/2501.06419v1)|null|
+|**2025-01-11**|**Derivative Source Method for Monte Carlo Transport Calculation of Sensitivities to Material Densities and Dimensions**|Ilham Variansyah et.al.|[2501.06397v1](http://arxiv.org/abs/2501.06397v1)|null|
+|**2025-01-11**|**Ultra-compact broadband spot size converter using metamaterial cell-based inverse design**|Alejandro Sánchez-Sánchez et.al.|[2501.06390v1](http://arxiv.org/abs/2501.06390v1)|null|
