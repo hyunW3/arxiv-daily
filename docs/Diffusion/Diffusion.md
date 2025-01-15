@@ -2,6 +2,22 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-14**|**Efficient and Accurate Full-Waveform Inversion with Total Variation Constraint**|Yudai Inada et.al.|[2501.08210v1](http://arxiv.org/abs/2501.08210v1)|null|
+|**2025-01-14**|**D$^2$-DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180v1](http://arxiv.org/abs/2501.08180v1)|[link](https://github.com/taylorjocelyn/d2-dpm)|
+|**2025-01-14**|**DM-Mamba: Dual-domain Multi-scale Mamba for MRI reconstruction**|Yucong Meng et.al.|[2501.08163v1](http://arxiv.org/abs/2501.08163v1)|[link](https://github.com/xiaomenglilili/dm-mamba)|
+|**2025-01-14**|**Probing Spectral Evolution and Intrinsic Variability of Mkn\,421: A Multi-Epoch AstroSat Study of X-ray Spectra**|Sikandar Akbar et.al.|[2501.08073v1](http://arxiv.org/abs/2501.08073v1)|null|
+|**2025-01-14**|**BIAN: A boundary-informed Alone Neural Network for solving PDE-constrained Inverse Problems**|Kegan Li et.al.|[2501.08006v1](http://arxiv.org/abs/2501.08006v1)|null|
+|**2025-01-14**|**Reward Compatibility: A Framework for Inverse RL**|Filippo Lazzati et.al.|[2501.07996v1](http://arxiv.org/abs/2501.07996v1)|null|
+|**2025-01-14**|**The regular singular inverse problem in differential Galois theory**|Thomas Serafini et.al.|[2501.07993v1](http://arxiv.org/abs/2501.07993v1)|null|
+|**2025-01-14**|**Multifractal-enriched mobility edges and emergent quantum phases in one-dimensional exactly solvable lattice models**|Shan-Zhong Li et.al.|[2501.07866v1](http://arxiv.org/abs/2501.07866v1)|null|
+|**2025-01-14**|**Conformal mapping Coordinates Physics-Informed Neural Networks (CoCo-PINNs): learning neural networks for designing neutral inclusions**|Daehee Cho et.al.|[2501.07809v1](http://arxiv.org/abs/2501.07809v1)|null|
+|**2025-01-14**|**BioPose: Biomechanically-accurate 3D Pose Estimation from Monocular Videos**|Farnoosh Koleini et.al.|[2501.07800v1](http://arxiv.org/abs/2501.07800v1)|null|
+|**2025-01-14**|**Self-similar inverse cascade from generalized symmetries**|Yuji Hirono et.al.|[2501.07781v1](http://arxiv.org/abs/2501.07781v1)|null|
+|**2025-01-14**|**Maximum likelihood estimation in the sparse Rasch model**|Pai Peng et.al.|[2501.07770v1](http://arxiv.org/abs/2501.07770v1)|null|
+|**2025-01-13**|**The Reliability of Remotely Piloted Aircraft System Performance under Communication Loss and Latency Uncertainties**|Yutian Pang et.al.|[2501.07743v1](http://arxiv.org/abs/2501.07743v1)|null|
+|**2025-01-13**|**An Adaptive Collocation Point Strategy For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method**|Adrian Celaya et.al.|[2501.07700v1](http://arxiv.org/abs/2501.07700v1)|null|
+|**2025-01-13**|**Generalized Euler numbers and ordered set partitions**|Bruce E. Sagan et.al.|[2501.07692v1](http://arxiv.org/abs/2501.07692v1)|null|
+|**2025-01-13**|**Problem hardness of diluted Ising models: Population Annealing vs Simulated Annealing**|Fernando Martínez-García et.al.|[2501.07638v1](http://arxiv.org/abs/2501.07638v1)|null|
 |**2025-01-13**|**A Comprehensive Search for Leptoquarks Decaying into Top-$τ$ Final States at the Future LHC**|Debabrata Sahoo et.al.|[2501.07543v1](http://arxiv.org/abs/2501.07543v1)|null|
 |**2025-01-13**|**Determining Disturbance Recovery Conditions by Inverse Sensitivity Minimization**|Michael W. Fisher et.al.|[2501.07516v1](http://arxiv.org/abs/2501.07516v1)|null|
 |**2025-01-13**|**An inversion formula for the X-ray normal operator over closed hyperbolic surfaces**|Sean Richardson et.al.|[2501.07467v1](http://arxiv.org/abs/2501.07467v1)|null|
@@ -16,19 +32,3 @@
 |**2025-01-13**|**Myocardial T1 mapping at 5T using multi-inversion recovery real-time spoiled GRE**|Linqi Ge et.al.|[2501.07081v1](http://arxiv.org/abs/2501.07081v1)|null|
 |**2025-01-13**|**The timing and spectral properties of the 2022 outburst of SGR J1935+2154 observed with NICER**|Fu Yu-Cong et.al.|[2501.07049v1](http://arxiv.org/abs/2501.07049v1)|null|
 |**2025-01-12**|**On the origin of heating-induced stiffening and enthalpic reinforcement in elastomeric nanocomposites**|Pierre Kawak et.al.|[2501.06971v1](http://arxiv.org/abs/2501.06971v1)|null|
-|**2025-01-12**|**Doubly Robust Inference on Causal Derivative Effects for Continuous Treatments**|Yikun Zhang et.al.|[2501.06969v1](http://arxiv.org/abs/2501.06969v1)|[link](https://github.com/zhangyk8/npdrderiv)|
-|**2025-01-12**|**Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning**|Tribhi Kathuria et.al.|[2501.06946v1](http://arxiv.org/abs/2501.06946v1)|null|
-|**2025-01-12**|**Synthetic Prior for Few-Shot Drivable Head Avatar Inversion**|Wojciech Zielonka et.al.|[2501.06903v1](http://arxiv.org/abs/2501.06903v1)|null|
-|**2025-01-12**|**Stable characterization of diagonal heat kernel upper bounds for symmetric Dirichlet forms**|Soobin Cho et.al.|[2501.06866v1](http://arxiv.org/abs/2501.06866v1)|null|
-|**2025-01-12**|**Symmetry-breaking induced transition among net-zero-magnetization magnets**|San-Dong Guo et.al.|[2501.06829v1](http://arxiv.org/abs/2501.06829v1)|null|
-|**2025-01-12**|**Full-waveform inversion via the scaled boundary finite element method**|Alireza Daneshyar et.al.|[2501.06748v1](http://arxiv.org/abs/2501.06748v1)|null|
-|**2025-01-12**|**Left reductive regular semigroups**|P. A. Azeef Muhammed et.al.|[2501.06676v1](http://arxiv.org/abs/2501.06676v1)|null|
-|**2025-01-11**|**Mean-field behavior of the quantum Ising susceptibility and a new lace expansion for the classical Ising model**|Yoshinori Kamijima et.al.|[2501.06592v1](http://arxiv.org/abs/2501.06592v1)|null|
-|**2025-01-11**|**Is the Monetary Transmission Mechanism Broken? Time for People's Quantitative Easing**|Sebastian Dragoe et.al.|[2501.06575v1](http://arxiv.org/abs/2501.06575v1)|null|
-|**2025-01-11**|**A theoretical analysis on the resolution of parametric PDEs via neural networks designed with Strassen algorithm**|Gonzalo Romera et.al.|[2501.06539v1](http://arxiv.org/abs/2501.06539v1)|null|
-|**2025-01-11**|**Some results on core EP Drazin matrices and partial isometries**|Gholamreza Aghamollaei et.al.|[2501.06520v1](http://arxiv.org/abs/2501.06520v1)|null|
-|**2025-01-11**|**Experimental Evidence of Quantum Drude Oscillator Behavior in Liquids Revealed with Probabilistic Iterative Boltzmann Inversion**|Brennon L. Shanks et.al.|[2501.06501v1](http://arxiv.org/abs/2501.06501v1)|null|
-|**2025-01-11**|**Ptychography using Blind Multi-Mode PMACE**|Qiuchen Zhai et.al.|[2501.06470v1](http://arxiv.org/abs/2501.06470v1)|null|
-|**2025-01-11**|**Holographic Entanglement Entropy as a Probe of Dynamical Criticality in Scalarizing Black Holes**|Yi Li et.al.|[2501.06419v1](http://arxiv.org/abs/2501.06419v1)|null|
-|**2025-01-11**|**Derivative Source Method for Monte Carlo Transport Calculation of Sensitivities to Material Densities and Dimensions**|Ilham Variansyah et.al.|[2501.06397v1](http://arxiv.org/abs/2501.06397v1)|null|
-|**2025-01-11**|**Ultra-compact broadband spot size converter using metamaterial cell-based inverse design**|Alejandro Sánchez-Sánchez et.al.|[2501.06390v1](http://arxiv.org/abs/2501.06390v1)|null|
