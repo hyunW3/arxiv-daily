@@ -16,7 +16,7 @@
 |**2025-01-13**|**Myocardial T1 mapping at 5T using multi-inversion recovery real-time spoiled GRE**|Linqi Ge et.al.|[2501.07081v1](http://arxiv.org/abs/2501.07081v1)|null|
 |**2025-01-13**|**The timing and spectral properties of the 2022 outburst of SGR J1935+2154 observed with NICER**|Fu Yu-Cong et.al.|[2501.07049v1](http://arxiv.org/abs/2501.07049v1)|null|
 |**2025-01-12**|**On the origin of heating-induced stiffening and enthalpic reinforcement in elastomeric nanocomposites**|Pierre Kawak et.al.|[2501.06971v1](http://arxiv.org/abs/2501.06971v1)|null|
-|**2025-01-12**|**Doubly Robust Inference on Causal Derivative Effects for Continuous Treatments**|Yikun Zhang et.al.|[2501.06969v1](http://arxiv.org/abs/2501.06969v1)|null|
+|**2025-01-12**|**Doubly Robust Inference on Causal Derivative Effects for Continuous Treatments**|Yikun Zhang et.al.|[2501.06969v1](http://arxiv.org/abs/2501.06969v1)|[link](https://github.com/zhangyk8/npdrderiv)|
 |**2025-01-12**|**Learning Implicit Social Navigation Behavior using Deep Inverse Reinforcement Learning**|Tribhi Kathuria et.al.|[2501.06946v1](http://arxiv.org/abs/2501.06946v1)|null|
 |**2025-01-12**|**Synthetic Prior for Few-Shot Drivable Head Avatar Inversion**|Wojciech Zielonka et.al.|[2501.06903v1](http://arxiv.org/abs/2501.06903v1)|null|
 |**2025-01-12**|**Stable characterization of diagonal heat kernel upper bounds for symmetric Dirichlet forms**|Soobin Cho et.al.|[2501.06866v1](http://arxiv.org/abs/2501.06866v1)|null|
