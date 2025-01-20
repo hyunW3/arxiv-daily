@@ -2,6 +2,19 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-17**|**On Ambisonic Source Separation with Spatially Informed Non-negative Tensor Factorization**|Mateusz Guzik et.al.|[2501.10305v1](http://arxiv.org/abs/2501.10305v1)|null|
+|**2025-01-17**|**Linear and Nonlinear Edelstein Effects in Chiral Topological Semimetals**|Haowei Xu et.al.|[2501.10279v1](http://arxiv.org/abs/2501.10279v1)|null|
+|**2025-01-17**|**High flow speeds and transition-region like temperatures in the solar chromosphere during flux emergence**|J. Leenaarts et.al.|[2501.10246v1](http://arxiv.org/abs/2501.10246v1)|null|
+|**2025-01-17**|**Leptogenesis in the presence of density perturbations**|Kenta Hotokezaka et.al.|[2501.10148v1](http://arxiv.org/abs/2501.10148v1)|null|
+|**2025-01-17**|**Lossless data compression at pragmatic rates**|Andreas Theocharous et.al.|[2501.10103v1](http://arxiv.org/abs/2501.10103v1)|null|
+|**2025-01-17**|**Accurate algorithms for Bessel matrices**|Jorge Delgado et.al.|[2501.10076v1](http://arxiv.org/abs/2501.10076v1)|null|
+|**2025-01-17**|**A Family of Controllable Momentum Coefficients for Forward-Backward Accelerated Algorithms**|Mingwei Fu et.al.|[2501.10051v1](http://arxiv.org/abs/2501.10051v1)|null|
+|**2025-01-17**|**Scaling-and-squaring method for computing the inverses of matrix $\varphi$-functions**|Lidia Aceto et.al.|[2501.10028v1](http://arxiv.org/abs/2501.10028v1)|null|
+|**2025-01-17**|**Giant topological Hall effect in epitaxial Ni$_{80}$Fe$_{20}$/La$_{0.65}$Sr$_{0.35}$MnO$_3$ thin film heterostructures**|Kusampal Yadav et.al.|[2501.09969v1](http://arxiv.org/abs/2501.09969v1)|null|
+|**2025-01-17**|**Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09897v1](http://arxiv.org/abs/2501.09897v1)|null|
+|**2025-01-16**|**So long Kolmogorov: the forward and backward turbulence cascades in a supernovae-driven, multiphase interstellar medium**|James R. Beattie et.al.|[2501.09855v1](http://arxiv.org/abs/2501.09855v1)|null|
+|**2025-01-16**|**Adaptive Weighted Total Variation boosted by learning techniques in few-view tomographic imaging**|Elena Morotti et.al.|[2501.09845v1](http://arxiv.org/abs/2501.09845v1)|null|
+|**2025-01-16**|**Scattering, Polyhomogeneity and Asymptotics for Quasilinear Wave Equations From Past to Future Null Infinity**|Istvan Kadar et.al.|[2501.09814v1](http://arxiv.org/abs/2501.09814v1)|null|
 |**2025-01-16**|**Exact Parent Hamiltonians for All Landau Level States in a Half-flux Lattice**|Xin Shen et.al.|[2501.09742v1](http://arxiv.org/abs/2501.09742v1)|null|
 |**2025-01-16**|**Infinity norm bounds for the inverse of Nekrasov matrices using scaling matrices**|Héctor Orera et.al.|[2501.09704v1](http://arxiv.org/abs/2501.09704v1)|null|
 |**2025-01-16**|**On the inverse-closedness of operator-valued matrices with polynomial off-diagonal decay**|Lukas Köhldorfer et.al.|[2501.09603v1](http://arxiv.org/abs/2501.09603v1)|null|
@@ -19,16 +32,3 @@
 |**2025-01-15**|**Family-wise Error Rate Control with E-values**|Will Hartog et.al.|[2501.09015v1](http://arxiv.org/abs/2501.09015v1)|null|
 |**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998v1](http://arxiv.org/abs/2501.08998v1)|null|
 |**2025-01-15**|**Electronic structure of the Kramers nodal-line semimetal YAuGe**|Takashi Kurumaji et.al.|[2501.08973v1](http://arxiv.org/abs/2501.08973v1)|null|
-|**2025-01-15**|**Implicit Time-Marching for Lagrange Multiplier Formulation for Couple Stress Elastodynamics**|Nicolás Guarín-Zapata et.al.|[2501.08954v1](http://arxiv.org/abs/2501.08954v1)|null|
-|**2025-01-15**|**Convergence Analysis of Levenberg-Marquardt Method for Inverse Problem with Hölder Stability Estimate**|Akari Ishida et.al.|[2501.08932v1](http://arxiv.org/abs/2501.08932v1)|null|
-|**2025-01-15**|**Simulating inverse patchy colloid models**|Daniele Notarmuzi et.al.|[2501.08920v1](http://arxiv.org/abs/2501.08920v1)|null|
-|**2025-01-15**|**Pattern Matching Workflows for EBSD Data Analysis: Quartz Chirality Mapping**|Grzegorz Cios et.al.|[2501.08901v1](http://arxiv.org/abs/2501.08901v1)|null|
-|**2025-01-15**|**Ising superconductivity in noncentrosymmetric bulk NbSe2**|Dominik Volavka et.al.|[2501.08867v1](http://arxiv.org/abs/2501.08867v1)|null|
-|**2025-01-15**|**The geometry of moral decision making**|Roland M. Friedrich et.al.|[2501.08865v1](http://arxiv.org/abs/2501.08865v1)|null|
-|**2025-01-15**|**Fermions and Zeta Function on the Graph**|So Matsuura et.al.|[2501.08803v2](http://arxiv.org/abs/2501.08803v2)|null|
-|**2025-01-15**|**On Erlang Queue with Multiple Arrivals and its Time-changed Variant**|R. B. Pote et.al.|[2501.08789v1](http://arxiv.org/abs/2501.08789v1)|null|
-|**2025-01-15**|**Nesterov Acceleration for Ensemble Kalman Inversion and Variants**|Sydney Vernon et.al.|[2501.08779v1](http://arxiv.org/abs/2501.08779v1)|null|
-|**2025-01-15**|**Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction**|Dayoung Baik et.al.|[2501.09049v1](http://arxiv.org/abs/2501.09049v1)|null|
-|**2025-01-15**|**F-Inverse Monoids as Weakly Schreier Extensions**|Peter F. Faul et.al.|[2501.08690v1](http://arxiv.org/abs/2501.08690v1)|null|
-|**2025-01-15**|**Product of Gaussian Mixture Diffusion Model for non-linear MRI Inversion**|Laurenz Nagler et.al.|[2501.08662v1](http://arxiv.org/abs/2501.08662v1)|null|
-|**2025-01-15**|**A Learning Algorithm That Attains the Human Optimum in a Repeated Human-Machine Interaction Game**|Jason T. Isa et.al.|[2501.08626v1](http://arxiv.org/abs/2501.08626v1)|null|
