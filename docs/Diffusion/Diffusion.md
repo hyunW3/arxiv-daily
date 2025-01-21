@@ -30,5 +30,5 @@
 |**2025-01-15**|**TeV afterglow emission from a multi-component GRB jet using the kinetic approach**|John P. Hope et.al.|[2501.09093v1](http://arxiv.org/abs/2501.09093v1)|null|
 |**2025-01-15**|**Generative diffusion model with inverse renormalization group flows**|Kanta Masuki et.al.|[2501.09064v1](http://arxiv.org/abs/2501.09064v1)|[link](https://github.com/kantamasuki/rgdm)|
 |**2025-01-15**|**Family-wise Error Rate Control with E-values**|Will Hartog et.al.|[2501.09015v1](http://arxiv.org/abs/2501.09015v1)|null|
-|**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998v1](http://arxiv.org/abs/2501.08998v1)|null|
+|**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998v1](http://arxiv.org/abs/2501.08998v1)|[link](https://github.com/trachote/crystalgrw)|
 |**2025-01-15**|**Electronic structure of the Kramers nodal-line semimetal YAuGe**|Takashi Kurumaji et.al.|[2501.08973v1](http://arxiv.org/abs/2501.08973v1)|null|
