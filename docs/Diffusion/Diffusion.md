@@ -17,7 +17,7 @@
 |**2025-01-23**|**A Parallel Block Preconditioner-Based VIE-FFT Algorithm for Modeling the Electromagnetic Response From Nanostructures**|Chengnian Huang et.al.|[2501.13512v1](http://arxiv.org/abs/2501.13512v1)|null|
 |**2025-01-23**|**Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data**|Aayush Mishra et.al.|[2501.13483v1](http://arxiv.org/abs/2501.13483v1)|null|
 |**2025-01-23**|**Solving continuum and rarefied flows using differentiable programming**|Tianbai Xiao et.al.|[2501.13478v1](http://arxiv.org/abs/2501.13478v1)|null|
-|**2025-01-23**|**Radio Map Estimation via Latent Domain Plug-and-Play Denoising**|Le Xu et.al.|[2501.13472v1](http://arxiv.org/abs/2501.13472v1)|null|
+|**2025-01-23**|**Radio Map Estimation via Latent Domain Plug-and-Play Denoising**|Le Xu et.al.|[2501.13472v1](http://arxiv.org/abs/2501.13472v1)|[link](https://github.com/xumaomao94/LaPnP)|
 |**2025-01-22**|**MLPs at the EOC: Spectrum of the NTK**|Dávid Terjék et.al.|[2501.13225v1](http://arxiv.org/abs/2501.13225v1)|null|
 |**2025-01-22**|**Learning in Log-Domain: Subthreshold Analog AI Accelerator Based on Stochastic Gradient Descent**|Momen K Tageldeen et.al.|[2501.13181v1](http://arxiv.org/abs/2501.13181v1)|null|
 |**2025-01-22**|**Simulating quantum circuits with arbitrary local noise using Pauli Propagation**|Armando Angrisani et.al.|[2501.13101v1](http://arxiv.org/abs/2501.13101v1)|null|

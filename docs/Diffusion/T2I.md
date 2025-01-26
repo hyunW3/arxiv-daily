@@ -25,7 +25,7 @@
 |**2025-01-23**|**Algebraization of rigid analytic varieties and formal schemes via perfect complexes**|Matteo Montagnani et.al.|[2501.13911v1](http://arxiv.org/abs/2501.13911v1)|null|
 |**2025-01-23**|**Localization and wall-crossing of giant graviton expansions in AdS$_5$**|Giorgos Eleftheriou et.al.|[2501.13910v1](http://arxiv.org/abs/2501.13910v1)|null|
 |**2025-01-23**|**Synchronizing Dynamical Systems: Finitely presented systems and Ruelle algebras**|Robin J. Deeley et.al.|[2501.13909v1](http://arxiv.org/abs/2501.13909v1)|null|
-|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908v1](http://arxiv.org/abs/2501.13908v1)|null|
+|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908v1](http://arxiv.org/abs/2501.13908v1)|[link](https://github.com/davidzwz/cde-cf)|
 |**2025-01-23**|**Graphs with no long claws: An improved bound for the analog of the Gyárfás' path argument**|Romain Bourneuf et.al.|[2501.13907v1](http://arxiv.org/abs/2501.13907v1)|null|
 |**2025-01-23**|**Universal optimality of $T$-avoiding spherical codes and designs**|P. G. Boyvalenkov et.al.|[2501.13906v1](http://arxiv.org/abs/2501.13906v1)|null|
 |**2025-01-23**|**On Learning Representations for Tabular Data Distillation**|Inwon Kang et.al.|[2501.13905v1](http://arxiv.org/abs/2501.13905v1)|null|

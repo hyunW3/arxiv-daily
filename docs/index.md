@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-25 21:10:17 Asia/Shanghai
+ Automated deployment @ 2025-01-26 09:10:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -23,7 +23,7 @@
 |**2025-01-23**|**A Parallel Block Preconditioner-Based VIE-FFT Algorithm for Modeling the Electromagnetic Response From Nanostructures**|Chengnian Huang et.al.|[2501.13512v1](http://arxiv.org/abs/2501.13512v1)|null|
 |**2025-01-23**|**Robust Amortized Bayesian Inference with Self-Consistency Losses on Unlabeled Data**|Aayush Mishra et.al.|[2501.13483v1](http://arxiv.org/abs/2501.13483v1)|null|
 |**2025-01-23**|**Solving continuum and rarefied flows using differentiable programming**|Tianbai Xiao et.al.|[2501.13478v1](http://arxiv.org/abs/2501.13478v1)|null|
-|**2025-01-23**|**Radio Map Estimation via Latent Domain Plug-and-Play Denoising**|Le Xu et.al.|[2501.13472v1](http://arxiv.org/abs/2501.13472v1)|null|
+|**2025-01-23**|**Radio Map Estimation via Latent Domain Plug-and-Play Denoising**|Le Xu et.al.|[2501.13472v1](http://arxiv.org/abs/2501.13472v1)|[link](https://github.com/xumaomao94/LaPnP)|
 |**2025-01-22**|**MLPs at the EOC: Spectrum of the NTK**|Dávid Terjék et.al.|[2501.13225v1](http://arxiv.org/abs/2501.13225v1)|null|
 |**2025-01-22**|**Learning in Log-Domain: Subthreshold Analog AI Accelerator Based on Stochastic Gradient Descent**|Momen K Tageldeen et.al.|[2501.13181v1](http://arxiv.org/abs/2501.13181v1)|null|
 |**2025-01-22**|**Simulating quantum circuits with arbitrary local noise using Pauli Propagation**|Armando Angrisani et.al.|[2501.13101v1](http://arxiv.org/abs/2501.13101v1)|null|
@@ -65,7 +65,7 @@
 |**2025-01-23**|**Algebraization of rigid analytic varieties and formal schemes via perfect complexes**|Matteo Montagnani et.al.|[2501.13911v1](http://arxiv.org/abs/2501.13911v1)|null|
 |**2025-01-23**|**Localization and wall-crossing of giant graviton expansions in AdS$_5$**|Giorgos Eleftheriou et.al.|[2501.13910v1](http://arxiv.org/abs/2501.13910v1)|null|
 |**2025-01-23**|**Synchronizing Dynamical Systems: Finitely presented systems and Ruelle algebras**|Robin J. Deeley et.al.|[2501.13909v1](http://arxiv.org/abs/2501.13909v1)|null|
-|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908v1](http://arxiv.org/abs/2501.13908v1)|null|
+|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908v1](http://arxiv.org/abs/2501.13908v1)|[link](https://github.com/davidzwz/cde-cf)|
 |**2025-01-23**|**Graphs with no long claws: An improved bound for the analog of the Gyárfás' path argument**|Romain Bourneuf et.al.|[2501.13907v1](http://arxiv.org/abs/2501.13907v1)|null|
 |**2025-01-23**|**Universal optimality of $T$-avoiding spherical codes and designs**|P. G. Boyvalenkov et.al.|[2501.13906v1](http://arxiv.org/abs/2501.13906v1)|null|
 |**2025-01-23**|**On Learning Representations for Tabular Data Distillation**|Inwon Kang et.al.|[2501.13905v1](http://arxiv.org/abs/2501.13905v1)|null|
