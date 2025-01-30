@@ -25,7 +25,7 @@
 |**2025-01-27**|**The hidden architecture of equilibrium self-assembly**|Maximilian C. Hübl et.al.|[2501.16107v1](http://arxiv.org/abs/2501.16107v1)|null|
 |**2025-01-27**|**A New Approach for Fourier Extension Based on Weighted Generalized Inverse**|Zhenyu Zhao et.al.|[2501.16096v1](http://arxiv.org/abs/2501.16096v1)|null|
 |**2025-01-27**|**Single-shot capable surface acoustic wave dispersion measurement of a layered plate**|Georg Watzl et.al.|[2501.16001v1](http://arxiv.org/abs/2501.16001v1)|null|
-|**2025-01-27**|**Inverse Reinforcement Learning via Convex Optimization**|Hao Zhu et.al.|[2501.15957v1](http://arxiv.org/abs/2501.15957v1)|null|
+|**2025-01-27**|**Inverse Reinforcement Learning via Convex Optimization**|Hao Zhu et.al.|[2501.15957v1](http://arxiv.org/abs/2501.15957v1)|[link](https://github.com/nrgrp/cvx_irl)|
 |**2025-01-27**|**Evidential Physics-Informed Neural Networks**|Hai Siong Tan et.al.|[2501.15908v1](http://arxiv.org/abs/2501.15908v1)|null|
 |**2025-01-27**|**A monotonicity-based globalization of the level-set method for inclusion detection**|Bastian Harrach et.al.|[2501.15887v1](http://arxiv.org/abs/2501.15887v1)|null|
 |**2025-01-27**|**The mass of hypersurfaces under inversion and rigidity of spheres**|Xuezhang Chen et.al.|[2501.15805v1](http://arxiv.org/abs/2501.15805v1)|null|
