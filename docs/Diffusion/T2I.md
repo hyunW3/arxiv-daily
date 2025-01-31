@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-29**|**Quantum Simulation of non-Abelian Lattice Gauge Theories: a variational approach to $\mathbb{D}_8$**|Emanuele Gaz et.al.|[2501.17863v1](http://arxiv.org/abs/2501.17863v1)|null|
-|**2025-01-29**|**The refractory-to-ice ratio in comet 67P: implications on the composition of the comet-forming region of the protoplanetary disk**|Raphael Marschall et.al.|[2501.17864v1](http://arxiv.org/abs/2501.17864v1)|null|
-|**2025-01-29**|**Direct Search signal of two-component Dark Matter**|Subhaditya Bhattacharya et.al.|[2501.17862v1](http://arxiv.org/abs/2501.17862v1)|null|
-|**2025-01-29**|**Zubarev response approach to polarization phenomena in local equilibrium**|Youyu Li et.al.|[2501.17861v1](http://arxiv.org/abs/2501.17861v1)|null|
-|**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860v1](http://arxiv.org/abs/2501.17860v1)|null|
-|**2025-01-29**|**rEGGression: an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models**|Fabricio Olivetti de Franca et.al.|[2501.17859v1](http://arxiv.org/abs/2501.17859v1)|null|
-|**2025-01-29**|**Improving Your Model Ranking on Chatbot Arena by Vote Rigging**|Rui Min et.al.|[2501.17858v1](http://arxiv.org/abs/2501.17858v1)|[link](https://github.com/sail-sg/rigging-chatbotarena)|
-|**2025-01-29**|**Planetesimal formation in a pressure bump induced by infall**|Haichen Zhao et.al.|[2501.17857v1](http://arxiv.org/abs/2501.17857v1)|null|
-|**2025-01-29**|**Anti-scarring from eigenstate stacking in a chaotic spinor condensate**|Zhongling Lu et.al.|[2501.17856v1](http://arxiv.org/abs/2501.17856v1)|null|
-|**2025-01-29**|**GRACE: Generalizing Robot-Assisted Caregiving with User Functionality Embeddings**|Ziang Liu et.al.|[2501.17855v1](http://arxiv.org/abs/2501.17855v1)|null|
-|**2025-01-29**|**PIETOOLS 2024: User Manual**|Sachin Shivakumar et.al.|[2501.17854v1](http://arxiv.org/abs/2501.17854v1)|null|
-|**2025-01-29**|**Enriched Immersed Finite Element and Isogeometric Analysis -- Algorithms and Data Structures**|Nils Wunsch et.al.|[2501.17853v1](http://arxiv.org/abs/2501.17853v1)|null|
-|**2025-01-29**|**Holographic Fluctuation-Dissipation Relations in Finite Density Systems**|Shivam K. Sharma et.al.|[2501.17852v1](http://arxiv.org/abs/2501.17852v1)|null|
-|**2025-01-29**|**UGSim: Autonomous Buoyancy-Driven Underwater Glider Simulator with LQR Control Strategy and Recursive Guidance System**|Zhizun Xu et.al.|[2501.17851v1](http://arxiv.org/abs/2501.17851v1)|null|
-|**2025-01-29**|**Twisted torus knots with Horadam parameters**|Brandy Doleshal et.al.|[2501.17850v1](http://arxiv.org/abs/2501.17850v1)|null|
-|**2025-01-29**|**Self-organised dynamics and emergent shape spaces of active isotropic fluid surfaces**|Da Gao et.al.|[2501.17849v1](http://arxiv.org/abs/2501.17849v1)|null|
-|**2025-01-29**|**Improving Genetic Programming for Symbolic Regression with Equality Graphs**|Fabricio Olivetti de Franca et.al.|[2501.17848v1](http://arxiv.org/abs/2501.17848v1)|null|
-|**2025-01-29**|**Multi-parameter study of two-axis Hanle magnetometry on the Cs D$_1$ line**|Arturs Mozers et.al.|[2501.17847v1](http://arxiv.org/abs/2501.17847v1)|null|
-|**2025-01-29**|**Predicting the spectrum and decay constants of positive-parity heavy-strange mesons using domain-wall fermions**|Forrest Guyton et.al.|[2501.17846v1](http://arxiv.org/abs/2501.17846v1)|null|
-|**2025-01-29**|**Private Information Retrieval on Multigraph-Based Replicated Storage**|Shreya Meel et.al.|[2501.17845v1](http://arxiv.org/abs/2501.17845v1)|null|
-|**2025-01-29**|**Multi-wavelength and Environmental Properties of Variability Selected Low Luminosity Active Galactic Nuclei**|Heechan Yuk et.al.|[2501.17844v1](http://arxiv.org/abs/2501.17844v1)|null|
-|**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842v1](http://arxiv.org/abs/2501.17842v1)|null|
-|**2025-01-29**|**acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices**|Aude Vuilliomenet et.al.|[2501.17841v1](http://arxiv.org/abs/2501.17841v1)|[link](https://github.com/acoupi/acoupi)|
-|**2025-01-29**|**Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**|Pouya Pezeshkpour et.al.|[2501.17840v1](http://arxiv.org/abs/2501.17840v1)|[link](https://github.com/megagonlabs/insight_miner)|
-|**2025-01-29**|**Unveiling Symmetry Instability induced by Topological Phase Transitions**|Liang Luo et.al.|[2501.17839v1](http://arxiv.org/abs/2501.17839v1)|null|
-|**2025-01-29**|**IRONMAP: Iron Network Mapping and Analysis Protocol for Detecting Over-Time Brain Iron Abnormalities in Neurological Disease**|Jack A. Reeves et.al.|[2501.17838v1](http://arxiv.org/abs/2501.17838v1)|null|
-|**2025-01-29**|**Distinguishing Ordered Phases using Machine Learning and Classical Shadows**|Leandro Morais et.al.|[2501.17837v1](http://arxiv.org/abs/2501.17837v1)|null|
-|**2025-01-29**|**Matrix Product Sketching via Coordinated Sampling**|Majid Daliri et.al.|[2501.17836v1](http://arxiv.org/abs/2501.17836v1)|null|
-|**2025-01-29**|**An Estimator-Robust Design for Augmenting Randomized Controlled Trial with External Real-World Data**|Sky Qiu et.al.|[2501.17835v1](http://arxiv.org/abs/2501.17835v1)|null|
-|**2025-01-29**|**Hierarchical Fallback Architecture for High Risk Online Machine Learning Inference**|Gustavo Polleti et.al.|[2501.17834v1](http://arxiv.org/abs/2501.17834v1)|null|
+|**2025-01-30**|**Boosting galaxy clustering analyses with non-perturbative modelling of redshift-space distortions**|Alexander Eggemeier et.al.|[2501.18597v1](http://arxiv.org/abs/2501.18597v1)|null|
+|**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596v1](http://arxiv.org/abs/2501.18596v1)|null|
+|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595v1](http://arxiv.org/abs/2501.18595v1)|[link](https://github.com/vc-bonn/rosa)|
+|**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594v1](http://arxiv.org/abs/2501.18594v1)|null|
+|**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593v1](http://arxiv.org/abs/2501.18593v1)|null|
+|**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592v1](http://arxiv.org/abs/2501.18592v1)|[link](https://github.com/donghao51/awesome-multimodal-adaptation)|
+|**2025-01-30**|**Non-Hermitian catalysis of density-wave orders on Euclidean and hyperbolic lattices**|Christopher A. Leong et.al.|[2501.18591v1](http://arxiv.org/abs/2501.18591v1)|null|
+|**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590v1](http://arxiv.org/abs/2501.18590v1)|null|
+|**2025-01-30**|**Singlet-only Always-on Gapless Exchange Qubits with Baseband Control**|Nathan L. Foulk et.al.|[2501.18589v1](http://arxiv.org/abs/2501.18589v1)|null|
+|**2025-01-30**|**Inkspire: Supporting Design Exploration with Generative AI through Analogical Sketching**|David Chuan-En Lin et.al.|[2501.18588v1](http://arxiv.org/abs/2501.18588v1)|null|
+|**2025-01-30**|**Entropy functionals and equilibrium states in mixed quantum-classical dynamics**|Cesare Tronci et.al.|[2501.18587v1](http://arxiv.org/abs/2501.18587v1)|null|
+|**2025-01-30**|**Towards more accurate $B_{(s)}\rightarrowπ(K)$ and $D_{(s)}\rightarrowπ(K)$ form factors**|Logan Roberts et.al.|[2501.18586v1](http://arxiv.org/abs/2501.18586v1)|null|
+|**2025-01-30**|**Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs**|Yue Wang et.al.|[2501.18585v1](http://arxiv.org/abs/2501.18585v1)|null|
+|**2025-01-30**|**Corks, exotic 4-manifolds and genus functions**|Kouichi Yasui et.al.|[2501.18584v1](http://arxiv.org/abs/2501.18584v1)|null|
+|**2025-01-30**|**Reducing Simulation Effort for RIS Optimization using an Efficient Far-Field Approximation**|Hans-Dieter Lang et.al.|[2501.18583v1](http://arxiv.org/abs/2501.18583v1)|null|
+|**2025-01-30**|**Accuracy and Robustness of Weight-Balancing Methods for Training PINNs**|Matthieu Barreau et.al.|[2501.18582v1](http://arxiv.org/abs/2501.18582v1)|null|
+|**2025-01-30**|**Bias-variance decompositions: the exclusive privilege of Bregman divergences**|Tom Heskes et.al.|[2501.18581v1](http://arxiv.org/abs/2501.18581v1)|null|
+|**2025-01-30**|**Node Classification and Search on the Rubik's Cube Graph with GNNs**|Alessandro Barro et.al.|[2501.18580v1](http://arxiv.org/abs/2501.18580v1)|null|
+|**2025-01-30**|**Near-Field SAR Imaging of Moving Targets on Roads**|Raz Rajwan et.al.|[2501.18579v1](http://arxiv.org/abs/2501.18579v1)|null|
+|**2025-01-30**|**R.I.P.: Better Models by Survival of the Fittest Prompts**|Ping Yu et.al.|[2501.18578v1](http://arxiv.org/abs/2501.18578v1)|null|
+|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577v1](http://arxiv.org/abs/2501.18577v1)|null|
+|**2025-01-30**|**Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH**|Evgenii Evstafev et.al.|[2501.18576v1](http://arxiv.org/abs/2501.18576v1)|null|
+|**2025-01-30**|**Comparison of lubrication theory and Stokes flow models in step bearings with flow separation**|Sarah Dennis et.al.|[2501.18575v1](http://arxiv.org/abs/2501.18575v1)|[link](https://github.com/sarah-dennis/Stokes-Reynolds)|
+|**2025-01-30**|**Inductive methods for counting number fields**|Brandon Alberts et.al.|[2501.18574v1](http://arxiv.org/abs/2501.18574v1)|null|
+|**2025-01-30**|**Symmetries of Weyl Superconductors with Different Pairings**|Mehran Z. Abyaneh et.al.|[2501.18573v1](http://arxiv.org/abs/2501.18573v1)|null|
+|**2025-01-30**|**Optimum Monitoring and Job Assignment with Multiple Markov Machines**|Sahan Liyanaarachchi et.al.|[2501.18572v1](http://arxiv.org/abs/2501.18572v1)|null|
+|**2025-01-30**|**Aggregation-Confinement-Diffusion Evolutions with Saturation: Regularity and Long-Time Asymptotics**|Yousef Alamri et.al.|[2501.18571v1](http://arxiv.org/abs/2501.18571v1)|null|
+|**2025-01-30**|**On the intersection of pairs of trees**|Miklos Bona et.al.|[2501.18570v1](http://arxiv.org/abs/2501.18570v1)|null|
+|**2025-01-30**|**Derivation of the free energy, entropy and specific heat for planar Ising models: Application to Archimedean lattices and their duals**|Laurent Pierre et.al.|[2501.18569v1](http://arxiv.org/abs/2501.18569v1)|null|
+|**2025-01-30**|**Freeze-and-release direct optimization method for variational calculations of excited electronic states**|Yorick L. A. Schmerwitz et.al.|[2501.18568v1](http://arxiv.org/abs/2501.18568v1)|null|
