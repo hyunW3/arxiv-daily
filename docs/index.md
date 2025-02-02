@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-02 09:11:16 Asia/Shanghai
+ Automated deployment @ 2025-02-02 20:25:20 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,11 +8,11 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595v1](http://arxiv.org/abs/2501.18595v1)|[link](https://github.com/vc-bonn/rosa)|
+|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595v1](http://arxiv.org/abs/2501.18595v1)|null|
 |**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590v1](http://arxiv.org/abs/2501.18590v1)|null|
 |**2025-01-30**|**High-resolution deuterium metabolic imaging of the human brain at 9.4 T using bSSFP spectral-spatial acquisitions**|Praveen Iyyappan Valsala et.al.|[2501.18567v1](http://arxiv.org/abs/2501.18567v1)|[link](https://github.com/praveenivp/DeuteMetCon)|
 |**2025-01-30**|**Transverse spin photocurrents in ultrathin topological insulator films**|Shahrzad Movafagh et.al.|[2501.18547v1](http://arxiv.org/abs/2501.18547v1)|null|
-|**2025-01-30**|**Path Planning and Optimization for Cuspidal 6R Manipulators**|Alexander J. Elias et.al.|[2501.18505v1](http://arxiv.org/abs/2501.18505v1)|null|
+|**2025-01-30**|**Path Planning and Optimization for Cuspidal 6R Manipulators**|Alexander J. Elias et.al.|[2501.18505v1](http://arxiv.org/abs/2501.18505v1)|[link](https://github.com/rpirobotics/cuspidal-path-planning)|
 |**2025-01-30**|**Multisoliton solutions and blow up for the $L^2$-critical Hartree equation**|Jaime Gómez et.al.|[2501.18398v1](http://arxiv.org/abs/2501.18398v1)|null|
 |**2025-01-30**|**Estimating unknown dynamics and cost as a bilinear system with Koopman-based Inverse Optimal Control**|Victor Nan Fernandez-Ayala et.al.|[2501.18318v1](http://arxiv.org/abs/2501.18318v1)|null|
 |**2025-01-30**|**Sebra: Debiasing Through Self-Guided Bias Ranking**|Adarsh Kappiyath et.al.|[2501.18277v1](http://arxiv.org/abs/2501.18277v1)|null|
@@ -44,7 +44,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-01-30**|**Boosting galaxy clustering analyses with non-perturbative modelling of redshift-space distortions**|Alexander Eggemeier et.al.|[2501.18597v1](http://arxiv.org/abs/2501.18597v1)|null|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596v1](http://arxiv.org/abs/2501.18596v1)|null|
-|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595v1](http://arxiv.org/abs/2501.18595v1)|[link](https://github.com/vc-bonn/rosa)|
+|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595v1](http://arxiv.org/abs/2501.18595v1)|null|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594v1](http://arxiv.org/abs/2501.18594v1)|null|
 |**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593v1](http://arxiv.org/abs/2501.18593v1)|null|
 |**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592v1](http://arxiv.org/abs/2501.18592v1)|[link](https://github.com/donghao51/awesome-multimodal-adaptation)|
@@ -62,7 +62,7 @@
 |**2025-01-30**|**Node Classification and Search on the Rubik's Cube Graph with GNNs**|Alessandro Barro et.al.|[2501.18580v1](http://arxiv.org/abs/2501.18580v1)|null|
 |**2025-01-30**|**Near-Field SAR Imaging of Moving Targets on Roads**|Raz Rajwan et.al.|[2501.18579v1](http://arxiv.org/abs/2501.18579v1)|null|
 |**2025-01-30**|**R.I.P.: Better Models by Survival of the Fittest Prompts**|Ping Yu et.al.|[2501.18578v1](http://arxiv.org/abs/2501.18578v1)|null|
-|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577v1](http://arxiv.org/abs/2501.18577v1)|null|
+|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577v1](http://arxiv.org/abs/2501.18577v1)|[link](https://github.com/DanKluger/Predict-Then-Debias_Bootstrap)|
 |**2025-01-30**|**Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH**|Evgenii Evstafev et.al.|[2501.18576v1](http://arxiv.org/abs/2501.18576v1)|null|
 |**2025-01-30**|**Comparison of lubrication theory and Stokes flow models in step bearings with flow separation**|Sarah Dennis et.al.|[2501.18575v1](http://arxiv.org/abs/2501.18575v1)|[link](https://github.com/sarah-dennis/Stokes-Reynolds)|
 |**2025-01-30**|**Inductive methods for counting number fields**|Brandon Alberts et.al.|[2501.18574v1](http://arxiv.org/abs/2501.18574v1)|null|

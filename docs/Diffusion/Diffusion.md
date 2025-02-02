@@ -2,11 +2,11 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595v1](http://arxiv.org/abs/2501.18595v1)|[link](https://github.com/vc-bonn/rosa)|
+|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595v1](http://arxiv.org/abs/2501.18595v1)|null|
 |**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590v1](http://arxiv.org/abs/2501.18590v1)|null|
 |**2025-01-30**|**High-resolution deuterium metabolic imaging of the human brain at 9.4 T using bSSFP spectral-spatial acquisitions**|Praveen Iyyappan Valsala et.al.|[2501.18567v1](http://arxiv.org/abs/2501.18567v1)|[link](https://github.com/praveenivp/DeuteMetCon)|
 |**2025-01-30**|**Transverse spin photocurrents in ultrathin topological insulator films**|Shahrzad Movafagh et.al.|[2501.18547v1](http://arxiv.org/abs/2501.18547v1)|null|
-|**2025-01-30**|**Path Planning and Optimization for Cuspidal 6R Manipulators**|Alexander J. Elias et.al.|[2501.18505v1](http://arxiv.org/abs/2501.18505v1)|null|
+|**2025-01-30**|**Path Planning and Optimization for Cuspidal 6R Manipulators**|Alexander J. Elias et.al.|[2501.18505v1](http://arxiv.org/abs/2501.18505v1)|[link](https://github.com/rpirobotics/cuspidal-path-planning)|
 |**2025-01-30**|**Multisoliton solutions and blow up for the $L^2$-critical Hartree equation**|Jaime Gómez et.al.|[2501.18398v1](http://arxiv.org/abs/2501.18398v1)|null|
 |**2025-01-30**|**Estimating unknown dynamics and cost as a bilinear system with Koopman-based Inverse Optimal Control**|Victor Nan Fernandez-Ayala et.al.|[2501.18318v1](http://arxiv.org/abs/2501.18318v1)|null|
 |**2025-01-30**|**Sebra: Debiasing Through Self-Guided Bias Ranking**|Adarsh Kappiyath et.al.|[2501.18277v1](http://arxiv.org/abs/2501.18277v1)|null|
