@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-01-31**|**Fixed-Population Causal Inference for Models of Equilibrium**|Konrad Menzel et.al.|[2501.19394v1](http://arxiv.org/abs/2501.19394v1)|null|
-|**2025-01-31**|**Multi-Frame Blind Manifold Deconvolution for Rotating Synthetic Aperture Imaging**|Dao Lin et.al.|[2501.19386v1](http://arxiv.org/abs/2501.19386v1)|null|
-|**2025-01-31**|**Optimal transportation and pressure at zero temperature**|Jairo K. Mengue et.al.|[2501.19369v1](http://arxiv.org/abs/2501.19369v1)|null|
-|**2025-01-31**|**Ultrametric spaces and clouds**|I. N. Mikhailov et.al.|[2501.19346v1](http://arxiv.org/abs/2501.19346v1)|null|
-|**2025-01-31**|**Resummation for Lattice QCD Calculation of Generalized Parton Distributions at Nonzero Skewness**|Jack Holligan et.al.|[2501.19225v1](http://arxiv.org/abs/2501.19225v1)|null|
-|**2025-01-31**|**Spin Hall magnetoresistance at the altermagnetic insulator/Pt interface**|Miina Leiviskä et.al.|[2501.19198v1](http://arxiv.org/abs/2501.19198v1)|null|
-|**2025-01-31**|**A theoretical framework for overfitting in energy-based modeling**|Giovanni Catania et.al.|[2501.19158v1](http://arxiv.org/abs/2501.19158v1)|null|
-|**2025-01-31**|**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities**|Arjun Krishna et.al.|[2501.19012v1](http://arxiv.org/abs/2501.19012v1)|null|
-|**2025-01-31**|**Solving Inverse Problem for Multi-armed Bandits via Convex Optimization**|Hao Zhu et.al.|[2501.18945v1](http://arxiv.org/abs/2501.18945v1)|[link](https://github.com/nrgrp/cvx_imab)|
-|**2025-01-31**|**Deep Learning Model Inversion Attacks and Defenses: A Comprehensive Survey**|Wencheng Yang et.al.|[2501.18934v1](http://arxiv.org/abs/2501.18934v1)|null|
-|**2025-01-31**|**Rethinking Diffusion Posterior Sampling: From Conditional Score Estimator to Maximizing a Posterior**|Tongda Xu et.al.|[2501.18913v1](http://arxiv.org/abs/2501.18913v1)|[link](https://github.com/tongdaxu/rethinking-diffusion-posterior-sampling-from-conditional-score-estimator-to-maximizing-a-posterior)|
-|**2025-01-31**|**Bayesian mixture modeling using a mixture of finite mixtures with normalized inverse Gaussian weights**|Fumiya Iwashige et.al.|[2501.18854v1](http://arxiv.org/abs/2501.18854v1)|null|
-|**2025-01-30**|**Deceptive Sequential Decision-Making via Regularized Policy Optimization**|Yerin Kim et.al.|[2501.18803v1](http://arxiv.org/abs/2501.18803v1)|null|
-|**2025-01-30**|**Cosmic Rays Masquerading as Hot CGM Gas: An Inverse-Compton Origin for Diffuse X-ray Emission in the Circumgalactic Medium**|Philip F. Hopkins et.al.|[2501.18696v1](http://arxiv.org/abs/2501.18696v1)|null|
-|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595v1](http://arxiv.org/abs/2501.18595v1)|null|
-|**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590v1](http://arxiv.org/abs/2501.18590v1)|null|
-|**2025-01-30**|**High-resolution deuterium metabolic imaging of the human brain at 9.4 T using bSSFP spectral-spatial acquisitions**|Praveen Iyyappan Valsala et.al.|[2501.18567v1](http://arxiv.org/abs/2501.18567v1)|[link](https://github.com/praveenivp/DeuteMetCon)|
-|**2025-01-30**|**Transverse spin photocurrents in ultrathin topological insulator films**|Shahrzad Movafagh et.al.|[2501.18547v1](http://arxiv.org/abs/2501.18547v1)|null|
-|**2025-01-30**|**Path Planning and Optimization for Cuspidal 6R Manipulators**|Alexander J. Elias et.al.|[2501.18505v1](http://arxiv.org/abs/2501.18505v1)|[link](https://github.com/rpirobotics/cuspidal-path-planning)|
-|**2025-01-30**|**Multisoliton solutions and blow up for the $L^2$-critical Hartree equation**|Jaime Gómez et.al.|[2501.18398v1](http://arxiv.org/abs/2501.18398v1)|null|
-|**2025-01-30**|**Estimating unknown dynamics and cost as a bilinear system with Koopman-based Inverse Optimal Control**|Victor Nan Fernandez-Ayala et.al.|[2501.18318v1](http://arxiv.org/abs/2501.18318v1)|null|
-|**2025-01-30**|**Sebra: Debiasing Through Self-Guided Bias Ranking**|Adarsh Kappiyath et.al.|[2501.18277v1](http://arxiv.org/abs/2501.18277v1)|null|
-|**2025-01-30**|**Inverse source problem of sub-diffusion of variable exponent**|Zhiyuan Li et.al.|[2501.18228v1](http://arxiv.org/abs/2501.18228v1)|null|
-|**2025-01-30**|**StructuredField: Unifying Structured Geometry and Radiance Field**|Kaiwen Song et.al.|[2501.18152v1](http://arxiv.org/abs/2501.18152v1)|null|
-|**2025-01-30**|**Nonlocal prior mixture-based Bayesian wavelet regression**|Nilotpal Sanyal et.al.|[2501.18134v1](http://arxiv.org/abs/2501.18134v1)|null|
-|**2025-01-30**|**$ΔI =1/2$ process of $K\toππ$ decay on multiple ensembles with periodic boundary conditions**|Masaaki Tomii et.al.|[2501.18077v1](http://arxiv.org/abs/2501.18077v1)|null|
-|**2025-01-29**|**Ultrafast Inverse Design of Electromagnetic Devices**|Yifei Zheng et.al.|[2501.18054v1](http://arxiv.org/abs/2501.18054v1)|null|
-|**2025-01-29**|**X-ray Spectra from General Relativistic RMHD Simulations of Thin Disks**|Nathaniel Roth et.al.|[2501.18040v1](http://arxiv.org/abs/2501.18040v1)|null|
-|**2025-01-29**|**Fractal algorithm for multiple lens analyses**|Fumio Abe et.al.|[2501.18032v1](http://arxiv.org/abs/2501.18032v1)|[link](https://github.com/fabe758/frame)|
-|**2025-01-29**|**On the removal of the barotropic condition in helicity studies of the compressible Euler and ideal compressible MHD equations**|Daniel W. Boutros et.al.|[2501.17990v1](http://arxiv.org/abs/2501.17990v1)|null|
+|**2025-02-04**|**$O(a)$-improved QCD+QED Wilson Dirac operator on GPUs**|Anian Altherr et.al.|[2502.02490v1](http://arxiv.org/abs/2502.02490v1)|null|
+|**2025-02-04**|**A Fast Decoding Algorithm for Generalized Reed-Solomon Codes and Alternant Codes**|Nianqi Tang et.al.|[2502.02356v1](http://arxiv.org/abs/2502.02356v1)|null|
+|**2025-02-04**|**Quasiparticle interference on the surface of Bi$_{\mathbf{2}}$Se$_{\mathbf{3}}$ terminated (PbSe)$_{\mathbf 5}$(Bi$_{\mathbf 2}$Se$_{\mathbf 3}$)$_{\mathbf 6}$**|Mahasweta Bagchi et.al.|[2502.02312v1](http://arxiv.org/abs/2502.02312v1)|null|
+|**2025-02-04**|**Iterative Refinement and Flexible Iteratively Reweighed Solvers for Linear Inverse Problems with Sparse Solutions**|Lucas Onisk et.al.|[2502.02303v1](http://arxiv.org/abs/2502.02303v1)|null|
+|**2025-02-04**|**Burnett-level discrete Boltzmann modeling of compressible flows under force**|Suni Chen et.al.|[2502.02241v1](http://arxiv.org/abs/2502.02241v1)|null|
+|**2025-02-04**|**Instrumental distortions in quantum optimal control**|Uluk Rasulov et.al.|[2502.02198v1](http://arxiv.org/abs/2502.02198v1)|null|
+|**2025-02-04**|**EFKAN: A KAN-Integrated Neural Operator For Efficient Magnetotelluric Forward Modeling**|Feng Wang et.al.|[2502.02195v1](http://arxiv.org/abs/2502.02195v1)|null|
+|**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150v1](http://arxiv.org/abs/2502.02150v1)|null|
+|**2025-02-04**|**Improving Power Plant CO2 Emission Estimation with Deep Learning and Satellite/Simulated Data**|Dibyabha Deb et.al.|[2502.02083v1](http://arxiv.org/abs/2502.02083v1)|[link](https://github.com/Dibyabha/dl-co2-pp)|
+|**2025-02-04**|**Inversion of generalized Radon transform over symmetric $m$-tensor fields in $\mathbb{R}^n$**|Anuj Abhishek et.al.|[2502.02058v1](http://arxiv.org/abs/2502.02058v1)|null|
+|**2025-02-04**|**RAPID: Robust and Agile Planner Using Inverse Reinforcement Learning for Vision-Based Drone Navigation**|Minwoo Kim et.al.|[2502.02054v1](http://arxiv.org/abs/2502.02054v1)|null|
+|**2025-02-04**|**SMTFL: Secure Model Training to Untrusted Participants in Federated Learning**|Zhihui Zhao et.al.|[2502.02038v1](http://arxiv.org/abs/2502.02038v1)|null|
+|**2025-02-04**|**MORPH-LER: Log-Euclidean Regularization for Population-Aware Image Registration**|Mokshagna Sai Teja Karanam et.al.|[2502.02029v1](http://arxiv.org/abs/2502.02029v1)|null|
+|**2025-02-04**|**ReMiDi: Reconstruction of Microstructure Using a Differentiable Diffusion MRI Simulator**|Prathamesh Pradeep Khole et.al.|[2502.01988v1](http://arxiv.org/abs/2502.01988v1)|null|
+|**2025-02-04**|**Rocketquake Seismology with a Falcon 9 Rocket Source**|Gerard. T. Schuster et.al.|[2502.01982v1](http://arxiv.org/abs/2502.01982v1)|null|
+|**2025-02-03**|**Sparse Measurement Medical CT Reconstruction using Multi-Fused Block Matching Denoising Priors**|Maliha Hossain et.al.|[2502.01832v1](http://arxiv.org/abs/2502.01832v1)|null|
+|**2025-02-03**|**General kinetic ion induced electron emission model for metallic walls applied to biased Z-pinch electrodes**|Chirag R. Skolar et.al.|[2502.01802v1](http://arxiv.org/abs/2502.01802v1)|null|
+|**2025-02-03**|**Relators and Notions of Simulation Revisited**|Sergey Goncharov et.al.|[2502.01790v1](http://arxiv.org/abs/2502.01790v1)|null|
+|**2025-02-03**|**Cavity-enhanced solid-state nuclear spin gyroscope**|Hanfeng Wang et.al.|[2502.01769v1](http://arxiv.org/abs/2502.01769v1)|null|
+|**2025-02-03**|**Speedups in nonequilibrium thermal relaxation: Mpemba and related effects**|Gianluca Teza et.al.|[2502.01758v1](http://arxiv.org/abs/2502.01758v1)|null|
+|**2025-02-03**|**Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning**|Udita Ghosh et.al.|[2502.01616v1](http://arxiv.org/abs/2502.01616v1)|null|
+|**2025-02-03**|**Graphene intercalation of the large gap quantum spin Hall insulator bismuthene**|Lukas Gehrig et.al.|[2502.01592v1](http://arxiv.org/abs/2502.01592v1)|null|
+|**2025-02-03**|**Heterogeneous Treatment Effect in Time-to-Event Outcomes: Harnessing Censored Data with Recursively Imputed Trees**|Tomer Meir et.al.|[2502.01575v1](http://arxiv.org/abs/2502.01575v1)|null|
+|**2025-02-03**|**Observation Noise and Initialization in Wide Neural Networks**|Sergio Calvo-Ordoñez et.al.|[2502.01556v1](http://arxiv.org/abs/2502.01556v1)|null|
+|**2025-02-03**|**Quantum Geometric Origin of Strain-Induced Ferroelectric Phase Transitions**|Jiaming Hu et.al.|[2502.01463v1](http://arxiv.org/abs/2502.01463v1)|null|
+|**2025-02-03**|**Numerical reconstruction of orders in coupled systems of subdiffusion equations**|Yikan Liu et.al.|[2502.01413v1](http://arxiv.org/abs/2502.01413v1)|null|
+|**2025-02-03**|**The Weitzman Premium on the Social Cost of Carbon**|Jinchi Dong et.al.|[2502.01394v1](http://arxiv.org/abs/2502.01394v1)|null|
+|**2025-02-03**|**Generalized Counting Process with Random Drift and Different Brownian Clocks**|Mostafizar Khandakar et.al.|[2502.01363v1](http://arxiv.org/abs/2502.01363v1)|null|
+|**2025-02-03**|**Inverse Bridge Matching Distillation**|Nikita Gushchin et.al.|[2502.01362v1](http://arxiv.org/abs/2502.01362v1)|null|
+|**2025-02-03**|**PtyGenography: using generative models for regularization of the phase retrieval problem**|Selin Aslan et.al.|[2502.01338v1](http://arxiv.org/abs/2502.01338v1)|null|
