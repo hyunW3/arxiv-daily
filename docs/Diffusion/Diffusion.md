@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127v1](http://arxiv.org/abs/2502.05127v1)|null|
-|**2025-02-07**|**Linear-limit aging times of three monoalcohols**|Jan Philipp Gabriel et.al.|[2502.04971v1](http://arxiv.org/abs/2502.04971v1)|null|
-|**2025-02-07**|**Insights Into Neutron Stars From Gravitational Redshifts and Universal Relations**|Sagnik Chatterjee et.al.|[2502.04943v1](http://arxiv.org/abs/2502.04943v1)|null|
-|**2025-02-07**|**Optical orientation of excitons and charged carriers in MAPbI$_3$ perovskite single crystals in the orthorhombic phase**|Nataliia E. Kopteva et.al.|[2502.04902v1](http://arxiv.org/abs/2502.04902v1)|null|
-|**2025-02-07**|**Crossover from Wannier-Stark localization to charge density waves for interacting spinless fermions in one dimension**|Nair Aucar Boidi et.al.|[2502.04866v1](http://arxiv.org/abs/2502.04866v1)|null|
-|**2025-02-07**|**On the submonoid membership problem for HNN extensions of free groups**|Jonathan Warne et.al.|[2502.04865v1](http://arxiv.org/abs/2502.04865v1)|null|
-|**2025-02-07**|**A time-dependent inverse source problem for a semilinear pseudo-parabolic equation with Neumann boundary condition**|K. Van Bockstal et.al.|[2502.04821v1](http://arxiv.org/abs/2502.04821v1)|null|
-|**2025-02-07**|**Solar flares as electron accelerators: toward a resolution of the acceleration efficiency issue**|Anna Volpara et.al.|[2502.04769v1](http://arxiv.org/abs/2502.04769v1)|null|
-|**2025-02-07**|**Optimistic Algorithms for Adaptive Estimation of the Average Treatment Effect**|Ojash Neopane et.al.|[2502.04673v1](http://arxiv.org/abs/2502.04673v1)|null|
-|**2025-02-07**|**Dual Core-EP Generalized Inverse and Decomposition**|Bibekananda Sitha et.al.|[2502.04652v1](http://arxiv.org/abs/2502.04652v1)|null|
-|**2025-02-07**|**Cross-Encoder Rediscovers a Semantic Variant of BM25**|Meng Lu et.al.|[2502.04645v1](http://arxiv.org/abs/2502.04645v1)|null|
-|**2025-02-07**|**The Conundrum of Diffuse Basis Sets: A Blessing for Accuracy yet a Curse for Sparsity**|Henryk Laqua et.al.|[2502.04631v1](http://arxiv.org/abs/2502.04631v1)|null|
-|**2025-02-07**|**Investigating the effects of QCD matter's electrical conductivity on charge dependent directed flow**|Nicholas J. Benoit et.al.|[2502.04611v1](http://arxiv.org/abs/2502.04611v1)|null|
-|**2025-02-07**|**An inverse potential problem for the stochastic heat equation with space-time noise**|Peijun Li et.al.|[2502.04594v1](http://arxiv.org/abs/2502.04594v1)|null|
-|**2025-02-06**|**Two Absolutely Irreducible Polynomials over $\Bbb F_2$ and Their Applications to a Conjecture by Carlet**|Xiang-dong Hou et.al.|[2502.04545v1](http://arxiv.org/abs/2502.04545v1)|null|
-|**2025-02-06**|**Magnetic Reconnection in a Compact Magnetic Dome: Peculiar Emissions and High-velocity Plasma Flows**|J. M. da Silva Santos et.al.|[2502.04292v1](http://arxiv.org/abs/2502.04292v1)|null|
-|**2025-02-06**|**Gaussian Process Regression for Inverse Problems in Linear PDEs**|Xin Li et.al.|[2502.04276v1](http://arxiv.org/abs/2502.04276v1)|null|
-|**2025-02-06**|**Electrical Impedance Tomography for Anisotropic Media: a Machine Learning Approach to Classify Inclusions**|Romina Gaburro et.al.|[2502.04273v1](http://arxiv.org/abs/2502.04273v1)|null|
-|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263v1](http://arxiv.org/abs/2502.04263v1)|null|
-|**2025-02-06**|**Student-t processes as infinite-width limits of posterior Bayesian neural networks**|Francesco Caporali et.al.|[2502.04247v1](http://arxiv.org/abs/2502.04247v1)|null|
-|**2025-02-06**|**Recovering sparse DFT from missing signals via interior point method on GPU**|Wei Kuang et.al.|[2502.04217v1](http://arxiv.org/abs/2502.04217v1)|null|
-|**2025-02-06**|**On a (terminally connected, pro-etale) factorization of geometric morphisms**|Olivia Caramello et.al.|[2502.04213v1](http://arxiv.org/abs/2502.04213v1)|null|
-|**2025-02-06**|**The Effects of Kinematic MHD on the Atmospheric Circulation of Eccentric Hot Jupiters**|Hayley Beltz et.al.|[2502.04169v1](http://arxiv.org/abs/2502.04169v1)|null|
-|**2025-02-06**|**Diffusion-based mass map reconstruction from weak lensing data**|Supranta S. Boruah et.al.|[2502.04158v1](http://arxiv.org/abs/2502.04158v1)|null|
-|**2025-02-06**|**Localizing invariants of inverse limits**|Alexander I. Efimov et.al.|[2502.04123v1](http://arxiv.org/abs/2502.04123v1)|null|
-|**2025-02-06**|**Coincidence of critical points for directed polymers for general environments and random walks**|Stefan Junk et.al.|[2502.04113v1](http://arxiv.org/abs/2502.04113v1)|null|
-|**2025-02-06**|**Revisiting convolutive blind source separation for identifying spiking motor neuron activity: From theory to practice**|Thomas Klotz et.al.|[2502.04065v1](http://arxiv.org/abs/2502.04065v1)|null|
-|**2025-02-06**|**Using Lagrangian descriptors to reveal the phase space structure of dynamical systems described by fractional differential equations: Application to the Duffing oscillator**|Dylan Theron et.al.|[2502.03968v1](http://arxiv.org/abs/2502.03968v1)|null|
-|**2025-02-06**|**Partially connected contributions to baryon masses in QCD+QED**|Anian Altherr et.al.|[2502.03961v1](http://arxiv.org/abs/2502.03961v1)|null|
-|**2025-02-06**|**Thermal Model Calibration of a Squirrel-Cage Induction Machine**|Leon Blumrich et.al.|[2502.03935v1](http://arxiv.org/abs/2502.03935v1)|null|
+|**2025-02-10**|**Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists**|Bojia Zi et.al.|[2502.06734v1](http://arxiv.org/abs/2502.06734v1)|null|
+|**2025-02-10**|**Refined topology of the N = 20 island of inversion with high precision mass measurements of $^{31-33}$Na and $^{31-35}$Mg**|E. M. Lykiardopoulou et.al.|[2502.06720v1](http://arxiv.org/abs/2502.06720v1)|null|
+|**2025-02-10**|**Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gaussian Processes with Finite Index Sets**|Yifeng Chu et.al.|[2502.06709v1](http://arxiv.org/abs/2502.06709v1)|null|
+|**2025-02-10**|**The chiral critical point from the strong coupling expansion**|Jangho Kim et.al.|[2502.06679v1](http://arxiv.org/abs/2502.06679v1)|null|
+|**2025-02-10**|**Joint parameter and state estimation for regularized time-discrete multibody dynamics**|Hannes Marklund et.al.|[2502.06599v1](http://arxiv.org/abs/2502.06599v1)|null|
+|**2025-02-10**|**Diffeomorphic Temporal Alignment Nets for Time-series Joint Alignment and Averaging**|Ron Shapira Weber et.al.|[2502.06591v1](http://arxiv.org/abs/2502.06591v1)|null|
+|**2025-02-10**|**Initial boundary value problems for time-fractional evolution equations in Banach spaces**|Giuseppe Floridia et.al.|[2502.06554v1](http://arxiv.org/abs/2502.06554v1)|null|
+|**2025-02-10**|**Laser-induced droplet deformation: curvature inversion explained from instantaneous pressure impulse**|Hugo França et.al.|[2502.06417v1](http://arxiv.org/abs/2502.06417v1)|null|
+|**2025-02-10**|**Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo**|Filip Ekström Kelvinius et.al.|[2502.06379v1](http://arxiv.org/abs/2502.06379v1)|null|
+|**2025-02-10**|**An Iterative Block Matrix Inversion (IBMI) Algorithm for Symmetric Positive Definite Matrices with Applications to Covariance Matrices**|Ann Paterson et.al.|[2502.06377v1](http://arxiv.org/abs/2502.06377v1)|null|
+|**2025-02-10**|**Spectral-factorized Positive-definite Curvature Learning for NN Training**|Wu Lin et.al.|[2502.06268v1](http://arxiv.org/abs/2502.06268v1)|null|
+|**2025-02-10**|**DGNO: A Novel Physics-aware Neural Operator for Solving Forward and Inverse PDE Problems based on Deep, Generative Probabilistic Modeling**|Yaohua Zang et.al.|[2502.06250v1](http://arxiv.org/abs/2502.06250v1)|null|
+|**2025-02-10**|**Even denominator fractional quantum Hall states in the zeroth Landau level of monolayer-like band of ABA trilayer graphene**|Tanima Chanda et.al.|[2502.06245v1](http://arxiv.org/abs/2502.06245v1)|null|
+|**2025-02-10**|**Error analysis of the space-time interface-fitted finite element method for an inverse source problem for an advection-diffusion equation with moving subdomains**|Thi Thanh Mai Ta et.al.|[2502.06176v1](http://arxiv.org/abs/2502.06176v1)|null|
+|**2025-02-10**|**Quantum Turbulence Across Dimensions: Crossover from two- to three-dimension**|Weican Yang et.al.|[2502.06133v1](http://arxiv.org/abs/2502.06133v1)|null|
+|**2025-02-10**|**Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models**|Ce Zhang et.al.|[2502.06130v1](http://arxiv.org/abs/2502.06130v1)|null|
+|**2025-02-09**|**Tailoring the normal and superconducting state properties of ternary scandium tellurides, Sc$_6M$Te$_2$ ($M = $ Fe, Ru and Ir) through chemical substitution**|J. N. Graham et.al.|[2502.06063v1](http://arxiv.org/abs/2502.06063v1)|null|
+|**2025-02-09**|**Diffusion Models for Inverse Problems in the Exponential Family**|Alessandro Micheli et.al.|[2502.05994v1](http://arxiv.org/abs/2502.05994v1)|null|
+|**2025-02-09**|**Explicit Solution Equation for Every Combinatorial Problem via Tensor Networks: MeLoCoToN**|Alejandro Mata Ali et.al.|[2502.05981v1](http://arxiv.org/abs/2502.05981v1)|null|
+|**2025-02-09**|**Inverse Problem Sampling in Latent Space Using Sequential Monte Carlo**|Idan Achituve et.al.|[2502.05908v1](http://arxiv.org/abs/2502.05908v1)|null|
+|**2025-02-09**|**Exact solution of the relationship between the eigenvalue discreteness and the behavior of eigenstates in Su-Schrieffer-Heeger lattices**|Huitong Wei et.al.|[2502.05865v1](http://arxiv.org/abs/2502.05865v1)|null|
+|**2025-02-09**|**Some characterizations of weak left braces**|Shoufeng Wang et.al.|[2502.05861v1](http://arxiv.org/abs/2502.05861v1)|null|
+|**2025-02-09**|**Acoustic nonlinearity parameter tomography with the Jordan-Moore-Gibson-Thompson equation in frequency domain**|Barbara Kaltenbacher et.al.|[2502.05810v1](http://arxiv.org/abs/2502.05810v1)|null|
+|**2025-02-09**|**The Curse of Depth in Large Language Models**|Wenfang Sun et.al.|[2502.05795v1](http://arxiv.org/abs/2502.05795v1)|null|
+|**2025-02-09**|**A Coboundary Temperely-Lieb Category for $\mathfrak{sl}_2$-Crystals**|Moaaz Alqady et.al.|[2502.05732v1](http://arxiv.org/abs/2502.05732v1)|null|
+|**2025-02-08**|**Subspace Splitting Fast Sampling from Gaussian Posterior Distributions of Linear Inverse Problems**|Daniela Calvetti et.al.|[2502.05703v1](http://arxiv.org/abs/2502.05703v1)|null|
+|**2025-02-08**|**Training-Free Constrained Generation With Stable Diffusion Models**|Stefano Zampini et.al.|[2502.05625v1](http://arxiv.org/abs/2502.05625v1)|null|
+|**2025-02-08**|**Some remarks on the group of formal diffeomorphisms of the line**|Yury A. Neretin et.al.|[2502.05582v1](http://arxiv.org/abs/2502.05582v1)|null|
+|**2025-02-08**|**Laplacian Eigenfunction-Based Neural Operator for Learning Nonlinear Partial Differential Equations**|Wenrui Hao et.al.|[2502.05571v1](http://arxiv.org/abs/2502.05571v1)|null|
+|**2025-02-08**|**SSH: Sparse Spectrum Adaptation via Discrete Hartley Transformation**|Yixian Shen et.al.|[2502.05539v1](http://arxiv.org/abs/2502.05539v1)|null|
