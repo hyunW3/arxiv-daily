@@ -2,6 +2,19 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-12**|**Scalable Thermodynamic Second-order Optimization**|Kaelan Donatella et.al.|[2502.08603v1](http://arxiv.org/abs/2502.08603v1)|null|
+|**2025-02-12**|**Broken symmetries associated with a Kagome chiral charge order**|Zi-Jia Cheng et.al.|[2502.08537v1](http://arxiv.org/abs/2502.08537v1)|null|
+|**2025-02-12**|**Sparse Estimation of Inverse Covariance and Partial Correlation Matrices via Joint Partial Regression**|Samuel Erickson et.al.|[2502.08414v1](http://arxiv.org/abs/2502.08414v1)|null|
+|**2025-02-12**|**Optimal network geometry detection for weak geometry**|R. Michielan et.al.|[2502.08407v1](http://arxiv.org/abs/2502.08407v1)|null|
+|**2025-02-12**|**A Generalized Converted Measurement Kalman Filter**|Steven V. Bordonaro et.al.|[2502.08375v1](http://arxiv.org/abs/2502.08375v1)|null|
+|**2025-02-12**|**Demonstration of the third-order nonlinear Hall effect in topological Dirac semimetal NiTe$_2$**|V. D. Esin et.al.|[2502.08223v1](http://arxiv.org/abs/2502.08223v1)|null|
+|**2025-02-12**|**Superconducting Diode Effect in Selectively-Grown Topological Insulator based Josephson Junctions**|Gerrit Behner et.al.|[2502.08220v1](http://arxiv.org/abs/2502.08220v1)|null|
+|**2025-02-12**|**Forward and Inverse Problems in Nonlinear Acoustics**|Barbara Kaltenbacher et.al.|[2502.08194v1](http://arxiv.org/abs/2502.08194v1)|null|
+|**2025-02-12**|**Strong and Tunable Electrical-Anisotropy in Type-II Weyl Semimetal Candidate WP2 with Broken Inversion Symmetry**|Bo Su et.al.|[2502.08184v1](http://arxiv.org/abs/2502.08184v1)|null|
+|**2025-02-11**|**Optimizing Likelihoods via Mutual Information: Bridging Simulation-Based Inference and Bayesian Optimal Experimental Design**|Vincent D. Zaballa et.al.|[2502.08004v1](http://arxiv.org/abs/2502.08004v1)|null|
+|**2025-02-11**|**What is a Sketch-and-Precondition Derivation for Low-Rank Approximation? Inverse Power Error or Inverse Power Estimation?**|Ruihan Xu et.al.|[2502.07993v1](http://arxiv.org/abs/2502.07993v1)|null|
+|**2025-02-11**|**Terahertz electroluminescence from Dirac-Landau polaritons**|B. Benhamou-Bui et.al.|[2502.07897v1](http://arxiv.org/abs/2502.07897v1)|null|
+|**2025-02-11**|**Right-handed neutrinos: seesaw models and signatures**|Stephen F King et.al.|[2502.07877v1](http://arxiv.org/abs/2502.07877v1)|null|
 |**2025-02-11**|**Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models**|Stanislav Fort et.al.|[2502.07753v1](http://arxiv.org/abs/2502.07753v1)|null|
 |**2025-02-11**|**Total acoustic transmission between fluids using a solid material with emphasis on the air-water interface**|Hesam Bakhtiary Yekta et.al.|[2502.07723v1](http://arxiv.org/abs/2502.07723v1)|null|
 |**2025-02-11**|**Private Low-Rank Approximation for Covariance Matrices, Dyson Brownian Motion, and Eigenvalue-Gap Bounds for Gaussian Perturbations**|Oren Mangoubi et.al.|[2502.07657v1](http://arxiv.org/abs/2502.07657v1)|null|
@@ -19,16 +32,3 @@
 |**2025-02-11**|**Weyl semimetal phases and intrinsic spin-Hall conductivity in SbAs ordered alloys**|Muhammad Zubair et.al.|[2502.07147v1](http://arxiv.org/abs/2502.07147v1)|null|
 |**2025-02-10**|**Neural network-motivated regularity analysis of inverse problems and application to inverse scattering**|Mahadevan Ganesh et.al.|[2502.07093v1](http://arxiv.org/abs/2502.07093v1)|null|
 |**2025-02-10**|**Effect of disorder and strain on the operation of planar Ge hole spin qubits**|Abhikbrata Sarkar et.al.|[2502.06949v1](http://arxiv.org/abs/2502.06949v1)|null|
-|**2025-02-10**|**Collective flavor conversions are interactions of neutrinos with quantized flavor waves**|Damiano F. G. Fiorillo et.al.|[2502.06935v1](http://arxiv.org/abs/2502.06935v1)|null|
-|**2025-02-10**|**Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists**|Bojia Zi et.al.|[2502.06734v1](http://arxiv.org/abs/2502.06734v1)|null|
-|**2025-02-10**|**Refined topology of the N = 20 island of inversion with high precision mass measurements of $^{31-33}$Na and $^{31-35}$Mg**|E. M. Lykiardopoulou et.al.|[2502.06720v1](http://arxiv.org/abs/2502.06720v1)|null|
-|**2025-02-10**|**Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gaussian Processes with Finite Index Sets**|Yifeng Chu et.al.|[2502.06709v1](http://arxiv.org/abs/2502.06709v1)|null|
-|**2025-02-10**|**The chiral critical point from the strong coupling expansion**|Jangho Kim et.al.|[2502.06679v1](http://arxiv.org/abs/2502.06679v1)|null|
-|**2025-02-10**|**Joint parameter and state estimation for regularized time-discrete multibody dynamics**|Hannes Marklund et.al.|[2502.06599v1](http://arxiv.org/abs/2502.06599v1)|null|
-|**2025-02-10**|**Diffeomorphic Temporal Alignment Nets for Time-series Joint Alignment and Averaging**|Ron Shapira Weber et.al.|[2502.06591v1](http://arxiv.org/abs/2502.06591v1)|null|
-|**2025-02-10**|**Initial boundary value problems for time-fractional evolution equations in Banach spaces**|Giuseppe Floridia et.al.|[2502.06554v1](http://arxiv.org/abs/2502.06554v1)|null|
-|**2025-02-10**|**Laser-induced droplet deformation: curvature inversion explained from instantaneous pressure impulse**|Hugo França et.al.|[2502.06417v1](http://arxiv.org/abs/2502.06417v1)|null|
-|**2025-02-10**|**Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo**|Filip Ekström Kelvinius et.al.|[2502.06379v1](http://arxiv.org/abs/2502.06379v1)|null|
-|**2025-02-10**|**An Iterative Block Matrix Inversion (IBMI) Algorithm for Symmetric Positive Definite Matrices with Applications to Covariance Matrices**|Ann Paterson et.al.|[2502.06377v1](http://arxiv.org/abs/2502.06377v1)|null|
-|**2025-02-10**|**Spectral-factorized Positive-definite Curvature Learning for NN Training**|Wu Lin et.al.|[2502.06268v1](http://arxiv.org/abs/2502.06268v1)|null|
-|**2025-02-10**|**DGNO: A Novel Physics-aware Neural Operator for Solving Forward and Inverse PDE Problems based on Deep, Generative Probabilistic Modeling**|Yaohua Zang et.al.|[2502.06250v1](http://arxiv.org/abs/2502.06250v1)|null|
