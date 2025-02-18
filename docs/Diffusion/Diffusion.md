@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-14**|**Gapping the spin-nodal planes of an anisotropic p-wave magnet to induce a large anomalous Hall effect**|Rinsuke Yamada et.al.|[2502.10386v1](http://arxiv.org/abs/2502.10386v1)|null|
-|**2025-02-14**|**AffinityFlow: Guided Flows for Antibody Affinity Maturation**|Can Chen et.al.|[2502.10365v1](http://arxiv.org/abs/2502.10365v1)|null|
-|**2025-02-14**|**Neutron capture measurements for s-process nucleosynthesis; A review about CERN n_TOF developments and contributions**|C. Domingo-Pardo et.al.|[2502.10306v1](http://arxiv.org/abs/2502.10306v1)|null|
-|**2025-02-14**|**Exchange-Correlation Potentials and Energy Densities through Orbital Averaging and Aufbau Integration**|Vaibhav Khanna et.al.|[2502.10262v1](http://arxiv.org/abs/2502.10262v1)|null|
-|**2025-02-14**|**Modeling of acceleration in heavy-ion collisions: occurrence of temperature below the Unruh temperature**|G. Yu. Prokhorov et.al.|[2502.10146v1](http://arxiv.org/abs/2502.10146v1)|null|
-|**2025-02-14**|**Microwave pulse transparency in Flux-qubit based superconducting quantum metamaterial**|S. Galovic et.al.|[2502.10130v1](http://arxiv.org/abs/2502.10130v1)|null|
-|**2025-02-14**|**Membership and Conjugacy in Inverse Semigroups**|Lukas Fleischer et.al.|[2502.10103v1](http://arxiv.org/abs/2502.10103v1)|null|
-|**2025-02-14**|**Transverse vortices induced by modulated granular shear flows of elongated particles**|Sára Lévay et.al.|[2502.10079v1](http://arxiv.org/abs/2502.10079v1)|null|
-|**2025-02-14**|**Multifunctional Altermagnet with Large Out-of-Plane Piezoelectric Response in Janus V$_{2}$AsBrO Monolayer**|Qiuyue Ma et.al.|[2502.10055v1](http://arxiv.org/abs/2502.10055v1)|null|
-|**2025-02-14**|**Complex degenerate metrics in general relativity: a covariant extension of the Moore-Penrose algorithm**|Arthur Garnier et.al.|[2502.10053v1](http://arxiv.org/abs/2502.10053v1)|null|
-|**2025-02-14**|**Dream to Drive: Model-Based Vehicle Control Using Analytic World Models**|Asen Nachkov et.al.|[2502.10012v1](http://arxiv.org/abs/2502.10012v1)|null|
-|**2025-02-14**|**Fractal dimensions and profinite groups**|Elvira Mayordomo et.al.|[2502.09995v1](http://arxiv.org/abs/2502.09995v1)|null|
-|**2025-02-14**|**A new formula for the weighted Moore-Penrose inverse and its applications**|Qingxiang Xu et.al.|[2502.09991v1](http://arxiv.org/abs/2502.09991v1)|null|
-|**2025-02-14**|**From Site Response to Site-city Interaction: a Case Study in the Tokyo Area**|Pierre-Yves Bard et.al.|[2502.09976v1](http://arxiv.org/abs/2502.09976v1)|null|
-|**2025-02-14**|**Artificial Intelligence in Spectroscopy: Advancing Chemistry from Prediction to Generation and Beyond**|Kehan Guo et.al.|[2502.09897v1](http://arxiv.org/abs/2502.09897v1)|null|
-|**2025-02-13**|**Sum-of-Squares Bounds on Surface-Enhanced Raman Scattering**|Pengning Chao et.al.|[2502.09821v1](http://arxiv.org/abs/2502.09821v1)|null|
-|**2025-02-13**|**High-dimensional censored MIDAS logistic regression for corporate survival forecasting**|Wei Miao et.al.|[2502.09740v1](http://arxiv.org/abs/2502.09740v1)|null|
-|**2025-02-13**|**Dirac fermions under imaginary rotation**|Tudor Pătuleanu et.al.|[2502.09738v1](http://arxiv.org/abs/2502.09738v1)|null|
-|**2025-02-13**|**3-Manifolds with positive scalar curvature and bounded geometry**|Otis Chodosh et.al.|[2502.09727v1](http://arxiv.org/abs/2502.09727v1)|null|
-|**2025-02-13**|**Imaging orbital Rashba induced charge transport anisotropy**|Eylon Persky et.al.|[2502.09719v1](http://arxiv.org/abs/2502.09719v1)|null|
-|**2025-02-13**|**Correlation based modeling of the ionospheric magnetic field**|K. Ferrat et.al.|[2502.09492v1](http://arxiv.org/abs/2502.09492v1)|null|
-|**2025-02-13**|**Inverse Design with Dynamic Mode Decomposition**|Yunpeng Zhu et.al.|[2502.09490v1](http://arxiv.org/abs/2502.09490v1)|null|
-|**2025-02-13**|**On the largest singular vector of the Redheffer matrix**|François Clément et.al.|[2502.09489v1](http://arxiv.org/abs/2502.09489v1)|null|
-|**2025-02-13**|**Multiwavelength investigations of PKS 2300-18: S-shaped radio quasar with precessing jets and double-peaked broad emission-line spectrum**|Arpita Misra et.al.|[2502.09441v1](http://arxiv.org/abs/2502.09441v1)|null|
-|**2025-02-13**|**Entanglement behavior and localization properties in monitored fermion systems**|Giulia Piccitto et.al.|[2502.09401v1](http://arxiv.org/abs/2502.09401v1)|null|
-|**2025-02-13**|**A Deep Inverse-Mapping Model for a Flapping Robotic Wing**|Hadar Sharvit et.al.|[2502.09378v1](http://arxiv.org/abs/2502.09378v1)|[link](https://github.com/Hadar933/AdaptiveSpectrumLayer)|
-|**2025-02-13**|**Inverse problems with experiment-guided AlphaFold**|Advaith Maddipatla et.al.|[2502.09372v1](http://arxiv.org/abs/2502.09372v1)|null|
-|**2025-02-13**|**Emergent large flavor mixing from canonical and inverse seesaws?**|Zhi-zhong Xing et.al.|[2502.09286v1](http://arxiv.org/abs/2502.09286v1)|null|
-|**2025-02-13**|**Using Covid-19 Response Policy to Estimate Open Water Swim Drafting Effects in Triathlon**|Felix Reichel et.al.|[2502.09277v1](http://arxiv.org/abs/2502.09277v1)|null|
-|**2025-02-13**|**Fundamental Theory of Current-Induced Motion of Magnetic Skyrmions**|Yuto Ohki et.al.|[2502.09191v1](http://arxiv.org/abs/2502.09191v1)|null|
+|**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095v1](http://arxiv.org/abs/2502.12095v1)|null|
+|**2025-02-17**|**Image Inversion: A Survey from GANs to Diffusion and Beyond**|Yinan Chen et.al.|[2502.11974v1](http://arxiv.org/abs/2502.11974v1)|null|
+|**2025-02-17**|**Floquet topological state induced by light-driven band inversion in SnTe**|F. Chassot et.al.|[2502.11967v1](http://arxiv.org/abs/2502.11967v1)|null|
+|**2025-02-17**|**A characterization of generalized Lipschitz classes by the rate of convergence of semi-discrete operators**|Danilo Costarelli et.al.|[2502.11952v1](http://arxiv.org/abs/2502.11952v1)|null|
+|**2025-02-17**|**Evaluation of machine learning techniques for conditional generative adversarial networks in inverse design**|Timo Gahlmann et.al.|[2502.11934v1](http://arxiv.org/abs/2502.11934v1)|null|
+|**2025-02-17**|**PreAdaptFWI: Pretrained-Based Adaptive Residual Learning for Full-Waveform Inversion Without Dataset Dependency**|Xintong Dong et.al.|[2502.11913v1](http://arxiv.org/abs/2502.11913v1)|null|
+|**2025-02-17**|**Ansatz-free Hamiltonian learning with Heisenberg-limited scaling**|Hong-Ye Hu et.al.|[2502.11900v1](http://arxiv.org/abs/2502.11900v1)|null|
+|**2025-02-17**|**Robust Optimization of Rank-Dependent Models with Uncertain Probabilities**|Guanyu Jin et.al.|[2502.11780v1](http://arxiv.org/abs/2502.11780v1)|null|
+|**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725v1](http://arxiv.org/abs/2502.11725v1)|null|
+|**2025-02-17**|**Superconducting Diode Effects: Mechanisms, Materials and Applications**|Jiajun Ma et.al.|[2502.11717v1](http://arxiv.org/abs/2502.11717v1)|null|
+|**2025-02-17**|**Parallel-in-Time Kalman Smoothing Using Orthogonal Transformations**|Shahaf Gargir et.al.|[2502.11686v1](http://arxiv.org/abs/2502.11686v1)|null|
+|**2025-02-17**|**Competition Between Multiferroic and Magnetic Soliton Lattice States in DyFeO$_3$**|S. E. Nikitin et.al.|[2502.11592v1](http://arxiv.org/abs/2502.11592v1)|null|
+|**2025-02-17**|**Here Be Dragons: Bimodal posteriors arise from numerical integration error in longitudinal models**|Tess O'Brien et.al.|[2502.11510v1](http://arxiv.org/abs/2502.11510v1)|null|
+|**2025-02-17**|**Learning Surrogate Potential Mean Field Games via Gaussian Processes: A Data-Driven Approach to Ill-Posed Inverse Problems**|Jingguo Zhang et.al.|[2502.11506v1](http://arxiv.org/abs/2502.11506v1)|null|
+|**2025-02-17**|**Direct and inverse problems for a third-order self-adjoint differential operator with non-local potential functions**|Yixuan Liu et.al.|[2502.11498v1](http://arxiv.org/abs/2502.11498v1)|null|
+|**2025-02-17**|**Unbiased Learning to Rank with Query-Level Click Propensity Estimation: Beyond Pointwise Observation and Relevance**|Lulu Yu et.al.|[2502.11414v1](http://arxiv.org/abs/2502.11414v1)|null|
+|**2025-02-17**|**Intelligent Mobile AI-Generated Content Services via Interactive Prompt Engineering and Dynamic Service Provisioning**|Yinqiu Liu et.al.|[2502.11386v1](http://arxiv.org/abs/2502.11386v1)|null|
+|**2025-02-17**|**Numerical Differentiation-based Electrophysiology-Aware Adaptive ResNet for Inverse ECG Modeling**|Lingzhen Zhu et.al.|[2502.11378v1](http://arxiv.org/abs/2502.11378v1)|null|
+|**2025-02-17**|**A Kernel Ridge Regression Combining Nonlinear ROMs for Accurate Flow Field Reconstruction with Discontinuities**|Weiji Wang et.al.|[2502.11363v1](http://arxiv.org/abs/2502.11363v1)|null|
+|**2025-02-17**|**Inverse Flow and Consistency Models**|Yuchen Zhang et.al.|[2502.11333v1](http://arxiv.org/abs/2502.11333v1)|null|
+|**2025-02-16**|**ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation**|Yiyi Chen et.al.|[2502.11308v1](http://arxiv.org/abs/2502.11308v1)|null|
+|**2025-02-16**|**Predicted versatile topological nodal magnons in the icosahedral quasicrystal 1/1 approximants**|Rintaro Eto et.al.|[2502.11286v1](http://arxiv.org/abs/2502.11286v1)|null|
+|**2025-02-16**|**Towards Automatic Identification of Missing Tissues using a Geometric-Learning Correspondence Model**|Eliana M. Vasquez Osorio et.al.|[2502.11265v1](http://arxiv.org/abs/2502.11265v1)|null|
+|**2025-02-16**|**Interfacial Dzyaloshinskii-Moriya interaction in nonmagnetic/noncollinear-antiferromagnetic bilayers**|Yuta Yamane et.al.|[2502.11207v1](http://arxiv.org/abs/2502.11207v1)|null|
+|**2025-02-16**|**SVM/SVR Kernels as Quantum Propagators**|Nan-Hong Kuo et.al.|[2502.11153v1](http://arxiv.org/abs/2502.11153v1)|null|
+|**2025-02-16**|**CARMA: Enhanced Compositionality in LLMs via Advanced Regularisation and Mutual Information Alignment**|Nura Aljaafari et.al.|[2502.11066v1](http://arxiv.org/abs/2502.11066v1)|null|
+|**2025-02-16**|**Estimates for Betti numbers and relative Hermite-Minkowski theorem for perverse sheaves**|Haoyu Hu et.al.|[2502.11060v1](http://arxiv.org/abs/2502.11060v1)|null|
+|**2025-02-16**|**Accelerated engineering of topological interface states in one-dimensional phononic crystals via deep learning**|Xue-Qian Zhang et.al.|[2502.11056v1](http://arxiv.org/abs/2502.11056v1)|null|
+|**2025-02-16**|**Nonlocal Electrical Detection of Reciprocal Orbital Edelstein Effect**|Weiguang Gao et.al.|[2502.11040v1](http://arxiv.org/abs/2502.11040v1)|null|
+|**2025-02-16**|**Systematic study of the composition of Type I X-ray burst ashes: Neutron star structure v.s. Reaction rate uncertainties**|Guoqing Zhen et.al.|[2502.10992v1](http://arxiv.org/abs/2502.10992v1)|null|
