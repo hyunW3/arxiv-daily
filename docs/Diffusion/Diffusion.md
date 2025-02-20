@@ -2,7 +2,21 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-18**|**On Preserving or Reversing Higher-Order Unimodality and Convexity by Sign-Regular Kernels**|Zakaria Derbazi et.al.|[2502.13136v1](http://arxiv.org/abs/2502.13136v1)|null|
+|**2025-02-19**|**PINN ME: A Physics-Informed Neural Network Framework for Accurate Milne-Eddington Inversions of Solar Magnetic Fields**|Robert Jarolim et.al.|[2502.13924v1](http://arxiv.org/abs/2502.13924v1)|null|
+|**2025-02-19**|**AI-Driven Discovery of High Performance Polymer Electrodes for Next-Generation Batteries**|Subhash V. S. Ganti et.al.|[2502.13899v1](http://arxiv.org/abs/2502.13899v1)|null|
+|**2025-02-19**|**Mitigating Popularity Bias in Collaborative Filtering through Fair Sampling**|Jiahao Liu et.al.|[2502.13840v1](http://arxiv.org/abs/2502.13840v1)|null|
+|**2025-02-19**|**Kinetic modelling of economic markets with individual and collective transactions**|Chuandong Lin et.al.|[2502.13735v1](http://arxiv.org/abs/2502.13735v1)|null|
+|**2025-02-19**|**The Light ray transform for pseudo-Euclidean metrics**|Divyansh Agrawal et.al.|[2502.13684v1](http://arxiv.org/abs/2502.13684v1)|null|
+|**2025-02-19**|**Integrating Inverse and Forward Modeling for Sparse Temporal Data from Sensor Networks**|Julian Vexler et.al.|[2502.13638v1](http://arxiv.org/abs/2502.13638v1)|null|
+|**2025-02-19**|**CASCO: Cosmological and AStrophysical parameters from Cosmological simulations and Observations III. The physics behind the emergence of the golden mass scale**|C. Tortora et.al.|[2502.13589v1](http://arxiv.org/abs/2502.13589v1)|null|
+|**2025-02-19**|**Fundamental Bias in Inverting Random Sampling Matrices with Application to Sub-sampled Newton**|Chengmei Niu et.al.|[2502.13583v1](http://arxiv.org/abs/2502.13583v1)|null|
+|**2025-02-19**|**Precise quantile function estimation from the characteristic function**|Gero Junike et.al.|[2502.13537v1](http://arxiv.org/abs/2502.13537v1)|null|
+|**2025-02-19**|**The resistance distance of a dual number weighted graph**|Yu Li et.al.|[2502.13455v1](http://arxiv.org/abs/2502.13455v1)|null|
+|**2025-02-19**|**On Bass' conjecture of the small Davenport constant**|Guoqing Wang et.al.|[2502.13409v1](http://arxiv.org/abs/2502.13409v1)|null|
+|**2025-02-19**|**Unsupervised CP-UNet Framework for Denoising DAS Data with Decay Noise**|Tianye Huang et.al.|[2502.13395v1](http://arxiv.org/abs/2502.13395v1)|null|
+|**2025-02-18**|**Gradient-Based Optimization of Core-Shell Particles with Discrete Materials for Directional Scattering**|Dalin Soun et.al.|[2502.13338v1](http://arxiv.org/abs/2502.13338v1)|null|
+|**2025-02-18**|**Asynchronous mass inversion enriched quantum anomalous Hall states in multilayer graphene**|Xilin Feng et.al.|[2502.13229v1](http://arxiv.org/abs/2502.13229v1)|null|
+|**2025-02-18**|**On Preserving or Reversing Higher-Order Unimodality and Convexity by Sign-Regular Kernels**|Zakaria Derbazi et.al.|[2502.13136v2](http://arxiv.org/abs/2502.13136v2)|null|
 |**2025-02-18**|**MLPs at the EOC: Dynamics of Feature Learning**|Dávid Terjék et.al.|[2502.13110v1](http://arxiv.org/abs/2502.13110v1)|null|
 |**2025-02-18**|**Enhanced uncertainty quantification variational autoencoders for the solution of Bayesian inverse problems**|Andrea Tonini et.al.|[2502.13105v1](http://arxiv.org/abs/2502.13105v1)|null|
 |**2025-02-18**|**Discrete $N$-particle systems at high temperature through Jack generating functions**|Cesar Cuenca et.al.|[2502.13098v1](http://arxiv.org/abs/2502.13098v1)|null|
@@ -16,19 +30,5 @@
 |**2025-02-18**|**Inverse Seesaw Mechanism and Axion Portal Fermionic Dark Matter**|Nakorn Thongyoi et.al.|[2502.13002v1](http://arxiv.org/abs/2502.13002v1)|null|
 |**2025-02-18**|**Evidence for topological origin of large spin-shift current in antiferromagnetic Ti$_{4}$C$_{3}$**|Ali Sufyan et.al.|[2502.12943v1](http://arxiv.org/abs/2502.12943v1)|null|
 |**2025-02-18**|**Beyond Diagonal RIS for ISAC Network: Statistical Analysis and Network Parameter Estimation**|Thanh Luan Nguyen et.al.|[2502.12916v1](http://arxiv.org/abs/2502.12916v1)|null|
+|**2025-02-18**|**Bayesian Physics Informed Neural Networks for Linear Inverse problems**|Ali Mohammad-Djafari et.al.|[2502.13827v1](http://arxiv.org/abs/2502.13827v1)|null|
 |**2025-02-18**|**Separation of time scales in weakly interacting diffusions**|Zachary P. Adams et.al.|[2502.12881v1](http://arxiv.org/abs/2502.12881v1)|null|
-|**2025-02-18**|**InstructRobot: A Model-Free Framework for Mapping Natural Language Instructions into Robot Motion**|Iury Cleveston et.al.|[2502.12861v1](http://arxiv.org/abs/2502.12861v1)|null|
-|**2025-02-18**|**Pitfalls of Scale: Investigating the Inverse Task of Redefinition in Large Language Models**|Elena Stringli et.al.|[2502.12821v1](http://arxiv.org/abs/2502.12821v1)|null|
-|**2025-02-18**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817v1](http://arxiv.org/abs/2502.12817v1)|null|
-|**2025-02-18**|**Relaxation dynamics of a quantum spin coupled to a topological edge state**|Qiyu Liu et.al.|[2502.12715v1](http://arxiv.org/abs/2502.12715v1)|null|
-|**2025-02-18**|**Signature of Seyfert-like component in a blazar 3C 273 and its reflection-based explanation**|Haritma Gaur et.al.|[2502.12645v1](http://arxiv.org/abs/2502.12645v1)|null|
-|**2025-02-18**|**Geometric dependence of critical current magnitude and nonreciprocity in planar Josephson junctions**|William F. Schiela et.al.|[2502.12400v1](http://arxiv.org/abs/2502.12400v1)|null|
-|**2025-02-18**|**Scientific Machine Learning of Flow Resistance Using Universal Shallow Water Equations with Differentiable Programming**|Xiaofeng Liu et.al.|[2502.12396v1](http://arxiv.org/abs/2502.12396v1)|null|
-|**2025-02-17**|**Factual Inconsistency in Data-to-Text Generation Scales Exponentially with LLM Size: A Statistical Validation**|Joy Mahapatra et.al.|[2502.12372v1](http://arxiv.org/abs/2502.12372v1)|null|
-|**2025-02-17**|**Recovery of the rod cross section shape**|Vladislav V. Kravchenko et.al.|[2502.12368v1](http://arxiv.org/abs/2502.12368v1)|null|
-|**2025-02-17**|**Mamute: high-performance computing for geophysical methods**|João B. Fernandes et.al.|[2502.12350v1](http://arxiv.org/abs/2502.12350v1)|null|
-|**2025-02-17**|**Data-Efficient Limited-Angle CT Using Deep Priors and Regularization**|Ilmari Vahteristo et.al.|[2502.12293v1](http://arxiv.org/abs/2502.12293v1)|[link](https://github.com/ilmari99/data-efficient-lact)|
-|**2025-02-17**|**Energy spectrum of the long-range Lennard-Jones potential**|Shahar Hod et.al.|[2502.12271v1](http://arxiv.org/abs/2502.12271v1)|null|
-|**2025-02-17**|**A shocking outcome: Jet dynamics and polarimetric signatures of the multi-band flare in blazar OJ 248**|G. F. Paraschos et.al.|[2502.12232v1](http://arxiv.org/abs/2502.12232v1)|null|
-|**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095v1](http://arxiv.org/abs/2502.12095v1)|null|
-|**2025-02-17**|**Image Inversion: A Survey from GANs to Diffusion and Beyond**|Yinan Chen et.al.|[2502.11974v1](http://arxiv.org/abs/2502.11974v1)|null|
