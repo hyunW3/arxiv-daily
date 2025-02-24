@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676v1](http://arxiv.org/abs/2502.15676v1)|null|
+|**2025-02-21**|**Controlling curvature of self-assembling surfaces via patchy particle design**|Andraž Gnidovec et.al.|[2502.15668v1](http://arxiv.org/abs/2502.15668v1)|null|
+|**2025-02-21**|**Calibration of MAJIS (Moons And Jupiter Imaging Spectrometer): I. On-ground setup description and characterisation**|Mathieu Vincendon et.al.|[2502.15661v1](http://arxiv.org/abs/2502.15661v1)|null|
+|**2025-02-21**|**AutoTandemML: Active Learning Enhanced Tandem Neural Networks for Inverse Design Problems**|Luka Grbcic et.al.|[2502.15643v1](http://arxiv.org/abs/2502.15643v1)|null|
+|**2025-02-21**|**A Population Sampling Framework for Claim Reserving in General Insurance**|Sebastian Calcetero Vanegas et.al.|[2502.15598v1](http://arxiv.org/abs/2502.15598v1)|null|
+|**2025-02-21**|**Solving Inverse Problems with Deep Linear Neural Networks: Global Convergence Guarantees for Gradient Descent with Weight Decay**|Hannah Laus et.al.|[2502.15522v1](http://arxiv.org/abs/2502.15522v1)|null|
+|**2025-02-21**|**Black hole solutions in the revised Deser-Woodard nonlocal theory of gravity**|Rocco D'Agostino et.al.|[2502.15460v1](http://arxiv.org/abs/2502.15460v1)|null|
+|**2025-02-21**|**Audio signal interpolation using optimal transportation of spectrograms**|David Valdivia et.al.|[2502.15430v1](http://arxiv.org/abs/2502.15430v1)|null|
+|**2025-02-21**|**Probabilistic morphisms and Bayesian supervised learning**|Hông Vân Lê et.al.|[2502.15408v1](http://arxiv.org/abs/2502.15408v1)|null|
+|**2025-02-21**|**Stability for an inverse flux and an inverse boundary coefficient problems**|Mourad Choulli et.al.|[2502.15406v1](http://arxiv.org/abs/2502.15406v1)|null|
+|**2025-02-21**|**Evaluate with the Inverse: Efficient Approximation of Latent Explanation Quality Distribution**|Carlos Eiras-Franco et.al.|[2502.15403v1](http://arxiv.org/abs/2502.15403v1)|null|
+|**2025-02-21**|**Semiparametric Bernstein-von Mises Phenomenon via Isotonized Posterior in Wicksell's problem**|Francesco Gili et.al.|[2502.15352v1](http://arxiv.org/abs/2502.15352v1)|null|
+|**2025-02-21**|**A Reynolds-semi-robust method with hybrid velocity and pressure for the unsteady incompressible Navier--Stokes equations**|Lourenço Beirão da Veiga et.al.|[2502.15293v1](http://arxiv.org/abs/2502.15293v1)|null|
+|**2025-02-21**|**Holographic Joint Communications and Sensing With Cramer-Rao Bounds**|Chandan Kumar Sheemar et.al.|[2502.15248v1](http://arxiv.org/abs/2502.15248v1)|null|
+|**2025-02-21**|**Gate tunable Dirac mass and Berry phase in Trilayer graphene**|Harsimran Kaur Mann et.al.|[2502.15232v1](http://arxiv.org/abs/2502.15232v1)|null|
+|**2025-02-21**|**A BERT Based Hybrid Recommendation System For Academic Collaboration**|Sangeetha N et.al.|[2502.15223v1](http://arxiv.org/abs/2502.15223v1)|null|
+|**2025-02-21**|**Phase space geometry of collective spin systems: Scaling and Fractality**|Miguel Gonzalez et.al.|[2502.15169v1](http://arxiv.org/abs/2502.15169v1)|null|
+|**2025-02-21**|**Physics-Informed Machine Learning for EDFA: Parameter Identification and Gain Estimation**|Xiaotian Jiang et.al.|[2502.15144v1](http://arxiv.org/abs/2502.15144v1)|null|
+|**2025-02-20**|**Bispectral decomposition and energy transfer in a turbulent jet**|Akhil Nekkanti et.al.|[2502.15091v1](http://arxiv.org/abs/2502.15091v1)|null|
+|**2025-02-20**|**Spin-to-charge conversion at KTaO3(111) interfaces**|Athby H. Al-Tawhid et.al.|[2502.15080v1](http://arxiv.org/abs/2502.15080v1)|null|
+|**2025-02-20**|**Pseudoinverse Diffusion Models for Generative CT Image Reconstruction from Low Dose Data**|Matthew Tivnan et.al.|[2502.15064v1](http://arxiv.org/abs/2502.15064v1)|null|
+|**2025-02-20**|**A control-oriented approach to optimal sensor placement**|Madhusudan Madhavan et.al.|[2502.15062v1](http://arxiv.org/abs/2502.15062v1)|null|
+|**2025-02-20**|**Inferring System and Optimal Control Parameters of Closed-Loop Systems from Partial Observations**|Victor Geadah et.al.|[2502.15014v1](http://arxiv.org/abs/2502.15014v1)|null|
+|**2025-02-20**|**On Traces in Categories of Contractions (Extended Abstract)**|Aaron David Fairbanks et.al.|[2502.14993v1](http://arxiv.org/abs/2502.14993v1)|null|
+|**2025-02-20**|**Expanding the reach of diffusing wave spectroscopy and tracer bead microrheology**|Manuel Helfer et.al.|[2502.14973v1](http://arxiv.org/abs/2502.14973v1)|null|
+|**2025-02-20**|**Loop Blow-Up Inflation: a novel way to inflate with the Kähler moduli**|Luca Brunelli et.al.|[2502.14953v1](http://arxiv.org/abs/2502.14953v1)|null|
 |**2025-02-20**|**Stacking-dependent topological electronic structures in honeycomb-kagome heterolayers**|Chan Bin Bark et.al.|[2502.14861v1](http://arxiv.org/abs/2502.14861v1)|null|
 |**2025-02-20**|**Making Universal Policies Universal**|Niklas Höpner et.al.|[2502.14777v1](http://arxiv.org/abs/2502.14777v1)|null|
 |**2025-02-20**|**An Insight into Parameter Identifiability Issues in the Carreau-Yasuda Model: a Novel Rheological Formulation for Shear-thinning non-Newtonian Inelastic Fluids**|Gianluca Santesarti et.al.|[2502.14728v1](http://arxiv.org/abs/2502.14728v1)|null|
 |**2025-02-20**|**Quasi-Monte Carlo for Bayesian shape inversion governed by the Poisson problem subject to Gevrey regular domain deformations**|Ana Djurdjevac et.al.|[2502.14661v1](http://arxiv.org/abs/2502.14661v1)|null|
-|**2025-02-20**|**Spectral decomposition-assisted multi-study factor analysis**|Lorenzo Mauri et.al.|[2502.14600v1](http://arxiv.org/abs/2502.14600v1)|null|
-|**2025-02-20**|**Neutron versus proton scattering on exotic nuclei: the $^9$He example**|M. S. Khirk et.al.|[2502.14595v1](http://arxiv.org/abs/2502.14595v1)|null|
-|**2025-02-20**|**FUIA: Model Inversion Attack against Federated Unlearning**|Lei Zhou et.al.|[2502.14558v1](http://arxiv.org/abs/2502.14558v1)|null|
-|**2025-02-20**|**Non-radiating elastic sources in inhomogeneous elastic media at corners with applications**|Huaian Diao et.al.|[2502.14468v1](http://arxiv.org/abs/2502.14468v1)|null|
-|**2025-02-20**|**Electromagnetic Degrees of Freedom for Continuous-Aperture Array (CAPA) Systems**|Chongjun Ouyang et.al.|[2502.14404v1](http://arxiv.org/abs/2502.14404v1)|null|
-|**2025-02-20**|**PPO-MI: Efficient Black-Box Model Inversion via Proximal Policy Optimization**|Xinpeng Shou et.al.|[2502.14370v1](http://arxiv.org/abs/2502.14370v1)|null|
-|**2025-02-20**|**An efficient and accurate semi-implicit time integration scheme for dynamics in nearly- and fully-incompressible hyperelastic solids**|Edward M. Terrell et.al.|[2502.14284v1](http://arxiv.org/abs/2502.14284v1)|null|
-|**2025-02-20**|**Efficient Inverse Multiagent Learning**|Denizalp Goktas et.al.|[2502.14160v1](http://arxiv.org/abs/2502.14160v1)|null|
-|**2025-02-19**|**Gradients can train reward models: An Empirical Risk Minimization Approach for Offline Inverse RL and Dynamic Discrete Choice Model**|Enoch H. Kang et.al.|[2502.14131v1](http://arxiv.org/abs/2502.14131v1)|null|
-|**2025-02-19**|**GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**|Bang Du et.al.|[2502.14129v1](http://arxiv.org/abs/2502.14129v1)|null|
-|**2025-02-19**|**Prediction of Received Power in Low-Power Networks Deployed on the Surface of Rough Waters**|Waltenegus Dargie et.al.|[2502.14107v1](http://arxiv.org/abs/2502.14107v1)|null|
-|**2025-02-19**|**A Racing Dataset and Baseline Model for Track Detection in Autonomous Racing**|Shreya Ghosh et.al.|[2502.14068v1](http://arxiv.org/abs/2502.14068v1)|null|
-|**2025-02-19**|**PINN ME: A Physics-Informed Neural Network Framework for Accurate Milne-Eddington Inversions of Solar Magnetic Fields**|Robert Jarolim et.al.|[2502.13924v1](http://arxiv.org/abs/2502.13924v1)|null|
-|**2025-02-19**|**AI-Driven Discovery of High Performance Polymer Electrodes for Next-Generation Batteries**|Subhash V. S. Ganti et.al.|[2502.13899v1](http://arxiv.org/abs/2502.13899v1)|null|
-|**2025-02-19**|**Mitigating Popularity Bias in Collaborative Filtering through Fair Sampling**|Jiahao Liu et.al.|[2502.13840v1](http://arxiv.org/abs/2502.13840v1)|null|
-|**2025-02-19**|**Kinetic modelling of economic markets with individual and collective transactions**|Chuandong Lin et.al.|[2502.13735v1](http://arxiv.org/abs/2502.13735v1)|null|
-|**2025-02-19**|**The Light ray transform for pseudo-Euclidean metrics**|Divyansh Agrawal et.al.|[2502.13684v1](http://arxiv.org/abs/2502.13684v1)|null|
-|**2025-02-19**|**Benchmarking Self-Supervised Methods for Accelerated MRI Reconstruction**|Andrew Wang et.al.|[2502.14009v1](http://arxiv.org/abs/2502.14009v1)|null|
-|**2025-02-19**|**d-Sketch: Improving Visual Fidelity of Sketch-to-Image Translation with Pretrained Latent Diffusion Models without Retraining**|Prasun Roy et.al.|[2502.14007v1](http://arxiv.org/abs/2502.14007v1)|[link](https://github.com/prasunroy/dsketch)|
-|**2025-02-19**|**Integrating Inverse and Forward Modeling for Sparse Temporal Data from Sensor Networks**|Julian Vexler et.al.|[2502.13638v1](http://arxiv.org/abs/2502.13638v1)|null|
-|**2025-02-19**|**CASCO: Cosmological and AStrophysical parameters from Cosmological simulations and Observations III. The physics behind the emergence of the golden mass scale**|C. Tortora et.al.|[2502.13589v1](http://arxiv.org/abs/2502.13589v1)|null|
-|**2025-02-19**|**Fundamental Bias in Inverting Random Sampling Matrices with Application to Sub-sampled Newton**|Chengmei Niu et.al.|[2502.13583v1](http://arxiv.org/abs/2502.13583v1)|null|
-|**2025-02-19**|**Precise quantile function estimation from the characteristic function**|Gero Junike et.al.|[2502.13537v1](http://arxiv.org/abs/2502.13537v1)|null|
-|**2025-02-19**|**Generative Detail Enhancement for Physically Based Materials**|Saeed Hadadan et.al.|[2502.13994v1](http://arxiv.org/abs/2502.13994v1)|null|
-|**2025-02-19**|**The resistance distance of a dual number weighted graph**|Yu Li et.al.|[2502.13455v1](http://arxiv.org/abs/2502.13455v1)|null|
-|**2025-02-19**|**On Bass' conjecture of the small Davenport constant**|Guoqing Wang et.al.|[2502.13409v1](http://arxiv.org/abs/2502.13409v1)|null|
