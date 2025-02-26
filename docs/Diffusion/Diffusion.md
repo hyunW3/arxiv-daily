@@ -4,10 +4,10 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-02-24**|**FIG: Forward-Inverse Generation for Low-Resource Domain-specific Event Detection**|Tanmay Parekh et.al.|[2502.17394v1](http://arxiv.org/abs/2502.17394v1)|null|
 |**2025-02-24**|**Playing with lepton asymmetry at the resonant production of sterile neutrino dark matter**|Dmitry Gorbunov et.al.|[2502.17374v1](http://arxiv.org/abs/2502.17374v1)|null|
-|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363v1](http://arxiv.org/abs/2502.17363v1)|null|
+|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363v1](http://arxiv.org/abs/2502.17363v1)|[link](https://github.com/Xilluill/KV-Edit)|
 |**2025-02-24**|**Distributional Scaling Laws for Emergent Capabilities**|Rosie Zhao et.al.|[2502.17356v1](http://arxiv.org/abs/2502.17356v1)|null|
 |**2025-02-24**|**Improved precision in inverse beta decay cross section**|Giulia Ricciardi et.al.|[2502.17343v1](http://arxiv.org/abs/2502.17343v1)|null|
-|**2025-02-24**|**Inverse Kinematics on Guiding Vector Fields for Robot Path Following**|Yu Zhou et.al.|[2502.17313v1](http://arxiv.org/abs/2502.17313v1)|null|
+|**2025-02-24**|**Inverse Kinematics on Guiding Vector Fields for Robot Path Following**|Yu Zhou et.al.|[2502.17313v1](http://arxiv.org/abs/2502.17313v1)|[link](https://github.com/swarm-systems-lab/gvf_ik)|
 |**2025-02-24**|**Learning Image Fractals Using Chaotic Differentiable Point Splatting**|Adarsh Djeacoumar et.al.|[2502.17230v1](http://arxiv.org/abs/2502.17230v1)|null|
 |**2025-02-24**|**Numerical simulation of a fine-tunable Föppl-von Kármán model for foldable and bilayer plates**|Sören Bartels et.al.|[2502.17185v1](http://arxiv.org/abs/2502.17185v1)|null|
 |**2025-02-24**|**Theory of Nonlocal Transport from Nonlinear Valley Responses**|Jin Cao et.al.|[2502.17080v1](http://arxiv.org/abs/2502.17080v1)|null|
