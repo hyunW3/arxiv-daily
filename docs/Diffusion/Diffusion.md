@@ -2,6 +2,23 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376v1](http://arxiv.org/abs/2502.20376v1)|null|
+|**2025-02-27**|**Minimax rate for learning kernels in operators**|Sichong Zhang et.al.|[2502.20368v1](http://arxiv.org/abs/2502.20368v1)|null|
+|**2025-02-27**|**Fast $\ell_1$-Regularized EEG Source Localization Using Variable Projection**|Jack Michael Solomon et.al.|[2502.20304v1](http://arxiv.org/abs/2502.20304v1)|null|
+|**2025-02-27**|**RIZE: Regularized Imitation Learning via Distributional Reinforcement Learning**|Adib Karimi et.al.|[2502.20089v1](http://arxiv.org/abs/2502.20089v1)|null|
+|**2025-02-27**|**Subspace accelerated measure transport methods for fast and scalable sequential experimental design, with application to photoacoustic imaging**|Tiangang Cui et.al.|[2502.20086v1](http://arxiv.org/abs/2502.20086v1)|null|
+|**2025-02-27**|**Offline Reinforcement Learning via Inverse Optimization**|Ioannis Dimanidis et.al.|[2502.20030v1](http://arxiv.org/abs/2502.20030v1)|null|
+|**2025-02-27**|**Turbulence and large-scale structures in self-gravitating superfluids**|Sanjay Shukla et.al.|[2502.20006v1](http://arxiv.org/abs/2502.20006v1)|null|
+|**2025-02-27**|**A current expansion for Ising lattice gauge theory**|Malin P. Forsström et.al.|[2502.19942v1](http://arxiv.org/abs/2502.19942v1)|null|
+|**2025-02-27**|**Study of direct and inverse first-exit problems for drifted Brownian motion with Poissonian resetting**|Mario Abundo et.al.|[2502.19901v1](http://arxiv.org/abs/2502.19901v1)|null|
+|**2025-02-27**|**Physics-Informed Neural Networks for Solving Forward and Inverse PDEs with Limited and Noisy Data: Application to Solar Corona Modeling**|Hubert Baty et.al.|[2502.19843v1](http://arxiv.org/abs/2502.19843v1)|null|
+|**2025-02-27**|**Fast Debiasing of the LASSO Estimator**|Shuvayan Banerjee et.al.|[2502.19825v1](http://arxiv.org/abs/2502.19825v1)|null|
+|**2025-02-27**|**Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion**|Yuan Bian et.al.|[2502.19697v1](http://arxiv.org/abs/2502.19697v1)|null|
+|**2025-02-27**|**On the inverse of the Hadamard product of a full rank matrix and an angle matrix**|Yao-Jen Liang et.al.|[2502.19681v1](http://arxiv.org/abs/2502.19681v1)|null|
+|**2025-02-26**|**PRDP: Progressively Refined Differentiable Physics**|Kanishk Bhatia et.al.|[2502.19611v1](http://arxiv.org/abs/2502.19611v1)|null|
+|**2025-02-26**|**The Massive and Distant Clusters of $WISE$ Survey. XII. Exploring X-ray AGN in Dynamically Active Massive Galaxy Clusters at z~1**|Mustafa Muhibullah et.al.|[2502.19535v1](http://arxiv.org/abs/2502.19535v1)|null|
+|**2025-02-26**|**Reconstruction of heat relaxation index in phonon transport equation**|Peiyi Chen et.al.|[2502.19533v1](http://arxiv.org/abs/2502.19533v1)|null|
+|**2025-02-26**|**Extended IDM theory with low scale seesaw mechanisms**|D. T. Huong et.al.|[2502.19488v1](http://arxiv.org/abs/2502.19488v1)|null|
 |**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414v1](http://arxiv.org/abs/2502.19414v1)|null|
 |**2025-02-26**|**Quantum geometric moment encodes stacking order of moiré matter**|Surat Layek et.al.|[2502.19365v1](http://arxiv.org/abs/2502.19365v1)|null|
 |**2025-02-26**|**Topology optimization of a superabsorbing thin-film semiconductor metasurface**|Johannes Gedeon et.al.|[2502.19352v1](http://arxiv.org/abs/2502.19352v1)|null|
@@ -15,20 +32,3 @@
 |**2025-02-26**|**Sparse Spectrahedral Shadows for State Estimation and Reachability Analysis: Set Operations, Validations and Order Reductions**|Chengrui Wang et.al.|[2502.18941v1](http://arxiv.org/abs/2502.18941v1)|null|
 |**2025-02-26**|**Physics-Aware Inverse Design for Nanowire Single-Photon Avalanche Detectors via Deep Learning**|Boyang Zhang et.al.|[2502.18857v1](http://arxiv.org/abs/2502.18857v1)|null|
 |**2025-02-26**|**Data-Driven and Theory-Guided Pseudo-Spectral Seismic Imaging Using Deep Neural Network Architectures**|Christopher Zerafa et.al.|[2502.18852v1](http://arxiv.org/abs/2502.18852v1)|null|
-|**2025-02-26**|**Efficient optimization of neural network backflow for ab-initio quantum chemistry**|An-Jun Liu et.al.|[2502.18843v1](http://arxiv.org/abs/2502.18843v1)|null|
-|**2025-02-26**|**Comparison of encoding schemes for quantum computing of $S > 1/2$ spin chains**|Erik Lötstedt et.al.|[2502.18838v1](http://arxiv.org/abs/2502.18838v1)|null|
-|**2025-02-26**|**Algebraic surfaces as Hadamard products of curves**|Dario Antolini et.al.|[2502.18813v1](http://arxiv.org/abs/2502.18813v1)|null|
-|**2025-02-26**|**Delensing for Precision Cosmology: Optimizing Future CMB B-mode Surveys to Constrain r**|Wen-Zheng Chen et.al.|[2502.18790v1](http://arxiv.org/abs/2502.18790v1)|null|
-|**2025-02-26**|**Subclass Classification of Gliomas Using MRI Fusion Technique**|Kiranmayee Janardhan et.al.|[2502.18775v1](http://arxiv.org/abs/2502.18775v1)|null|
-|**2025-02-26**|**Bandit and Delayed Feedback in Online Structured Prediction**|Yuki Shibukawa et.al.|[2502.18709v1](http://arxiv.org/abs/2502.18709v1)|null|
-|**2025-02-25**|**A new asymptotic regime for the KdV equation with Wigner-von Neumann type initial data**|Alexei Rybkin et.al.|[2502.18677v1](http://arxiv.org/abs/2502.18677v1)|null|
-|**2025-02-25**|**Multigrid methods for total variation**|Felipe Guerra et.al.|[2502.18659v1](http://arxiv.org/abs/2502.18659v1)|[link](https://zenodo.org/record/14927401)|
-|**2025-02-25**|**Meta-GGA dielectric-dependent and range-separated screened hybrid functional for reliable prediction of material properties**|Subrata Jana et.al.|[2502.18616v1](http://arxiv.org/abs/2502.18616v1)|null|
-|**2025-02-25**|**Understanding Untrained Deep Models for Inverse Problems: Algorithms and Theory**|Ismail Alkhouri et.al.|[2502.18612v1](http://arxiv.org/abs/2502.18612v1)|null|
-|**2025-02-25**|**Exploring the Onset of Collectivity Approaching N=40 through Manganese Masses**|C. Chambers et.al.|[2502.18610v1](http://arxiv.org/abs/2502.18610v1)|null|
-|**2025-02-25**|**Detection of Orbital Angular Momentum Modes via Spiral Phase Plate**|Amin Hakimi et.al.|[2502.18588v1](http://arxiv.org/abs/2502.18588v1)|null|
-|**2025-02-25**|**Formation of filaments and feathers in disc galaxies: Is self-gravity enough?**|Raghav Arora et.al.|[2502.18565v1](http://arxiv.org/abs/2502.18565v1)|null|
-|**2025-02-25**|**Existence of Constant Mean Curvature Surfaces in Asymptotically Flat and Asymptotically Hyperbolic Manifolds**|Liam Mazurowski et.al.|[2502.18455v1](http://arxiv.org/abs/2502.18455v1)|null|
-|**2025-02-25**|**Inversion-free feed-forward and feedback control of MSM based actuator with large non-smooth input hysteresis**|Michael Ruderman et.al.|[2502.18444v1](http://arxiv.org/abs/2502.18444v1)|null|
-|**2025-02-25**|**From Champagne to Confined Polymer:Natural and Artifical Bubble Nucleation**|Carlos Arauz-Moreno et.al.|[2502.18399v1](http://arxiv.org/abs/2502.18399v1)|null|
-|**2025-02-25**|**An Expansion of the Continuity Property**|Jon M. Corson et.al.|[2502.18355v1](http://arxiv.org/abs/2502.18355v1)|null|
