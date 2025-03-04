@@ -5,7 +5,7 @@
 |**2025-02-28**|**TomoSelfDEQ: Self-Supervised Deep Equilibrium Learning for Sparse-Angle CT Reconstruction**|Tatiana A. Bubba et.al.|[2502.21320v1](http://arxiv.org/abs/2502.21320v1)|null|
 |**2025-02-28**|**Truncated factorized perverse sheaves on Sym(C)**|Giovanna Carnovale et.al.|[2502.21213v1](http://arxiv.org/abs/2502.21213v1)|null|
 |**2025-02-28**|**Rare event modeling with self-regularized normalizing flows: what can we learn from a single failure?**|Charles Dawson et.al.|[2502.21110v1](http://arxiv.org/abs/2502.21110v1)|null|
-|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v1](http://arxiv.org/abs/2502.21093v1)|null|
+|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v2](http://arxiv.org/abs/2502.21093v2)|null|
 |**2025-02-28**|**Preconditioned Block Encodings for Quantum Linear Systems**|Leigh Lapworth et.al.|[2502.20908v1](http://arxiv.org/abs/2502.20908v1)|null|
 |**2025-02-28**|**Guiding Quantitative MRI Reconstruction with Phase-wise Uncertainty**|Haozhong Sun et.al.|[2502.20877v1](http://arxiv.org/abs/2502.20877v1)|null|
 |**2025-02-28**|**Parametric-ROM of Structures with Varying Geometry using Direct Parameterization of Invariant Manifolds**|Tiago Martins et.al.|[2502.20872v1](http://arxiv.org/abs/2502.20872v1)|null|
