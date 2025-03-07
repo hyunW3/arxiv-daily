@@ -24,7 +24,7 @@
 |**2025-03-05**|**Meta-analysis of median survival times with inverse-variance weighting**|Sean McGrath et.al.|[2503.03065v1](http://arxiv.org/abs/2503.03065v1)|null|
 |**2025-03-04**|**Supercritical phase transition on the Toeplitz algebra of $\mathbb N^\times \ltimes \mathbb Z$**|Marcelo Laca et.al.|[2503.03033v1](http://arxiv.org/abs/2503.03033v1)|null|
 |**2025-03-04**|**Non-Linear behavior of the Electron Cyclotron Drift Instability and the Suppression of Anomalous Current**|Aryan Sharma et.al.|[2503.03015v1](http://arxiv.org/abs/2503.03015v1)|null|
-|**2025-03-04**|**Can Diffusion Models Provide Rigorous Uncertainty Quantification for Bayesian Inverse Problems?**|Evan Scope Crafts et.al.|[2503.03007v1](http://arxiv.org/abs/2503.03007v1)|null|
+|**2025-03-04**|**Can Diffusion Models Provide Rigorous Uncertainty Quantification for Bayesian Inverse Problems?**|Evan Scope Crafts et.al.|[2503.03007v1](http://arxiv.org/abs/2503.03007v1)|[link](https://github.com/Evan1578/BIPSDA)|
 |**2025-03-04**|**Path integral measures and diffeomorphism invariance**|Alfio Bonanno et.al.|[2503.02941v1](http://arxiv.org/abs/2503.02941v1)|null|
 |**2025-03-04**|**Optimal Power Management for Large-Scale Battery Energy Storage Systems via Bayesian Inference**|Amir Farakhor et.al.|[2503.02866v1](http://arxiv.org/abs/2503.02866v1)|null|
 |**2025-03-04**|**Large-Angle Convergent-Beam Electron Diffraction Patterns via Conditional Generative Adversarial Networks**|Joseph J. Webb et.al.|[2503.02852v2](http://arxiv.org/abs/2503.02852v2)|null|
