@@ -6,7 +6,7 @@
 |**2025-03-06**|**L$^2$M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725v1](http://arxiv.org/abs/2503.04725v1)|null|
 |**2025-03-06**|**Double Narrow-Line Signatures of Dark Matter Decay and New Constraints from XRISM Observations**|Wen Yin et.al.|[2503.04726v1](http://arxiv.org/abs/2503.04726v1)|null|
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724v1](http://arxiv.org/abs/2503.04724v1)|null|
-|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723v1](http://arxiv.org/abs/2503.04723v1)|null|
+|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723v2](http://arxiv.org/abs/2503.04723v2)|null|
 |**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722v1](http://arxiv.org/abs/2503.04722v1)|null|
 |**2025-03-06**|**Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities**|Guan-Ting Lin et.al.|[2503.04721v1](http://arxiv.org/abs/2503.04721v1)|null|
 |**2025-03-06**|**FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**|Yue Gao et.al.|[2503.04720v1](http://arxiv.org/abs/2503.04720v1)|null|
@@ -24,7 +24,7 @@
 |**2025-03-06**|**Iris Style Transfer: Enhancing Iris Recognition with Style Features and Privacy Preservation through Neural Style Transfer**|Mengdi Wang et.al.|[2503.04707v1](http://arxiv.org/abs/2503.04707v1)|null|
 |**2025-03-06**|**Sample-Optimal Agnostic Boosting with Unlabeled Data**|Udaya Ghai et.al.|[2503.04706v1](http://arxiv.org/abs/2503.04706v1)|null|
 |**2025-03-06**|**One Extension to Explain Them All, One Parameter to Minimize $χ^2$, One Framework to Bring Them All, and in One Model Bind Them**|Matteo Forconi et.al.|[2503.04705v1](http://arxiv.org/abs/2503.04705v1)|null|
-|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704v1](http://arxiv.org/abs/2503.04704v1)|null|
+|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704v2](http://arxiv.org/abs/2503.04704v2)|null|
 |**2025-03-06**|**Sharp multipolar $L^p$-Hardy-type inequalities on Riemannian manifolds**|Cristian Ciulică et.al.|[2503.04703v1](http://arxiv.org/abs/2503.04703v1)|null|
 |**2025-03-06**|**Scalable and Site-Specific Frequency Tuning of Two-Level System Defects in Superconducting Qubit Arrays**|Larry Chen et.al.|[2503.04702v1](http://arxiv.org/abs/2503.04702v1)|null|
 |**2025-03-06**|**Computer-Assisted Proofs of Solitons in Bose-Einstein Condensates**|Miguel Ayala et.al.|[2503.04701v1](http://arxiv.org/abs/2503.04701v1)|null|
