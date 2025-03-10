@@ -2,6 +2,23 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-07**|**Characterizing the hadronization of parton showers using the HOMER method**|Benoit Assi et.al.|[2503.05667v1](http://arxiv.org/abs/2503.05667v1)|null|
+|**2025-03-07**|**Integration of aggregated data in causally interpretable meta-analysis by inverse weighting**|Tat-Thang Vo et.al.|[2503.05634v1](http://arxiv.org/abs/2503.05634v1)|null|
+|**2025-03-07**|**Optical control of the spin-Hall effect in a two-dimensional hole gas**|Simone Rossi et.al.|[2503.05583v1](http://arxiv.org/abs/2503.05583v1)|null|
+|**2025-03-07**|**Diffusion Models for Cayley Graphs**|Michael R. Douglas et.al.|[2503.05558v1](http://arxiv.org/abs/2503.05558v1)|null|
+|**2025-03-07**|**Exploiting Inexact Computations in Multilevel Sampling Methods**|Josef Martínek et.al.|[2503.05533v1](http://arxiv.org/abs/2503.05533v1)|null|
+|**2025-03-07**|**Metrological symmetries in singular quantum multi-parameter estimation**|George Mihailescu et.al.|[2503.05483v1](http://arxiv.org/abs/2503.05483v1)|null|
+|**2025-03-07**|**Self-Modeling Robots by Photographing**|Kejun Hu et.al.|[2503.05398v1](http://arxiv.org/abs/2503.05398v1)|null|
+|**2025-03-07**|**On spectral scaling laws for averaged turbulence on the sphere**|Sagy Ephrati et.al.|[2503.05368v1](http://arxiv.org/abs/2503.05368v1)|null|
+|**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[2503.05274v1](http://arxiv.org/abs/2503.05274v1)|null|
+|**2025-03-07**|**Investigation of Direct Nuclear Reactions in a Storage Ring Using In-Ring Detection**|J. C. Zamora et.al.|[2503.05081v1](http://arxiv.org/abs/2503.05081v1)|null|
+|**2025-03-07**|**Inverse sampling intensity weighting for preferential sampling adjustment**|Thomas W. Hsiao et.al.|[2503.05067v1](http://arxiv.org/abs/2503.05067v1)|null|
+|**2025-03-06**|**GRIP: A General Robotic Incremental Potential Contact Simulation Dataset for Unified Deformable-Rigid Coupled Grasping**|Siyu Ma et.al.|[2503.05020v1](http://arxiv.org/abs/2503.05020v1)|null|
+|**2025-03-06**|**Seismic inversion using hybrid quantum neural networks**|Divakar Vashisth et.al.|[2503.05009v1](http://arxiv.org/abs/2503.05009v1)|null|
+|**2025-03-06**|**Enhancing Video Music Recommendation with Transformer-Driven Audio-Visual Embeddings**|Shimiao Liu et.al.|[2503.05008v1](http://arxiv.org/abs/2503.05008v1)|null|
+|**2025-03-06**|**Federated Inverse Probability Treatment Weighting for Individual Treatment Effect Estimation**|Changchang Yin et.al.|[2503.04946v1](http://arxiv.org/abs/2503.04946v1)|null|
+|**2025-03-06**|**Prospects of future MeV telescopes in probing weak-scale Dark Matter**|Marco Cirelli et.al.|[2503.04907v1](http://arxiv.org/abs/2503.04907v1)|null|
+|**2025-03-06**|**Exceptional Topology on Nonorientable Manifolds**|J. Lukas K. König et.al.|[2503.04889v1](http://arxiv.org/abs/2503.04889v1)|null|
 |**2025-03-06**|**Multi-Agent Inverse Q-Learning from Demonstrations**|Nathaniel Haynam et.al.|[2503.04679v1](http://arxiv.org/abs/2503.04679v1)|null|
 |**2025-03-06**|**Perturbation-Aware Distributionally Robust Optimization for Inverse Problems**|Floor van Maarschalkerwaart et.al.|[2503.04646v1](http://arxiv.org/abs/2503.04646v1)|null|
 |**2025-03-06**|**Sign reversal of Berry curvature triple driven by magnetic phase transition in a ferromagnetic polar metal**|Xuyang Sha et.al.|[2503.04616v1](http://arxiv.org/abs/2503.04616v1)|null|
@@ -15,20 +32,3 @@
 |**2025-03-06**|**Primal and Dual Characterizations for Farkas type Lemmas in Terms of Closedness Criteria**|Nguyen Dinh et.al.|[2503.04226v1](http://arxiv.org/abs/2503.04226v1)|null|
 |**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215v1](http://arxiv.org/abs/2503.04215v1)|null|
 |**2025-03-06**|**White Gaussian Noise Generation with a Vacuum State Quantum Entropy Source Chip**|Guan-Ru Qiao et.al.|[2503.04208v1](http://arxiv.org/abs/2503.04208v1)|null|
-|**2025-03-06**|**On Two Parameter Time-Changed Poisson Random Fields with Drifts**|Pradeep Vishwakarma et.al.|[2503.04166v1](http://arxiv.org/abs/2503.04166v1)|null|
-|**2025-03-06**|**The JARVIS Infrastructure is All You Need for Materials Design**|Kamal Choudhary et.al.|[2503.04133v1](http://arxiv.org/abs/2503.04133v1)|null|
-|**2025-03-06**|**Chiral currents at zero magnetic field in some two-dimensional superconductors**|Chandra M. Varma et.al.|[2503.04115v1](http://arxiv.org/abs/2503.04115v1)|null|
-|**2025-03-06**|**Parameter estimation in fluid flow models from undersampled frequency space data**|Miriam Löcke et.al.|[2503.04092v1](http://arxiv.org/abs/2503.04092v1)|null|
-|**2025-03-06**|**Gradient-enhanced PINN with residual unit for studying forward-inverse problems of variable coefficient equations**|Hui-Juan Zhou et.al.|[2503.04056v1](http://arxiv.org/abs/2503.04056v1)|null|
-|**2025-03-06**|**GeoFIK: A Fast and Reliable Geometric Solver for the IK of the Franka Arm based on Screw Theory Enabling Multiple Redundancy Parameters**|Pablo C. Lopez-Custodio et.al.|[2503.03992v1](http://arxiv.org/abs/2503.03992v1)|null|
-|**2025-03-05**|**Endpoint-Explicit Differential Dynamic Programming via Exact Resolution**|Maria Parilli et.al.|[2503.03897v1](http://arxiv.org/abs/2503.03897v1)|null|
-|**2025-03-05**|**A non-homogeneous, non-stationary and path-dependent Markov anomalous diffusion model**|Nestor Barraza et.al.|[2503.03896v1](http://arxiv.org/abs/2503.03896v1)|null|
-|**2025-03-05**|**Anomalous Thickness Dependence of the Vortex Pearl Length in Few-Layer NbSe2**|Nofar Fridman et.al.|[2503.03815v1](http://arxiv.org/abs/2503.03815v1)|null|
-|**2025-03-05**|**Non-Gaussianities in Collider Metric Binning**|Andrew J. Larkoski et.al.|[2503.03809v1](http://arxiv.org/abs/2503.03809v1)|null|
-|**2025-03-05**|**On Semisimple Proto-Abelian Categories Associated to Inverse Monoids**|Alexander Sistko et.al.|[2503.03741v1](http://arxiv.org/abs/2503.03741v1)|null|
-|**2025-03-05**|**Study of an active region prominence using spectropolarimetric data in the He I D3 multiplet**|S. Esteban Pozuelo et.al.|[2503.03670v1](http://arxiv.org/abs/2503.03670v1)|null|
-|**2025-03-05**|**Dynamical Cosmological Constant**|Giuseppe di Donato et.al.|[2503.03589v1](http://arxiv.org/abs/2503.03589v1)|null|
-|**2025-03-05**|**imuQP: An Inverse-Matrix-Updates-Based Fast QP Solver Suitable for Real-Time MPC**|Victor Truong Thinh Lam et.al.|[2503.03581v1](http://arxiv.org/abs/2503.03581v1)|null|
-|**2025-03-05**|**Robust Sparse Precision Matrix Estimation and its Application**|Zhengke Lu et.al.|[2503.03575v1](http://arxiv.org/abs/2503.03575v1)|null|
-|**2025-03-05**|**Correction to the quantum relation of photons in the Doppler effect based on a special Lorentz violation model**|Jinwen Hu et.al.|[2503.03522v1](http://arxiv.org/abs/2503.03522v1)|null|
-|**2025-03-05**|**DO-IQS: Dynamics-Aware Offline Inverse Q-Learning for Optimal Stopping with Unknown Gain Functions**|Anna Kuchko et.al.|[2503.03515v1](http://arxiv.org/abs/2503.03515v1)|null|
