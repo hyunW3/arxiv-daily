@@ -15,10 +15,10 @@
 |**2025-03-10**|**Inverse single facility location problem in the plane with variable coordinates**|Nazanin Tour-Savadkoohi et.al.|[2503.07016v1](http://arxiv.org/abs/2503.07016v1)|null|
 |**2025-03-10**|**ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration**|Youngseok Kim et.al.|[2503.06986v1](http://arxiv.org/abs/2503.06986v1)|null|
 |**2025-03-10**|**Synchronized Video-to-Audio Generation via Mel Quantization-Continuum Decomposition**|Juncheng Wang et.al.|[2503.06984v1](http://arxiv.org/abs/2503.06984v1)|null|
-|**2025-03-10**|**On the one-dimensional extensions of $q$-matroids**|Koji Imamura et.al.|[2503.06830v1](http://arxiv.org/abs/2503.06830v1)|null|
+|**2025-03-10**|**On the one-dimensional extensions of $q$-matroids**|Koji Imamura et.al.|[2503.06830v2](http://arxiv.org/abs/2503.06830v2)|null|
 |**2025-03-10**|**Invariance of three-dimensional Bessel bridges in terms of time reversal**|Yuu Hariya et.al.|[2503.06813v1](http://arxiv.org/abs/2503.06813v1)|null|
 |**2025-03-09**|**Local inverse measure-theoretic entropy for endomorphisms**|Eugen Mihailescu et.al.|[2503.06799v1](http://arxiv.org/abs/2503.06799v1)|null|
-|**2025-03-09**|**Silent Hazards of Token Reduction in Vision-Language Models: The Hidden Impact on Consistency**|Yizheng Sun et.al.|[2503.06794v1](http://arxiv.org/abs/2503.06794v1)|null|
+|**2025-03-09**|**Silent Hazards of Token Reduction in Vision-Language Models: The Hidden Impact on Consistency**|Yizheng Sun et.al.|[2503.06794v2](http://arxiv.org/abs/2503.06794v2)|null|
 |**2025-03-09**|**GenDR: Lightning Generative Detail Restorator**|Yan Wang et.al.|[2503.06790v1](http://arxiv.org/abs/2503.06790v1)|null|
 |**2025-03-09**|**Morita Equivalence of Subrings with Applications to Inverse Semigroup Algebras**|Allen Zhang et.al.|[2503.06715v1](http://arxiv.org/abs/2503.06715v1)|null|
 |**2025-03-09**|**Censoring-Aware Tree-Based Reinforcement Learning for Estimating Dynamic Treatment Regimes with Censored Outcomes**|Animesh Kumar Paul et.al.|[2503.06690v1](http://arxiv.org/abs/2503.06690v1)|null|
