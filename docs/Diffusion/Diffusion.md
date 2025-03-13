@@ -2,6 +2,28 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-12**|**Pulling Back Theorem for Generalizing the Diagonal Averaging Principle in Symplectic Geometry Mode Decomposition**|Hong-Yan Zhang et.al.|[2503.09584v1](http://arxiv.org/abs/2503.09584v1)|null|
+|**2025-03-12**|**Permutation-based Strategies for Labeled Chip-Firing on $k$-ary Trees**|Ryota Inagaki et.al.|[2503.09577v1](http://arxiv.org/abs/2503.09577v1)|null|
+|**2025-03-12**|**Neural-Augmented Incremental Nonlinear Dynamic Inversion for Quadrotors with Payload Adaptation**|Eckart Cobo-Briesewitz et.al.|[2503.09441v1](http://arxiv.org/abs/2503.09441v1)|null|
+|**2025-03-12**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439v1](http://arxiv.org/abs/2503.09439v1)|null|
+|**2025-03-12**|**Solving Bayesian inverse problems via Fisher adaptive Metropolis adjusted Langevin algorithm**|Li-Li Wang et.al.|[2503.09374v1](http://arxiv.org/abs/2503.09374v1)|null|
+|**2025-03-12**|**Exploring coronal abundances of M dwarfs at moderate activity levels**|J. J. Chebly et.al.|[2503.09316v1](http://arxiv.org/abs/2503.09316v1)|null|
+|**2025-03-12**|**Cooperation and competing of antipolar charge order and superconducting states in a quasi-2D superatomic metallic crystal**|Shuya Xing et.al.|[2503.09216v1](http://arxiv.org/abs/2503.09216v1)|null|
+|**2025-03-12**|**Scalable manufacturing of polarization-insensitive metalenses with high-uniform focal arrays in the visible**|Xu Mao et.al.|[2503.09176v1](http://arxiv.org/abs/2503.09176v1)|null|
+|**2025-03-12**|**Nanoscale spin ordering and spin screening effects in tunnel ferromagnetic Josephson junctions**|Roberta Satariano et.al.|[2503.09175v1](http://arxiv.org/abs/2503.09175v1)|null|
+|**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et.al.|[2503.09092v1](http://arxiv.org/abs/2503.09092v1)|null|
+|**2025-03-12**|**Data-Driven Inverse Optimal Control for Continuous-Time Nonlinear Systems**|Hamed Jabbari Asl et.al.|[2503.09090v1](http://arxiv.org/abs/2503.09090v1)|null|
+|**2025-03-12**|**WOMBAT v2.S: A Bayesian inversion framework for attributing global CO$_2$ flux components from multiprocess data**|Josh Jacobson et.al.|[2503.09065v1](http://arxiv.org/abs/2503.09065v1)|null|
+|**2025-03-12**|**Optimal sensing on an asymmetric exceptional surface**|Robert L. Cook et.al.|[2503.09064v1](http://arxiv.org/abs/2503.09064v1)|null|
+|**2025-03-12**|**Prompt Inversion Attack against Collaborative Inference of Large Language Models**|Wenjie Qu et.al.|[2503.09022v1](http://arxiv.org/abs/2503.09022v1)|null|
+|**2025-03-12**|**A deep learning approach to inverse medium scattering: Learning regularizers from a direct imaging method**|Kai Li et.al.|[2503.09021v1](http://arxiv.org/abs/2503.09021v1)|null|
+|**2025-03-12**|**Feasibility-aware Imitation Learning from Observations through a Hand-mounted Demonstration Interface**|Kei Takahashi et.al.|[2503.09018v1](http://arxiv.org/abs/2503.09018v1)|null|
+|**2025-03-11**|**Flares in the Changing Look AGN Mrk 590. II: Deep X-ray observations reveal a Comptonizing inner accretion flow**|Daniel Lawther et.al.|[2503.08959v1](http://arxiv.org/abs/2503.08959v1)|null|
+|**2025-03-11**|**Reconstruct Anything Model: a lightweight foundation model for computational imaging**|Matthieu Terris et.al.|[2503.08915v1](http://arxiv.org/abs/2503.08915v1)|null|
+|**2025-03-11**|**Imitation Learning of Correlated Policies in Stackelberg Games**|Kunag-Da Wang et.al.|[2503.08883v1](http://arxiv.org/abs/2503.08883v1)|null|
+|**2025-03-11**|**Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens**|Dezhong Tong et.al.|[2503.08864v1](http://arxiv.org/abs/2503.08864v1)|null|
+|**2025-03-11**|**Leptogenesis and Neutrino Masses Via Pseudo-Dirac Gauginos**|Cem Murat Ayber et.al.|[2503.08830v1](http://arxiv.org/abs/2503.08830v1)|null|
+|**2025-03-11**|**Ferroelectricity of Wurtzite Al$_{1-x}$Hf$_{x}$N Heterovalent Alloys**|Nate S. P. Bernstein et.al.|[2503.08816v1](http://arxiv.org/abs/2503.08816v1)|null|
 |**2025-03-11**|**Numerical evolutions of the linearised conformal Einstein field equations in the inversion-Minkowski spacetime**|Christian Peterson et.al.|[2503.08672v1](http://arxiv.org/abs/2503.08672v1)|null|
 |**2025-03-11**|**Coefficient-to-Basis Network: A Fine-Tunable Operator Learning Framework for Inverse Problems with Adaptive Discretizations and Theoretical Guarantees**|Zecheng Zhang et.al.|[2503.08642v1](http://arxiv.org/abs/2503.08642v1)|null|
 |**2025-03-11**|**On Positive Integer Descartes-Steiner Curvature Quintuplets**|Wolfdieter Lang et.al.|[2503.08631v1](http://arxiv.org/abs/2503.08631v1)|null|
@@ -10,25 +32,3 @@
 |**2025-03-11**|**Physics of Pair Producing Gaps in Black Hole Magnetospheres: Two Dimensional General Relativistic Particle-in-cell Simulations**|Yajie Yuan et.al.|[2503.08487v1](http://arxiv.org/abs/2503.08487v1)|null|
 |**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434v1](http://arxiv.org/abs/2503.08434v1)|null|
 |**2025-03-11**|**Accurate myocardial T1 mapping at 5T using an improved MOLLI method: A validation study**|Linqi Ge et.al.|[2503.08425v1](http://arxiv.org/abs/2503.08425v1)|null|
-|**2025-03-11**|**Strong Lensing Effect and Quasinormal Modes of Oscillations of Black Holes in $\boldsymbol{f(R,T)}$ Gravity Theory**|Gayatri Mohan et.al.|[2503.08402v1](http://arxiv.org/abs/2503.08402v1)|null|
-|**2025-03-11**|**Dirac Operators on Orbifold Resolutions: Uniform Elliptic Theory**|Viktor F. Majewski et.al.|[2503.08395v1](http://arxiv.org/abs/2503.08395v1)|null|
-|**2025-03-11**|**X-Ray Spectral Variability of Thirteen TeV High Energy Peaked Blazars with XMM-Newton**|P. U. Devanand et.al.|[2503.08386v1](http://arxiv.org/abs/2503.08386v1)|null|
-|**2025-03-11**|**Energy Scale Degradation in Sparse Quantum Solvers: A Barrier to Quantum Utility**|Thang N. Dinh et.al.|[2503.08303v1](http://arxiv.org/abs/2503.08303v1)|null|
-|**2025-03-11**|**Optimal Space-Variant Anisotropic Tikhonov Regularization for Full Waveform Inversion of Sparse Data**|Ali Gholami et.al.|[2503.08187v1](http://arxiv.org/abs/2503.08187v1)|null|
-|**2025-03-11**|**Sisyphus random walks in the presence of moving traps**|Shahar Hod et.al.|[2503.08171v1](http://arxiv.org/abs/2503.08171v1)|null|
-|**2025-03-11**|**FlowDPS: Flow-Driven Posterior Sampling for Inverse Problems**|Jeongsol Kim et.al.|[2503.08136v1](http://arxiv.org/abs/2503.08136v1)|null|
-|**2025-03-11**|**Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments**|Soonwoo Kwon et.al.|[2503.08122v1](http://arxiv.org/abs/2503.08122v1)|null|
-|**2025-03-11**|**STGDPM:Vessel Trajectory Prediction with Spatio-Temporal Graph Diffusion Probabilistic Model**|Jin Wenzhe et.al.|[2503.08065v1](http://arxiv.org/abs/2503.08065v1)|null|
-|**2025-03-11**|**Observation of the nonlinear chiral thermoelectric Hall effect in tellurium**|Tetsuya Nomoto et.al.|[2503.08058v1](http://arxiv.org/abs/2503.08058v1)|null|
-|**2025-03-11**|**Asymptotic Scattering Relation for the Toda Lattice**|Amol Aggarwal et.al.|[2503.08018v1](http://arxiv.org/abs/2503.08018v1)|null|
-|**2025-03-10**|**Modifying Range-Doppler geometry frameworks to process Spotlight SAR imagery in Polar Format**|Piyush S. Agram et.al.|[2503.07889v1](http://arxiv.org/abs/2503.07889v1)|null|
-|**2025-03-10**|**Python-JAX-based Fast Stokesian Dynamics**|Kim William Torre et.al.|[2503.07847v1](http://arxiv.org/abs/2503.07847v1)|null|
-|**2025-03-10**|**Uncertainty quantification and posterior sampling for network reconstruction**|Tiago P. Peixoto et.al.|[2503.07736v1](http://arxiv.org/abs/2503.07736v1)|[link](https://git.skewed.de/count0/graph-tool)|
-|**2025-03-10**|**Reconstructing currents from their projections**|Aidan Backus et.al.|[2503.07573v1](http://arxiv.org/abs/2503.07573v1)|null|
-|**2025-03-10**|**Revealing Rotational Symmetry Breaking Charge-density Wave Order in Kagome Superconductor (Rb, K)V$_3$Sb$_5$ by Ultrafast Pump-probe Experiments**|Qinwen Deng et.al.|[2503.07474v1](http://arxiv.org/abs/2503.07474v1)|null|
-|**2025-03-10**|**Coherent Phonon Pairs and Rotational Symmetry Breaking of Charge Density Wave Order in the Kagome Metal CsV$_3$Sb$_5$**|Qinwen Deng et.al.|[2503.07442v1](http://arxiv.org/abs/2503.07442v1)|null|
-|**2025-03-10**|**Floquet-engineered diode performance in a Majorana-quantum dot Josephson junction**|Koustav Roy et.al.|[2503.07428v1](http://arxiv.org/abs/2503.07428v1)|null|
-|**2025-03-10**|**Inversion-Free Video Style Transfer with Trajectory Reset Attention Control and Content-Style Bridging**|Jiang Lin et.al.|[2503.07363v1](http://arxiv.org/abs/2503.07363v1)|null|
-|**2025-03-10**|**Self-Corrective Task Planning by Inverse Prompting with Large Language Models**|Jiho Lee et.al.|[2503.07317v1](http://arxiv.org/abs/2503.07317v1)|null|
-|**2025-03-10**|**Data-Driven Calibration Technique for Quantitative Inversion**|Zacharie Idriss et.al.|[2503.07316v1](http://arxiv.org/abs/2503.07316v1)|null|
-|**2025-03-10**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307v1](http://arxiv.org/abs/2503.07307v1)|null|
