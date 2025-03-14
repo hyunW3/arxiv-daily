@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-12**|**Odd-parity altermagnetism through sublattice currents: From Haldane-Hubbard model to general bipartite lattices**|Yu-Ping Lin et.al.|[2503.09602v1](http://arxiv.org/abs/2503.09602v1)|null|
-|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v1](http://arxiv.org/abs/2503.09601v1)|null|
+|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v2](http://arxiv.org/abs/2503.09601v2)|null|
 |**2025-03-12**|**MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System**|Jihao Zhao et.al.|[2503.09600v1](http://arxiv.org/abs/2503.09600v1)|null|
 |**2025-03-12**|**Hints of Primordial Magnetic Fields at Recombination and Implications for the Hubble Tension**|Karsten Jedamzik et.al.|[2503.09599v1](http://arxiv.org/abs/2503.09599v1)|null|
 |**2025-03-12**|**How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation**|Ruohao Guo et.al.|[2503.09598v1](http://arxiv.org/abs/2503.09598v1)|null|
@@ -28,7 +28,7 @@
 |**2025-03-12**|**Long-Time Limits of Local Operator Entanglement in Interacting Integrable Models**|J. Alexander Jacoby et.al.|[2503.09578v1](http://arxiv.org/abs/2503.09578v1)|null|
 |**2025-03-12**|**Permutation-based Strategies for Labeled Chip-Firing on $k$-ary Trees**|Ryota Inagaki et.al.|[2503.09577v1](http://arxiv.org/abs/2503.09577v1)|null|
 |**2025-03-12**|**Manify: A Python Library for Learning Non-Euclidean Representations**|Philippe Chlenski et.al.|[2503.09576v1](http://arxiv.org/abs/2503.09576v1)|null|
-|**2025-03-12**|**Short-Pulse Driven Radiofrequency X-Band Photoinjector: Electromagnetic Properties and Beam Dynamics in the Transient Regime**|Gongxiaohui Chen et.al.|[2503.09575v1](http://arxiv.org/abs/2503.09575v1)|null|
+|**2025-03-12**|**Short-Pulse Driven Radiofrequency X-Band Photoinjector: Electromagnetic Properties and Beam Dynamics in the Transient Regime**|Gongxiaohui Chen et.al.|[2503.09575v2](http://arxiv.org/abs/2503.09575v2)|null|
 |**2025-03-12**|**Thorin processes and their subordination**|Lorenzo Torricelli et.al.|[2503.09574v1](http://arxiv.org/abs/2503.09574v1)|null|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573v1](http://arxiv.org/abs/2503.09573v1)|null|
 |**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572v1](http://arxiv.org/abs/2503.09572v1)|null|

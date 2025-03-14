@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-13 21:03:47 Asia/Shanghai
+ Automated deployment @ 2025-03-14 09:12:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -14,14 +14,14 @@
 |**2025-03-12**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439v1](http://arxiv.org/abs/2503.09439v1)|null|
 |**2025-03-12**|**Solving Bayesian inverse problems via Fisher adaptive Metropolis adjusted Langevin algorithm**|Li-Li Wang et.al.|[2503.09374v1](http://arxiv.org/abs/2503.09374v1)|null|
 |**2025-03-12**|**Exploring coronal abundances of M dwarfs at moderate activity levels**|J. J. Chebly et.al.|[2503.09316v1](http://arxiv.org/abs/2503.09316v1)|null|
-|**2025-03-12**|**Cooperation and competing of antipolar charge order and superconducting states in a quasi-2D superatomic metallic crystal**|Shuya Xing et.al.|[2503.09216v1](http://arxiv.org/abs/2503.09216v1)|null|
+|**2025-03-12**|**Cooperation and competing of antipolar charge order and superconducting states in a quasi-2D superatomic metallic crystal**|Shuya Xing et.al.|[2503.09216v2](http://arxiv.org/abs/2503.09216v2)|null|
 |**2025-03-12**|**Scalable manufacturing of polarization-insensitive metalenses with high-uniform focal arrays in the visible**|Xu Mao et.al.|[2503.09176v1](http://arxiv.org/abs/2503.09176v1)|null|
 |**2025-03-12**|**Nanoscale spin ordering and spin screening effects in tunnel ferromagnetic Josephson junctions**|Roberta Satariano et.al.|[2503.09175v1](http://arxiv.org/abs/2503.09175v1)|null|
 |**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et.al.|[2503.09092v1](http://arxiv.org/abs/2503.09092v1)|null|
 |**2025-03-12**|**Data-Driven Inverse Optimal Control for Continuous-Time Nonlinear Systems**|Hamed Jabbari Asl et.al.|[2503.09090v1](http://arxiv.org/abs/2503.09090v1)|null|
 |**2025-03-12**|**WOMBAT v2.S: A Bayesian inversion framework for attributing global CO$_2$ flux components from multiprocess data**|Josh Jacobson et.al.|[2503.09065v1](http://arxiv.org/abs/2503.09065v1)|null|
 |**2025-03-12**|**Optimal sensing on an asymmetric exceptional surface**|Robert L. Cook et.al.|[2503.09064v1](http://arxiv.org/abs/2503.09064v1)|null|
-|**2025-03-12**|**Prompt Inversion Attack against Collaborative Inference of Large Language Models**|Wenjie Qu et.al.|[2503.09022v1](http://arxiv.org/abs/2503.09022v1)|null|
+|**2025-03-12**|**Prompt Inversion Attack against Collaborative Inference of Large Language Models**|Wenjie Qu et.al.|[2503.09022v2](http://arxiv.org/abs/2503.09022v2)|null|
 |**2025-03-12**|**A deep learning approach to inverse medium scattering: Learning regularizers from a direct imaging method**|Kai Li et.al.|[2503.09021v1](http://arxiv.org/abs/2503.09021v1)|null|
 |**2025-03-12**|**Feasibility-aware Imitation Learning from Observations through a Hand-mounted Demonstration Interface**|Kei Takahashi et.al.|[2503.09018v1](http://arxiv.org/abs/2503.09018v1)|null|
 |**2025-03-11**|**Flares in the Changing Look AGN Mrk 590. II: Deep X-ray observations reveal a Comptonizing inner accretion flow**|Daniel Lawther et.al.|[2503.08959v1](http://arxiv.org/abs/2503.08959v1)|null|
@@ -36,14 +36,14 @@
 |**2025-03-11**|**Faithful global convergence for the rescaled Consensus--Based Optimization**|Hui Huang et.al.|[2503.08578v1](http://arxiv.org/abs/2503.08578v1)|null|
 |**2025-03-11**|**Fundamental solutions of heat equation on unitary groups establish an improved relation between $ε$-nets and approximate unitary $t$-designs**|Oskar Słowik et.al.|[2503.08577v1](http://arxiv.org/abs/2503.08577v1)|null|
 |**2025-03-11**|**Physics of Pair Producing Gaps in Black Hole Magnetospheres: Two Dimensional General Relativistic Particle-in-cell Simulations**|Yajie Yuan et.al.|[2503.08487v1](http://arxiv.org/abs/2503.08487v1)|null|
-|**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434v1](http://arxiv.org/abs/2503.08434v1)|null|
+|**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434v2](http://arxiv.org/abs/2503.08434v2)|null|
 |**2025-03-11**|**Accurate myocardial T1 mapping at 5T using an improved MOLLI method: A validation study**|Linqi Ge et.al.|[2503.08425v1](http://arxiv.org/abs/2503.08425v1)|null|
 
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-12**|**Odd-parity altermagnetism through sublattice currents: From Haldane-Hubbard model to general bipartite lattices**|Yu-Ping Lin et.al.|[2503.09602v1](http://arxiv.org/abs/2503.09602v1)|null|
-|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v1](http://arxiv.org/abs/2503.09601v1)|null|
+|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v2](http://arxiv.org/abs/2503.09601v2)|null|
 |**2025-03-12**|**MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System**|Jihao Zhao et.al.|[2503.09600v1](http://arxiv.org/abs/2503.09600v1)|null|
 |**2025-03-12**|**Hints of Primordial Magnetic Fields at Recombination and Implications for the Hubble Tension**|Karsten Jedamzik et.al.|[2503.09599v1](http://arxiv.org/abs/2503.09599v1)|null|
 |**2025-03-12**|**How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation**|Ruohao Guo et.al.|[2503.09598v1](http://arxiv.org/abs/2503.09598v1)|null|
@@ -68,7 +68,7 @@
 |**2025-03-12**|**Long-Time Limits of Local Operator Entanglement in Interacting Integrable Models**|J. Alexander Jacoby et.al.|[2503.09578v1](http://arxiv.org/abs/2503.09578v1)|null|
 |**2025-03-12**|**Permutation-based Strategies for Labeled Chip-Firing on $k$-ary Trees**|Ryota Inagaki et.al.|[2503.09577v1](http://arxiv.org/abs/2503.09577v1)|null|
 |**2025-03-12**|**Manify: A Python Library for Learning Non-Euclidean Representations**|Philippe Chlenski et.al.|[2503.09576v1](http://arxiv.org/abs/2503.09576v1)|null|
-|**2025-03-12**|**Short-Pulse Driven Radiofrequency X-Band Photoinjector: Electromagnetic Properties and Beam Dynamics in the Transient Regime**|Gongxiaohui Chen et.al.|[2503.09575v1](http://arxiv.org/abs/2503.09575v1)|null|
+|**2025-03-12**|**Short-Pulse Driven Radiofrequency X-Band Photoinjector: Electromagnetic Properties and Beam Dynamics in the Transient Regime**|Gongxiaohui Chen et.al.|[2503.09575v2](http://arxiv.org/abs/2503.09575v2)|null|
 |**2025-03-12**|**Thorin processes and their subordination**|Lorenzo Torricelli et.al.|[2503.09574v1](http://arxiv.org/abs/2503.09574v1)|null|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573v1](http://arxiv.org/abs/2503.09573v1)|null|
 |**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572v1](http://arxiv.org/abs/2503.09572v1)|null|
