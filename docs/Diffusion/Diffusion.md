@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-13**|**Current-linear emergent induction of pinned skyrmion textures in an oxide bilayer**|Ludwig Scheuchenpflug et.al.|[2503.10600v1](http://arxiv.org/abs/2503.10600v1)|null|
+|**2025-03-13**|**GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling**|Yang Zheng et.al.|[2503.10597v1](http://arxiv.org/abs/2503.10597v1)|null|
+|**2025-03-13**|**Once bitten, twice shy: A modeling framework for incorporating heterogeneous mosquito biting into transmission models**|Kyle J. -M. Dahlin et.al.|[2503.10585v1](http://arxiv.org/abs/2503.10585v1)|null|
+|**2025-03-13**|**MASQUE: A Text-Guided Diffusion-Based Framework for Localized and Customized Adversarial Makeup**|Youngjin Kwon et.al.|[2503.10549v1](http://arxiv.org/abs/2503.10549v1)|null|
+|**2025-03-13**|**Sediment Concentration Estimation via Multiscale Inverse Problem and Stochastic Homogenization**|Jiwei Li et.al.|[2503.10487v1](http://arxiv.org/abs/2503.10487v1)|null|
+|**2025-03-13**|**Reexamining Circular Dichroism in Photoemission From a Topological Insulator**|Ittai Sidilkover et.al.|[2503.10388v1](http://arxiv.org/abs/2503.10388v1)|null|
+|**2025-03-13**|**Does thermal leptogenesis in a canonical seesaw rely on initial memory?**|Partha Kumar Paul et.al.|[2503.10366v1](http://arxiv.org/abs/2503.10366v1)|null|
+|**2025-03-13**|**Reappraisal of rho meson in nuclear matter by inverse QCD sum rules method**|Halil Mutuk et.al.|[2503.10343v1](http://arxiv.org/abs/2503.10343v1)|null|
+|**2025-03-13**|**EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing**|Zexuan Yan et.al.|[2503.10270v1](http://arxiv.org/abs/2503.10270v1)|null|
+|**2025-03-13**|**Composition structure of polyconvolution associated with index Kontorovich-Lebedev transform and Fourier integrals**|Trinh Tuan et.al.|[2503.10243v1](http://arxiv.org/abs/2503.10243v1)|null|
+|**2025-03-13**|**Efficient Diffusion Posterior Sampling for Noisy Inverse Problems**|Ji Li et.al.|[2503.10237v1](http://arxiv.org/abs/2503.10237v1)|null|
+|**2025-03-13**|**Optimal Estimation and Uncertainty Quantification for Stochastic Inverse Problems via Variational Bayesian Methods**|Ruibiao Song et.al.|[2503.10199v1](http://arxiv.org/abs/2503.10199v1)|null|
+|**2025-03-13**|**Data augmentation using diffusion models to enhance inverse Ising inference**|Yechan Lim et.al.|[2503.10154v1](http://arxiv.org/abs/2503.10154v1)|null|
+|**2025-03-13**|**Multiplicative Learning**|Han Kim et.al.|[2503.10144v1](http://arxiv.org/abs/2503.10144v1)|null|
+|**2025-03-13**|**Inverse random source problem for Maxwell equations in an inhomogeneous medium**|Tianjiao Wang et.al.|[2503.10119v1](http://arxiv.org/abs/2503.10119v1)|null|
+|**2025-03-13**|**Improving Diffusion-based Inverse Algorithms under Few-Step Constraint via Learnable Linear Extrapolation**|Jiawei Zhang et.al.|[2503.10103v1](http://arxiv.org/abs/2503.10103v1)|null|
+|**2025-03-13**|**Provably Secure Covert Messaging Using Image-based Diffusion Processes**|Luke A. Bauer et.al.|[2503.10063v1](http://arxiv.org/abs/2503.10063v1)|null|
+|**2025-03-13**|**Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models**|Sina Malakouti et.al.|[2503.10037v1](http://arxiv.org/abs/2503.10037v1)|null|
+|**2025-03-13**|**RSR-NF: Neural Field Regularization by Static Restoration Priors for Dynamic Imaging**|Berk Iskender et.al.|[2503.10015v1](http://arxiv.org/abs/2503.10015v1)|null|
+|**2025-03-13**|**Far-Field Sensitivity to Local Boundary Perturbations in 2D Wave Scattering**|Erik García Neefjes et.al.|[2503.09998v1](http://arxiv.org/abs/2503.09998v1)|null|
+|**2025-03-13**|**Channel-wise Noise Scheduled Diffusion for Inverse Rendering in Indoor Scenes**|JunYong Choi et.al.|[2503.09993v1](http://arxiv.org/abs/2503.09993v1)|null|
+|**2025-03-13**|**Edge-Fog Computing-Enabled EEG Data Compression via Asymmetrical Variational Discrete Cosine Transform Network**|Xin Zhu et.al.|[2503.09961v1](http://arxiv.org/abs/2503.09961v1)|null|
+|**2025-03-13**|**Intertwined Nematicity, Multiferroicity, and Nonlinear Hall Effect in Rhombohedral Pentalayer Graphene**|Erin Morissette et.al.|[2503.09954v1](http://arxiv.org/abs/2503.09954v1)|null|
+|**2025-03-12**|**T-Parameters Based Modeling for Stacked Intelligent Metasurfaces: Tractable and Physically Consistent Model**|Hamad Yahya et.al.|[2503.09777v1](http://arxiv.org/abs/2503.09777v1)|null|
+|**2025-03-12**|**Localised frames for tensor product spaces**|Dimitri Bytchenkoff et.al.|[2503.09764v1](http://arxiv.org/abs/2503.09764v1)|null|
+|**2025-03-12**|**Solving Bayesian inverse problems with diffusion priors and off-policy RL**|Luca Scimeca et.al.|[2503.09746v1](http://arxiv.org/abs/2503.09746v1)|null|
+|**2025-03-12**|**Tilted sensitivity analysis in matched observational studies**|Colin B. Fogarty et.al.|[2503.09736v1](http://arxiv.org/abs/2503.09736v1)|null|
 |**2025-03-12**|**Pulling Back Theorem for Generalizing the Diagonal Averaging Principle in Symplectic Geometry Mode Decomposition**|Hong-Yan Zhang et.al.|[2503.09584v1](http://arxiv.org/abs/2503.09584v1)|null|
 |**2025-03-12**|**Permutation-based Strategies for Labeled Chip-Firing on $k$-ary Trees**|Ryota Inagaki et.al.|[2503.09577v1](http://arxiv.org/abs/2503.09577v1)|null|
 |**2025-03-12**|**Neural-Augmented Incremental Nonlinear Dynamic Inversion for Quadrotors with Payload Adaptation**|Eckart Cobo-Briesewitz et.al.|[2503.09441v1](http://arxiv.org/abs/2503.09441v1)|null|
-|**2025-03-12**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439v1](http://arxiv.org/abs/2503.09439v1)|null|
-|**2025-03-12**|**Solving Bayesian inverse problems via Fisher adaptive Metropolis adjusted Langevin algorithm**|Li-Li Wang et.al.|[2503.09374v1](http://arxiv.org/abs/2503.09374v1)|null|
-|**2025-03-12**|**Exploring coronal abundances of M dwarfs at moderate activity levels**|J. J. Chebly et.al.|[2503.09316v1](http://arxiv.org/abs/2503.09316v1)|null|
-|**2025-03-12**|**Cooperation and competing of antipolar charge order and superconducting states in a quasi-2D superatomic metallic crystal**|Shuya Xing et.al.|[2503.09216v2](http://arxiv.org/abs/2503.09216v2)|null|
-|**2025-03-12**|**Scalable manufacturing of polarization-insensitive metalenses with high-uniform focal arrays in the visible**|Xu Mao et.al.|[2503.09176v1](http://arxiv.org/abs/2503.09176v1)|null|
-|**2025-03-12**|**Nanoscale spin ordering and spin screening effects in tunnel ferromagnetic Josephson junctions**|Roberta Satariano et.al.|[2503.09175v1](http://arxiv.org/abs/2503.09175v1)|null|
-|**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et.al.|[2503.09092v1](http://arxiv.org/abs/2503.09092v1)|null|
-|**2025-03-12**|**Data-Driven Inverse Optimal Control for Continuous-Time Nonlinear Systems**|Hamed Jabbari Asl et.al.|[2503.09090v1](http://arxiv.org/abs/2503.09090v1)|null|
-|**2025-03-12**|**WOMBAT v2.S: A Bayesian inversion framework for attributing global CO$_2$ flux components from multiprocess data**|Josh Jacobson et.al.|[2503.09065v1](http://arxiv.org/abs/2503.09065v1)|null|
-|**2025-03-12**|**Optimal sensing on an asymmetric exceptional surface**|Robert L. Cook et.al.|[2503.09064v1](http://arxiv.org/abs/2503.09064v1)|null|
-|**2025-03-12**|**Prompt Inversion Attack against Collaborative Inference of Large Language Models**|Wenjie Qu et.al.|[2503.09022v2](http://arxiv.org/abs/2503.09022v2)|null|
-|**2025-03-12**|**A deep learning approach to inverse medium scattering: Learning regularizers from a direct imaging method**|Kai Li et.al.|[2503.09021v1](http://arxiv.org/abs/2503.09021v1)|null|
-|**2025-03-12**|**Feasibility-aware Imitation Learning from Observations through a Hand-mounted Demonstration Interface**|Kei Takahashi et.al.|[2503.09018v1](http://arxiv.org/abs/2503.09018v1)|null|
-|**2025-03-11**|**Flares in the Changing Look AGN Mrk 590. II: Deep X-ray observations reveal a Comptonizing inner accretion flow**|Daniel Lawther et.al.|[2503.08959v1](http://arxiv.org/abs/2503.08959v1)|null|
-|**2025-03-11**|**Reconstruct Anything Model: a lightweight foundation model for computational imaging**|Matthieu Terris et.al.|[2503.08915v1](http://arxiv.org/abs/2503.08915v1)|null|
-|**2025-03-11**|**Imitation Learning of Correlated Policies in Stackelberg Games**|Kunag-Da Wang et.al.|[2503.08883v1](http://arxiv.org/abs/2503.08883v1)|null|
-|**2025-03-11**|**Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens**|Dezhong Tong et.al.|[2503.08864v1](http://arxiv.org/abs/2503.08864v1)|null|
-|**2025-03-11**|**Leptogenesis and Neutrino Masses Via Pseudo-Dirac Gauginos**|Cem Murat Ayber et.al.|[2503.08830v1](http://arxiv.org/abs/2503.08830v1)|null|
-|**2025-03-11**|**Ferroelectricity of Wurtzite Al$_{1-x}$Hf$_{x}$N Heterovalent Alloys**|Nate S. P. Bernstein et.al.|[2503.08816v1](http://arxiv.org/abs/2503.08816v1)|null|
-|**2025-03-11**|**Numerical evolutions of the linearised conformal Einstein field equations in the inversion-Minkowski spacetime**|Christian Peterson et.al.|[2503.08672v1](http://arxiv.org/abs/2503.08672v1)|null|
-|**2025-03-11**|**Coefficient-to-Basis Network: A Fine-Tunable Operator Learning Framework for Inverse Problems with Adaptive Discretizations and Theoretical Guarantees**|Zecheng Zhang et.al.|[2503.08642v1](http://arxiv.org/abs/2503.08642v1)|null|
-|**2025-03-11**|**On Positive Integer Descartes-Steiner Curvature Quintuplets**|Wolfdieter Lang et.al.|[2503.08631v1](http://arxiv.org/abs/2503.08631v1)|null|
-|**2025-03-11**|**Faithful global convergence for the rescaled Consensus--Based Optimization**|Hui Huang et.al.|[2503.08578v1](http://arxiv.org/abs/2503.08578v1)|null|
-|**2025-03-11**|**Fundamental solutions of heat equation on unitary groups establish an improved relation between $ε$-nets and approximate unitary $t$-designs**|Oskar Słowik et.al.|[2503.08577v1](http://arxiv.org/abs/2503.08577v1)|null|
-|**2025-03-11**|**Physics of Pair Producing Gaps in Black Hole Magnetospheres: Two Dimensional General Relativistic Particle-in-cell Simulations**|Yajie Yuan et.al.|[2503.08487v1](http://arxiv.org/abs/2503.08487v1)|null|
-|**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434v2](http://arxiv.org/abs/2503.08434v2)|null|
-|**2025-03-11**|**Accurate myocardial T1 mapping at 5T using an improved MOLLI method: A validation study**|Linqi Ge et.al.|[2503.08425v1](http://arxiv.org/abs/2503.08425v1)|null|
