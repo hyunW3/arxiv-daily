@@ -2,6 +2,24 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**La Méthode du Gradient Proximé**|Patrick L. Combettes et.al.|[2503.14479v1](http://arxiv.org/abs/2503.14479v1)|null|
+|**2025-03-18**|**Graph-CNNs for RF Imaging: Learning the Electric Field Integral Equations**|Kyriakos Stylianopoulos et.al.|[2503.14439v1](http://arxiv.org/abs/2503.14439v1)|null|
+|**2025-03-18**|**Recovering Parameters from Edge Fluctuations: Beta-Ensembles and Critically-Spiked Models**|Pierre Yves Gaudreau Lamarre et.al.|[2503.14414v1](http://arxiv.org/abs/2503.14414v1)|null|
+|**2025-03-18**|**Nonequilibrium Spectral Evolution of Sub-Kondo Resonance**|Jong E. Han et.al.|[2503.14400v1](http://arxiv.org/abs/2503.14400v1)|null|
+|**2025-03-18**|**Extension of Boundary Control method to elliptic and parabolic problems, and its application to the Calderon problem**|Dimitra Kyriakopoulou et.al.|[2503.14320v1](http://arxiv.org/abs/2503.14320v1)|null|
+|**2025-03-18**|**Inverse thermodynamic uncertainty relation and entropy production**|Van Tuan Vo et.al.|[2503.14204v1](http://arxiv.org/abs/2503.14204v1)|null|
+|**2025-03-18**|**Condensing Action Segmentation Datasets via Generative Network Inversion**|Guodong Ding et.al.|[2503.14112v1](http://arxiv.org/abs/2503.14112v1)|null|
+|**2025-03-18**|**BG-Triangle: Bézier Gaussian Triangle for 3D Vectorization and Rendering**|Minye Wu et.al.|[2503.13961v1](http://arxiv.org/abs/2503.13961v1)|null|
+|**2025-03-18**|**On a certain class of starlike functions**|Md Firoz Ali et.al.|[2503.13902v1](http://arxiv.org/abs/2503.13902v1)|null|
+|**2025-03-18**|**Recovering All Coefficients in the Schrödinger Equation With Finite Sets of Boundary Measurements**|Shitao Liu et.al.|[2503.13863v1](http://arxiv.org/abs/2503.13863v1)|null|
+|**2025-03-18**|**Evaluating the Application of SOLID Principles in Modern AI Framework Architectures**|Jonesh Shrestha et.al.|[2503.13786v1](http://arxiv.org/abs/2503.13786v1)|null|
+|**2025-03-17**|**Constructing Sobolev orthonormal rational functions via an updating procedure**|Amin Faghih et.al.|[2503.13711v1](http://arxiv.org/abs/2503.13711v1)|null|
+|**2025-03-17**|**A new pair of transformations and applications to generalized informational inequalities and Hausdorff moment problem**|Razvan Gabriel Iagar et.al.|[2503.13686v1](http://arxiv.org/abs/2503.13686v1)|null|
+|**2025-03-17**|**FiVE: A Fine-grained Video Editing Benchmark for Evaluating Emerging Diffusion and Rectified Flow Models**|Minghan Li et.al.|[2503.13684v1](http://arxiv.org/abs/2503.13684v1)|null|
+|**2025-03-17**|**Countably compact inverse semigroups and Nyikos problem**|Serhii Bardyla et.al.|[2503.13666v1](http://arxiv.org/abs/2503.13666v1)|null|
+|**2025-03-17**|**LSU factorization**|Gennadi Malaschonok et.al.|[2503.13640v1](http://arxiv.org/abs/2503.13640v1)|null|
+|**2025-03-17**|**A Convex formulation for linear discriminant analysis**|Sai Vijay Kumar Surineela et.al.|[2503.13623v1](http://arxiv.org/abs/2503.13623v1)|null|
+|**2025-03-17**|**Microstates of Non-extremal Black Holes: A New Hope**|Soumangsu Chakraborty et.al.|[2503.13589v1](http://arxiv.org/abs/2503.13589v1)|null|
 |**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432v1](http://arxiv.org/abs/2503.13432v1)|null|
 |**2025-03-17**|**New multiple soft theorem from split-helicity amplitude decomposition**|Andriniaina Narindra Rasoanaivo et.al.|[2503.13363v1](http://arxiv.org/abs/2503.13363v1)|null|
 |**2025-03-17**|**Optimal intrinsic formation using exogenous systems**|Yueyue Xu et.al.|[2503.13359v1](http://arxiv.org/abs/2503.13359v1)|null|
@@ -14,21 +32,3 @@
 |**2025-03-17**|**Normative implications**|Andrea De Domenico et.al.|[2503.12965v1](http://arxiv.org/abs/2503.12965v1)|null|
 |**2025-03-17**|**Safeguarding LLM Embeddings in End-Cloud Collaboration via Entropy-Driven Perturbation**|Shuaifan Jin et.al.|[2503.12896v1](http://arxiv.org/abs/2503.12896v1)|null|
 |**2025-03-17**|**MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap**|Yilong Wu et.al.|[2503.12833v1](http://arxiv.org/abs/2503.12833v1)|null|
-|**2025-03-17**|**Determination of the density in the linear elastic wave equation**|Jian Zhai et.al.|[2503.12825v1](http://arxiv.org/abs/2503.12825v1)|null|
-|**2025-03-17**|**Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning**|Yuebing Liang et.al.|[2503.12761v1](http://arxiv.org/abs/2503.12761v1)|null|
-|**2025-03-17**|**Renormalization of Schrödinger equation for potentials with inverse-square singularities: Generalized Trigonometric Pöschl-Teller model**|U. Camara da Silva et.al.|[2503.12715v1](http://arxiv.org/abs/2503.12715v1)|null|
-|**2025-03-16**|**Quantum Chemistry Driven Molecular Inverse Design with Data-free Reinforcement Learning**|Francesco Calcagno et.al.|[2503.12653v1](http://arxiv.org/abs/2503.12653v1)|null|
-|**2025-03-16**|**LATINO-PRO: LAtent consisTency INverse sOlver with PRompt Optimization**|Alessio Spagnoletti et.al.|[2503.12615v1](http://arxiv.org/abs/2503.12615v1)|null|
-|**2025-03-16**|**TBHubbard: tight-binding and extended Hubbard model database for metal-organic frameworks**|Pamela C. Carvalho et.al.|[2503.12554v1](http://arxiv.org/abs/2503.12554v1)|null|
-|**2025-03-16**|**Investigation of Inverse Velocity Dispersion in a Solar Energetic Particle Event Observed by Solar Orbiter**|Zheyi Ding et.al.|[2503.12522v1](http://arxiv.org/abs/2503.12522v1)|null|
-|**2025-03-16**|**Diagnosing the solar atmosphere through the Mg I b$_2$ 5173 Å line. II. Morphological classification of the intensity and circular polarization profiles**|A. L. Siu-Tapia et.al.|[2503.12501v1](http://arxiv.org/abs/2503.12501v1)|null|
-|**2025-03-16**|**Diagnosing the solar atmosphere through the Mg I b$_2$ 5173 Å line. I. Nonlocal thermodynamic equilibrium inversions versus traditional inferences**|A. L. Siu-Tapia et.al.|[2503.12498v1](http://arxiv.org/abs/2503.12498v1)|null|
-|**2025-03-16**|**SING: Semantic Image Communications using Null-Space and INN-Guided Diffusion Models**|Jiakang Chen et.al.|[2503.12484v1](http://arxiv.org/abs/2503.12484v1)|null|
-|**2025-03-16**|**Introduction to inverse problems for non-linear partial differential equations**|Matti Lassas et.al.|[2503.12448v1](http://arxiv.org/abs/2503.12448v1)|null|
-|**2025-03-16**|**On the Uniqueness and Causal Relationship of Precursor Activity to Solar Energetic Events: I. Transient Brightenings -- Introduction and Overview**|Karin Dissauer et.al.|[2503.12338v1](http://arxiv.org/abs/2503.12338v1)|null|
-|**2025-03-16**|**Numerical methods for unraveling inter-particle potentials in colloidal suspensions: A comparative study for two-dimensional suspensions**|Clare R. Rees-Zimmerman et.al.|[2503.12323v1](http://arxiv.org/abs/2503.12323v1)|null|
-|**2025-03-15**|**Train Robots in a JIF: Joint Inverse and Forward Dynamics with Human and Robot Demonstrations**|Gagan Khandate et.al.|[2503.12297v1](http://arxiv.org/abs/2503.12297v1)|null|
-|**2025-03-15**|**On the recovery of two function-valued coefficients in the Helmholtz equation for inverse scattering problems via inverse Born series**|Fioralba Cakoni et.al.|[2503.12289v1](http://arxiv.org/abs/2503.12289v1)|null|
-|**2025-03-15**|**Quantum-enhanced quickest change detection of transmission loss**|Saikat Guha et.al.|[2503.12276v1](http://arxiv.org/abs/2503.12276v1)|null|
-|**2025-03-15**|**Inversely synthesizing the core mass function of high-mass star-forming regions from the canonical initial mass function**|J. W. Zhou et.al.|[2503.12251v1](http://arxiv.org/abs/2503.12251v1)|null|
-|**2025-03-15**|**Shadow Art Kanji: Inverse Rendering Application**|William Louis Rothman et.al.|[2503.12229v1](http://arxiv.org/abs/2503.12229v1)|[link](https://github.com/wilrothman/sakira-code)|
