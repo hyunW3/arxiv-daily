@@ -31,4 +31,4 @@
 |**2025-03-15**|**On the recovery of two function-valued coefficients in the Helmholtz equation for inverse scattering problems via inverse Born series**|Fioralba Cakoni et.al.|[2503.12289v1](http://arxiv.org/abs/2503.12289v1)|null|
 |**2025-03-15**|**Quantum-enhanced quickest change detection of transmission loss**|Saikat Guha et.al.|[2503.12276v1](http://arxiv.org/abs/2503.12276v1)|null|
 |**2025-03-15**|**Inversely synthesizing the core mass function of high-mass star-forming regions from the canonical initial mass function**|J. W. Zhou et.al.|[2503.12251v1](http://arxiv.org/abs/2503.12251v1)|null|
-|**2025-03-15**|**Shadow Art Kanji: Inverse Rendering Application**|William Louis Rothman et.al.|[2503.12229v1](http://arxiv.org/abs/2503.12229v1)|null|
+|**2025-03-15**|**Shadow Art Kanji: Inverse Rendering Application**|William Louis Rothman et.al.|[2503.12229v1](http://arxiv.org/abs/2503.12229v1)|[link](https://github.com/wilrothman/sakira-code)|

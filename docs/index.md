@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-18 21:04:47 Asia/Shanghai
+ Automated deployment @ 2025-03-19 09:14:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -37,7 +37,7 @@
 |**2025-03-15**|**On the recovery of two function-valued coefficients in the Helmholtz equation for inverse scattering problems via inverse Born series**|Fioralba Cakoni et.al.|[2503.12289v1](http://arxiv.org/abs/2503.12289v1)|null|
 |**2025-03-15**|**Quantum-enhanced quickest change detection of transmission loss**|Saikat Guha et.al.|[2503.12276v1](http://arxiv.org/abs/2503.12276v1)|null|
 |**2025-03-15**|**Inversely synthesizing the core mass function of high-mass star-forming regions from the canonical initial mass function**|J. W. Zhou et.al.|[2503.12251v1](http://arxiv.org/abs/2503.12251v1)|null|
-|**2025-03-15**|**Shadow Art Kanji: Inverse Rendering Application**|William Louis Rothman et.al.|[2503.12229v1](http://arxiv.org/abs/2503.12229v1)|null|
+|**2025-03-15**|**Shadow Art Kanji: Inverse Rendering Application**|William Louis Rothman et.al.|[2503.12229v1](http://arxiv.org/abs/2503.12229v1)|[link](https://github.com/wilrothman/sakira-code)|
 
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
@@ -50,7 +50,7 @@
 |**2025-03-17**|**Humanoid Policy ~ Human Policy**|Ri-Zhao Qiu et.al.|[2503.13441v1](http://arxiv.org/abs/2503.13441v1)|null|
 |**2025-03-17**|**Measuring and unbiasing the BAO shift in the Lyman-Alpha forest with AbacusSummit**|Boryana Hadzhiyska et.al.|[2503.13442v1](http://arxiv.org/abs/2503.13442v1)|null|
 |**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439v1](http://arxiv.org/abs/2503.13439v1)|null|
-|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v1](http://arxiv.org/abs/2503.13440v1)|[link](https://github.com/hustvl/MaTVLM)|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v2](http://arxiv.org/abs/2503.13440v2)|[link](https://github.com/hustvl/MaTVLM)|
 |**2025-03-17**|**Deep Belief Markov Models for POMDP Inference**|Giacomo Arcieri et.al.|[2503.13438v1](http://arxiv.org/abs/2503.13438v1)|null|
 |**2025-03-17**|**Can Yang-Baxter imply Lie algebra?**|Dmitry Khudoteplov et.al.|[2503.13437v1](http://arxiv.org/abs/2503.13437v1)|null|
 |**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436v1](http://arxiv.org/abs/2503.13436v1)|null|
