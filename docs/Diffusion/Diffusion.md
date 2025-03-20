@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-19**|**LuGo: an Enhanced Quantum Phase Estimation Implementation**|Chao Lu et.al.|[2503.15439v1](http://arxiv.org/abs/2503.15439v1)|null|
+|**2025-03-19**|**LIFT: Latent Implicit Functions for Task- and Data-Agnostic Encoding**|Amirhossein Kazerouni et.al.|[2503.15420v1](http://arxiv.org/abs/2503.15420v1)|null|
+|**2025-03-19**|**Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers**|Corentin Vazia et.al.|[2503.15383v1](http://arxiv.org/abs/2503.15383v1)|null|
+|**2025-03-19**|**Leveraging Perfect Multimodal Alignment and Gaussian Assumptions for Cross-modal Transfer**|Abhi Kamboj et.al.|[2503.15352v1](http://arxiv.org/abs/2503.15352v1)|null|
+|**2025-03-19**|**Controlled Diagonal Catalyst Improves the Efficiency of Quantum Annealing**|Tomohiro Hattori et.al.|[2503.15244v1](http://arxiv.org/abs/2503.15244v1)|null|
+|**2025-03-19**|**Optimal Data Splitting for Holdout Cross-Validation in Large Covariance Matrix Estimation**|Lamia Lamrani et.al.|[2503.15186v1](http://arxiv.org/abs/2503.15186v1)|null|
+|**2025-03-19**|**Decomposition results for multiplicative actions and applications**|Nikos Frantzikinakis et.al.|[2503.15175v1](http://arxiv.org/abs/2503.15175v1)|null|
+|**2025-03-19**|**Gridless Chirp Parameter Retrieval via Constrained Two-Dimensional Atomic Norm Minimization**|Dehui Yang et.al.|[2503.15164v1](http://arxiv.org/abs/2503.15164v1)|null|
+|**2025-03-19**|**Nonlinear Bayesian Update via Ensemble Kernel Regression with Clustering and Subsampling**|Yoonsang Lee et.al.|[2503.15160v1](http://arxiv.org/abs/2503.15160v1)|null|
+|**2025-03-19**|**Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact**|Ziqiu Zeng et.al.|[2503.15078v1](http://arxiv.org/abs/2503.15078v1)|null|
+|**2025-03-19**|**Efficient forward and inverse uncertainty quantification for dynamical systems based on dimension reduction and Kriging surrogate modeling in functional space**|Zhouzhou Song et.al.|[2503.15077v1](http://arxiv.org/abs/2503.15077v1)|null|
+|**2025-03-19**|**Discrete treatment of inverse Compton scattering: implications on parameter estimation in gamma-ray astronomy**|Junji Xia et.al.|[2503.15052v1](http://arxiv.org/abs/2503.15052v1)|null|
+|**2025-03-19**|**HAD-Gen: Human-like and Diverse Driving Behavior Modeling for Controllable Scenario Generation**|Cheng Wang et.al.|[2503.15049v1](http://arxiv.org/abs/2503.15049v1)|null|
+|**2025-03-19**|**Ambient Noise Full Waveform Inversion with Neural Operators**|Caifeng Zou et.al.|[2503.15013v1](http://arxiv.org/abs/2503.15013v1)|null|
+|**2025-03-19**|**Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model**|Etienne Ménager et.al.|[2503.15009v1](http://arxiv.org/abs/2503.15009v1)|null|
+|**2025-03-19**|**A Novel Channel Boosted Residual CNN-Transformer with Regional-Boundary Learning for Breast Cancer Detection**|Aamir Mehmood et.al.|[2503.15008v1](http://arxiv.org/abs/2503.15008v1)|null|
+|**2025-03-19**|**Inferring diffusivity from killed diffusion**|Richard Nickl et.al.|[2503.14978v1](http://arxiv.org/abs/2503.14978v1)|null|
+|**2025-03-19**|**Inverse Problems for Mean Field Games**|Hongyu Liu et.al.|[2503.14914v1](http://arxiv.org/abs/2503.14914v1)|null|
+|**2025-03-19**|**Perturbed Fourier Transform Associated with Schrödinger Operators**|Shijun Zheng et.al.|[2503.14888v1](http://arxiv.org/abs/2503.14888v1)|null|
+|**2025-03-19**|**Efficient Personalization of Quantized Diffusion Model without Backpropagation**|Hoigi Seo et.al.|[2503.14868v1](http://arxiv.org/abs/2503.14868v1)|null|
+|**2025-03-19**|**Numerical Simulation of Three-dimensional High-Lift Configurations Using Data-Driven Turbulence Model**|Shaoguang Zhang et.al.|[2503.14859v1](http://arxiv.org/abs/2503.14859v1)|null|
+|**2025-03-19**|**Geometric Iterative Approach for Efficient Inverse Kinematics and Planning of Continuum Robots with a Floating Base Under Environment Constraints**|Congjun Ma et.al.|[2503.14848v1](http://arxiv.org/abs/2503.14848v1)|null|
+|**2025-03-19**|**Electric-field-induced fully-compensated ferrimagnetism in experimentally synthesized monolayer MnSe**|Liguo Zhang et.al.|[2503.14834v1](http://arxiv.org/abs/2503.14834v1)|null|
+|**2025-03-18**|**A shape-optimization approach for inverse diffusion problems by single boundary measurement**|Manabu Machida et.al.|[2503.14764v1](http://arxiv.org/abs/2503.14764v1)|null|
+|**2025-03-18**|**Cyclic Voltammetry of Ion-Coupled Electron Transfer Reactions for Diagnosing Energy Storage Materials**|Keyvan Malaie et.al.|[2503.14758v1](http://arxiv.org/abs/2503.14758v1)|null|
+|**2025-03-18**|**Dexterous Control of an 11-DOF Redundant Robot for CT-Guided Needle Insertion With Task-Oriented Weighted Policies**|Peihan Zhang et.al.|[2503.14753v1](http://arxiv.org/abs/2503.14753v1)|null|
+|**2025-03-18**|**Inferring astrophysics and cosmology with individual compact binary coalescences and their gravitational-wave stochastic background**|S. Ferraiuolo et.al.|[2503.14686v1](http://arxiv.org/abs/2503.14686v1)|null|
+|**2025-03-18**|**An Inverse Problem for symmetric hyperbolic Partial Differential Operators on Complete Riemannian Manifolds**|Teemu Saksala et.al.|[2503.14676v1](http://arxiv.org/abs/2503.14676v1)|null|
+|**2025-03-18**|**Determining a credit transition matrix from cumulative default probabilities**|Henryk Gzyl et.al.|[2503.14646v1](http://arxiv.org/abs/2503.14646v1)|null|
 |**2025-03-18**|**La Méthode du Gradient Proximé**|Patrick L. Combettes et.al.|[2503.14479v1](http://arxiv.org/abs/2503.14479v1)|null|
-|**2025-03-18**|**Graph-CNNs for RF Imaging: Learning the Electric Field Integral Equations**|Kyriakos Stylianopoulos et.al.|[2503.14439v1](http://arxiv.org/abs/2503.14439v1)|null|
-|**2025-03-18**|**Recovering Parameters from Edge Fluctuations: Beta-Ensembles and Critically-Spiked Models**|Pierre Yves Gaudreau Lamarre et.al.|[2503.14414v1](http://arxiv.org/abs/2503.14414v1)|null|
-|**2025-03-18**|**Nonequilibrium Spectral Evolution of Sub-Kondo Resonance**|Jong E. Han et.al.|[2503.14400v1](http://arxiv.org/abs/2503.14400v1)|null|
-|**2025-03-18**|**Extension of Boundary Control method to elliptic and parabolic problems, and its application to the Calderon problem**|Dimitra Kyriakopoulou et.al.|[2503.14320v1](http://arxiv.org/abs/2503.14320v1)|null|
-|**2025-03-18**|**Inverse thermodynamic uncertainty relation and entropy production**|Van Tuan Vo et.al.|[2503.14204v1](http://arxiv.org/abs/2503.14204v1)|null|
-|**2025-03-18**|**Condensing Action Segmentation Datasets via Generative Network Inversion**|Guodong Ding et.al.|[2503.14112v1](http://arxiv.org/abs/2503.14112v1)|null|
-|**2025-03-18**|**BG-Triangle: Bézier Gaussian Triangle for 3D Vectorization and Rendering**|Minye Wu et.al.|[2503.13961v1](http://arxiv.org/abs/2503.13961v1)|null|
-|**2025-03-18**|**On a certain class of starlike functions**|Md Firoz Ali et.al.|[2503.13902v1](http://arxiv.org/abs/2503.13902v1)|null|
-|**2025-03-18**|**Recovering All Coefficients in the Schrödinger Equation With Finite Sets of Boundary Measurements**|Shitao Liu et.al.|[2503.13863v1](http://arxiv.org/abs/2503.13863v1)|null|
-|**2025-03-18**|**Evaluating the Application of SOLID Principles in Modern AI Framework Architectures**|Jonesh Shrestha et.al.|[2503.13786v1](http://arxiv.org/abs/2503.13786v1)|null|
-|**2025-03-17**|**Constructing Sobolev orthonormal rational functions via an updating procedure**|Amin Faghih et.al.|[2503.13711v1](http://arxiv.org/abs/2503.13711v1)|null|
-|**2025-03-17**|**A new pair of transformations and applications to generalized informational inequalities and Hausdorff moment problem**|Razvan Gabriel Iagar et.al.|[2503.13686v1](http://arxiv.org/abs/2503.13686v1)|null|
-|**2025-03-17**|**FiVE: A Fine-grained Video Editing Benchmark for Evaluating Emerging Diffusion and Rectified Flow Models**|Minghan Li et.al.|[2503.13684v1](http://arxiv.org/abs/2503.13684v1)|null|
-|**2025-03-17**|**Countably compact inverse semigroups and Nyikos problem**|Serhii Bardyla et.al.|[2503.13666v1](http://arxiv.org/abs/2503.13666v1)|null|
-|**2025-03-17**|**LSU factorization**|Gennadi Malaschonok et.al.|[2503.13640v1](http://arxiv.org/abs/2503.13640v1)|null|
-|**2025-03-17**|**A Convex formulation for linear discriminant analysis**|Sai Vijay Kumar Surineela et.al.|[2503.13623v1](http://arxiv.org/abs/2503.13623v1)|null|
-|**2025-03-17**|**Microstates of Non-extremal Black Holes: A New Hope**|Soumangsu Chakraborty et.al.|[2503.13589v1](http://arxiv.org/abs/2503.13589v1)|null|
-|**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432v1](http://arxiv.org/abs/2503.13432v1)|null|
-|**2025-03-17**|**New multiple soft theorem from split-helicity amplitude decomposition**|Andriniaina Narindra Rasoanaivo et.al.|[2503.13363v1](http://arxiv.org/abs/2503.13363v1)|null|
-|**2025-03-17**|**Optimal intrinsic formation using exogenous systems**|Yueyue Xu et.al.|[2503.13359v1](http://arxiv.org/abs/2503.13359v1)|null|
-|**2025-03-17**|**Solar System objects observed with TESS -- Early Data Release 2: I. Spin-shape recovery potential of multi-epoch TESS observations**|Nóra Takács et.al.|[2503.13332v1](http://arxiv.org/abs/2503.13332v1)|null|
-|**2025-03-17**|**Slow Oscillations of the Transverse Magnetoresistance in HoTe3**|C. V. Zaitsev-Zotov et.al.|[2503.13302v1](http://arxiv.org/abs/2503.13302v1)|null|
-|**2025-03-17**|**A convexity preserving nonconvex regularization for inverse problems under non-Gaussian noise**|Wataru Yata et.al.|[2503.13287v1](http://arxiv.org/abs/2503.13287v1)|null|
-|**2025-03-17**|**Bayesian identification of material parameters in viscoelastic structures as an inverse problem in a semigroup setting**|Rebecca Rothermel et.al.|[2503.13284v1](http://arxiv.org/abs/2503.13284v1)|null|
-|**2025-03-17**|**Giant spin shift current in two-dimensional altermagnetic multiferroics VOX$\mathrm{_2}$**|Yao Yang et.al.|[2503.13140v1](http://arxiv.org/abs/2503.13140v1)|null|
-|**2025-03-17**|**Microscopic mechanisms of flexoelectricity in oxide membranes**|Harikrishnan KP et.al.|[2503.12984v1](http://arxiv.org/abs/2503.12984v1)|null|
-|**2025-03-17**|**Normative implications**|Andrea De Domenico et.al.|[2503.12965v1](http://arxiv.org/abs/2503.12965v1)|null|
-|**2025-03-17**|**Safeguarding LLM Embeddings in End-Cloud Collaboration via Entropy-Driven Perturbation**|Shuaifan Jin et.al.|[2503.12896v1](http://arxiv.org/abs/2503.12896v1)|null|
-|**2025-03-17**|**MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap**|Yilong Wu et.al.|[2503.12833v1](http://arxiv.org/abs/2503.12833v1)|null|
