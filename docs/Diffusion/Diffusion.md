@@ -25,7 +25,7 @@
 |**2025-03-19**|**Numerical Simulation of Three-dimensional High-Lift Configurations Using Data-Driven Turbulence Model**|Shaoguang Zhang et.al.|[2503.14859v1](http://arxiv.org/abs/2503.14859v1)|null|
 |**2025-03-19**|**Geometric Iterative Approach for Efficient Inverse Kinematics and Planning of Continuum Robots with a Floating Base Under Environment Constraints**|Congjun Ma et.al.|[2503.14848v1](http://arxiv.org/abs/2503.14848v1)|null|
 |**2025-03-19**|**Electric-field-induced fully-compensated ferrimagnetism in experimentally synthesized monolayer MnSe**|Liguo Zhang et.al.|[2503.14834v1](http://arxiv.org/abs/2503.14834v1)|null|
-|**2025-03-18**|**A shape-optimization approach for inverse diffusion problems by single boundary measurement**|Manabu Machida et.al.|[2503.14764v1](http://arxiv.org/abs/2503.14764v1)|null|
+|**2025-03-18**|**A shape-optimization approach for inverse diffusion problems using a single boundary measurement**|Manabu Machida et.al.|[2503.14764v2](http://arxiv.org/abs/2503.14764v2)|null|
 |**2025-03-18**|**Cyclic Voltammetry of Ion-Coupled Electron Transfer Reactions for Diagnosing Energy Storage Materials**|Keyvan Malaie et.al.|[2503.14758v1](http://arxiv.org/abs/2503.14758v1)|null|
 |**2025-03-18**|**Dexterous Control of an 11-DOF Redundant Robot for CT-Guided Needle Insertion With Task-Oriented Weighted Policies**|Peihan Zhang et.al.|[2503.14753v1](http://arxiv.org/abs/2503.14753v1)|null|
 |**2025-03-18**|**Inferring astrophysics and cosmology with individual compact binary coalescences and their gravitational-wave stochastic background**|S. Ferraiuolo et.al.|[2503.14686v1](http://arxiv.org/abs/2503.14686v1)|null|
