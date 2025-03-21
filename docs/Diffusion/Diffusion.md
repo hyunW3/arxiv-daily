@@ -2,6 +2,22 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-20**|**A foundational derivation of quantum weak values and time-dependent density functional theory**|Russell B. Thompson et.al.|[2503.16409v1](http://arxiv.org/abs/2503.16409v1)|null|
+|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|null|
+|**2025-03-20**|**Hyperspectral Unmixing using Iterative, Sparse and Ensambling Approaches for Large Spectral Libraries Applied to Soils and Minerals**|Jade Preston et.al.|[2503.16298v1](http://arxiv.org/abs/2503.16298v1)|null|
+|**2025-03-20**|**Aging and mortality of persons with HIV: a novel Kalman Filtering and DMD framework**|Alex Viguerie et.al.|[2503.16297v1](http://arxiv.org/abs/2503.16297v1)|null|
+|**2025-03-20**|**From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning**|Ziang Li et.al.|[2503.16266v1](http://arxiv.org/abs/2503.16266v1)|null|
+|**2025-03-20**|**Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems**|Teresa Klatzer et.al.|[2503.16222v1](http://arxiv.org/abs/2503.16222v1)|null|
+|**2025-03-20**|**Sharp Strong Convergence in Ideal Flows**|Haroune Houamed et.al.|[2503.16189v1](http://arxiv.org/abs/2503.16189v1)|null|
+|**2025-03-20**|**Hydrodynamic Interactions in Particle Suspensions: A Perspective on Stokesian Dynamics**|Kim William Torre et.al.|[2503.16083v1](http://arxiv.org/abs/2503.16083v1)|null|
+|**2025-03-20**|**Sequential Monte Carlo with Gaussian Mixture Distributions for Infinite-Dimensional Statistical Inverse Problems**|Haoyu Lu et.al.|[2503.16028v1](http://arxiv.org/abs/2503.16028v1)|null|
+|**2025-03-20**|**Lithium doping's effects on the microstructural,dielectric,energy storage,optical and electrical properties of BaTi0.89Sn0.11O3 ceramics**|S. Ayadh et.al.|[2503.16006v1](http://arxiv.org/abs/2503.16006v1)|null|
+|**2025-03-20**|**Outcome-Informed Weighting for Robust ATE Estimation**|Linying Yang et.al.|[2503.15989v1](http://arxiv.org/abs/2503.15989v1)|null|
+|**2025-03-20**|**Normal and inverse magnetocaloric effects in structurally disordered Laves phase Y$_{1-x}$Gd$_{x}$Co$_{2}$ (0 $\leq$ x $\leq$ 1) compounds**|Natalia Pierunek et.al.|[2503.15912v1](http://arxiv.org/abs/2503.15912v1)|null|
+|**2025-03-20**|**Upper bounds for the Alexandrov-Fenchel deficit via integral formulas**|Kwok-Kun Kwong et.al.|[2503.15884v1](http://arxiv.org/abs/2503.15884v1)|null|
+|**2025-03-20**|**Multispectral radiation temperature inversion based on Transformer-LSTM-SVM**|Ying Cui et.al.|[2503.15797v1](http://arxiv.org/abs/2503.15797v1)|null|
+|**2025-03-19**|**Capacity drop induced by stability modifications in stochastic dynamic systems**|Mariana Pereira de Melo et.al.|[2503.15717v1](http://arxiv.org/abs/2503.15717v1)|null|
+|**2025-03-19**|**Functionalized Cr$_2$C MXenes: Novel Magnetic Semiconductors**|Yogendra Limbu et.al.|[2503.15695v1](http://arxiv.org/abs/2503.15695v1)|null|
 |**2025-03-19**|**LuGo: an Enhanced Quantum Phase Estimation Implementation**|Chao Lu et.al.|[2503.15439v1](http://arxiv.org/abs/2503.15439v1)|null|
 |**2025-03-19**|**LIFT: Latent Implicit Functions for Task- and Data-Agnostic Encoding**|Amirhossein Kazerouni et.al.|[2503.15420v1](http://arxiv.org/abs/2503.15420v1)|null|
 |**2025-03-19**|**Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers**|Corentin Vazia et.al.|[2503.15383v1](http://arxiv.org/abs/2503.15383v1)|null|
@@ -15,20 +31,4 @@
 |**2025-03-19**|**Efficient forward and inverse uncertainty quantification for dynamical systems based on dimension reduction and Kriging surrogate modeling in functional space**|Zhouzhou Song et.al.|[2503.15077v1](http://arxiv.org/abs/2503.15077v1)|null|
 |**2025-03-19**|**Discrete treatment of inverse Compton scattering: implications on parameter estimation in gamma-ray astronomy**|Junji Xia et.al.|[2503.15052v1](http://arxiv.org/abs/2503.15052v1)|null|
 |**2025-03-19**|**HAD-Gen: Human-like and Diverse Driving Behavior Modeling for Controllable Scenario Generation**|Cheng Wang et.al.|[2503.15049v1](http://arxiv.org/abs/2503.15049v1)|null|
-|**2025-03-19**|**Ambient Noise Full Waveform Inversion with Neural Operators**|Caifeng Zou et.al.|[2503.15013v1](http://arxiv.org/abs/2503.15013v1)|null|
-|**2025-03-19**|**Modeling, Embedded Control and Design of Soft Robots using a Learned Condensed FEM Model**|Etienne Ménager et.al.|[2503.15009v1](http://arxiv.org/abs/2503.15009v1)|null|
-|**2025-03-19**|**A Novel Channel Boosted Residual CNN-Transformer with Regional-Boundary Learning for Breast Cancer Detection**|Aamir Mehmood et.al.|[2503.15008v1](http://arxiv.org/abs/2503.15008v1)|null|
-|**2025-03-19**|**Inferring diffusivity from killed diffusion**|Richard Nickl et.al.|[2503.14978v1](http://arxiv.org/abs/2503.14978v1)|null|
-|**2025-03-19**|**Inverse Problems for Mean Field Games**|Hongyu Liu et.al.|[2503.14914v1](http://arxiv.org/abs/2503.14914v1)|null|
-|**2025-03-19**|**Perturbed Fourier Transform Associated with Schrödinger Operators**|Shijun Zheng et.al.|[2503.14888v1](http://arxiv.org/abs/2503.14888v1)|null|
-|**2025-03-19**|**Efficient Personalization of Quantized Diffusion Model without Backpropagation**|Hoigi Seo et.al.|[2503.14868v1](http://arxiv.org/abs/2503.14868v1)|null|
-|**2025-03-19**|**Numerical Simulation of Three-dimensional High-Lift Configurations Using Data-Driven Turbulence Model**|Shaoguang Zhang et.al.|[2503.14859v1](http://arxiv.org/abs/2503.14859v1)|null|
-|**2025-03-19**|**Geometric Iterative Approach for Efficient Inverse Kinematics and Planning of Continuum Robots with a Floating Base Under Environment Constraints**|Congjun Ma et.al.|[2503.14848v1](http://arxiv.org/abs/2503.14848v1)|null|
-|**2025-03-19**|**Electric-field-induced fully-compensated ferrimagnetism in experimentally synthesized monolayer MnSe**|Liguo Zhang et.al.|[2503.14834v1](http://arxiv.org/abs/2503.14834v1)|null|
-|**2025-03-18**|**A shape-optimization approach for inverse diffusion problems using a single boundary measurement**|Manabu Machida et.al.|[2503.14764v2](http://arxiv.org/abs/2503.14764v2)|null|
-|**2025-03-18**|**Cyclic Voltammetry of Ion-Coupled Electron Transfer Reactions for Diagnosing Energy Storage Materials**|Keyvan Malaie et.al.|[2503.14758v1](http://arxiv.org/abs/2503.14758v1)|null|
-|**2025-03-18**|**Dexterous Control of an 11-DOF Redundant Robot for CT-Guided Needle Insertion With Task-Oriented Weighted Policies**|Peihan Zhang et.al.|[2503.14753v1](http://arxiv.org/abs/2503.14753v1)|null|
-|**2025-03-18**|**Inferring astrophysics and cosmology with individual compact binary coalescences and their gravitational-wave stochastic background**|S. Ferraiuolo et.al.|[2503.14686v1](http://arxiv.org/abs/2503.14686v1)|null|
-|**2025-03-18**|**An Inverse Problem for symmetric hyperbolic Partial Differential Operators on Complete Riemannian Manifolds**|Teemu Saksala et.al.|[2503.14676v1](http://arxiv.org/abs/2503.14676v1)|null|
-|**2025-03-18**|**Determining a credit transition matrix from cumulative default probabilities**|Henryk Gzyl et.al.|[2503.14646v1](http://arxiv.org/abs/2503.14646v1)|null|
-|**2025-03-18**|**La Méthode du Gradient Proximé**|Patrick L. Combettes et.al.|[2503.14479v1](http://arxiv.org/abs/2503.14479v1)|null|
+|**2025-03-19**|**Mixed precision accumulation for neural network inference guided by componentwise forward error analysis**|El-Mehdi El Arar et.al.|[2503.15568v1](http://arxiv.org/abs/2503.15568v1)|null|
