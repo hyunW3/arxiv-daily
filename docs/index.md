@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-23 21:24:05 Asia/Shanghai
+ Automated deployment @ 2025-03-24 09:16:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-20**|**A foundational derivation of quantum weak values and time-dependent density functional theory**|Russell B. Thompson et.al.|[2503.16409v1](http://arxiv.org/abs/2503.16409v1)|null|
 |**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|null|
-|**2025-03-20**|**Hyperspectral Unmixing using Iterative, Sparse and Ensambling Approaches for Large Spectral Libraries Applied to Soils and Minerals**|Jade Preston et.al.|[2503.16298v1](http://arxiv.org/abs/2503.16298v1)|null|
+|**2025-03-20**|**Hyperspectral Unmixing using Iterative, Sparse and Ensambling Approaches for Large Spectral Libraries Applied to Soils and Minerals**|Jade Preston et.al.|[2503.16298v2](http://arxiv.org/abs/2503.16298v2)|null|
 |**2025-03-20**|**Aging and mortality of persons with HIV: a novel Kalman Filtering and DMD framework**|Alex Viguerie et.al.|[2503.16297v1](http://arxiv.org/abs/2503.16297v1)|null|
 |**2025-03-20**|**From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning**|Ziang Li et.al.|[2503.16266v1](http://arxiv.org/abs/2503.16266v1)|null|
 |**2025-03-20**|**Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems**|Teresa Klatzer et.al.|[2503.16222v1](http://arxiv.org/abs/2503.16222v1)|null|
@@ -42,7 +42,7 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|[link](https://github.com/facebookresearch/sonata)|
+|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|[link](https://github.com/Pointcept/Pointcept)|
 |**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430v1](http://arxiv.org/abs/2503.16430v1)|null|
 |**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428v1](http://arxiv.org/abs/2503.16428v1)|null|
 |**2025-03-20**|**On the Holographic Dual of a Symmetry Operator at Finite Temperature**|Jonathan J. Heckman et.al.|[2503.16427v1](http://arxiv.org/abs/2503.16427v1)|null|

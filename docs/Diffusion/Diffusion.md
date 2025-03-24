@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-20**|**A foundational derivation of quantum weak values and time-dependent density functional theory**|Russell B. Thompson et.al.|[2503.16409v1](http://arxiv.org/abs/2503.16409v1)|null|
 |**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|null|
-|**2025-03-20**|**Hyperspectral Unmixing using Iterative, Sparse and Ensambling Approaches for Large Spectral Libraries Applied to Soils and Minerals**|Jade Preston et.al.|[2503.16298v1](http://arxiv.org/abs/2503.16298v1)|null|
+|**2025-03-20**|**Hyperspectral Unmixing using Iterative, Sparse and Ensambling Approaches for Large Spectral Libraries Applied to Soils and Minerals**|Jade Preston et.al.|[2503.16298v2](http://arxiv.org/abs/2503.16298v2)|null|
 |**2025-03-20**|**Aging and mortality of persons with HIV: a novel Kalman Filtering and DMD framework**|Alex Viguerie et.al.|[2503.16297v1](http://arxiv.org/abs/2503.16297v1)|null|
 |**2025-03-20**|**From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning**|Ziang Li et.al.|[2503.16266v1](http://arxiv.org/abs/2503.16266v1)|null|
 |**2025-03-20**|**Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems**|Teresa Klatzer et.al.|[2503.16222v1](http://arxiv.org/abs/2503.16222v1)|null|
