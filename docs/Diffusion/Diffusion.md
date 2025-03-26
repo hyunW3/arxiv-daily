@@ -10,7 +10,7 @@
 |**2025-03-24**|**Bi-geodesic mappings between hyperbolic surfaces with boundary**|Wen Yang et.al.|[2503.18716v1](http://arxiv.org/abs/2503.18716v1)|null|
 |**2025-03-24**|**Accurate Formula for the Effective Conductivity of Highly Clustered Two-Phase Materials**|Murray Skolnick et.al.|[2503.18715v1](http://arxiv.org/abs/2503.18715v1)|null|
 |**2025-03-24**|**A filtered two-step variational integrator for charged-particle dynamics in a normal or strong magnetic field**|Ting Li et.al.|[2503.18659v1](http://arxiv.org/abs/2503.18659v1)|null|
-|**2025-03-24**|**AutoBayes: A Compositional Framework for Generalized Variational Inference**|Toby St Clere Smithe et.al.|[2503.18608v1](http://arxiv.org/abs/2503.18608v1)|null|
+|**2025-03-24**|**AutoBayes: A Compositional Framework for Generalized Variational Inference**|Toby St Clere Smithe et.al.|[2503.18608v2](http://arxiv.org/abs/2503.18608v2)|null|
 |**2025-03-24**|**Linear statistics at the microscopic scale for the 2D Coulomb gas**|Pierre Le Doussal et.al.|[2503.18586v1](http://arxiv.org/abs/2503.18586v1)|null|
 |**2025-03-24**|**Recovering a (1+1)-dimensional wave equation from a single white noise boundary measurement**|Emilia L. K. Blåsten et.al.|[2503.18515v1](http://arxiv.org/abs/2503.18515v1)|null|
 |**2025-03-24**|**Differentiable Simulator for Electrically Reconfigurable Electromagnetic Structures**|Johannes Müller et.al.|[2503.18479v1](http://arxiv.org/abs/2503.18479v1)|null|
