@@ -2,6 +2,20 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-26**|**Edelstein Effect in Isotropic and Anisotropic Rashba Models**|Irene Gaiardoni et.al.|[2503.20712v1](http://arxiv.org/abs/2503.20712v1)|null|
+|**2025-03-26**|**Effective two- and three-body interactions between dressed impurities in a tilted double-well potential**|F. Theel et.al.|[2503.20624v1](http://arxiv.org/abs/2503.20624v1)|null|
+|**2025-03-26**|**MAnycast Reloaded: a Tool for an Open, Fast, Responsible and Efficient Daily Anycast Census**|Remi Hendriks et.al.|[2503.20554v1](http://arxiv.org/abs/2503.20554v1)|null|
+|**2025-03-26**|**Local sensitivity analysis for Bayesian inverse problems**|Jürgen Dölz et.al.|[2503.20526v1](http://arxiv.org/abs/2503.20526v1)|null|
+|**2025-03-26**|**From reductionism to realism: Holistic mathematical modelling for complex biological systems**|Ramón Nartallo-Kaluarachchi et.al.|[2503.20511v1](http://arxiv.org/abs/2503.20511v1)|null|
+|**2025-03-26**|**On some properties of probability kernels**|Hristo Sariev et.al.|[2503.20489v1](http://arxiv.org/abs/2503.20489v1)|null|
+|**2025-03-26**|**Attention Xception UNet (AXUNet): A Novel Combination of CNN and Self-Attention for Brain Tumor Segmentation**|Farzan Moodi et.al.|[2503.20446v1](http://arxiv.org/abs/2503.20446v1)|null|
+|**2025-03-26**|**Unlocking Inverted Singlet-Triplet Gap in Alternant Hydrocarbons with Heteroatoms**|Atreyee Majumdar et.al.|[2503.20369v1](http://arxiv.org/abs/2503.20369v1)|null|
+|**2025-03-26**|**Traversing Distortion-Perception Tradeoff using a Single Score-Based Generative Model**|Yuhan Wang et.al.|[2503.20297v1](http://arxiv.org/abs/2503.20297v1)|null|
+|**2025-03-26**|**How Secure is Forgetting? Linking Machine Unlearning to Machine Learning Attacks**|Muhammed Shafi K. P. et.al.|[2503.20257v1](http://arxiv.org/abs/2503.20257v1)|null|
+|**2025-03-26**|**A note on the asymptotics of the free energy of $1+1$ dimensional directed polymers in random environment at high temperature**|Makoto Nakashima et.al.|[2503.20192v1](http://arxiv.org/abs/2503.20192v1)|null|
+|**2025-03-26**|**Unifying and accelerating level-set and density-based topology optimization by subpixel-smoothed projection**|Alec M. Hammond et.al.|[2503.20189v1](http://arxiv.org/abs/2503.20189v1)|null|
+|**2025-03-26**|**Network Inversion for Generating Confidently Classified Counterfeits**|Pirzada Suhail et.al.|[2503.20187v1](http://arxiv.org/abs/2503.20187v1)|null|
+|**2025-03-26**|**Piezoelectric Transition in a Nonpyroelectric Gyroidal Metal-Organic Framework**|Shunsuke Kitou et.al.|[2503.20153v1](http://arxiv.org/abs/2503.20153v1)|null|
 |**2025-03-25**|**Inverse Hamiltonian reduction in type A and generalized slices in the affine Grassmannian**|Dylan Butson et.al.|[2503.19882v1](http://arxiv.org/abs/2503.19882v1)|null|
 |**2025-03-25**|**Principal spectral rigidity implies subprincipal spectral rigidity**|Maarten V. de Hoop et.al.|[2503.19866v1](http://arxiv.org/abs/2503.19866v1)|null|
 |**2025-03-25**|**Programmable on-chip nonlinear photonics**|Ryotatsu Yanagimoto et.al.|[2503.19861v1](http://arxiv.org/abs/2503.19861v1)|null|
@@ -18,17 +32,3 @@
 |**2025-03-25**|**Realizing a topological diode effect on the surface of a topological Kondo insulator**|Jiawen Zhang et.al.|[2503.19360v1](http://arxiv.org/abs/2503.19360v1)|null|
 |**2025-03-25**|**E-PINNs: Epistemic Physics-Informed Neural Networks**|Ashish S. Nair et.al.|[2503.19333v1](http://arxiv.org/abs/2503.19333v1)|null|
 |**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296v1](http://arxiv.org/abs/2503.19296v1)|null|
-|**2025-03-24**|**Contact-based Grasp Control and Inverse Kinematics for a Five-fingered Robotic Hand**|Robinson Umeike et.al.|[2503.19171v1](http://arxiv.org/abs/2503.19171v1)|null|
-|**2025-03-24**|**AI-Driven Defect Engineering for Advanced Thermoelectric Materials**|Chu-Liang Fu et.al.|[2503.19148v1](http://arxiv.org/abs/2503.19148v1)|null|
-|**2025-03-24**|**On the constitutive behavior of linear viscoelastic solids under the plane stress condition**|Bojan B. Guzina et.al.|[2503.19137v1](http://arxiv.org/abs/2503.19137v1)|null|
-|**2025-03-24**|**Stochastic Poisson Surface Reconstruction with One Solve using Geometric Gaussian Processes**|Sidhanth Holalkere et.al.|[2503.19136v1](http://arxiv.org/abs/2503.19136v1)|null|
-|**2025-03-24**|**An inverse Problem for the cubic $α$-NLS in Sobolev spaces**|Zachary Lee et.al.|[2503.19129v1](http://arxiv.org/abs/2503.19129v1)|null|
-|**2025-03-24**|**Bound Dark Energy: a particle's origin of dark energy**|Axel de la Macorra et.al.|[2503.19098v1](http://arxiv.org/abs/2503.19098v1)|null|
-|**2025-03-24**|**Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling**|Zeqing Jin et.al.|[2503.18911v1](http://arxiv.org/abs/2503.18911v1)|null|
-|**2025-03-24**|**Relaxation equations with stretched non-local operators and renewal processes**|Luisa Beghin et.al.|[2503.18863v1](http://arxiv.org/abs/2503.18863v1)|null|
-|**2025-03-24**|**Application of Physics-Informed Neural Networks for Solving the Inverse Advection-Diffusion Problem to Localize Pollution Sources**|Ivan Chuprov et.al.|[2503.18849v1](http://arxiv.org/abs/2503.18849v1)|null|
-|**2025-03-24**|**Experimental Evidence of Vortex $γ$ Photons in All-Optical Inverse Compton Scattering**|Mingxuan Wei et.al.|[2503.18843v1](http://arxiv.org/abs/2503.18843v1)|null|
-|**2025-03-24**|**Streaming Federated Learning with Markovian Data**|Tan-Khiem Huynh et.al.|[2503.18807v1](http://arxiv.org/abs/2503.18807v1)|null|
-|**2025-03-24**|**Bi-geodesic mappings between hyperbolic surfaces with boundary**|Wen Yang et.al.|[2503.18716v1](http://arxiv.org/abs/2503.18716v1)|null|
-|**2025-03-24**|**Accurate Formula for the Effective Conductivity of Highly Clustered Two-Phase Materials**|Murray Skolnick et.al.|[2503.18715v1](http://arxiv.org/abs/2503.18715v1)|null|
-|**2025-03-24**|**A filtered two-step variational integrator for charged-particle dynamics in a normal or strong magnetic field**|Ting Li et.al.|[2503.18659v1](http://arxiv.org/abs/2503.18659v1)|null|
