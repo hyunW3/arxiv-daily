@@ -12,7 +12,7 @@
 |**2025-03-27**|**Generalizable Implicit Neural Representations via Parameterized Latent Dynamics for Baroclinic Ocean Forecasting**|Guang Zhao et.al.|[2503.21588v1](http://arxiv.org/abs/2503.21588v1)|null|
 |**2025-03-27**|**Ultrafast control of coherent acoustic lattice dynamics in the transition metal dichalcogenide alloy WSSe**|Sergio I. Rey et.al.|[2503.21520v1](http://arxiv.org/abs/2503.21520v1)|null|
 |**2025-03-27**|**Double Blind Imaging with Generative Modeling**|Brett Levac et.al.|[2503.21501v1](http://arxiv.org/abs/2503.21501v1)|null|
-|**2025-03-27**|**BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding**|Shuming Liu et.al.|[2503.21483v1](http://arxiv.org/abs/2503.21483v1)|null|
+|**2025-03-27**|**BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding**|Shuming Liu et.al.|[2503.21483v1](http://arxiv.org/abs/2503.21483v1)|[link](https://github.com/sming256/bolt)|
 |**2025-03-27**|**Exploring the flavor structure of leptons via diffusion models**|Satsuki Nishimura et.al.|[2503.21432v1](http://arxiv.org/abs/2503.21432v1)|null|
 |**2025-03-27**|**Beyond asymptotic scaling: Comparing functional quantum linear solvers**|Andreea-Iulia Lefterovici et.al.|[2503.21420v1](http://arxiv.org/abs/2503.21420v1)|null|
 |**2025-03-27**|**Insight into magnetocaloric properties of Mn2Nb molecular magnet by relaxation calorimetry: A comprehensive case study**|Robert Pelka et.al.|[2503.21343v1](http://arxiv.org/abs/2503.21343v1)|null|
@@ -31,4 +31,4 @@
 |**2025-03-26**|**Nonlocality-enabled inverse design of Dirac-type and higher-order degeneracies for traveling and evanescent waves in phononic crystals**|Sharat Paul et.al.|[2503.21020v1](http://arxiv.org/abs/2503.21020v1)|null|
 |**2025-03-26**|**A parallel branch-and-bound-and-prune algorithm for irregular strip packing with discrete rotations**|Juan J. Lastra-Díaz et.al.|[2503.21009v1](http://arxiv.org/abs/2503.21009v1)|null|
 |**2025-03-26**|**A computational study of nematic core structure and disclination interactions in elastically anisotropic nematics**|Lucas Myers et.al.|[2503.20997v1](http://arxiv.org/abs/2503.20997v1)|null|
-|**2025-03-26**|**TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models**|Caspar Meijer et.al.|[2503.20952v1](http://arxiv.org/abs/2503.20952v1)|null|
+|**2025-03-26**|**TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models**|Caspar Meijer et.al.|[2503.20952v1](http://arxiv.org/abs/2503.20952v1)|[link](https://github.com/capsar/ts-inverse)|
