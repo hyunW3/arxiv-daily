@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-29 21:26:12 Asia/Shanghai
+ Automated deployment @ 2025-03-30 09:20:02 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -67,7 +67,7 @@
 |**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760v1](http://arxiv.org/abs/2503.21760v1)|null|
 |**2025-03-27**|**Large Scale Structure and the Cosmic Web**|Rita Tojeiro et.al.|[2503.21759v1](http://arxiv.org/abs/2503.21759v1)|null|
 |**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757v1](http://arxiv.org/abs/2503.21757v1)|null|
-|**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758v1](http://arxiv.org/abs/2503.21758v1)|null|
+|**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758v1](http://arxiv.org/abs/2503.21758v1)|[link](https://github.com/alpha-vllm/lumina-image-2.0)|
 |**2025-03-27**|**A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schrödinger Matching into One**|Minyoung Kim et.al.|[2503.21756v1](http://arxiv.org/abs/2503.21756v1)|null|
 |**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|[link](https://github.com/vchitect/vbench)|
 |**2025-03-27**|**Differential and symbolic powers of ideals**|Alessandro De Stefani et.al.|[2503.21754v1](http://arxiv.org/abs/2503.21754v1)|null|
