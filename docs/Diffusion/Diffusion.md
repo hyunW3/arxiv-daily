@@ -21,7 +21,7 @@
 |**2025-03-27**|**On the inverse problem of the $k$-th Davenport constants for groups of rank $2$**|Qinghai Zhong et.al.|[2503.21231v1](http://arxiv.org/abs/2503.21231v1)|null|
 |**2025-03-27**|**Optimal Transportation for the Far-field Reflector Problem**|Gang Bao et.al.|[2503.21182v1](http://arxiv.org/abs/2503.21182v1)|null|
 |**2025-03-27**|**Unveiling the Potential of Superexpressive Networks in Implicit Neural Representations**|Uvini Balasuriya Mudiyanselage et.al.|[2503.21166v1](http://arxiv.org/abs/2503.21166v1)|null|
-|**2025-03-27**|**Network Density Analysis of Health Seeking Behavior in Metro Manila: A Retrospective Analysis on COVID-19 Google Trends Data**|Michael T. Lopez II et.al.|[2503.21162v1](http://arxiv.org/abs/2503.21162v1)|null|
+|**2025-03-27**|**Network Density Analysis of Health Seeking Behavior in Metro Manila: A Retrospective Analysis on COVID-19 Google Trends Data**|Michael T. Lopez II et.al.|[2503.21162v2](http://arxiv.org/abs/2503.21162v2)|null|
 |**2025-03-27**|**Onsager reciprocal relations for charge and spin transport in periodically driven systems**|Naoya Arakawa et.al.|[2503.21149v1](http://arxiv.org/abs/2503.21149v1)|null|
 |**2025-03-27**|**Percolation of both signs in a triangular-type 3D Ising model above $T_c$**|Jianping Jiang et.al.|[2503.21147v1](http://arxiv.org/abs/2503.21147v1)|null|
 |**2025-03-26**|**On the Hardness Hierarchy for the $O(n \sqrt{\log n})$ Complexity in the Word RAM**|Dominik Kempa et.al.|[2503.21049v1](http://arxiv.org/abs/2503.21049v1)|null|

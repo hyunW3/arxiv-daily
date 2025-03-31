@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-30 21:26:53 Asia/Shanghai
+ Automated deployment @ 2025-03-31 09:18:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -27,7 +27,7 @@
 |**2025-03-27**|**On the inverse problem of the $k$-th Davenport constants for groups of rank $2$**|Qinghai Zhong et.al.|[2503.21231v1](http://arxiv.org/abs/2503.21231v1)|null|
 |**2025-03-27**|**Optimal Transportation for the Far-field Reflector Problem**|Gang Bao et.al.|[2503.21182v1](http://arxiv.org/abs/2503.21182v1)|null|
 |**2025-03-27**|**Unveiling the Potential of Superexpressive Networks in Implicit Neural Representations**|Uvini Balasuriya Mudiyanselage et.al.|[2503.21166v1](http://arxiv.org/abs/2503.21166v1)|null|
-|**2025-03-27**|**Network Density Analysis of Health Seeking Behavior in Metro Manila: A Retrospective Analysis on COVID-19 Google Trends Data**|Michael T. Lopez II et.al.|[2503.21162v1](http://arxiv.org/abs/2503.21162v1)|null|
+|**2025-03-27**|**Network Density Analysis of Health Seeking Behavior in Metro Manila: A Retrospective Analysis on COVID-19 Google Trends Data**|Michael T. Lopez II et.al.|[2503.21162v2](http://arxiv.org/abs/2503.21162v2)|null|
 |**2025-03-27**|**Onsager reciprocal relations for charge and spin transport in periodically driven systems**|Naoya Arakawa et.al.|[2503.21149v1](http://arxiv.org/abs/2503.21149v1)|null|
 |**2025-03-27**|**Percolation of both signs in a triangular-type 3D Ising model above $T_c$**|Jianping Jiang et.al.|[2503.21147v1](http://arxiv.org/abs/2503.21147v1)|null|
 |**2025-03-26**|**On the Hardness Hierarchy for the $O(n \sqrt{\log n})$ Complexity in the Word RAM**|Dominik Kempa et.al.|[2503.21049v1](http://arxiv.org/abs/2503.21049v1)|null|
@@ -59,7 +59,7 @@
 |**2025-03-27**|**Results on branching random walks and rumor processes via germ order**|Daniela Bertacchi et.al.|[2503.21768v1](http://arxiv.org/abs/2503.21768v1)|null|
 |**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767v1](http://arxiv.org/abs/2503.21767v1)|null|
 |**2025-03-27**|**Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence**|Haolin Liu et.al.|[2503.21766v1](http://arxiv.org/abs/2503.21766v1)|null|
-|**2025-03-27**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy et.al.|[2503.21764v1](http://arxiv.org/abs/2503.21764v1)|null|
+|**2025-03-27**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy et.al.|[2503.21764v2](http://arxiv.org/abs/2503.21764v2)|null|
 |**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765v1](http://arxiv.org/abs/2503.21765v1)|[link](https://github.com/minnie-lin/awesome-physics-cognition-based-video-generation)|
 |**2025-03-27**|**Identification and estimation of treatment effects in a linear factor model with fixed number of time periods**|Koki Fusejima et.al.|[2503.21763v1](http://arxiv.org/abs/2503.21763v1)|null|
 |**2025-03-27**|**On the open TS/ST correspondence**|Matijn François et.al.|[2503.21762v1](http://arxiv.org/abs/2503.21762v1)|null|
