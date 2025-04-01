@@ -5,13 +5,13 @@
 |**2025-03-28**|**Residual-based Chebyshev filtered subspace iteration for sparse Hermitian eigenvalue problems tolerant to inexact matrix-vector products**|Nikhil Kodali et.al.|[2503.22652v1](http://arxiv.org/abs/2503.22652v1)|null|
 |**2025-03-28**|**The radiative effects of photochemical hazes on the atmospheric circulation and phase curves of sub-Neptunes**|Maria E. Steinrueck et.al.|[2503.22642v1](http://arxiv.org/abs/2503.22642v1)|null|
 |**2025-03-28**|**Analog Computing with Heat: Matrix-vector Multiplication with Inverse-designed Metastructures**|Caio Silva et.al.|[2503.22603v1](http://arxiv.org/abs/2503.22603v1)|null|
-|**2025-03-28**|**Fast Magnetic Coil Controller for Cold Atom Experiments**|L. Uhthoff-Rodríguez et.al.|[2503.22554v1](http://arxiv.org/abs/2503.22554v1)|null|
+|**2025-03-28**|**Fast Magnetic Coil Controller for Cold Atom Experiments**|L. Uhthoff-Rodríguez et.al.|[2503.22554v1](http://arxiv.org/abs/2503.22554v1)|[link](https://github.com/ifquetzal/coildriver)|
 |**2025-03-28**|**An iterative algorithm for the square-root Lasso**|Patrizia Boccacci et.al.|[2503.22523v1](http://arxiv.org/abs/2503.22523v1)|null|
 |**2025-03-28**|**A limit theorem for the total progeny distribution of multi-type branching processes**|Jochem Hoogendijk et.al.|[2503.22518v1](http://arxiv.org/abs/2503.22518v1)|null|
 |**2025-03-28**|**Control of Humanoid Robots with Parallel Mechanisms using Kinematic Actuation Models**|Victor Lutz et.al.|[2503.22459v1](http://arxiv.org/abs/2503.22459v1)|null|
 |**2025-03-28**|**The Hungry Daemon: An energy-harvesting active particle must obey the Second Law of Thermodynamics**|Simon Bienewald et.al.|[2503.22416v1](http://arxiv.org/abs/2503.22416v1)|null|
 |**2025-03-28**|**Casimir pressure with dissipation and quantum corrections from axion dark matter**|Philippe Brax et.al.|[2503.22412v1](http://arxiv.org/abs/2503.22412v1)|null|
-|**2025-03-28**|**Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs**|Yuan He et.al.|[2503.22362v1](http://arxiv.org/abs/2503.22362v1)|null|
+|**2025-03-28**|**Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs**|Yuan He et.al.|[2503.22362v1](http://arxiv.org/abs/2503.22362v1)|[link](https://github.com/KRR-Oxford/FactProbe)|
 |**2025-03-28**|**Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models**|Ziping Dong et.al.|[2503.22330v1](http://arxiv.org/abs/2503.22330v1)|null|
 |**2025-03-28**|**Microwave One-way Transparency by Large Synthetic Motion of Magnetochiral Polaritons in Metamolecules**|Kentaro Mita et.al.|[2503.22279v1](http://arxiv.org/abs/2503.22279v1)|null|
 |**2025-03-28**|**Static and hydrodynamic periodic structures induced by AC electric fields in the antiferroelectric SmZA phase**|K. S. Krishnamurthy et.al.|[2503.22266v1](http://arxiv.org/abs/2503.22266v1)|null|
