@@ -14,14 +14,14 @@
 |**2025-03-31**|**Inflated G-Extensions for Algebraic Number Fields**|M Krithika et.al.|[2503.23946v1](http://arxiv.org/abs/2503.23946v1)|null|
 |**2025-03-31**|**DiffuSE: Cross-Layer Design Space Exploration of DNN Accelerator via Diffusion-Driven Optimization**|Yi Ren et.al.|[2503.23945v1](http://arxiv.org/abs/2503.23945v1)|null|
 |**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897v1](http://arxiv.org/abs/2503.23897v1)|null|
-|**2025-03-31**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862v1](http://arxiv.org/abs/2503.23862v1)|[link](https://github.com/pnu-amilab/cleric)|
+|**2025-03-31**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862v2](http://arxiv.org/abs/2503.23862v2)|[link](https://github.com/pnu-amilab/cleric)|
 |**2025-03-31**|**A new independent look at the galactic black hole low-mass X-ray binary distribution**|Youssef Abdulghani et.al.|[2503.23812v1](http://arxiv.org/abs/2503.23812v1)|null|
 |**2025-03-31**|**Light-Driven Skyrmion Crystal Generation in Plasmonic Metasurfaces Through the Inverse Faraday Effect**|Xingyu Yang et.al.|[2503.23800v1](http://arxiv.org/abs/2503.23800v1)|null|
 |**2025-03-31**|**A new index transform with the square of Whittaker's function**|Semyon Yakubovich et.al.|[2503.23770v1](http://arxiv.org/abs/2503.23770v1)|null|
-|**2025-03-31**|**On a natural L2 metric on the space of Hermitian metrics**|Jinwei Gao et.al.|[2503.23756v1](http://arxiv.org/abs/2503.23756v1)|null|
+|**2025-03-31**|**On a natural L2 metric on the space of Hermitian metrics**|Jinwei Gao et.al.|[2503.23756v2](http://arxiv.org/abs/2503.23756v2)|null|
 |**2025-03-31**|**Minimal solutions of tropical linear differential systems**|Dima Grigoriev et.al.|[2503.23703v1](http://arxiv.org/abs/2503.23703v1)|null|
 |**2025-03-31**|**Modeling Framework to Predict Melting Dynamics at Microstructural Defects in TNT-HMX High Explosive Composites**|Ethan Holbrook et.al.|[2503.23680v1](http://arxiv.org/abs/2503.23680v1)|null|
-|**2025-03-31**|**JAX-BTE: A GPU-Accelerated Differentiable Solver for Phonon Boltzmann Transport Equations**|Wenjie Shang et.al.|[2503.23657v1](http://arxiv.org/abs/2503.23657v1)|null|
+|**2025-03-31**|**JAX-BTE: A GPU-Accelerated Differentiable Solver for Phonon Boltzmann Transport Equations**|Wenjie Shang et.al.|[2503.23657v2](http://arxiv.org/abs/2503.23657v2)|null|
 |**2025-03-31**|**Bayesian Inference for a Time-Fractional HIV Model with Nonlinear Diffusion**|Mohamed BenSalah et.al.|[2503.23638v1](http://arxiv.org/abs/2503.23638v1)|null|
 |**2025-03-31**|**Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure**|Amit Jaspal et.al.|[2503.23630v1](http://arxiv.org/abs/2503.23630v1)|null|
 |**2025-03-30**|**Magnetoelectric training of multiferroic domains in Mn$_2$GeO$_4$**|Naëmi Leo et.al.|[2503.23583v1](http://arxiv.org/abs/2503.23583v1)|null|
