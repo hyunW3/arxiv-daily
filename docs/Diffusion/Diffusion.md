@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-31**|**Faster Releases, Fewer Risks: A Study on Maven Artifact Vulnerabilities and Lifecycle Management**|Md Shafiullah Shafin et.al.|[2503.24349v1](http://arxiv.org/abs/2503.24349v1)|null|
-|**2025-03-31**|**Beyond Gaussian Assumptions: A Nonlinear Generalization of Linear Inverse Modeling**|Justin Lien et.al.|[2503.24234v1](http://arxiv.org/abs/2503.24234v1)|null|
+|**2025-03-31**|**Beyond Gaussian Assumptions: A Nonlinear Generalization of Linear Inverse Modeling**|Justin Lien et.al.|[2503.24234v2](http://arxiv.org/abs/2503.24234v2)|null|
 |**2025-03-31**|**Asymptotic Freedom and Finite-size Scaling of Two-dimensional Classical Heisenberg Model**|Dingyun Yao et.al.|[2503.24226v1](http://arxiv.org/abs/2503.24226v1)|null|
 |**2025-03-31**|**Optimal low-rank approximations for linear Gaussian inverse problems on Hilbert spaces, Part II: posterior mean approximation**|Giuseppe Carere et.al.|[2503.24209v1](http://arxiv.org/abs/2503.24209v1)|null|
 |**2025-03-31**|**Reinforcement Learning for Safe Autonomous Two Device Navigation of Cerebral Vessels in Mechanical Thrombectomy**|Harry Robertshaw et.al.|[2503.24140v1](http://arxiv.org/abs/2503.24140v1)|null|

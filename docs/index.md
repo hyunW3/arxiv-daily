@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-02 21:06:23 Asia/Shanghai
+ Automated deployment @ 2025-04-03 09:14:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -9,7 +9,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-31**|**Faster Releases, Fewer Risks: A Study on Maven Artifact Vulnerabilities and Lifecycle Management**|Md Shafiullah Shafin et.al.|[2503.24349v1](http://arxiv.org/abs/2503.24349v1)|null|
-|**2025-03-31**|**Beyond Gaussian Assumptions: A Nonlinear Generalization of Linear Inverse Modeling**|Justin Lien et.al.|[2503.24234v1](http://arxiv.org/abs/2503.24234v1)|null|
+|**2025-03-31**|**Beyond Gaussian Assumptions: A Nonlinear Generalization of Linear Inverse Modeling**|Justin Lien et.al.|[2503.24234v2](http://arxiv.org/abs/2503.24234v2)|null|
 |**2025-03-31**|**Asymptotic Freedom and Finite-size Scaling of Two-dimensional Classical Heisenberg Model**|Dingyun Yao et.al.|[2503.24226v1](http://arxiv.org/abs/2503.24226v1)|null|
 |**2025-03-31**|**Optimal low-rank approximations for linear Gaussian inverse problems on Hilbert spaces, Part II: posterior mean approximation**|Giuseppe Carere et.al.|[2503.24209v1](http://arxiv.org/abs/2503.24209v1)|null|
 |**2025-03-31**|**Reinforcement Learning for Safe Autonomous Two Device Navigation of Cerebral Vessels in Mechanical Thrombectomy**|Harry Robertshaw et.al.|[2503.24140v1](http://arxiv.org/abs/2503.24140v1)|null|
@@ -49,7 +49,7 @@
 |**2025-03-31**|**Consistent Subject Generation via Contrastive Instantiated Concepts**|Lee Hsin-Ying et.al.|[2503.24387v1](http://arxiv.org/abs/2503.24387v1)|null|
 |**2025-03-31**|**How interacting Bose gases scatter light**|Konstantinos Konstantinou et.al.|[2503.24386v1](http://arxiv.org/abs/2503.24386v1)|null|
 |**2025-03-31**|**Evolution of structure growth during dark energy domination: insights from the cross-correlation of DESI galaxies with CMB lensing and galaxy magnification**|Noah Sailer et.al.|[2503.24385v1](http://arxiv.org/abs/2503.24385v1)|null|
-|**2025-03-31**|**High Energy Emission from the Intrabinary Shocks in Redback Pulsars**|Andrew G. Sullivan et.al.|[2503.24384v1](http://arxiv.org/abs/2503.24384v1)|null|
+|**2025-03-31**|**High Energy Emission from the Intrabinary Shocks in Redback Pulsars**|Andrew G. Sullivan et.al.|[2503.24384v2](http://arxiv.org/abs/2503.24384v2)|null|
 |**2025-03-31**|**Two-color magneto-optical trapping of ytterbium atoms**|Xiao Li et.al.|[2503.24383v1](http://arxiv.org/abs/2503.24383v1)|null|
 |**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382v1](http://arxiv.org/abs/2503.24382v1)|null|
 |**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381v1](http://arxiv.org/abs/2503.24381v1)|[link](https://github.com/tasl-lab/uniocc)|
