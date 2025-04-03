@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-31**|**Faster Releases, Fewer Risks: A Study on Maven Artifact Vulnerabilities and Lifecycle Management**|Md Shafiullah Shafin et.al.|[2503.24349v1](http://arxiv.org/abs/2503.24349v1)|null|
-|**2025-03-31**|**Beyond Gaussian Assumptions: A Nonlinear Generalization of Linear Inverse Modeling**|Justin Lien et.al.|[2503.24234v2](http://arxiv.org/abs/2503.24234v2)|null|
-|**2025-03-31**|**Asymptotic Freedom and Finite-size Scaling of Two-dimensional Classical Heisenberg Model**|Dingyun Yao et.al.|[2503.24226v1](http://arxiv.org/abs/2503.24226v1)|null|
-|**2025-03-31**|**Optimal low-rank approximations for linear Gaussian inverse problems on Hilbert spaces, Part II: posterior mean approximation**|Giuseppe Carere et.al.|[2503.24209v1](http://arxiv.org/abs/2503.24209v1)|null|
-|**2025-03-31**|**Reinforcement Learning for Safe Autonomous Two Device Navigation of Cerebral Vessels in Mechanical Thrombectomy**|Harry Robertshaw et.al.|[2503.24140v1](http://arxiv.org/abs/2503.24140v1)|null|
-|**2025-03-31**|**Physics-informed neural networks for hidden boundary detection and flow field reconstruction**|Yongzheng Zhu et.al.|[2503.24074v1](http://arxiv.org/abs/2503.24074v1)|null|
-|**2025-03-31**|**Estimation of thermal properties and boundary heat transfer coefficient of the ground with a Bayesian technique**|Zhanat Karashbayeva et.al.|[2503.24072v1](http://arxiv.org/abs/2503.24072v1)|null|
-|**2025-03-31**|**Optimal low-rank approximations for linear Gaussian inverse problems on Hilbert spaces, Part I: posterior covariance approximation**|Giuseppe Carere et.al.|[2503.24020v1](http://arxiv.org/abs/2503.24020v1)|null|
-|**2025-03-31**|**Learning 3D-Gaussian Simulators from RGB Videos**|Mikel Zhobro et.al.|[2503.24009v1](http://arxiv.org/abs/2503.24009v1)|null|
-|**2025-03-31**|**Inflated G-Extensions for Algebraic Number Fields**|M Krithika et.al.|[2503.23946v1](http://arxiv.org/abs/2503.23946v1)|null|
-|**2025-03-31**|**DiffuSE: Cross-Layer Design Space Exploration of DNN Accelerator via Diffusion-Driven Optimization**|Yi Ren et.al.|[2503.23945v1](http://arxiv.org/abs/2503.23945v1)|null|
-|**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897v1](http://arxiv.org/abs/2503.23897v1)|null|
-|**2025-03-31**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862v2](http://arxiv.org/abs/2503.23862v2)|[link](https://github.com/pnu-amilab/cleric)|
-|**2025-03-31**|**A new independent look at the galactic black hole low-mass X-ray binary distribution**|Youssef Abdulghani et.al.|[2503.23812v1](http://arxiv.org/abs/2503.23812v1)|null|
-|**2025-03-31**|**Light-Driven Skyrmion Crystal Generation in Plasmonic Metasurfaces Through the Inverse Faraday Effect**|Xingyu Yang et.al.|[2503.23800v1](http://arxiv.org/abs/2503.23800v1)|null|
-|**2025-03-31**|**A new index transform with the square of Whittaker's function**|Semyon Yakubovich et.al.|[2503.23770v1](http://arxiv.org/abs/2503.23770v1)|null|
-|**2025-03-31**|**On a natural L2 metric on the space of Hermitian metrics**|Jinwei Gao et.al.|[2503.23756v2](http://arxiv.org/abs/2503.23756v2)|null|
-|**2025-03-31**|**Minimal solutions of tropical linear differential systems**|Dima Grigoriev et.al.|[2503.23703v1](http://arxiv.org/abs/2503.23703v1)|null|
-|**2025-03-31**|**Modeling Framework to Predict Melting Dynamics at Microstructural Defects in TNT-HMX High Explosive Composites**|Ethan Holbrook et.al.|[2503.23680v1](http://arxiv.org/abs/2503.23680v1)|null|
-|**2025-03-31**|**JAX-BTE: A GPU-Accelerated Differentiable Solver for Phonon Boltzmann Transport Equations**|Wenjie Shang et.al.|[2503.23657v2](http://arxiv.org/abs/2503.23657v2)|null|
-|**2025-03-31**|**Bayesian Inference for a Time-Fractional HIV Model with Nonlinear Diffusion**|Mohamed BenSalah et.al.|[2503.23638v1](http://arxiv.org/abs/2503.23638v1)|null|
-|**2025-03-31**|**Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure**|Amit Jaspal et.al.|[2503.23630v1](http://arxiv.org/abs/2503.23630v1)|null|
-|**2025-03-30**|**Magnetoelectric training of multiferroic domains in Mn$_2$GeO$_4$**|Naëmi Leo et.al.|[2503.23583v1](http://arxiv.org/abs/2503.23583v1)|null|
-|**2025-03-30**|**Chiral symmetry and magnetism in a 3D Kagome lattice: RPt$_2$B (R = La and Nd) prototype crystals**|C. E. Ardila-Gutiérrez et.al.|[2503.23479v1](http://arxiv.org/abs/2503.23479v1)|null|
-|**2025-03-30**|**Solving the inverse problem for the design of omnidirectional lenses with an ultimately high numerical aperture**|Shay Rabani et.al.|[2503.23392v1](http://arxiv.org/abs/2503.23392v1)|null|
-|**2025-03-30**|**TraceMark-LDM: Authenticatable Watermarking for Latent Diffusion Models via Binary-Guided Rearrangement**|Wenhao Luo et.al.|[2503.23332v1](http://arxiv.org/abs/2503.23332v1)|null|
-|**2025-03-30**|**High-Dimensional Evolutionary Algorithm Based Design of Semi-Adder**|Xi Zhang et.al.|[2503.23322v1](http://arxiv.org/abs/2503.23322v1)|null|
-|**2025-03-30**|**Learning Coordinated Bimanual Manipulation Policies using State Diffusion and Inverse Dynamics Models**|Haonan Chen et.al.|[2503.23271v1](http://arxiv.org/abs/2503.23271v1)|null|
-|**2025-03-29**|**Uniformity in the Fourier inversion formula with applications to Laplace transforms**|Joannis Alexopoulos et.al.|[2503.23210v1](http://arxiv.org/abs/2503.23210v1)|null|
-|**2025-03-29**|**Controllability of the Fisher-Stefan system**|Idriss Boutaayamou et.al.|[2503.23154v1](http://arxiv.org/abs/2503.23154v1)|null|
+|**2025-04-02**|**Shape Theory via the Atiyah--Molino Reconstruction and Deformations**|Noémie C. Combe et.al.|[2504.01831v1](http://arxiv.org/abs/2504.01831v1)|null|
+|**2025-04-02**|**A quantitative theory and atomistic simulation study on the soft-sphere crystal-melt interfacial properties: II. Interfacial free energies**|Ya-Shen Wang et.al.|[2504.01778v1](http://arxiv.org/abs/2504.01778v1)|null|
+|**2025-04-02**|**Universal inverse Radon transforms: Inhomogeneity, angular restrictions and boundary**|I. V. Anikin et.al.|[2504.01744v1](http://arxiv.org/abs/2504.01744v1)|null|
+|**2025-04-02**|**Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning**|Md Mahabub Uz Zaman et.al.|[2504.01705v1](http://arxiv.org/abs/2504.01705v1)|null|
+|**2025-04-02**|**MS_ATpV-FWI: Full Waveform Inversion based on Multi-scale Structural Similarity Index Measure and Anisotropic Total p-Variation Regularization**|Liangsheng He et.al.|[2504.01695v1](http://arxiv.org/abs/2504.01695v1)|null|
+|**2025-04-02**|**Reconstruction of coefficients in the double phase problem**|Cătălin I. Cârstea et.al.|[2504.01691v1](http://arxiv.org/abs/2504.01691v1)|null|
+|**2025-04-02**|**InvFussion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems**|Noam Elata et.al.|[2504.01689v1](http://arxiv.org/abs/2504.01689v1)|null|
+|**2025-04-02**|**Toroid, Altermagnetic and Noncentrosymmetric ordering in metals**|V. P. Mineev et.al.|[2504.01686v1](http://arxiv.org/abs/2504.01686v1)|null|
+|**2025-04-02**|**Chain of Correction for Full-text Speech Recognition with Large Language Models**|Zhiyuan Tang et.al.|[2504.01519v1](http://arxiv.org/abs/2504.01519v1)|null|
+|**2025-04-02**|**Deep Learning-Driven Protein Structure Prediction and Design: Key Model Developments by Nobel Laureates and Multi-Domain Applications**|Wanqing Yang et.al.|[2504.01490v1](http://arxiv.org/abs/2504.01490v1)|null|
+|**2025-04-02**|**A Survey on Physics-based Differentiable Rendering**|Yunfan Zeng et.al.|[2504.01402v1](http://arxiv.org/abs/2504.01402v1)|null|
+|**2025-04-02**|**On one typical Einstein-Weyl equation: inverse spectral transform for theCauchy problem, longtime behaviour of the solutions and implicit solutions**|Ge Yi et.al.|[2504.01361v1](http://arxiv.org/abs/2504.01361v1)|null|
+|**2025-04-02**|**A Bayesian approach for inverse potential problem with topological-Gaussian prior**|Zhiliang Deng et.al.|[2504.01360v1](http://arxiv.org/abs/2504.01360v1)|null|
+|**2025-04-02**|**3D Gaussian Inverse Rendering with Approximated Global Illumination**|Zirui Wu et.al.|[2504.01358v1](http://arxiv.org/abs/2504.01358v1)|null|
+|**2025-04-02**|**A Practical Guide to Estimating Conditional Marginal Effects: Modern Approaches**|Jiehan Liu et.al.|[2504.01355v1](http://arxiv.org/abs/2504.01355v1)|null|
+|**2025-04-02**|**Inverse RL Scene Dynamics Learning for Nonlinear Predictive Control in Autonomous Vehicles**|Sorin Grigorescu et.al.|[2504.01336v1](http://arxiv.org/abs/2504.01336v1)|null|
+|**2025-04-02**|**Derivative estimation by RKHS regularization for learning dynamics from time-series data**|Hailong Guo et.al.|[2504.01289v1](http://arxiv.org/abs/2504.01289v1)|null|
+|**2025-04-02**|**Parameterized Attenuated Exchange for Generalized TDHF@$v_W$ Applications**|Barry Y. Li et.al.|[2504.01285v1](http://arxiv.org/abs/2504.01285v1)|null|
+|**2025-04-02**|**Triplet superconductivity by the orbital Rashba effect at surfaces of elemental superconductors**|Tom G. Saunderson et.al.|[2504.01271v1](http://arxiv.org/abs/2504.01271v1)|null|
+|**2025-04-01**|**Towards Sign Distance Function based Metamaterial Design: Neural Operator Transformer for Forward Prediction and Diffusion Models for Inverse Design**|Qibang Liu et.al.|[2504.01195v1](http://arxiv.org/abs/2504.01195v1)|null|
+|**2025-04-01**|**Lipschitz stability in inverse problems for semi-discrete parabolic operators**|Rodrigo Lecaros et.al.|[2504.01143v1](http://arxiv.org/abs/2504.01143v1)|null|
+|**2025-04-01**|**Twisting Light, Steering Spins: Gold Nanoparticle Magnetization via Inverse Faraday and Orbital Angular Momentum**|Xingyu Yang et.al.|[2504.00976v1](http://arxiv.org/abs/2504.00976v1)|null|
+|**2025-04-01**|**Subordination based approximation of Caputo fractional propagator and related numerical methods**|Dmytro Sytnyk et.al.|[2504.00958v1](http://arxiv.org/abs/2504.00958v1)|null|
+|**2025-04-01**|**Diffusion-model approach to flavor models: A case study for $S_4^\prime$ modular flavor model**|Satsuki Nishimura et.al.|[2504.00944v1](http://arxiv.org/abs/2504.00944v1)|null|
+|**2025-04-01**|**Constitutive relations from images**|Adeline Wihardja et.al.|[2504.00898v1](http://arxiv.org/abs/2504.00898v1)|null|
+|**2025-04-01**|**Tensorial symmetries and optical lattice thermalization**|Savvas S. Sardelis et.al.|[2504.00871v1](http://arxiv.org/abs/2504.00871v1)|null|
+|**2025-04-01**|**Spingarn's Method and Progressive Decoupling Beyond Elicitable Monotonicity**|Brecht Evens et.al.|[2504.00836v1](http://arxiv.org/abs/2504.00836v1)|null|
+|**2025-04-01**|**Refined Quantum Algorithms for Principal Component Analysis and Solving Linear System**|Nhat A. Nghiem et.al.|[2504.00833v1](http://arxiv.org/abs/2504.00833v1)|null|
+|**2025-04-01**|**$\mathbb{Z}_2$ topological invariants from the Green's function diagonal zeros**|Florian Simon et.al.|[2504.00800v1](http://arxiv.org/abs/2504.00800v1)|null|
+|**2025-04-01**|**Pressure-Induced Volume Collapse and Metallization in Inverse Spinel Co$_2$TiO$_4$**|Mrinmay Sahu et.al.|[2504.00574v1](http://arxiv.org/abs/2504.00574v1)|null|
