@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-03 21:05:27 Asia/Shanghai
+ Automated deployment @ 2025-04-04 09:14:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -26,11 +26,11 @@
 |**2025-04-02**|**Inverse RL Scene Dynamics Learning for Nonlinear Predictive Control in Autonomous Vehicles**|Sorin Grigorescu et.al.|[2504.01336v1](http://arxiv.org/abs/2504.01336v1)|null|
 |**2025-04-02**|**Derivative estimation by RKHS regularization for learning dynamics from time-series data**|Hailong Guo et.al.|[2504.01289v1](http://arxiv.org/abs/2504.01289v1)|null|
 |**2025-04-02**|**Parameterized Attenuated Exchange for Generalized TDHF@$v_W$ Applications**|Barry Y. Li et.al.|[2504.01285v1](http://arxiv.org/abs/2504.01285v1)|null|
-|**2025-04-02**|**Triplet superconductivity by the orbital Rashba effect at surfaces of elemental superconductors**|Tom G. Saunderson et.al.|[2504.01271v1](http://arxiv.org/abs/2504.01271v1)|null|
+|**2025-04-02**|**Triplet superconductivity by the orbital Rashba effect at surfaces of elemental superconductors**|Tom G. Saunderson et.al.|[2504.01271v2](http://arxiv.org/abs/2504.01271v2)|null|
 |**2025-04-01**|**Towards Sign Distance Function based Metamaterial Design: Neural Operator Transformer for Forward Prediction and Diffusion Models for Inverse Design**|Qibang Liu et.al.|[2504.01195v1](http://arxiv.org/abs/2504.01195v1)|null|
 |**2025-04-01**|**Lipschitz stability in inverse problems for semi-discrete parabolic operators**|Rodrigo Lecaros et.al.|[2504.01143v1](http://arxiv.org/abs/2504.01143v1)|null|
 |**2025-04-01**|**Twisting Light, Steering Spins: Gold Nanoparticle Magnetization via Inverse Faraday and Orbital Angular Momentum**|Xingyu Yang et.al.|[2504.00976v1](http://arxiv.org/abs/2504.00976v1)|null|
-|**2025-04-01**|**Subordination based approximation of Caputo fractional propagator and related numerical methods**|Dmytro Sytnyk et.al.|[2504.00958v1](http://arxiv.org/abs/2504.00958v1)|null|
+|**2025-04-01**|**Subordination based approximation of Caputo fractional propagator and related numerical methods**|Dmytro Sytnyk et.al.|[2504.00958v2](http://arxiv.org/abs/2504.00958v2)|null|
 |**2025-04-01**|**Diffusion-model approach to flavor models: A case study for $S_4^\prime$ modular flavor model**|Satsuki Nishimura et.al.|[2504.00944v1](http://arxiv.org/abs/2504.00944v1)|null|
 |**2025-04-01**|**Constitutive relations from images**|Adeline Wihardja et.al.|[2504.00898v1](http://arxiv.org/abs/2504.00898v1)|null|
 |**2025-04-01**|**Tensorial symmetries and optical lattice thermalization**|Savvas S. Sardelis et.al.|[2504.00871v1](http://arxiv.org/abs/2504.00871v1)|null|
@@ -46,8 +46,8 @@
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960v1](http://arxiv.org/abs/2504.01960v1)|null|
 |**2025-04-02**|**Slot-Level Robotic Placement via Visual Imitation from Single Human Video**|Dandan Shan et.al.|[2504.01959v1](http://arxiv.org/abs/2504.01959v1)|null|
 |**2025-04-02**|**Individual halo bias in models of $f(R)$ gravity**|Jorge Enrique García-Farieta et.al.|[2504.01958v1](http://arxiv.org/abs/2504.01958v1)|null|
-|**2025-04-02**|**GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957v1](http://arxiv.org/abs/2504.01957v1)|null|
-|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956v1](http://arxiv.org/abs/2504.01956v1)|null|
+|**2025-04-02**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957v2](http://arxiv.org/abs/2504.01957v2)|null|
+|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956v2](http://arxiv.org/abs/2504.01956v2)|null|
 |**2025-04-02**|**Scene-Centric Unsupervised Panoptic Segmentation**|Oliver Hahn et.al.|[2504.01955v1](http://arxiv.org/abs/2504.01955v1)|null|
 |**2025-04-02**|**Towards Unified Referring Expression Segmentation Across Omni-Level Visual Target Granularities**|Jing Liu et.al.|[2504.01954v1](http://arxiv.org/abs/2504.01954v1)|null|
 |**2025-04-02**|**Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging**|Mohini Anand et.al.|[2504.01953v1](http://arxiv.org/abs/2504.01953v1)|null|
@@ -68,7 +68,7 @@
 |**2025-04-02**|**Interference with Gravitational Instability: Hot and Fuzzy Dark Matter**|Rayne Liu et.al.|[2504.01937v1](http://arxiv.org/abs/2504.01937v1)|null|
 |**2025-04-02**|**Fermionic Averaged Circuit Eigenvalue Sampling**|Adrian Chapman et.al.|[2504.01936v1](http://arxiv.org/abs/2504.01936v1)|null|
 |**2025-04-02**|**Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**|Celine Lee et.al.|[2504.01935v1](http://arxiv.org/abs/2504.01935v1)|null|
-|**2025-04-02**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934v1](http://arxiv.org/abs/2504.01934v1)|null|
+|**2025-04-02**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934v2](http://arxiv.org/abs/2504.01934v2)|null|
 |**2025-04-02**|**Hessian-aware Training for Enhancing DNNs Resilience to Parameter Corruptions**|Tahmid Hasan Prato et.al.|[2504.01933v1](http://arxiv.org/abs/2504.01933v1)|null|
 |**2025-04-02**|**Semidefinite lower bounds for covering codes**|Dion Gijswijt et.al.|[2504.01932v1](http://arxiv.org/abs/2504.01932v1)|null|
 |**2025-04-02**|**Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection**|Souradip Chakraborty et.al.|[2504.01931v1](http://arxiv.org/abs/2504.01931v1)|null|

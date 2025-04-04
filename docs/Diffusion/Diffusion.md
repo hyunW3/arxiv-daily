@@ -20,11 +20,11 @@
 |**2025-04-02**|**Inverse RL Scene Dynamics Learning for Nonlinear Predictive Control in Autonomous Vehicles**|Sorin Grigorescu et.al.|[2504.01336v1](http://arxiv.org/abs/2504.01336v1)|null|
 |**2025-04-02**|**Derivative estimation by RKHS regularization for learning dynamics from time-series data**|Hailong Guo et.al.|[2504.01289v1](http://arxiv.org/abs/2504.01289v1)|null|
 |**2025-04-02**|**Parameterized Attenuated Exchange for Generalized TDHF@$v_W$ Applications**|Barry Y. Li et.al.|[2504.01285v1](http://arxiv.org/abs/2504.01285v1)|null|
-|**2025-04-02**|**Triplet superconductivity by the orbital Rashba effect at surfaces of elemental superconductors**|Tom G. Saunderson et.al.|[2504.01271v1](http://arxiv.org/abs/2504.01271v1)|null|
+|**2025-04-02**|**Triplet superconductivity by the orbital Rashba effect at surfaces of elemental superconductors**|Tom G. Saunderson et.al.|[2504.01271v2](http://arxiv.org/abs/2504.01271v2)|null|
 |**2025-04-01**|**Towards Sign Distance Function based Metamaterial Design: Neural Operator Transformer for Forward Prediction and Diffusion Models for Inverse Design**|Qibang Liu et.al.|[2504.01195v1](http://arxiv.org/abs/2504.01195v1)|null|
 |**2025-04-01**|**Lipschitz stability in inverse problems for semi-discrete parabolic operators**|Rodrigo Lecaros et.al.|[2504.01143v1](http://arxiv.org/abs/2504.01143v1)|null|
 |**2025-04-01**|**Twisting Light, Steering Spins: Gold Nanoparticle Magnetization via Inverse Faraday and Orbital Angular Momentum**|Xingyu Yang et.al.|[2504.00976v1](http://arxiv.org/abs/2504.00976v1)|null|
-|**2025-04-01**|**Subordination based approximation of Caputo fractional propagator and related numerical methods**|Dmytro Sytnyk et.al.|[2504.00958v1](http://arxiv.org/abs/2504.00958v1)|null|
+|**2025-04-01**|**Subordination based approximation of Caputo fractional propagator and related numerical methods**|Dmytro Sytnyk et.al.|[2504.00958v2](http://arxiv.org/abs/2504.00958v2)|null|
 |**2025-04-01**|**Diffusion-model approach to flavor models: A case study for $S_4^\prime$ modular flavor model**|Satsuki Nishimura et.al.|[2504.00944v1](http://arxiv.org/abs/2504.00944v1)|null|
 |**2025-04-01**|**Constitutive relations from images**|Adeline Wihardja et.al.|[2504.00898v1](http://arxiv.org/abs/2504.00898v1)|null|
 |**2025-04-01**|**Tensorial symmetries and optical lattice thermalization**|Savvas S. Sardelis et.al.|[2504.00871v1](http://arxiv.org/abs/2504.00871v1)|null|
