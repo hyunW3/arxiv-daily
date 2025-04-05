@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-05 09:13:31 Asia/Shanghai
+ Automated deployment @ 2025-04-05 20:28:38 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -59,7 +59,7 @@
 |**2025-04-03**|**Convergence of the Markovian iteration for coupled FBSDEs via a differentiation approach**|Zhipeng Huang et.al.|[2504.02814v1](http://arxiv.org/abs/2504.02814v1)|null|
 |**2025-04-03**|**Regularity and bounded $t$-structures for algebraic stacks**|Timothy De Deyn et.al.|[2504.02813v1](http://arxiv.org/abs/2504.02813v1)|null|
 |**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812v1](http://arxiv.org/abs/2504.02812v1)|null|
-|**2025-04-03**|**An Assessment of the CO2 Emission Reduction Potential of Residential Load Management in Developing and Developed Countries**|Alona Zharova et.al.|[2504.02811v1](http://arxiv.org/abs/2504.02811v1)|null|
+|**2025-04-03**|**An Assessment of the CO$_2$ Emission Reduction Potential of Residential Load Management in Developing and Developed Countries**|Alona Zharova et.al.|[2504.02811v1](http://arxiv.org/abs/2504.02811v1)|null|
 |**2025-04-03**|**Generative Evaluation of Complex Reasoning in Large Language Models**|Haowei Lin et.al.|[2504.02810v1](http://arxiv.org/abs/2504.02810v1)|null|
 |**2025-04-03**|**Fractional attractors in light of the latest ACT observations**|Christian Dioguardi et.al.|[2504.02809v1](http://arxiv.org/abs/2504.02809v1)|null|
 |**2025-04-03**|**Quantum theory does not need complex numbers**|Timothee Hoffreumon et.al.|[2504.02808v1](http://arxiv.org/abs/2504.02808v1)|null|
