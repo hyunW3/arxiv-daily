@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-06 21:26:46 Asia/Shanghai
+ Automated deployment @ 2025-04-07 09:17:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -69,6 +69,6 @@
 |**2025-04-03**|**Beyond Discretization: A Continuous-Time Framework for Event Generation in Neuromorphic Pixels**|Aaron J. Hendrickson et.al.|[2504.02803v1](http://arxiv.org/abs/2504.02803v1)|null|
 |**2025-04-03**|**Complex Heavy Quarkonium Potential in an Anisotropic Collisional Quark-Gluon Plasma**|Manas Debnath et.al.|[2504.02802v1](http://arxiv.org/abs/2504.02802v1)|null|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801v1](http://arxiv.org/abs/2504.02801v1)|null|
-|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800v1](http://arxiv.org/abs/2504.02800v1)|null|
+|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800v2](http://arxiv.org/abs/2504.02800v2)|null|
 |**2025-04-03**|**Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**|Anita Rau et.al.|[2504.02799v1](http://arxiv.org/abs/2504.02799v1)|null|
 |**2025-04-03**|**North+Lone Star Supernova Host Survey I: Local Host-Galaxy H$α$ Surface Brightness and the Hubble Residuals of Type Ia Supernovae**|Ann M. Isaacs et.al.|[2504.02798v1](http://arxiv.org/abs/2504.02798v1)|null|
