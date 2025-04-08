@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-04**|**Quantum Search with In-Place Queries**|Blake Holman et.al.|[2504.03620v1](http://arxiv.org/abs/2504.03620v1)|null|
-|**2025-04-04**|**Spring-loaded: Engineering Dispersion Relations Using Complex Couplings**|R. G. Edge et.al.|[2504.03539v1](http://arxiv.org/abs/2504.03539v1)|null|
-|**2025-04-04**|**Diffusion Active Learning: Towards Data-Driven Experimental Design in Computed Tomography**|Luis Barba et.al.|[2504.03491v1](http://arxiv.org/abs/2504.03491v1)|null|
-|**2025-04-04**|**Investigating irradiation effects and space charge sign inversion in n-type Low Gain Avalanche Detectors**|Veronika Kraus et.al.|[2504.03462v1](http://arxiv.org/abs/2504.03462v1)|null|
-|**2025-04-04**|**Shape reconstruction of inclusions based on noisy data via monotonicity methods for the time harmonic elastic wave equation**|Sarah Eberle-Blick et.al.|[2504.03421v1](http://arxiv.org/abs/2504.03421v1)|null|
-|**2025-04-04**|**Effects of Interpolation Error and Bias on the Random Mesh Finite Element Method for Inverse Problems**|Anne Poot et.al.|[2504.03393v1](http://arxiv.org/abs/2504.03393v1)|null|
-|**2025-04-04**|**Eigen-inference by Marchenko-Pastur inversion**|Ben Deitmar et.al.|[2504.03390v1](http://arxiv.org/abs/2504.03390v1)|null|
-|**2025-04-04**|**Magnetically Compensated Nanometer-thin Ga-Substituted Yttrium Iron Garnet (Ga:YIG) Films with Robust Perpendicular Magnetic Anisotropy**|Carsten Dubs et.al.|[2504.03377v1](http://arxiv.org/abs/2504.03377v1)|null|
-|**2025-04-04**|**Error estimates of an exponential wave integrator for the nonlinear Schrödinger equation with singular potential**|Weizhu Bao et.al.|[2504.03346v1](http://arxiv.org/abs/2504.03346v1)|null|
-|**2025-04-04**|**On the algebraic degree stability of vectorial Boolean functions when restricted to affine subspaces**|Claude Carlet et.al.|[2504.03307v1](http://arxiv.org/abs/2504.03307v1)|null|
-|**2025-04-04**|**On the torsion growth in quadratic number fields for elliptic curves defined over the rationals**|Arias-de-Reyna et.al.|[2504.03286v1](http://arxiv.org/abs/2504.03286v1)|null|
-|**2025-04-04**|**Effect of Nonlinear Surface Inflows into Activity Belts on Solar Cycle Modulation**|Mohammed H. Talafha et.al.|[2504.03283v1](http://arxiv.org/abs/2504.03283v1)|null|
-|**2025-04-04**|**Learning Lie Group Generators from Trajectories**|Lifan Hu et.al.|[2504.03220v1](http://arxiv.org/abs/2504.03220v1)|null|
-|**2025-04-04**|**Dispersion-Engineered Compact Twisted Metasurfaces Enabling 3D Frequency-Reconfigurable Holography**|Cheng Pang et.al.|[2504.03115v1](http://arxiv.org/abs/2504.03115v1)|null|
-|**2025-04-03**|**Excitonic and magnetic phases in doped WTe$_2$ monolayers: a Hartree-Fock approach**|Guillermo Parra-Martínez et.al.|[2504.02933v1](http://arxiv.org/abs/2504.02933v1)|null|
-|**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792v1](http://arxiv.org/abs/2504.02792v1)|null|
-|**2025-04-03**|**Investigation of the influence of electrostatic excitation on instabilities and electron transport in ExB plasma configurations**|Maryam Reza et.al.|[2504.02750v1](http://arxiv.org/abs/2504.02750v1)|null|
-|**2025-04-03**|**Learning quantum Gibbs states locally and efficiently**|Chi-Fang Chen et.al.|[2504.02706v1](http://arxiv.org/abs/2504.02706v1)|null|
-|**2025-04-03**|**High Chern numbers and topological flat bands in high-field polarized Kitaev magnets on the star lattice**|Zixuan Zou et.al.|[2504.02684v1](http://arxiv.org/abs/2504.02684v1)|null|
-|**2025-04-03**|**Hofstadter butterflies in phononic structures: commensurate spectra, wave localization and metal-insulator transitions**|Bryn Davies et.al.|[2504.02594v1](http://arxiv.org/abs/2504.02594v1)|null|
-|**2025-04-03**|**Topological signatures of collective dynamics and turbulent-like energy cascades in active granular matter**|Zihan Zheng et.al.|[2504.02588v1](http://arxiv.org/abs/2504.02588v1)|null|
-|**2025-04-03**|**High Numerical Aperture Achromatic Meta-Devices through Dispersion Compensation**|Yuzhong Wang et.al.|[2504.02535v1](http://arxiv.org/abs/2504.02535v1)|null|
-|**2025-04-03**|**Adaptive Bivariate Quarklet Tree Approximation via Anisotropic Tensor Quarklets**|Marc Hovemann et.al.|[2504.02513v1](http://arxiv.org/abs/2504.02513v1)|null|
-|**2025-04-03**|**Robust direction-dependent gain-calibration of beam-modelling errors far from the target field**|S. A. Brackenhoff et.al.|[2504.02483v1](http://arxiv.org/abs/2504.02483v1)|null|
-|**2025-04-03**|**Semigroup Congruences and Subsemigroups of the Direct Square**|Callum Barber et.al.|[2504.02428v1](http://arxiv.org/abs/2504.02428v1)|null|
-|**2025-04-03**|**Response of magnetic particle to rotating magnetic field in viscoelastic fluid**|Han Gao et.al.|[2504.02389v1](http://arxiv.org/abs/2504.02389v1)|null|
-|**2025-04-03**|**Multiwavelength observation of a candidate pulsar halo LHAASO J0621+3755 and the first X-ray detection of PSR J0622+3749**|C. B. Adams et.al.|[2504.02185v1](http://arxiv.org/abs/2504.02185v1)|null|
-|**2025-04-02**|**FreSca: Unveiling the Scaling Space in Diffusion Models**|Chao Huang et.al.|[2504.02154v1](http://arxiv.org/abs/2504.02154v1)|null|
-|**2025-04-02**|**Target Signatures for Anisotropic Screens in Electromagnetic Scattering**|Fioralba Cakoni et.al.|[2504.02078v1](http://arxiv.org/abs/2504.02078v1)|null|
-|**2025-04-02**|**Shape Theory via the Atiyah--Molino Reconstruction and Deformations**|Noémie C. Combe et.al.|[2504.01831v1](http://arxiv.org/abs/2504.01831v1)|null|
+|**2025-04-07**|**Estimation of Heat Transfer Coefficient in Heat Exchangers from closed-loop data using Neural Networks**|Ramachandran Anantharaman et.al.|[2504.05282v1](http://arxiv.org/abs/2504.05282v1)|null|
+|**2025-04-07**|**Existence and characterizations of hyper-dual group inverse**|Tikesh Verma et.al.|[2504.05264v1](http://arxiv.org/abs/2504.05264v1)|null|
+|**2025-04-07**|**PINNverse: Accurate parameter estimation in differential equations from noisy data with constrained physics-informed neural networks**|Marius Almanstötter et.al.|[2504.05248v1](http://arxiv.org/abs/2504.05248v1)|null|
+|**2025-04-07**|**Screening properties of charge regulated zwitterionic macroion solutions**|Rashmi Kandari et.al.|[2504.05246v1](http://arxiv.org/abs/2504.05246v1)|null|
+|**2025-04-07**|**IAEmu: Learning Galaxy Intrinsic Alignment Correlations**|Sneh Pandya et.al.|[2504.05235v1](http://arxiv.org/abs/2504.05235v1)|null|
+|**2025-04-07**|**Formation of Near-surface Atmospheric Inversion and Surface Inversion in Hothouse Climates**|Jiachen Liu et.al.|[2504.05233v1](http://arxiv.org/abs/2504.05233v1)|null|
+|**2025-04-07**|**Violation of local reciprocity in charge-orbital interconversion**|Hisanobu Kashiki et.al.|[2504.05139v1](http://arxiv.org/abs/2504.05139v1)|null|
+|**2025-04-07**|**Information Geometry of Exponentiated Gradient: Convergence beyond L-Smoothness**|Yara Elshiaty et.al.|[2504.05136v1](http://arxiv.org/abs/2504.05136v1)|null|
+|**2025-04-07**|**Inverse Mixed Integer Optimization: An Interior Point Perspective**|Samir Elhedhli et.al.|[2504.05109v1](http://arxiv.org/abs/2504.05109v1)|null|
+|**2025-04-07**|**X-ray variability of VHE detected FSRQs: A comparative study**|Lekshmi Dathan et.al.|[2504.05083v1](http://arxiv.org/abs/2504.05083v1)|null|
+|**2025-04-07**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045v1](http://arxiv.org/abs/2504.05045v1)|null|
+|**2025-04-07**|**Review of analytic results on quasinormal modes of black holes**|S. V. Bolokhov et.al.|[2504.05014v1](http://arxiv.org/abs/2504.05014v1)|null|
+|**2025-04-07**|**Sign-changing multi-peak standing waves of the NLSE with a point interaction**|Gustavo de Paula Ramos et.al.|[2504.04960v1](http://arxiv.org/abs/2504.04960v1)|null|
+|**2025-04-07**|**The Kratos Framework for Heterogeneous Astrophysical Simulations: Ray Tracing, Reacting Flow and Thermochemistry**|Lile Wang et.al.|[2504.04941v1](http://arxiv.org/abs/2504.04941v1)|null|
+|**2025-04-07**|**Fine tuning generative adversarial networks with universal force fields: application to two-dimensional topological insulators**|Alexander C. Tyner et.al.|[2504.04940v1](http://arxiv.org/abs/2504.04940v1)|null|
+|**2025-04-07**|**A kinetic CMA diagram**|Zilong Li et.al.|[2504.04904v1](http://arxiv.org/abs/2504.04904v1)|null|
+|**2025-04-07**|**A note on delay-inverse systems, I**|Nikica Uglešić et.al.|[2504.04888v1](http://arxiv.org/abs/2504.04888v1)|null|
+|**2025-04-07**|**Iterated and Generalized Iterated Integrals**|Chitrarekha Sahu et.al.|[2504.04846v1](http://arxiv.org/abs/2504.04846v1)|null|
+|**2025-04-07**|**3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2504.04658v1](http://arxiv.org/abs/2504.04658v1)|null|
+|**2025-04-06**|**Lippmann-Schwinger-Lanczos approach for inverse scattering problem of Schrodinger equation in the resonance frequency domain**|Anarzhan Abilgazy et.al.|[2504.04607v1](http://arxiv.org/abs/2504.04607v1)|null|
+|**2025-04-06**|**Analysis of inertial-range intermittency in forward and inverse cascade regions in isotropic turbulence**|H. Yao et.al.|[2504.04595v1](http://arxiv.org/abs/2504.04595v1)|null|
+|**2025-04-06**|**Raman spectroscopic evidence for linearly dispersed nodes and magnetic ordering in the topological semimetal V$_{1/3}$NbS$_2$**|Shreenanda Ghosh et.al.|[2504.04590v1](http://arxiv.org/abs/2504.04590v1)|null|
+|**2025-04-06**|**A new theoretical inverse quadratic Apodization function: A Comparison with traditional Apodization functions**|Dalton H Bermudez et.al.|[2504.04563v1](http://arxiv.org/abs/2504.04563v1)|null|
+|**2025-04-06**|**A Note on the Stability of the Sherman-Morrison-Woodbury Formula**|Linkai Ma et.al.|[2504.04554v1](http://arxiv.org/abs/2504.04554v1)|null|
+|**2025-04-06**|**Topological Fermi-arc-like surface states in Kramers nodal line metals**|Zi-Ting Sun et.al.|[2504.04529v1](http://arxiv.org/abs/2504.04529v1)|null|
+|**2025-04-06**|**Non-negligible influence of shape inheritance and staggering on α decay**|Ruixiong Li et.al.|[2504.04449v1](http://arxiv.org/abs/2504.04449v1)|null|
+|**2025-04-06**|**Low-energy effective theory of localization-delocalization transition in noninteger-charged electron wave packets**|Y. Yin et.al.|[2504.04392v1](http://arxiv.org/abs/2504.04392v1)|null|
+|**2025-04-06**|**The Gaussian correlation inequality for centered convex sets**|Shohei Nakamura et.al.|[2504.04337v1](http://arxiv.org/abs/2504.04337v1)|null|
+|**2025-04-06**|**Accelerated Convergence of Frank--Wolfe Algorithms with Adaptive Bregman Step-Size Strategy**|Shota Takahashi et.al.|[2504.04330v1](http://arxiv.org/abs/2504.04330v1)|null|
+|**2025-04-05**|**Foundation Models for Environmental Science: A Survey of Emerging Frontiers**|Runlong Yu et.al.|[2504.04280v1](http://arxiv.org/abs/2504.04280v1)|null|
