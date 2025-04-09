@@ -18,7 +18,7 @@
 |**2025-04-07**|**Itzykson-Zuber correlators from character expansion**|Alexei Morozov et.al.|[2504.05292v1](http://arxiv.org/abs/2504.05292v1)|null|
 |**2025-04-07**|**Using Physiological Measures, Gaze, and Facial Expressions to Model Human Trust in a Robot Partner**|Haley N. Green et.al.|[2504.05291v1](http://arxiv.org/abs/2504.05291v1)|null|
 |**2025-04-07**|**Two-photon resonance single ionization of the K-shell of an atomic ion**|Alexey N. Hopersky et.al.|[2504.05290v1](http://arxiv.org/abs/2504.05290v1)|null|
-|**2025-04-07**|**Direct Measurement of the Singlet Lifetime and Photoexcitation Behavior of the Boron Vacancy Center in Hexagonal Boron Nitride**|Richard A. Escalante et.al.|[2504.05289v1](http://arxiv.org/abs/2504.05289v1)|null|
+|**2025-04-07**|**Direct Measurement of the Singlet Lifetime and Photoexcitation Behavior of the Boron Vacancy Center in Hexagonal Boron Nitride**|Richard A. Escalante et.al.|[2504.05289v2](http://arxiv.org/abs/2504.05289v2)|null|
 |**2025-04-07**|**LiveVQA: Live Visual Knowledge Seeking**|Mingyang Fu et.al.|[2504.05288v1](http://arxiv.org/abs/2504.05288v1)|null|
 |**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Hui Zhang et.al.|[2504.05287v1](http://arxiv.org/abs/2504.05287v1)|null|
 |**2025-04-07**|**UK APAP R-matrix electron-impact excitation cross-sections for modelling laboratory and astrophysical plasma**|G. Del Zanna et.al.|[2504.05286v1](http://arxiv.org/abs/2504.05286v1)|null|

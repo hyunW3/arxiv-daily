@@ -12,7 +12,7 @@
 |**2025-04-07**|**Information Geometry of Exponentiated Gradient: Convergence beyond L-Smoothness**|Yara Elshiaty et.al.|[2504.05136v1](http://arxiv.org/abs/2504.05136v1)|null|
 |**2025-04-07**|**Inverse Mixed Integer Optimization: An Interior Point Perspective**|Samir Elhedhli et.al.|[2504.05109v1](http://arxiv.org/abs/2504.05109v1)|null|
 |**2025-04-07**|**X-ray variability of VHE detected FSRQs: A comparative study**|Lekshmi Dathan et.al.|[2504.05083v1](http://arxiv.org/abs/2504.05083v1)|null|
-|**2025-04-07**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045v1](http://arxiv.org/abs/2504.05045v1)|null|
+|**2025-04-07**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045v2](http://arxiv.org/abs/2504.05045v2)|null|
 |**2025-04-07**|**Review of analytic results on quasinormal modes of black holes**|S. V. Bolokhov et.al.|[2504.05014v1](http://arxiv.org/abs/2504.05014v1)|null|
 |**2025-04-07**|**Sign-changing multi-peak standing waves of the NLSE with a point interaction**|Gustavo de Paula Ramos et.al.|[2504.04960v1](http://arxiv.org/abs/2504.04960v1)|null|
 |**2025-04-07**|**The Kratos Framework for Heterogeneous Astrophysical Simulations: Ray Tracing, Reacting Flow and Thermochemistry**|Lile Wang et.al.|[2504.04941v1](http://arxiv.org/abs/2504.04941v1)|null|
