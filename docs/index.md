@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-09 21:06:47 Asia/Shanghai
+ Automated deployment @ 2025-04-10 09:15:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -22,7 +22,7 @@
 |**2025-04-08**|**Dissolution-driven transport in a rotating horizontal cylinder**|Subhankar Nandi et.al.|[2504.05771v1](http://arxiv.org/abs/2504.05771v1)|null|
 |**2025-04-08**|**Synthesis, crystal and electronic structures, and second harmonic generation of La 4Ge 3S12**|Hiroya Ohtsuki et.al.|[2504.05725v1](http://arxiv.org/abs/2504.05725v1)|null|
 |**2025-04-08**|**A Message-Passing Perspective on Ptychographic Phase Retrieval**|Hajime Ueda et.al.|[2504.05668v1](http://arxiv.org/abs/2504.05668v1)|null|
-|**2025-04-08**|**Improved Inference of Inverse Ising Problems under Missing Observations in Restricted Boltzmann Machines**|Kaiji Sekimoto et.al.|[2504.05643v1](http://arxiv.org/abs/2504.05643v1)|null|
+|**2025-04-08**|**Effective Method for Inverse Ising Problem under Missing Observations in Restricted Boltzmann Machines**|Kaiji Sekimoto et.al.|[2504.05643v2](http://arxiv.org/abs/2504.05643v2)|null|
 |**2025-04-08**|**TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning**|Yuxuan Li et.al.|[2504.05585v1](http://arxiv.org/abs/2504.05585v1)|null|
 |**2025-04-08**|**Toeplitz subshifts of finite rank**|Su Gao et.al.|[2504.05582v1](http://arxiv.org/abs/2504.05582v1)|null|
 |**2025-04-07**|**Flux attachment theory of fractional excitonic insulators**|Steven Gassner et.al.|[2504.05427v1](http://arxiv.org/abs/2504.05427v1)|null|
@@ -48,7 +48,7 @@
 |**2025-04-08**|**D^2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes**|Jisang Han et.al.|[2504.06264v1](http://arxiv.org/abs/2504.06264v1)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263v1](http://arxiv.org/abs/2504.06263v1)|null|
 |**2025-04-08**|**Paraxial fluids of light**|Quentin Glorieux et.al.|[2504.06262v1](http://arxiv.org/abs/2504.06262v1)|null|
-|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261v1](http://arxiv.org/abs/2504.06261v1)|null|
+|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261v2](http://arxiv.org/abs/2504.06261v2)|null|
 |**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260v1](http://arxiv.org/abs/2504.06260v1)|null|
 |**2025-04-08**|**Realization and Calibration of Continuously Parameterized Two-Qubit Gates on a Trapped-Ion Quantum Processor**|Christopher G. Yale et.al.|[2504.06259v1](http://arxiv.org/abs/2504.06259v1)|null|
 |**2025-04-08**|**Two-Dimensional Ferroelectric Altermagnets: From Model to Material Realization**|Ziye Zhu et.al.|[2504.06258v1](http://arxiv.org/abs/2504.06258v1)|null|

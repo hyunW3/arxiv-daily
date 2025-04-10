@@ -16,7 +16,7 @@
 |**2025-04-08**|**Dissolution-driven transport in a rotating horizontal cylinder**|Subhankar Nandi et.al.|[2504.05771v1](http://arxiv.org/abs/2504.05771v1)|null|
 |**2025-04-08**|**Synthesis, crystal and electronic structures, and second harmonic generation of La 4Ge 3S12**|Hiroya Ohtsuki et.al.|[2504.05725v1](http://arxiv.org/abs/2504.05725v1)|null|
 |**2025-04-08**|**A Message-Passing Perspective on Ptychographic Phase Retrieval**|Hajime Ueda et.al.|[2504.05668v1](http://arxiv.org/abs/2504.05668v1)|null|
-|**2025-04-08**|**Improved Inference of Inverse Ising Problems under Missing Observations in Restricted Boltzmann Machines**|Kaiji Sekimoto et.al.|[2504.05643v1](http://arxiv.org/abs/2504.05643v1)|null|
+|**2025-04-08**|**Effective Method for Inverse Ising Problem under Missing Observations in Restricted Boltzmann Machines**|Kaiji Sekimoto et.al.|[2504.05643v2](http://arxiv.org/abs/2504.05643v2)|null|
 |**2025-04-08**|**TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning**|Yuxuan Li et.al.|[2504.05585v1](http://arxiv.org/abs/2504.05585v1)|null|
 |**2025-04-08**|**Toeplitz subshifts of finite rank**|Su Gao et.al.|[2504.05582v1](http://arxiv.org/abs/2504.05582v1)|null|
 |**2025-04-07**|**Flux attachment theory of fractional excitonic insulators**|Steven Gassner et.al.|[2504.05427v1](http://arxiv.org/abs/2504.05427v1)|null|
