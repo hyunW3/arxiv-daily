@@ -16,7 +16,7 @@
 |**2025-04-09**|**A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility**|Andreas Hochlehnert et.al.|[2504.07086v1](http://arxiv.org/abs/2504.07086v1)|null|
 |**2025-04-09**|**Identifying Unknown Stochastic Dynamics via Finite expression methods**|Senwei Liang et.al.|[2504.07085v1](http://arxiv.org/abs/2504.07085v1)|null|
 |**2025-04-09**|**A geometric ensemble method for Bayesian inference**|Andrey A Popov et.al.|[2504.07084v1](http://arxiv.org/abs/2504.07084v1)|null|
-|**2025-04-09**|**GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography**|Mengchen Zhang et.al.|[2504.07083v1](http://arxiv.org/abs/2504.07083v1)|null|
+|**2025-04-09**|**GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography**|Mengchen Zhang et.al.|[2504.07083v2](http://arxiv.org/abs/2504.07083v2)|null|
 |**2025-04-09**|**Chiral superconductivity from spin polarized Chern band in twisted MoTe$_2$**|Cheng Xu et.al.|[2504.07082v1](http://arxiv.org/abs/2504.07082v1)|null|
 |**2025-04-09**|**Self-Steering Language Models**|Gabriel Grand et.al.|[2504.07081v1](http://arxiv.org/abs/2504.07081v1)|null|
 |**2025-04-09**|**DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning**|Atharva Pandey et.al.|[2504.07080v1](http://arxiv.org/abs/2504.07080v1)|null|
