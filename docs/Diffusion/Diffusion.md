@@ -2,6 +2,20 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-11**|**Dimension reduction for derivative-informed operator learning: An analysis of approximation errors**|Dingcheng Luo et.al.|[2504.08730v1](http://arxiv.org/abs/2504.08730v1)|null|
+|**2025-04-11**|**Core partial order for finite potent endomorphisms**|Diego Alba Alonso et.al.|[2504.08693v1](http://arxiv.org/abs/2504.08693v1)|null|
+|**2025-04-11**|**Constraints on diffuse X-ray Emission from the TeV halo Candidate HESS J1813-126**|David Guevel et.al.|[2504.08689v1](http://arxiv.org/abs/2504.08689v1)|null|
+|**2025-04-11**|**Channel Estimation by Infinite Width Convolutional Networks**|Mohammed Mallik et.al.|[2504.08660v1](http://arxiv.org/abs/2504.08660v1)|null|
+|**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641v1](http://arxiv.org/abs/2504.08641v1)|null|
+|**2025-04-11**|**On the problem of recovery of Sturm--Liouville operator with two frozen arguments**|Maria Kuznetsova et.al.|[2504.08561v1](http://arxiv.org/abs/2504.08561v1)|null|
+|**2025-04-11**|**Digital Twin Catalog: A Large-Scale Photorealistic 3D Object Digital Twin Dataset**|Zhao Dong et.al.|[2504.08541v1](http://arxiv.org/abs/2504.08541v1)|null|
+|**2025-04-11**|**Delta functions on twistor space and their sign factors**|Jun-ichi Note et.al.|[2504.08523v1](http://arxiv.org/abs/2504.08523v1)|null|
+|**2025-04-11**|**Determination of the irreducible representations at high symmetry points of two-dimensional square lattice plasmonic crystals by far-field radiations**|T. H. Chan et.al.|[2504.08292v1](http://arxiv.org/abs/2504.08292v1)|null|
+|**2025-04-11**|**Enabling Automatic Differentiation with Mollified Graph Neural Operators**|Ryan Y. Lin et.al.|[2504.08277v1](http://arxiv.org/abs/2504.08277v1)|null|
+|**2025-04-11**|**The More is not the Merrier: Investigating the Effect of Client Size on Federated Learning**|Eleanor Wallach et.al.|[2504.08198v1](http://arxiv.org/abs/2504.08198v1)|null|
+|**2025-04-10**|**Regular version of the inverse Galois problem for skew fields**|Antonin Assoun et.al.|[2504.08090v1](http://arxiv.org/abs/2504.08090v1)|null|
+|**2025-04-10**|**On iteratively regularized first-order methods for simple bilevel optimization**|Sepideh Samadi et.al.|[2504.08079v1](http://arxiv.org/abs/2504.08079v1)|null|
+|**2025-04-10**|**Higher order tensor factorizations for block encoding vibrational and vibronic Hamiltonians**|Hirsh Kamakari et.al.|[2504.08065v1](http://arxiv.org/abs/2504.08065v1)|null|
 |**2025-04-10**|**Stacking-induced ferroelectricity in tetralayer graphene**|Amit Singh et.al.|[2504.07935v1](http://arxiv.org/abs/2504.07935v1)|null|
 |**2025-04-10**|**DiverseFlow: Sample-Efficient Diverse Mode Coverage in Flows**|Mashrur M. Morshed et.al.|[2504.07894v1](http://arxiv.org/abs/2504.07894v1)|null|
 |**2025-04-10**|**Horizons, throats and bounces in hybrid metric-Palatini gravity with a non-zero potential**|Gabriel I. Róis et.al.|[2504.07861v1](http://arxiv.org/abs/2504.07861v1)|null|
@@ -18,17 +32,3 @@
 |**2025-04-10**|**Sums with Stern-Brocot sequences and Minkowski question mark function**|Haomin Liu et.al.|[2504.07456v1](http://arxiv.org/abs/2504.07456v1)|null|
 |**2025-04-10**|**Polarization Angle Orthogonal Jumps in Fast Radio Bursts**|Yuanhong Qu et.al.|[2504.07449v1](http://arxiv.org/abs/2504.07449v1)|null|
 |**2025-04-10**|**Revisiting LLM Evaluation through Mechanism Interpretability: a New Metric and Model Utility Law**|Yixin Cao et.al.|[2504.07440v1](http://arxiv.org/abs/2504.07440v1)|null|
-|**2025-04-10**|**Unifying and extending Diffusion Models through PDEs for solving Inverse Problems**|Agnimitra Dasgupta et.al.|[2504.07437v1](http://arxiv.org/abs/2504.07437v1)|null|
-|**2025-04-10**|**Representation Meets Optimization: Training PINNs and PIKANs for Gray-Box Discovery in Systems Pharmacology**|Nazanin Ahmadi Daryakenari et.al.|[2504.07379v1](http://arxiv.org/abs/2504.07379v1)|null|
-|**2025-04-09**|**Noise Resilience in a High-Bandwidth Atom Interferometer**|Jonathan M. Kwolek et.al.|[2504.07236v1](http://arxiv.org/abs/2504.07236v1)|null|
-|**2025-04-09**|**Computational inverse design of acoustoplasmonic metasurfaces**|Julia E. Holland et.al.|[2504.07211v1](http://arxiv.org/abs/2504.07211v1)|null|
-|**2025-04-09**|**Magnetic ground state of a Jeff = 1/2 based frustrated triangular lattice antiferromagnet**|M. Barik et.al.|[2504.07194v1](http://arxiv.org/abs/2504.07194v1)|null|
-|**2025-04-09**|**Physics informed neural network for forward and inverse modeling of low grade brain tumors**|K. Murari et.al.|[2504.07058v1](http://arxiv.org/abs/2504.07058v1)|null|
-|**2025-04-09**|**Structured extensions and multi-correlation sequences**|James Leng et.al.|[2504.07038v1](http://arxiv.org/abs/2504.07038v1)|null|
-|**2025-04-09**|**Bulk metric reconstruction from entanglement data via minimal surface area variations**|Niko Jokela et.al.|[2504.07016v1](http://arxiv.org/abs/2504.07016v1)|null|
-|**2025-04-09**|**Finite Field Multiple Access III: from 2-ary to p-ary**|Qi-yue Yu et.al.|[2504.06937v1](http://arxiv.org/abs/2504.06937v1)|null|
-|**2025-04-09**|**Activated solids: Spontaneous deformations, non-affine fluctuations, softening, and failure**|Parswa Nath et.al.|[2504.06914v1](http://arxiv.org/abs/2504.06914v1)|null|
-|**2025-04-09**|**Thermodynamic phase transition and Joule-Thomson expansion of a quantum corrected black hole in anti-de Sitter spacetime**|Rui-Bo Wang et.al.|[2504.06907v1](http://arxiv.org/abs/2504.06907v1)|null|
-|**2025-04-09**|**On Poincaré constants related to isoperimetric problems in convex bodies**|Dorin Bucur et.al.|[2504.06900v1](http://arxiv.org/abs/2504.06900v1)|null|
-|**2025-04-09**|**Machine Learning Approach to Study of Low Energy Alpha-Deuteron Elastic Scattering using Phase Function Method**|Arushi Sharma et.al.|[2504.06879v1](http://arxiv.org/abs/2504.06879v1)|null|
-|**2025-04-09**|**Long-period double-lined eclipsing binaries: the system V454 Aur with the secondary eclipse caused by the occultation of the hotter component**|Kniazev Alexei et.al.|[2504.06826v1](http://arxiv.org/abs/2504.06826v1)|null|
