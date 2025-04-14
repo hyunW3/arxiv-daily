@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-13 21:00:06 Asia/Shanghai
+ Automated deployment @ 2025-04-14 09:18:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -20,7 +20,7 @@
 |**2025-04-10**|**Chirality-induced selectivity of angular momentum by orbital Edelstein effect in carbon nanotubes**|Börge Göbel et.al.|[2504.07665v1](http://arxiv.org/abs/2504.07665v1)|null|
 |**2025-04-10**|**STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors**|Bingliang Zhang et.al.|[2504.07549v1](http://arxiv.org/abs/2504.07549v1)|null|
 |**2025-04-10**|**SeparationPINN: Physics-Informed Neural Networks for Seismic P- and S-Wave Mode Separation**|Xinru Mu et.al.|[2504.07544v1](http://arxiv.org/abs/2504.07544v1)|null|
-|**2025-04-10**|**A Mechanism-Learning Deeply Coupled Model for Remote Sensing Retrieval of Global Land Surface Temperature**|Tian Xie et.al.|[2504.07481v1](http://arxiv.org/abs/2504.07481v1)|null|
+|**2025-04-10**|**A Mechanism-Learning Deeply Coupled Model for Remote Sensing Retrieval of Global Land Surface Temperature**|Tian Xie et.al.|[2504.07481v2](http://arxiv.org/abs/2504.07481v2)|null|
 |**2025-04-10**|**Sums with Stern-Brocot sequences and Minkowski question mark function**|Haomin Liu et.al.|[2504.07456v1](http://arxiv.org/abs/2504.07456v1)|null|
 |**2025-04-10**|**Polarization Angle Orthogonal Jumps in Fast Radio Bursts**|Yuanhong Qu et.al.|[2504.07449v1](http://arxiv.org/abs/2504.07449v1)|null|
 |**2025-04-10**|**Revisiting LLM Evaluation through Mechanism Interpretability: a New Metric and Model Utility Law**|Yixin Cao et.al.|[2504.07440v1](http://arxiv.org/abs/2504.07440v1)|null|
@@ -57,10 +57,10 @@
 |**2025-04-10**|**Perception-R1: Pioneering Perception Policy with Reinforcement Learning**|En Yu et.al.|[2504.07954v1](http://arxiv.org/abs/2504.07954v1)|[link](https://github.com/linkangheng/pr1)|
 |**2025-04-10**|**Free monad sequences and extension operations**|Christian Sattler et.al.|[2504.07953v1](http://arxiv.org/abs/2504.07953v1)|null|
 |**2025-04-10**|**Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory**|Mirac Suzgun et.al.|[2504.07952v1](http://arxiv.org/abs/2504.07952v1)|[link](https://github.com/suzgunmirac/dynamic-cheatsheet)|
-|**2025-04-10**|**Scaling Laws for Native Multimodal Models Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951v1](http://arxiv.org/abs/2504.07951v1)|null|
+|**2025-04-10**|**Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951v2](http://arxiv.org/abs/2504.07951v2)|null|
 |**2025-04-10**|**Localized quasiparticles in a fluxonium with quasi-two-dimensional amorphous kinetic inductors**|Trevyn F. Q. Larson et.al.|[2504.07950v1](http://arxiv.org/abs/2504.07950v1)|null|
 |**2025-04-10**|**InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians**|Kefan Chen et.al.|[2504.07949v1](http://arxiv.org/abs/2504.07949v1)|null|
-|**2025-04-10**|**Pushing the Accuracy Limit of Foundation Neural Network Models with Quantum Monte Carlo Forces and Path Integrals**|Anouar Benali et.al.|[2504.07948v1](http://arxiv.org/abs/2504.07948v1)|null|
+|**2025-04-10**|**Pushing the Accuracy Limit of Foundation Neural Network Models with Quantum Monte Carlo Forces and Path Integrals**|Anouar Benali et.al.|[2504.07948v2](http://arxiv.org/abs/2504.07948v2)|null|
 |**2025-04-10**|**Activating high-power parametric oscillation in photonic-crystal resonators**|Grant M. Brodnik et.al.|[2504.07947v1](http://arxiv.org/abs/2504.07947v1)|null|
 |**2025-04-10**|**Characteristic function-based tests for spatial randomness**|Yiran Zeng et.al.|[2504.07946v1](http://arxiv.org/abs/2504.07946v1)|null|
 |**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945v1](http://arxiv.org/abs/2504.07945v1)|null|

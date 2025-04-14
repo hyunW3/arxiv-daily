@@ -14,7 +14,7 @@
 |**2025-04-10**|**Chirality-induced selectivity of angular momentum by orbital Edelstein effect in carbon nanotubes**|Börge Göbel et.al.|[2504.07665v1](http://arxiv.org/abs/2504.07665v1)|null|
 |**2025-04-10**|**STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors**|Bingliang Zhang et.al.|[2504.07549v1](http://arxiv.org/abs/2504.07549v1)|null|
 |**2025-04-10**|**SeparationPINN: Physics-Informed Neural Networks for Seismic P- and S-Wave Mode Separation**|Xinru Mu et.al.|[2504.07544v1](http://arxiv.org/abs/2504.07544v1)|null|
-|**2025-04-10**|**A Mechanism-Learning Deeply Coupled Model for Remote Sensing Retrieval of Global Land Surface Temperature**|Tian Xie et.al.|[2504.07481v1](http://arxiv.org/abs/2504.07481v1)|null|
+|**2025-04-10**|**A Mechanism-Learning Deeply Coupled Model for Remote Sensing Retrieval of Global Land Surface Temperature**|Tian Xie et.al.|[2504.07481v2](http://arxiv.org/abs/2504.07481v2)|null|
 |**2025-04-10**|**Sums with Stern-Brocot sequences and Minkowski question mark function**|Haomin Liu et.al.|[2504.07456v1](http://arxiv.org/abs/2504.07456v1)|null|
 |**2025-04-10**|**Polarization Angle Orthogonal Jumps in Fast Radio Bursts**|Yuanhong Qu et.al.|[2504.07449v1](http://arxiv.org/abs/2504.07449v1)|null|
 |**2025-04-10**|**Revisiting LLM Evaluation through Mechanism Interpretability: a New Metric and Model Utility Law**|Yixin Cao et.al.|[2504.07440v1](http://arxiv.org/abs/2504.07440v1)|null|
