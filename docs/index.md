@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-14 21:07:29 Asia/Shanghai
+ Automated deployment @ 2025-04-15 09:17:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -27,7 +27,7 @@
 |**2025-04-10**|**Horizons, throats and bounces in hybrid metric-Palatini gravity with a non-zero potential**|Gabriel I. Róis et.al.|[2504.07861v1](http://arxiv.org/abs/2504.07861v1)|null|
 |**2025-04-10**|**Inverse Design of Block Polymer Materials with Desired Nanoscale Structure and Macroscale Properties**|Vinson Liao et.al.|[2504.07834v1](http://arxiv.org/abs/2504.07834v1)|null|
 |**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809v1](http://arxiv.org/abs/2504.07809v1)|[link](https://github.com/albanbloorriley/rgd_lp)|
-|**2025-04-10**|**Numerical solution by shape optimization method to an inverse shape problem in multi-dimensional advection-diffusion problem with space dependent coefficients**|Elmehdi Cherrat et.al.|[2504.07796v1](http://arxiv.org/abs/2504.07796v1)|null|
+|**2025-04-10**|**Numerical solution by shape optimization method to an inverse shape problem in multi-dimensional advection-diffusion problem with space dependent coefficients**|Elmehdi Cherrat et.al.|[2504.07796v2](http://arxiv.org/abs/2504.07796v2)|null|
 |**2025-04-10**|**A Novel Deep Learning Approach for Emulating Computationally Expensive Postfire Debris Flows**|Palak Patel et.al.|[2504.07736v1](http://arxiv.org/abs/2504.07736v1)|null|
 |**2025-04-10**|**Conformalized Generative Bayesian Imaging: An Uncertainty Quantification Framework for Computational Imaging**|Canberk Ekmekci et.al.|[2504.07696v1](http://arxiv.org/abs/2504.07696v1)|null|
 |**2025-04-10**|**Point processes of the Poisson-Skellam family**|Fabrizio Cinque et.al.|[2504.07672v1](http://arxiv.org/abs/2504.07672v1)|null|
