@@ -2,6 +2,24 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-15**|**eXplainable AI for data driven control: an inverse optimal control approach**|Federico Porcari et.al.|[2504.11446v1](http://arxiv.org/abs/2504.11446v1)|null|
+|**2025-04-15**|**Probing the Quantum Geometry of Correlated Metals using Optical Conductivity**|Deven P. Carmichael et.al.|[2504.11428v1](http://arxiv.org/abs/2504.11428v1)|null|
+|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v1](http://arxiv.org/abs/2504.11347v1)|null|
+|**2025-04-15**|**Constraints from muon $g-2$ on a gauged non-universal $U(1)_{X}$ model with inverse see-saw neutrinos**|J. S. Alvarado et.al.|[2504.11332v1](http://arxiv.org/abs/2504.11332v1)|null|
+|**2025-04-15**|**Big Brother is Watching: Proactive Deepfake Detection via Learnable Hidden Face**|Hongbo Li et.al.|[2504.11309v1](http://arxiv.org/abs/2504.11309v1)|null|
+|**2025-04-15**|**Current response to axial gauge fields in noncentrosymmetric magnetic Weyl semimetals**|Long Liang et.al.|[2504.11297v1](http://arxiv.org/abs/2504.11297v1)|null|
+|**2025-04-15**|**Influence of the magnetic activity cycle on mean density and acoustic radius inversions**|Jérôme Bétrisey et.al.|[2504.11283v1](http://arxiv.org/abs/2504.11283v1)|null|
+|**2025-04-15**|**Model Consistency of Iterative Regularization for Low-Complexity Regularization**|Jie Gao et.al.|[2504.11254v1](http://arxiv.org/abs/2504.11254v1)|null|
+|**2025-04-15**|**Origin of Reactor Antineutrino Anomaly**|L. M. Slad et.al.|[2504.11102v1](http://arxiv.org/abs/2504.11102v1)|null|
+|**2025-04-15**|**Magnetotransport and activation energy of the surface states in Cd3As2 thin films**|Zhigang Cai et.al.|[2504.11095v1](http://arxiv.org/abs/2504.11095v1)|null|
+|**2025-04-15**|**Dynamical errors in machine learning forecasts**|Zhou Fang et.al.|[2504.11074v1](http://arxiv.org/abs/2504.11074v1)|null|
+|**2025-04-15**|**Weyl-mediated Ruderman-Kittel-Kasuya-Yosida interaction revisited: imaginary-time formalism and finite temperature effects**|Mengyao Zhou et.al.|[2504.11052v1](http://arxiv.org/abs/2504.11052v1)|null|
+|**2025-04-15**|**DMPT: Decoupled Modality-aware Prompt Tuning for Multi-modal Object Re-identification**|Minghui Lin et.al.|[2504.10985v1](http://arxiv.org/abs/2504.10985v1)|null|
+|**2025-04-15**|**Evidence for GeV Gamma-Ray Emission from Intense GRB 240529A During the Afterglow's Shallow Decay Phase**|Kenta Terauchi et.al.|[2504.10907v1](http://arxiv.org/abs/2504.10907v1)|null|
+|**2025-04-15**|**Multiple points of view: The simultaneous crossing number for knots with doubly transvergent diagrams**|Christoph Lamm et.al.|[2504.10892v1](http://arxiv.org/abs/2504.10892v1)|null|
+|**2025-04-14**|**TURB-MHD: an open-access database of forced homogeneous magnetohydrodynamic turbulence**|Damiano Capocci et.al.|[2504.10755v1](http://arxiv.org/abs/2504.10755v1)|null|
+|**2025-04-14**|**Leveraging Deep Operator Networks (DeepONet) for Acoustic Full Waveform Inversion (FWI)**|Kamaljyoti Nath et.al.|[2504.10720v1](http://arxiv.org/abs/2504.10720v1)|null|
+|**2025-04-14**|**Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling**|Michal Balcerak et.al.|[2504.10612v1](http://arxiv.org/abs/2504.10612v1)|null|
 |**2025-04-14**|**Bounds as blueprints: towards optimal and accelerated photonic inverse design**|Pengning Chao et.al.|[2504.10469v1](http://arxiv.org/abs/2504.10469v1)|null|
 |**2025-04-14**|**Dynamical systems approach to Cold and Warm Inflation within slow-roll and beyond**|Sandip Biswas et.al.|[2504.10454v1](http://arxiv.org/abs/2504.10454v1)|null|
 |**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375v1](http://arxiv.org/abs/2504.10375v1)|null|
@@ -14,21 +32,3 @@
 |**2025-04-14**|**Probing Binary Lens Caustics with Gravitational Waves: A Uniform Approximation Approach**|Anna Moreso Serra et.al.|[2504.10128v1](http://arxiv.org/abs/2504.10128v1)|null|
 |**2025-04-14**|**Stochastic Multigrid Minimization for Ptychographic Phase Retrieval**|Borong Zhang et.al.|[2504.10118v1](http://arxiv.org/abs/2504.10118v1)|null|
 |**2025-04-14**|**Bayesian optimal experimental design with Wasserstein information criteria**|Tapio Helin et.al.|[2504.10092v1](http://arxiv.org/abs/2504.10092v1)|null|
-|**2025-04-14**|**Unleashing Expert Opinion from Social Media for Stock Prediction**|Wanyun Zhou et.al.|[2504.10078v1](http://arxiv.org/abs/2504.10078v1)|null|
-|**2025-04-14**|**Efficient 2D to Full 3D Human Pose Uplifting including Joint Rotations**|Katja Ludwig et.al.|[2504.09953v1](http://arxiv.org/abs/2504.09953v1)|null|
-|**2025-04-14**|**TWSSenti: A Novel Hybrid Framework for Topic-Wise Sentiment Analysis on Social Media Using Transformer Models**|Aish Albladi et.al.|[2504.09896v1](http://arxiv.org/abs/2504.09896v1)|null|
-|**2025-04-14**|**Optimizing disorder with machine learning to harness synchronization**|Jun-Yin Huang et.al.|[2504.09808v1](http://arxiv.org/abs/2504.09808v1)|null|
-|**2025-04-13**|**Activity drives self-assembly of passive soft inclusions in active nematics**|Ahmet Umut Akduman et.al.|[2504.09693v1](http://arxiv.org/abs/2504.09693v1)|null|
-|**2025-04-13**|**Harnessing Machine Learning for Quantum-Accurate Predictions of Non-Equilibrium Behavior in 2D Materials**|Yue Zhang et.al.|[2504.09686v1](http://arxiv.org/abs/2504.09686v1)|null|
-|**2025-04-13**|**Investigating the emission mechanism in the spatially-resolved jet of two z $\approx$ 3 radio-loud quasars**|Jaya Maithil et.al.|[2504.09676v1](http://arxiv.org/abs/2504.09676v1)|null|
-|**2025-04-13**|**Direct and Inverse Problems for Restricted Signed Sumsets -- II**|Raj Kumar Mistri et.al.|[2504.09617v1](http://arxiv.org/abs/2504.09617v1)|null|
-|**2025-04-13**|**Optimal sparse phase retrieval via a quasi-Bayesian approach**|The Tien Mai et.al.|[2504.09509v1](http://arxiv.org/abs/2504.09509v1)|null|
-|**2025-04-13**|**Inverse ac Josephson effect in Josephson diode**|Huarong Zhong et.al.|[2504.09453v1](http://arxiv.org/abs/2504.09453v1)|null|
-|**2025-04-13**|**Computationally iterative methods for salt-and-pepper denoising**|Jianwei Ke et.al.|[2504.09408v1](http://arxiv.org/abs/2504.09408v1)|null|
-|**2025-04-12**|**Direct and Inverse Problems for Restricted Signed Sumsets -- I**|Raj Kumar Mistri et.al.|[2504.09316v1](http://arxiv.org/abs/2504.09316v1)|null|
-|**2025-04-12**|**Physical Parameters of Stars in NGC 6397 Using ANN-Based Interpolation and Full Spectrum Fitting**|Nitesh Kumar et.al.|[2504.09278v1](http://arxiv.org/abs/2504.09278v1)|null|
-|**2025-04-12**|**Low latency global carbon budget reveals a continuous decline of the land carbon sink during the 2023/24 El Nino event**|Piyu Ke et.al.|[2504.09189v1](http://arxiv.org/abs/2504.09189v1)|null|
-|**2025-04-12**|**Stable Determination and Reconstruction of a Quasilinear Term in an Elliptic Equation**|Jason Choy et.al.|[2504.09167v1](http://arxiv.org/abs/2504.09167v1)|null|
-|**2025-04-12**|**Privacy Preservation in Gen AI Applications**|Swetha S et.al.|[2504.09095v1](http://arxiv.org/abs/2504.09095v1)|null|
-|**2025-04-12**|**ELPINN: Eulerian Lagrangian Physics-Informed Neural Network**|Sukirt Thakur et.al.|[2504.09053v1](http://arxiv.org/abs/2504.09053v1)|null|
-|**2025-04-12**|**A Hierarchical Decomposition of Kullback-Leibler Divergence: Disentangling Marginal Mismatches from Statistical Dependencies**|William Cook et.al.|[2504.09029v1](http://arxiv.org/abs/2504.09029v1)|null|
