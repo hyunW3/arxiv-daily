@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-15**|**eXplainable AI for data driven control: an inverse optimal control approach**|Federico Porcari et.al.|[2504.11446v1](http://arxiv.org/abs/2504.11446v1)|null|
 |**2025-04-15**|**Probing the Quantum Geometry of Correlated Metals using Optical Conductivity**|Deven P. Carmichael et.al.|[2504.11428v1](http://arxiv.org/abs/2504.11428v1)|null|
-|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v1](http://arxiv.org/abs/2504.11347v1)|null|
+|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v2](http://arxiv.org/abs/2504.11347v2)|null|
 |**2025-04-15**|**Constraints from muon $g-2$ on a gauged non-universal $U(1)_{X}$ model with inverse see-saw neutrinos**|J. S. Alvarado et.al.|[2504.11332v1](http://arxiv.org/abs/2504.11332v1)|null|
 |**2025-04-15**|**Big Brother is Watching: Proactive Deepfake Detection via Learnable Hidden Face**|Hongbo Li et.al.|[2504.11309v1](http://arxiv.org/abs/2504.11309v1)|null|
 |**2025-04-15**|**Current response to axial gauge fields in noncentrosymmetric magnetic Weyl semimetals**|Long Liang et.al.|[2504.11297v1](http://arxiv.org/abs/2504.11297v1)|null|
@@ -12,7 +12,7 @@
 |**2025-04-15**|**Model Consistency of Iterative Regularization for Low-Complexity Regularization**|Jie Gao et.al.|[2504.11254v1](http://arxiv.org/abs/2504.11254v1)|null|
 |**2025-04-15**|**Origin of Reactor Antineutrino Anomaly**|L. M. Slad et.al.|[2504.11102v1](http://arxiv.org/abs/2504.11102v1)|null|
 |**2025-04-15**|**Magnetotransport and activation energy of the surface states in Cd3As2 thin films**|Zhigang Cai et.al.|[2504.11095v1](http://arxiv.org/abs/2504.11095v1)|null|
-|**2025-04-15**|**Dynamical errors in machine learning forecasts**|Zhou Fang et.al.|[2504.11074v1](http://arxiv.org/abs/2504.11074v1)|null|
+|**2025-04-15**|**Dynamical errors in machine learning forecasts**|Zhou Fang et.al.|[2504.11074v2](http://arxiv.org/abs/2504.11074v2)|null|
 |**2025-04-15**|**Weyl-mediated Ruderman-Kittel-Kasuya-Yosida interaction revisited: imaginary-time formalism and finite temperature effects**|Mengyao Zhou et.al.|[2504.11052v1](http://arxiv.org/abs/2504.11052v1)|null|
 |**2025-04-15**|**DMPT: Decoupled Modality-aware Prompt Tuning for Multi-modal Object Re-identification**|Minghui Lin et.al.|[2504.10985v1](http://arxiv.org/abs/2504.10985v1)|null|
 |**2025-04-15**|**Evidence for GeV Gamma-Ray Emission from Intense GRB 240529A During the Afterglow's Shallow Decay Phase**|Kenta Terauchi et.al.|[2504.10907v1](http://arxiv.org/abs/2504.10907v1)|null|

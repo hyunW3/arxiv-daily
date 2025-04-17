@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-16 21:07:13 Asia/Shanghai
+ Automated deployment @ 2025-04-17 09:16:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-15**|**eXplainable AI for data driven control: an inverse optimal control approach**|Federico Porcari et.al.|[2504.11446v1](http://arxiv.org/abs/2504.11446v1)|null|
 |**2025-04-15**|**Probing the Quantum Geometry of Correlated Metals using Optical Conductivity**|Deven P. Carmichael et.al.|[2504.11428v1](http://arxiv.org/abs/2504.11428v1)|null|
-|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v1](http://arxiv.org/abs/2504.11347v1)|null|
+|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v2](http://arxiv.org/abs/2504.11347v2)|null|
 |**2025-04-15**|**Constraints from muon $g-2$ on a gauged non-universal $U(1)_{X}$ model with inverse see-saw neutrinos**|J. S. Alvarado et.al.|[2504.11332v1](http://arxiv.org/abs/2504.11332v1)|null|
 |**2025-04-15**|**Big Brother is Watching: Proactive Deepfake Detection via Learnable Hidden Face**|Hongbo Li et.al.|[2504.11309v1](http://arxiv.org/abs/2504.11309v1)|null|
 |**2025-04-15**|**Current response to axial gauge fields in noncentrosymmetric magnetic Weyl semimetals**|Long Liang et.al.|[2504.11297v1](http://arxiv.org/abs/2504.11297v1)|null|
@@ -18,7 +18,7 @@
 |**2025-04-15**|**Model Consistency of Iterative Regularization for Low-Complexity Regularization**|Jie Gao et.al.|[2504.11254v1](http://arxiv.org/abs/2504.11254v1)|null|
 |**2025-04-15**|**Origin of Reactor Antineutrino Anomaly**|L. M. Slad et.al.|[2504.11102v1](http://arxiv.org/abs/2504.11102v1)|null|
 |**2025-04-15**|**Magnetotransport and activation energy of the surface states in Cd3As2 thin films**|Zhigang Cai et.al.|[2504.11095v1](http://arxiv.org/abs/2504.11095v1)|null|
-|**2025-04-15**|**Dynamical errors in machine learning forecasts**|Zhou Fang et.al.|[2504.11074v1](http://arxiv.org/abs/2504.11074v1)|null|
+|**2025-04-15**|**Dynamical errors in machine learning forecasts**|Zhou Fang et.al.|[2504.11074v2](http://arxiv.org/abs/2504.11074v2)|null|
 |**2025-04-15**|**Weyl-mediated Ruderman-Kittel-Kasuya-Yosida interaction revisited: imaginary-time formalism and finite temperature effects**|Mengyao Zhou et.al.|[2504.11052v1](http://arxiv.org/abs/2504.11052v1)|null|
 |**2025-04-15**|**DMPT: Decoupled Modality-aware Prompt Tuning for Multi-modal Object Re-identification**|Minghui Lin et.al.|[2504.10985v1](http://arxiv.org/abs/2504.10985v1)|null|
 |**2025-04-15**|**Evidence for GeV Gamma-Ray Emission from Intense GRB 240529A During the Afterglow's Shallow Decay Phase**|Kenta Terauchi et.al.|[2504.10907v1](http://arxiv.org/abs/2504.10907v1)|null|
@@ -46,14 +46,14 @@
 |**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457v1](http://arxiv.org/abs/2504.11457v1)|null|
 |**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456v1](http://arxiv.org/abs/2504.11456v1)|null|
 |**2025-04-15**|**SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL**|Junke Wang et.al.|[2504.11455v1](http://arxiv.org/abs/2504.11455v1)|null|
-|**2025-04-15**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen et.al.|[2504.11454v1](http://arxiv.org/abs/2504.11454v1)|null|
+|**2025-04-15**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen Hsieh et.al.|[2504.11454v2](http://arxiv.org/abs/2504.11454v2)|null|
 |**2025-04-15**|**A Clean Slate for Offline Reinforcement Learning**|Matthew Thomas Jackson et.al.|[2504.11453v1](http://arxiv.org/abs/2504.11453v1)|null|
 |**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451v1](http://arxiv.org/abs/2504.11451v1)|null|
 |**2025-04-15**|**Optimal Hardness of Online Algorithms for Large Independent Sets**|David Gamarnik et.al.|[2504.11450v1](http://arxiv.org/abs/2504.11450v1)|null|
 |**2025-04-15**|**Full-Diversity Construction-D Lattices: Design and Decoding Perspective on Block-Fading Channels**|Maryam Sadeghi et.al.|[2504.11448v1](http://arxiv.org/abs/2504.11448v1)|null|
-|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhaol et.al.|[2504.11447v1](http://arxiv.org/abs/2504.11447v1)|null|
+|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhao et.al.|[2504.11447v2](http://arxiv.org/abs/2504.11447v2)|null|
 |**2025-04-15**|**eXplainable AI for data driven control: an inverse optimal control approach**|Federico Porcari et.al.|[2504.11446v1](http://arxiv.org/abs/2504.11446v1)|null|
-|**2025-04-15**|**Pixel-level modelling of group-scale strong lens CASSOWARY 19**|Hengkai Ding et.al.|[2504.11445v1](http://arxiv.org/abs/2504.11445v1)|null|
+|**2025-04-15**|**Pixel-level modelling of group-scale strong lens CASSOWARY 19**|Hengkai Ding et.al.|[2504.11445v2](http://arxiv.org/abs/2504.11445v2)|null|
 |**2025-04-15**|**Fault Tolerant Quantum Simulation via Symplectic Transvections**|Zhuangzhuang Chen et.al.|[2504.11444v1](http://arxiv.org/abs/2504.11444v1)|null|
 |**2025-04-15**|**Early Impacts of M365 Copilot**|Eleanor Wiske Dillon et.al.|[2504.11443v1](http://arxiv.org/abs/2504.11443v1)|null|
 |**2025-04-15**|**TADACap: Time-series Adaptive Domain-Aware Captioning**|Elizabeth Fons et.al.|[2504.11441v1](http://arxiv.org/abs/2504.11441v1)|null|
