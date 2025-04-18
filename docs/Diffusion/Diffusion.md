@@ -20,11 +20,11 @@
 |**2025-04-16**|**Lagrangian finite elements in Sobolev-like spaces of order $3/2$**|Yifei Li et.al.|[2504.11920v1](http://arxiv.org/abs/2504.11920v1)|null|
 |**2025-04-16**|**Dirac Representation for Lattice Spin Operators: Spin-$1/2$ and Spin-$1$ cases**|Maseim Bassis Kenmoe et.al.|[2504.11917v1](http://arxiv.org/abs/2504.11917v1)|null|
 |**2025-04-16**|**A LINAC-based, compact x-ray source by inverse Compton scattering**|I. J. M. van Elk et.al.|[2504.11897v1](http://arxiv.org/abs/2504.11897v1)|null|
-|**2025-04-16**|**Bloch phonon-polaritons with anomalous dispersion in polaritonic Fourier crystals**|Sergey G. Menabde et.al.|[2504.11842v1](http://arxiv.org/abs/2504.11842v1)|null|
+|**2025-04-16**|**Bloch phonon-polaritons with anomalous dispersion in polaritonic Fourier crystals**|Sergey G. Menabde et.al.|[2504.11842v2](http://arxiv.org/abs/2504.11842v2)|null|
 |**2025-04-16**|**Estimation and inference in error-in-operator model**|Vladimir Spokoiny et.al.|[2504.11834v1](http://arxiv.org/abs/2504.11834v1)|null|
 |**2025-04-16**|**Network-Integrated Decoding System for Real-Time Quantum Error Correction with Lattice Surgery**|Namitha Liyanage et.al.|[2504.11805v1](http://arxiv.org/abs/2504.11805v1)|null|
 |**2025-04-16**|**Delayed Acceptance Markov Chain Monte Carlo for Robust Bayesian Analysis**|Masahiro Tanaka et.al.|[2504.11761v1](http://arxiv.org/abs/2504.11761v1)|null|
-|**2025-04-16**|**Multi-channel Single-Pixel Imaging for a Composite Motion Target**|Shao Chongwu et.al.|[2504.11742v1](http://arxiv.org/abs/2504.11742v1)|null|
+|**2025-04-16**|**Multi-channel Single-Pixel Imaging for a Composite Motion Target**|Shao Chongwu et.al.|[2504.11742v2](http://arxiv.org/abs/2504.11742v2)|null|
 |**2025-04-16**|**Inversion of biological strategies in engineering technology: in case underwater soft robot**|Siqing Chen et.al.|[2504.11722v1](http://arxiv.org/abs/2504.11722v1)|null|
 |**2025-04-15**|**Gravitational entropy in black hole transformations**|Alan Alejandro Pánuco Liñán et.al.|[2504.11649v1](http://arxiv.org/abs/2504.11649v1)|null|
 |**2025-04-15**|**Hidden symmetry in passive scalar advected by 2D Navier-Stokes turbulence**|Chiara Calascibetta et.al.|[2504.11616v1](http://arxiv.org/abs/2504.11616v1)|null|
