@@ -16,7 +16,7 @@
 |**2025-04-17**|**A New Semidefinite Relaxation for Linear and Piecewise-Affine Optimal Control with Time Scaling**|Lujie Yang et.al.|[2504.13170v1](http://arxiv.org/abs/2504.13170v1)|null|
 |**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169v1](http://arxiv.org/abs/2504.13169v1)|[link](https://github.com/tsunghan-wu/reverse_vlm)|
 |**2025-04-17**|**Restoring Heisenberg scaling in time via autonomous quantum error correction**|Hyukgun Kwon et.al.|[2504.13168v1](http://arxiv.org/abs/2504.13168v1)|null|
-|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167v1](http://arxiv.org/abs/2504.13167v1)|null|
+|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167v2](http://arxiv.org/abs/2504.13167v2)|null|
 |**2025-04-17**|**Topologically enabled superconductivity: possible implications for rhombohedral graphene**|Francesca Paoletti et.al.|[2504.13166v1](http://arxiv.org/abs/2504.13166v1)|null|
 |**2025-04-17**|**RUKA: Rethinking the Design of Humanoid Hands with Learning**|Anya Zorin et.al.|[2504.13165v1](http://arxiv.org/abs/2504.13165v1)|null|
 |**2025-04-17**|**Minute-long quantum coherence enabled by electrical depletion of magnetic noise**|Cyrus Zeledon et.al.|[2504.13164v1](http://arxiv.org/abs/2504.13164v1)|null|
