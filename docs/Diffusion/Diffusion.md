@@ -23,7 +23,7 @@
 |**2025-04-17**|**Bayesian Rao test for distributed target detection in interference and noise with limited training data**|Daipeng Xiao et.al.|[2504.13235v1](http://arxiv.org/abs/2504.13235v1)|null|
 |**2025-04-17**|**Query Complexity of Classical and Quantum Channel Discrimination**|Theshani Nuradha et.al.|[2504.12989v1](http://arxiv.org/abs/2504.12989v1)|null|
 |**2025-04-17**|**Phenomenology of Inverse Seesaw Using $S_3$ Modular Symmetry**|Mitesh Kumar Behera et.al.|[2504.12954v1](http://arxiv.org/abs/2504.12954v1)|null|
-|**2025-04-17**|**Prospects for Detecting Signs of Life on Exoplanets in the JWST Era**|Sara Seager et.al.|[2504.12946v1](http://arxiv.org/abs/2504.12946v1)|null|
+|**2025-04-17**|**Prospects for Detecting Signs of Life on Exoplanets in the JWST Era**|Sara Seager et.al.|[2504.12946v2](http://arxiv.org/abs/2504.12946v2)|null|
 |**2025-04-17**|**Image Editing with Diffusion Models: A Survey**|Jia Wang et.al.|[2504.13226v1](http://arxiv.org/abs/2504.13226v1)|null|
 |**2025-04-17**|**Unbiased Quantum Error Mitigation Without Reliance on an Accurate Error Model**|Haipeng Xie et.al.|[2504.12864v1](http://arxiv.org/abs/2504.12864v1)|null|
 |**2025-04-17**|**A scaling relation of vortex-induced rectification effects in a superconducting thin-film heterostructure**|Yusuke Kobayashi et.al.|[2504.12853v1](http://arxiv.org/abs/2504.12853v1)|null|
