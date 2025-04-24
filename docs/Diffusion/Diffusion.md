@@ -8,7 +8,7 @@
 |**2025-04-22**|**EnsAI: An Emulator for Atmospheric Chemical Ensembles**|Michael Sitwell et.al.|[2504.16024v1](http://arxiv.org/abs/2504.16024v1)|null|
 |**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|null|
 |**2025-04-22**|**Differentiable graph neural network simulator for forward and inverse modeling of multi-layered slope system with multiple material properties**|Yongjin Choi et.al.|[2504.15938v1](http://arxiv.org/abs/2504.15938v1)|null|
-|**2025-04-22**|**Full Crystallographic Imaging of Hexagonal Boron Nitride Monolayers with Phonon-Enhanced Sum-Frequency Microscopy**|Niclas S. Mueller et.al.|[2504.15939v1](http://arxiv.org/abs/2504.15939v1)|null|
+|**2025-04-22**|**Full Crystallographic Imaging of Hexagonal Boron Nitride Monolayers with Phonon-Enhanced Sum-Frequency Microscopy**|Niclas S. Mueller et.al.|[2504.15939v2](http://arxiv.org/abs/2504.15939v2)|null|
 |**2025-04-22**|**Direct and inverse problem for bi-wave equation with time-dependent coefficients from partial data**|Sombuddha Bhattacharyya et.al.|[2504.15911v1](http://arxiv.org/abs/2504.15911v1)|null|
 |**2025-04-22**|**Density Profiles of TNG300 Voids across Cosmic Time**|Olivia Curtis et.al.|[2504.15902v1](http://arxiv.org/abs/2504.15902v1)|null|
 |**2025-04-22**|**Leveraging differentiable programming in the inverse problem of neutron stars**|Thibeau Wouters et.al.|[2504.15893v1](http://arxiv.org/abs/2504.15893v1)|null|
