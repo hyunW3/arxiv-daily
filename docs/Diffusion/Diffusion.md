@@ -2,6 +2,22 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925v1](http://arxiv.org/abs/2504.16925v1)|null|
+|**2025-04-23**|**Magnetorotational instability in a solar mean-field dynamo**|Axel Brandenburg et.al.|[2504.16849v1](http://arxiv.org/abs/2504.16849v1)|null|
+|**2025-04-23**|**Evaluating Autoencoders for Parametric and Invertible Multidimensional Projections**|Frederik L. Dennig et.al.|[2504.16831v1](http://arxiv.org/abs/2504.16831v1)|null|
+|**2025-04-23**|**The Interplay of Single Ion Anisotropy and Magnetic 3d-4f Interactions in V$^{\rm III}_2$Ln$^{\rm III}_2$ Butterfly Complexes**|J. Arneth et.al.|[2504.16758v1](http://arxiv.org/abs/2504.16758v1)|null|
+|**2025-04-23**|**Information Leakage of Sentence Embeddings via Generative Embedding Inversion Attacks**|Antonios Tragoudaras et.al.|[2504.16609v1](http://arxiv.org/abs/2504.16609v1)|null|
+|**2025-04-23**|**Gravitational Equilibrium with Steady Flow and Relativistic Local Thermodynamics**|Shuichi Yokoyama et.al.|[2504.16517v1](http://arxiv.org/abs/2504.16517v1)|null|
+|**2025-04-23**|**Breaking scaling relations with inverse catalysts: a machine learning exploration of trends in $\mathrm{CO_2}$ hydrogenation energy barriers**|Luuk H. E. Kempen et.al.|[2504.16493v1](http://arxiv.org/abs/2504.16493v1)|null|
+|**2025-04-23**|**Microscopic theory of the inverse Faraday effect in a multiorbital model: Role of orbital magnetic moment and electric dipole**|Kosuke Tazuke et.al.|[2504.16490v1](http://arxiv.org/abs/2504.16490v1)|null|
+|**2025-04-23**|**Real-time Bayesian inference at extreme scale: A digital twin for tsunami early warning applied to the Cascadia subduction zone**|Stefan Henneking et.al.|[2504.16344v1](http://arxiv.org/abs/2504.16344v1)|null|
+|**2025-04-22**|**Accelerated discovery of cost-effective photoabsorber materials for near-infrared (λ=1600 nm) photodetector applications**|Wayne Zhao et.al.|[2504.16317v1](http://arxiv.org/abs/2504.16317v1)|null|
+|**2025-04-22**|**SignX: The Foundation Model for Sign Recognition**|Sen Fang et.al.|[2504.16315v1](http://arxiv.org/abs/2504.16315v1)|null|
+|**2025-04-22**|**Modeling of lightcurves from reconnection-powered very high energy flares from M87***|Siddhant Solanki et.al.|[2504.16298v1](http://arxiv.org/abs/2504.16298v1)|null|
+|**2025-04-22**|**Multiobjective optimization for scattering mitigation and scattering screen reconstruction in VLBI observations of the Galactic Center**|Alejandro Mus et.al.|[2504.16257v1](http://arxiv.org/abs/2504.16257v1)|null|
+|**2025-04-22**|**Strain-Induced Enhancement of Spin Pumping in Pt/YIG Bilayers**|Lara M. Solis et.al.|[2504.16250v1](http://arxiv.org/abs/2504.16250v1)|null|
+|**2025-04-22**|**Analytic Fourier ptychotomography for volumetric refractive index imaging**|Zhenyu Dong et.al.|[2504.16247v1](http://arxiv.org/abs/2504.16247v1)|null|
+|**2025-04-22**|**Gapfull and gapless $1$D Topological Superconductivity in Spin-Orbit Coupled Bilayer Graphene**|Daniel Skliannyi et.al.|[2504.16176v1](http://arxiv.org/abs/2504.16176v1)|null|
 |**2025-04-22**|**Reconstruction of source function in a parabolic equation using partial boundary measurements**|T. Sharma et.al.|[2504.16070v1](http://arxiv.org/abs/2504.16070v1)|null|
 |**2025-04-22**|**How to make CLEAN variants faster? Using clustered components informed by the autocorrelation function**|Hendrik Müller et.al.|[2504.16058v1](http://arxiv.org/abs/2504.16058v1)|null|
 |**2025-04-22**|**Bayesian Parameter Identification in the Landau-de Gennes Theory for Nematic Liquid Crystals**|Heiko Gimperlein et.al.|[2504.16029v1](http://arxiv.org/abs/2504.16029v1)|null|
@@ -16,19 +32,3 @@
 |**2025-04-22**|**Characterization and ex vivo application of flexible 2D scintillating coatings in ultra-high dose rate electron beams for FLASH radiotherapy**|Verdi Vanreusel et.al.|[2504.15824v1](http://arxiv.org/abs/2504.15824v1)|null|
 |**2025-04-22**|**Retrieving day- and nightside atmospheric properties of the ultra-hot Jupiter TOI-2109b. Detection of Fe and CO emission lines and evidence for inefficient heat transport**|D. Cont et.al.|[2504.15757v1](http://arxiv.org/abs/2504.15757v1)|null|
 |**2025-04-22**|**3D Maser polarization simulation for J=1-0 SiO masers in the circumstellar envelope of an AGB star**|M. Phetra et.al.|[2504.15754v1](http://arxiv.org/abs/2504.15754v1)|null|
-|**2025-04-22**|**Structure-Preserving Zero-Shot Image Editing via Stage-Wise Latent Injection in Diffusion Models**|Dasol Jeong et.al.|[2504.15723v1](http://arxiv.org/abs/2504.15723v1)|null|
-|**2025-04-22**|**Domain-wall driven suppression of thermal conductivity in a ferroelectric polycrystal**|Rachid Belrhiti-Nejjar et.al.|[2504.15708v1](http://arxiv.org/abs/2504.15708v1)|null|
-|**2025-04-22**|**Susceptibilities of conserved charges of hadronic matter**|Somenath Pal et.al.|[2504.15703v1](http://arxiv.org/abs/2504.15703v1)|null|
-|**2025-04-22**|**Inverse Drexhage effect in Epsilon-Near-Zero Substrates**|Sandeep Kumar Chamoli et.al.|[2504.15593v1](http://arxiv.org/abs/2504.15593v1)|null|
-|**2025-04-22**|**Designing Optimal Distorted-Octahedra Superlattices for Strong Topological Hall Effect**|Yiyan Fan et.al.|[2504.15563v1](http://arxiv.org/abs/2504.15563v1)|null|
-|**2025-04-22**|**Evidence of Ultrashort Orbital Transport in Heavy Metals Revealed by Terahertz Emission Spectroscopy**|Tongyang Guan et.al.|[2504.15553v1](http://arxiv.org/abs/2504.15553v1)|null|
-|**2025-04-21**|**Polarimetric Signatures of Bulk Comptonization from within the Plunging Region of Accreting Black Holes**|Ho-Sang Chan et.al.|[2504.15486v1](http://arxiv.org/abs/2504.15486v1)|null|
-|**2025-04-21**|**Scale separation from O-planes**|George Tringas et.al.|[2504.15436v1](http://arxiv.org/abs/2504.15436v1)|null|
-|**2025-04-21**|**Magnetic recoil interferometer in a uniform gravitational field. Comment on Observation of the quantum equivalence principle for matter-waves**|Peter Asenbaum et.al.|[2504.15409v1](http://arxiv.org/abs/2504.15409v1)|null|
-|**2025-04-21**|**Solving New Tasks by Adapting Internet Video Knowledge**|Calvin Luo et.al.|[2504.15369v1](http://arxiv.org/abs/2504.15369v1)|null|
-|**2025-04-21**|**Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields**|Brandon Zhao et.al.|[2504.15262v1](http://arxiv.org/abs/2504.15262v1)|null|
-|**2025-04-21**|**Spin dynamics and 1/3 magnetization plateau in a coupled distorted diamond chain compound K2Cu3(MoO4)4**|G. Senthil Murugan et.al.|[2504.15216v1](http://arxiv.org/abs/2504.15216v1)|null|
-|**2025-04-21**|**An experimental study of the influence of anonymous information on social media users**|Boleslaw K. Szymanski et.al.|[2504.15215v1](http://arxiv.org/abs/2504.15215v1)|null|
-|**2025-04-21**|**Wave Arithmetic: A Smooth Integral Representation of Number Theory**|Stanislav Semenov et.al.|[2504.15184v1](http://arxiv.org/abs/2504.15184v1)|null|
-|**2025-04-21**|**Multiple Quantum Many-Body Clustering Probed by Dynamical Decoupling**|Gerónimo Sequeiros et.al.|[2504.15183v1](http://arxiv.org/abs/2504.15183v1)|null|
-|**2025-04-21**|**FaceCraft4D: Animated 3D Facial Avatar Generation from a Single Image**|Fei Yin et.al.|[2504.15179v1](http://arxiv.org/abs/2504.15179v1)|null|
