@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-23**|**Dispu$τ$able: the high cost of a low optical depth**|Noah Sailer et.al.|[2504.16932v1](http://arxiv.org/abs/2504.16932v1)|null|
-|**2025-04-23**|**Lattice study of $cc\bar u\bar s$ tetraquark channel in $D^{(*)}D^{(*)}_s$ scattering**|Tanishk Shrimal et.al.|[2504.16931v1](http://arxiv.org/abs/2504.16931v1)|null|
-|**2025-04-23**|**Procedural Dataset Generation for Zero-Shot Stereo Matching**|David Yan et.al.|[2504.16930v1](http://arxiv.org/abs/2504.16930v1)|null|
-|**2025-04-23**|**I-Con: A Unifying Framework for Representation Learning**|Shaden Alshammari et.al.|[2504.16929v1](http://arxiv.org/abs/2504.16929v1)|null|
-|**2025-04-23**|**Enhancing high-order harmonic generation in two-color laser fields: A comparison of single- and two-color schemes**|Jan Troß et.al.|[2504.16928v1](http://arxiv.org/abs/2504.16928v1)|null|
-|**2025-04-23**|**Year six photometric measurements of known Trans-Neptunian Objects and Centaurs by the Dark Energy Survey**|Feliphe S. Ferreira et.al.|[2504.16927v1](http://arxiv.org/abs/2504.16927v1)|null|
-|**2025-04-23**|**Meteor CNEOS 2014-01-08 has nothing to do with Planet 9**|Sigurd Naess et.al.|[2504.16926v1](http://arxiv.org/abs/2504.16926v1)|null|
-|**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925v1](http://arxiv.org/abs/2504.16925v1)|null|
-|**2025-04-23**|**Ultradense Sphere Packings Derived From Disordered Stealthy Hyperuniform Ground States**|Jaeuk Kim et.al.|[2504.16924v1](http://arxiv.org/abs/2504.16924v1)|null|
-|**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923v1](http://arxiv.org/abs/2504.16923v1)|null|
-|**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922v1](http://arxiv.org/abs/2504.16922v1)|null|
-|**2025-04-23**|**IberBench: LLM Evaluation on Iberian Languages**|José Ángel González et.al.|[2504.16921v1](http://arxiv.org/abs/2504.16921v1)|null|
-|**2025-04-23**|**Summary statistics of learning link changing neural representations to behavior**|Jacob A. Zavatone-Veth et.al.|[2504.16920v1](http://arxiv.org/abs/2504.16920v1)|null|
-|**2025-04-23**|**OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents**|Raghav Thind et.al.|[2504.16918v1](http://arxiv.org/abs/2504.16918v1)|null|
-|**2025-04-23**|**Application of an attention-based CNN-BiLSTM framework for in vivo two-photon calcium imaging of neuronal ensembles: decoding complex bilateral forelimb movements from unilateral M1**|Ghazal Mirzaee et.al.|[2504.16917v1](http://arxiv.org/abs/2504.16917v1)|null|
-|**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916v1](http://arxiv.org/abs/2504.16916v1)|null|
-|**2025-04-23**|**DreamO: A Unified Framework for Image Customization**|Chong Mou et.al.|[2504.16915v1](http://arxiv.org/abs/2504.16915v1)|null|
-|**2025-04-23**|**MorphoNavi: Aerial-Ground Robot Navigation with Object Oriented Mapping in Digital Twin**|Sausar Karaf et.al.|[2504.16914v1](http://arxiv.org/abs/2504.16914v1)|null|
-|**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913v1](http://arxiv.org/abs/2504.16913v1)|null|
-|**2025-04-23**|**Definition, Identification, and Estimation of the Direct and Indirect Number Needed to Treat**|Valentin Vancak et.al.|[2504.16912v1](http://arxiv.org/abs/2504.16912v1)|null|
-|**2025-04-23**|**Dynamical tides in neutron stars with first-order phase transitions: the role of the discontinuity mode**|Jonas P. Pereira et.al.|[2504.16911v1](http://arxiv.org/abs/2504.16911v1)|null|
-|**2025-04-23**|**Self-interacting dark matter with observable $ΔN_{\rm eff}$**|Debasish Borah et.al.|[2504.16910v1](http://arxiv.org/abs/2504.16910v1)|null|
-|**2025-04-23**|**The CKN inequality for spinors: symmetry and symmetry breaking**|Jean Dolbeault et.al.|[2504.16909v1](http://arxiv.org/abs/2504.16909v1)|null|
-|**2025-04-23**|**Axiomatic Equilibrium Selection: The Case of Generic Extensive Form Games**|Srihari Govindan et.al.|[2504.16908v1](http://arxiv.org/abs/2504.16908v1)|null|
-|**2025-04-23**|**BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**|Ruotong Wang et.al.|[2504.16907v1](http://arxiv.org/abs/2504.16907v1)|null|
-|**2025-04-23**|**An Accelerated Camera 3DMA Framework for Efficient Urban GNSS Multipath Estimation**|Shiyao Lv et.al.|[2504.16906v1](http://arxiv.org/abs/2504.16906v1)|null|
-|**2025-04-23**|**The Galactic inner spiral arms revealed by the Gaia ESO Survey chemical abundances. Metallicity and [Mg/Fe] ratios**|C. Viscasillas Vázquez et.al.|[2504.16905v1](http://arxiv.org/abs/2504.16905v1)|null|
-|**2025-04-23**|**Observation of Double Hysteresis in CoFe$_2$O$_4$/MnFe$_2$O$_4$ Core/Shell Nanoparticles and Its Contribution to AC Heat Induction**|Jie Wang et.al.|[2504.16904v1](http://arxiv.org/abs/2504.16904v1)|null|
-|**2025-04-23**|**Collinear Corrections to the Cachazo-Strominger Soft Theorem**|Eivind Jørstad et.al.|[2504.16903v1](http://arxiv.org/abs/2504.16903v1)|null|
-|**2025-04-23**|**Building A Secure Agentic AI Application Leveraging A2A Protocol**|Idan Habler et.al.|[2504.16902v1](http://arxiv.org/abs/2504.16902v1)|null|
+|**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791v1](http://arxiv.org/abs/2504.17791v1)|null|
+|**2025-04-24**|**Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction**|Kenta Kasai et.al.|[2504.17790v1](http://arxiv.org/abs/2504.17790v1)|null|
+|**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788v1](http://arxiv.org/abs/2504.17788v1)|null|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789v1](http://arxiv.org/abs/2504.17789v1)|null|
+|**2025-04-24**|**The Fourth Monocular Depth Estimation Challenge**|Anton Obukhov et.al.|[2504.17787v1](http://arxiv.org/abs/2504.17787v1)|null|
+|**2025-04-24**|**Emergent fractals in dirty topological crystals**|Daniel J. Salib et.al.|[2504.17786v1](http://arxiv.org/abs/2504.17786v1)|null|
+|**2025-04-24**|**Silenzio: Secure Non-Interactive Outsourced MLP Training**|Jonas Sander et.al.|[2504.17785v1](http://arxiv.org/abs/2504.17785v1)|null|
+|**2025-04-24**|**Nanoscale infrared and microwave imaging of stacking faults in multilayer graphene**|Ludwig Holleis et.al.|[2504.17783v1](http://arxiv.org/abs/2504.17783v1)|null|
+|**2025-04-24**|**Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation**|Yuyin Yang et.al.|[2504.17784v1](http://arxiv.org/abs/2504.17784v1)|null|
+|**2025-04-24**|**Unleashing the Power of Natural Audio Featuring Multiple Sound Sources**|Xize Cheng et.al.|[2504.17782v1](http://arxiv.org/abs/2504.17782v1)|null|
+|**2025-04-24**|**Thermal Product Formula for Shear Modes**|Jyotirmoy Bhattacharya et.al.|[2504.17781v1](http://arxiv.org/abs/2504.17781v1)|null|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780v1](http://arxiv.org/abs/2504.17780v1)|null|
+|**2025-04-24**|**Flexoelectric polarization in chiral liquid crystals: electrostatic self-interactions of topological defects**|Paul Leask et.al.|[2504.17778v1](http://arxiv.org/abs/2504.17778v1)|null|
+|**2025-04-24**|**Search for Quasar Pairs with ${\it Gaia}$ Astrometric Data. I. Method and Candidates**|Qihang Chen et.al.|[2504.17777v1](http://arxiv.org/abs/2504.17777v1)|null|
+|**2025-04-24**|**Fitting Tree Metrics and Ultrametrics in Data Streams**|Amir Carmel et.al.|[2504.17776v1](http://arxiv.org/abs/2504.17776v1)|null|
+|**2025-04-24**|**Long-term stable nonlinear evolutions of ultracompact black-hole mimickers**|Gareth Arturo Marks et.al.|[2504.17775v1](http://arxiv.org/abs/2504.17775v1)|null|
+|**2025-04-24**|**Three-local Charge Conservation Implies Quantum Integrability**|Zhao Zhang et.al.|[2504.17773v1](http://arxiv.org/abs/2504.17773v1)|null|
+|**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771v1](http://arxiv.org/abs/2504.17771v1)|null|
+|**2025-04-24**|**Zeptosecond free-electron compression through temporal lensing**|Xin Jin et.al.|[2504.17770v1](http://arxiv.org/abs/2504.17770v1)|null|
+|**2025-04-24**|**Bringing light into the Landau-Lifshitz-Gilbert equation: Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons**|Felipe Reyes-Osorio et.al.|[2504.17769v1](http://arxiv.org/abs/2504.17769v1)|null|
+|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768v1](http://arxiv.org/abs/2504.17768v1)|null|
+|**2025-04-24**|**Dynamic atmosphere and wind models of C-type asymptotic giant branch stars. Influences of dust optical data on mass loss and observables**|Emelie Siderud et.al.|[2504.17767v1](http://arxiv.org/abs/2504.17767v1)|null|
+|**2025-04-24**|**Estimating the BFKL effects on the vector meson + jet production in photon - induced interactions at the LHC**|João V. Bulhões et.al.|[2504.17766v1](http://arxiv.org/abs/2504.17766v1)|null|
+|**2025-04-24**|**Extended Scalar Particle Solutions in Black String Spacetimes with Anisotropic Quintessence**|M. L. Deglmann et.al.|[2504.17765v1](http://arxiv.org/abs/2504.17765v1)|null|
+|**2025-04-24**|**Orbifolds, higher dagger structures, and idempotents**|Nils Carqueville et.al.|[2504.17764v1](http://arxiv.org/abs/2504.17764v1)|null|
+|**2025-04-24**|**Introducing STARDIS: An Open and Modular Stellar Spectral Synthesis Code**|Joshua V. Shields et.al.|[2504.17762v1](http://arxiv.org/abs/2504.17762v1)|null|
+|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761v1](http://arxiv.org/abs/2504.17761v1)|null|
+|**2025-04-24**|**First study of neutrino angle reconstruction using quasielastic-like interactions in MicroBooNE**|MicroBooNE collaboration et.al.|[2504.17758v1](http://arxiv.org/abs/2504.17758v1)|null|
+|**2025-04-24**|**On the Degree Automatability of Sum-of-Squares Proofs**|Alex Bortolotti et.al.|[2504.17756v1](http://arxiv.org/abs/2504.17756v1)|null|
+|**2025-04-24**|**On canonical differential equations for Calabi-Yau multi-scale Feynman integrals**|Sara Maggio et.al.|[2504.17757v1](http://arxiv.org/abs/2504.17757v1)|null|

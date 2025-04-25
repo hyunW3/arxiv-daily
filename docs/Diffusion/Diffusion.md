@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-24**|**Signed puzzles for Schubert coefficients**|Igor Pak et.al.|[2504.17734v1](http://arxiv.org/abs/2504.17734v1)|null|
+|**2025-04-24**|**Inverse problem in the LaMET framework**|Hervé Dutrieux et.al.|[2504.17706v1](http://arxiv.org/abs/2504.17706v1)|null|
+|**2025-04-24**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671v1](http://arxiv.org/abs/2504.17671v1)|null|
+|**2025-04-24**|**Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models**|Julius Vetter et.al.|[2504.17660v1](http://arxiv.org/abs/2504.17660v1)|null|
+|**2025-04-24**|**Fragmentation, Zero Modes, and Collective Bound States in Constrained Models**|Eloi Nicolau et.al.|[2504.17627v1](http://arxiv.org/abs/2504.17627v1)|null|
+|**2025-04-24**|**Thermal Hall conductivity in the strongest cuprate superconductor: Estimate of the mean free path in the trilayer cuprate HgBa$_2$Ca$_2$Cu$_3$O$_{8 + δ}$**|Munkhtuguldur Altangerel et.al.|[2504.17623v1](http://arxiv.org/abs/2504.17623v1)|null|
+|**2025-04-24**|**Well-posed Questions for Ill-posed Inverse Problems: a Note in Memory of Pierre Sabatier**|Gaoming Chen et.al.|[2504.17592v1](http://arxiv.org/abs/2504.17592v1)|null|
+|**2025-04-24**|**Log-concavity of inverse Kazhdan-Lusztig polynomials of paving matroids**|Matthew H. Y. Xie et.al.|[2504.17567v1](http://arxiv.org/abs/2504.17567v1)|null|
+|**2025-04-24**|**Long-time asymptotics of the Sawada-Kotera equation on the line**|Deng-Shan Wang et.al.|[2504.17537v1](http://arxiv.org/abs/2504.17537v1)|null|
+|**2025-04-24**|**Leakage at zero temperature from changes in chemical potential in Majorana qubits**|M. C. Goffage et.al.|[2504.17485v1](http://arxiv.org/abs/2504.17485v1)|null|
+|**2025-04-24**|**Predict-Optimize-Distill: A Self-Improving Cycle for 4D Object Understanding**|Mingxuan Wu et.al.|[2504.17441v1](http://arxiv.org/abs/2504.17441v1)|null|
+|**2025-04-24**|**An Inverse Source Problem for Semilinear Stochastic Hyperbolic Equations**|Qi Lü et.al.|[2504.17398v1](http://arxiv.org/abs/2504.17398v1)|null|
+|**2025-04-24**|**Deep Reparameterization for Full Waveform Inversion: Architecture Benchmarking, Robust Inversion, and Multiphysics Extension**|Feng Liu et.al.|[2504.17375v1](http://arxiv.org/abs/2504.17375v1)|null|
+|**2025-04-24**|**Inverse-Designed Metasurfaces for Wavefront Restoration in Under-Display Camera Systems**|Jaegang Jo et.al.|[2504.17368v1](http://arxiv.org/abs/2504.17368v1)|null|
+|**2025-04-24**|**CKMDiff: A Generative Diffusion Model for CKM Construction via Inverse Problems with Learned Priors**|Shen Fu et.al.|[2504.17323v1](http://arxiv.org/abs/2504.17323v1)|null|
+|**2025-04-24**|**Enhancing the controllability of quantum systems via a static field**|Ruikang Liang et.al.|[2504.17303v1](http://arxiv.org/abs/2504.17303v1)|null|
+|**2025-04-24**|**Non-integrability of charged three-body problem**|Maria Przybylska et.al.|[2504.17302v1](http://arxiv.org/abs/2504.17302v1)|null|
+|**2025-04-24**|**The mass spectra in the Electroweak theory from the multiplicative Lagrangian**|Suppanat Supanyo et.al.|[2504.17296v1](http://arxiv.org/abs/2504.17296v1)|null|
+|**2025-04-24**|**Quantum-Enhanced Change Detection and Joint Communication-Detection**|Zihao Gong et.al.|[2504.17237v1](http://arxiv.org/abs/2504.17237v1)|null|
+|**2025-04-24**|**Synchronized in-gap edge states and robust copropagation in topological insulators without magnetic flux**|Liangcai Xie et.al.|[2504.17231v1](http://arxiv.org/abs/2504.17231v1)|null|
+|**2025-04-23**|**MOOSE ProbML: Parallelized Probabilistic Machine Learning and Uncertainty Quantification for Computational Energy Applications**|Somayajulu L. N. Dhulipala et.al.|[2504.17101v1](http://arxiv.org/abs/2504.17101v1)|null|
+|**2025-04-23**|**Conditional-Marginal Nonparametric Estimation for Stage Waiting Times from Multi-Stage Models under Dependent Right Censoring**|Xiaoxi Zhang et.al.|[2504.17089v1](http://arxiv.org/abs/2504.17089v1)|null|
+|**2025-04-23**|**Sub-Day Timescale X-ray Spectral Variability of the TeV Blazars Mrk 421 and 1ES 1959+650**|Susmita Das et.al.|[2504.17084v1](http://arxiv.org/abs/2504.17084v1)|null|
+|**2025-04-23**|**Physics-guided and fabrication-aware inverse design of photonic devices using diffusion models**|Dongjin Seo et.al.|[2504.17077v1](http://arxiv.org/abs/2504.17077v1)|null|
+|**2025-04-23**|**Conditional Diffusion-Based Retrieval of Atmospheric CO2 from Earth Observing Spectroscopy**|William R. Keely et.al.|[2504.17074v1](http://arxiv.org/abs/2504.17074v1)|null|
+|**2025-04-23**|**Distilling semantically aware orders for autoregressive image generation**|Rishav Pramanik et.al.|[2504.17069v1](http://arxiv.org/abs/2504.17069v1)|null|
+|**2025-04-23**|**Diffusion Probabilistic Models for Compressive SAR Imaging**|Odysseas Pappas et.al.|[2504.17053v1](http://arxiv.org/abs/2504.17053v1)|null|
+|**2025-04-23**|**A Weighted-likelihood framework for class imbalance in Bayesian prediction models**|Stanley E. Lazic et.al.|[2504.17013v1](http://arxiv.org/abs/2504.17013v1)|null|
+|**2025-04-23**|**Phases of Dark Matter from Inverse Decays**|Ronny Frumkin et.al.|[2504.16981v1](http://arxiv.org/abs/2504.16981v1)|null|
 |**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925v1](http://arxiv.org/abs/2504.16925v1)|null|
-|**2025-04-23**|**Magnetorotational instability in a solar mean-field dynamo**|Axel Brandenburg et.al.|[2504.16849v1](http://arxiv.org/abs/2504.16849v1)|null|
-|**2025-04-23**|**Evaluating Autoencoders for Parametric and Invertible Multidimensional Projections**|Frederik L. Dennig et.al.|[2504.16831v1](http://arxiv.org/abs/2504.16831v1)|null|
-|**2025-04-23**|**The Interplay of Single Ion Anisotropy and Magnetic 3d-4f Interactions in V$^{\rm III}_2$Ln$^{\rm III}_2$ Butterfly Complexes**|J. Arneth et.al.|[2504.16758v1](http://arxiv.org/abs/2504.16758v1)|null|
-|**2025-04-23**|**Information Leakage of Sentence Embeddings via Generative Embedding Inversion Attacks**|Antonios Tragoudaras et.al.|[2504.16609v1](http://arxiv.org/abs/2504.16609v1)|null|
-|**2025-04-23**|**Gravitational Equilibrium with Steady Flow and Relativistic Local Thermodynamics**|Shuichi Yokoyama et.al.|[2504.16517v1](http://arxiv.org/abs/2504.16517v1)|null|
-|**2025-04-23**|**Breaking scaling relations with inverse catalysts: a machine learning exploration of trends in $\mathrm{CO_2}$ hydrogenation energy barriers**|Luuk H. E. Kempen et.al.|[2504.16493v1](http://arxiv.org/abs/2504.16493v1)|null|
-|**2025-04-23**|**Microscopic theory of the inverse Faraday effect in a multiorbital model: Role of orbital magnetic moment and electric dipole**|Kosuke Tazuke et.al.|[2504.16490v1](http://arxiv.org/abs/2504.16490v1)|null|
-|**2025-04-23**|**Real-time Bayesian inference at extreme scale: A digital twin for tsunami early warning applied to the Cascadia subduction zone**|Stefan Henneking et.al.|[2504.16344v1](http://arxiv.org/abs/2504.16344v1)|null|
-|**2025-04-22**|**Accelerated discovery of cost-effective photoabsorber materials for near-infrared (λ=1600 nm) photodetector applications**|Wayne Zhao et.al.|[2504.16317v1](http://arxiv.org/abs/2504.16317v1)|null|
-|**2025-04-22**|**SignX: The Foundation Model for Sign Recognition**|Sen Fang et.al.|[2504.16315v1](http://arxiv.org/abs/2504.16315v1)|null|
-|**2025-04-22**|**Modeling of lightcurves from reconnection-powered very high energy flares from M87***|Siddhant Solanki et.al.|[2504.16298v1](http://arxiv.org/abs/2504.16298v1)|null|
-|**2025-04-22**|**Multiobjective optimization for scattering mitigation and scattering screen reconstruction in VLBI observations of the Galactic Center**|Alejandro Mus et.al.|[2504.16257v1](http://arxiv.org/abs/2504.16257v1)|null|
-|**2025-04-22**|**Strain-Induced Enhancement of Spin Pumping in Pt/YIG Bilayers**|Lara M. Solis et.al.|[2504.16250v1](http://arxiv.org/abs/2504.16250v1)|null|
-|**2025-04-22**|**Analytic Fourier ptychotomography for volumetric refractive index imaging**|Zhenyu Dong et.al.|[2504.16247v1](http://arxiv.org/abs/2504.16247v1)|null|
-|**2025-04-22**|**Gapfull and gapless $1$D Topological Superconductivity in Spin-Orbit Coupled Bilayer Graphene**|Daniel Skliannyi et.al.|[2504.16176v1](http://arxiv.org/abs/2504.16176v1)|null|
-|**2025-04-22**|**Reconstruction of source function in a parabolic equation using partial boundary measurements**|T. Sharma et.al.|[2504.16070v1](http://arxiv.org/abs/2504.16070v1)|null|
-|**2025-04-22**|**How to make CLEAN variants faster? Using clustered components informed by the autocorrelation function**|Hendrik Müller et.al.|[2504.16058v1](http://arxiv.org/abs/2504.16058v1)|null|
-|**2025-04-22**|**Bayesian Parameter Identification in the Landau-de Gennes Theory for Nematic Liquid Crystals**|Heiko Gimperlein et.al.|[2504.16029v1](http://arxiv.org/abs/2504.16029v1)|null|
-|**2025-04-22**|**EnsAI: An Emulator for Atmospheric Chemical Ensembles**|Michael Sitwell et.al.|[2504.16024v1](http://arxiv.org/abs/2504.16024v1)|null|
-|**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|null|
-|**2025-04-22**|**Differentiable graph neural network simulator for forward and inverse modeling of multi-layered slope system with multiple material properties**|Yongjin Choi et.al.|[2504.15938v1](http://arxiv.org/abs/2504.15938v1)|null|
-|**2025-04-22**|**Full Crystallographic Imaging of Hexagonal Boron Nitride Monolayers with Phonon-Enhanced Sum-Frequency Microscopy**|Niclas S. Mueller et.al.|[2504.15939v2](http://arxiv.org/abs/2504.15939v2)|null|
-|**2025-04-22**|**Direct and inverse problem for bi-wave equation with time-dependent coefficients from partial data**|Sombuddha Bhattacharyya et.al.|[2504.15911v1](http://arxiv.org/abs/2504.15911v1)|null|
-|**2025-04-22**|**Density Profiles of TNG300 Voids across Cosmic Time**|Olivia Curtis et.al.|[2504.15902v1](http://arxiv.org/abs/2504.15902v1)|null|
-|**2025-04-22**|**Leveraging differentiable programming in the inverse problem of neutron stars**|Thibeau Wouters et.al.|[2504.15893v1](http://arxiv.org/abs/2504.15893v1)|null|
-|**2025-04-22**|**Full waveform inversion with CNN-based velocity representation extension**|Xinru Mu et.al.|[2504.15826v1](http://arxiv.org/abs/2504.15826v1)|null|
-|**2025-04-22**|**Characterization and ex vivo application of flexible 2D scintillating coatings in ultra-high dose rate electron beams for FLASH radiotherapy**|Verdi Vanreusel et.al.|[2504.15824v1](http://arxiv.org/abs/2504.15824v1)|null|
-|**2025-04-22**|**Retrieving day- and nightside atmospheric properties of the ultra-hot Jupiter TOI-2109b. Detection of Fe and CO emission lines and evidence for inefficient heat transport**|D. Cont et.al.|[2504.15757v1](http://arxiv.org/abs/2504.15757v1)|null|
-|**2025-04-22**|**3D Maser polarization simulation for J=1-0 SiO masers in the circumstellar envelope of an AGB star**|M. Phetra et.al.|[2504.15754v1](http://arxiv.org/abs/2504.15754v1)|null|
