@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-29 21:18:54 Asia/Shanghai
+ Automated deployment @ 2025-04-30 09:17:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -32,7 +32,7 @@
 |**2025-04-27**|**Quantum computation with the eigenstate thermalization hypothesis instead of wavefunction preparation**|Thomas E. Baker et.al.|[2504.19185v1](http://arxiv.org/abs/2504.19185v1)|null|
 |**2025-04-27**|**A new look at fiducial inference**|Pier Giovanni Bissiri et.al.|[2504.19172v1](http://arxiv.org/abs/2504.19172v1)|null|
 |**2025-04-27**|**GPU-Accelerated Parallel Selected Inversion for Structured Matrices Using sTiles**|Esmail Abdul Fattah et.al.|[2504.19171v1](http://arxiv.org/abs/2504.19171v1)|null|
-|**2025-04-27**|**Optical Properties of Nanocellulose and Nanocellulose-based Composites for Optoelectronic Applications**|Jonas Rashidi et.al.|[2504.19166v1](http://arxiv.org/abs/2504.19166v1)|null|
+|**2025-04-27**|**Optical Properties of Nanocellulose and Nanocellulose-based Composites for Optoelectronic Applications**|Jonas Rashidi et.al.|[2504.19166v2](http://arxiv.org/abs/2504.19166v2)|null|
 |**2025-04-27**|**Search for high energy 5.5 MeV solar axions with the complete Borexino dataset**|Borexino Collaboration et.al.|[2504.19135v1](http://arxiv.org/abs/2504.19135v1)|null|
 |**2025-04-27**|**Lemon limbs of the cubic connectedness locus**|Carsten Lunde Petersen et.al.|[2504.19081v1](http://arxiv.org/abs/2504.19081v1)|null|
 |**2025-04-26**|**Entrywise Approximate Matrix Inversion**|Mehrdad Ghadiri et.al.|[2504.19054v1](http://arxiv.org/abs/2504.19054v1)|null|
@@ -52,7 +52,7 @@
 |**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038v1](http://arxiv.org/abs/2504.20038v1)|null|
 |**2025-04-28**|**Polarization of light from fast rotating Wolf-Rayet stars: A Monte Carlo simulations compared to analytical formula**|Slah Abdellaoui et.al.|[2504.20037v1](http://arxiv.org/abs/2504.20037v1)|null|
 |**2025-04-28**|**exoALMA. VI. Rotating under Pressure: Rotation curves, azimuthal velocity substructures, and pressure variations**|Jochen Stadler et.al.|[2504.20036v1](http://arxiv.org/abs/2504.20036v1)|null|
-|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v1](http://arxiv.org/abs/2504.20035v1)|null|
+|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v2](http://arxiv.org/abs/2504.20035v2)|null|
 |**2025-04-28**|**Pan-genome Analysis of Angiosperm Plastomes using PGR-TK**|Manoj P. Samanta et.al.|[2504.20034v1](http://arxiv.org/abs/2504.20034v1)|null|
 |**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033v1](http://arxiv.org/abs/2504.20033v1)|null|
 |**2025-04-28**|**More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV**|Kai Ye et.al.|[2504.20032v1](http://arxiv.org/abs/2504.20032v1)|null|

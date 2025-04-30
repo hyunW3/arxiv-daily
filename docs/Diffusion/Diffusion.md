@@ -26,7 +26,7 @@
 |**2025-04-27**|**Quantum computation with the eigenstate thermalization hypothesis instead of wavefunction preparation**|Thomas E. Baker et.al.|[2504.19185v1](http://arxiv.org/abs/2504.19185v1)|null|
 |**2025-04-27**|**A new look at fiducial inference**|Pier Giovanni Bissiri et.al.|[2504.19172v1](http://arxiv.org/abs/2504.19172v1)|null|
 |**2025-04-27**|**GPU-Accelerated Parallel Selected Inversion for Structured Matrices Using sTiles**|Esmail Abdul Fattah et.al.|[2504.19171v1](http://arxiv.org/abs/2504.19171v1)|null|
-|**2025-04-27**|**Optical Properties of Nanocellulose and Nanocellulose-based Composites for Optoelectronic Applications**|Jonas Rashidi et.al.|[2504.19166v1](http://arxiv.org/abs/2504.19166v1)|null|
+|**2025-04-27**|**Optical Properties of Nanocellulose and Nanocellulose-based Composites for Optoelectronic Applications**|Jonas Rashidi et.al.|[2504.19166v2](http://arxiv.org/abs/2504.19166v2)|null|
 |**2025-04-27**|**Search for high energy 5.5 MeV solar axions with the complete Borexino dataset**|Borexino Collaboration et.al.|[2504.19135v1](http://arxiv.org/abs/2504.19135v1)|null|
 |**2025-04-27**|**Lemon limbs of the cubic connectedness locus**|Carsten Lunde Petersen et.al.|[2504.19081v1](http://arxiv.org/abs/2504.19081v1)|null|
 |**2025-04-26**|**Entrywise Approximate Matrix Inversion**|Mehrdad Ghadiri et.al.|[2504.19054v1](http://arxiv.org/abs/2504.19054v1)|null|

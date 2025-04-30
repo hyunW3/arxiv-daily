@@ -12,7 +12,7 @@
 |**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038v1](http://arxiv.org/abs/2504.20038v1)|null|
 |**2025-04-28**|**Polarization of light from fast rotating Wolf-Rayet stars: A Monte Carlo simulations compared to analytical formula**|Slah Abdellaoui et.al.|[2504.20037v1](http://arxiv.org/abs/2504.20037v1)|null|
 |**2025-04-28**|**exoALMA. VI. Rotating under Pressure: Rotation curves, azimuthal velocity substructures, and pressure variations**|Jochen Stadler et.al.|[2504.20036v1](http://arxiv.org/abs/2504.20036v1)|null|
-|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v1](http://arxiv.org/abs/2504.20035v1)|null|
+|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v2](http://arxiv.org/abs/2504.20035v2)|null|
 |**2025-04-28**|**Pan-genome Analysis of Angiosperm Plastomes using PGR-TK**|Manoj P. Samanta et.al.|[2504.20034v1](http://arxiv.org/abs/2504.20034v1)|null|
 |**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033v1](http://arxiv.org/abs/2504.20033v1)|null|
 |**2025-04-28**|**More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV**|Kai Ye et.al.|[2504.20032v1](http://arxiv.org/abs/2504.20032v1)|null|
