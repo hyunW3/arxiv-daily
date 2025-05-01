@@ -11,7 +11,7 @@
 |**2025-04-29**|**ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models**|Jin Xie et.al.|[2504.20570v1](http://arxiv.org/abs/2504.20570v1)|null|
 |**2025-04-29**|**Boundary Control and Calderón type Inverse Problems in Non-local heat equation**|Saumyajit Das et.al.|[2504.20517v1](http://arxiv.org/abs/2504.20517v1)|null|
 |**2025-04-29**|**Quality-factor inspired deep neural network solver for solving inverse scattering problems**|Yutong Du et.al.|[2504.20504v1](http://arxiv.org/abs/2504.20504v1)|null|
-|**2025-04-29**|**Separation and Definability in Fragments of Two-Variable First-Order Logic with Counting**|Louwe Kuijer et.al.|[2504.20491v1](http://arxiv.org/abs/2504.20491v1)|null|
+|**2025-04-29**|**Separation and Definability in Fragments of Two-Variable First-Order Logic with Counting**|Louwe Kuijer et.al.|[2504.20491v2](http://arxiv.org/abs/2504.20491v2)|null|
 |**2025-04-29**|**Identification and estimation of vaccine effectiveness in the test-negative design under equi-confounding**|Christopher B. Boyer et.al.|[2504.20360v1](http://arxiv.org/abs/2504.20360v1)|null|
 |**2025-04-29**|**Inverse problems for the zeros of the Wigner function**|Luís Daniel Abreu et.al.|[2504.20324v1](http://arxiv.org/abs/2504.20324v1)|null|
 |**2025-04-29**|**Bayesian Experimental Design for Model Discrepancy Calibration: An Auto-Differentiable Ensemble Kalman Inversion Approach**|Huchen Yang et.al.|[2504.20319v1](http://arxiv.org/abs/2504.20319v1)|null|
