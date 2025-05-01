@@ -2,6 +2,20 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-30**|**On a Conjecture About the Sum-Freedom of the Binary Multiplicative Inverse Function**|Xiang-dong Hou et.al.|[2504.21805v1](http://arxiv.org/abs/2504.21805v1)|null|
+|**2025-04-30**|**Leptogenesis, $0νββ$ and lepton flavor violation in modular left-right asymmetric model with polyharmonic $Maaβ$ forms**|Bhabana Kumar et.al.|[2504.21701v1](http://arxiv.org/abs/2504.21701v1)|null|
+|**2025-04-30**|**Spatio-temporal entanglement of the vacuum**|Pravin Kumar Dahal et.al.|[2504.21649v1](http://arxiv.org/abs/2504.21649v1)|null|
+|**2025-04-30**|**DGSolver: Diffusion Generalist Solver with Universal Posterior Sampling for Image Restoration**|Hebaixu Wang et.al.|[2504.21487v1](http://arxiv.org/abs/2504.21487v1)|null|
+|**2025-04-30**|**Gate-tunable polarity inversions and three-fold rotation symmetry of the superconducting diode effect**|William F. Schiela et.al.|[2504.21470v1](http://arxiv.org/abs/2504.21470v1)|null|
+|**2025-04-30**|**A Unified Variational Framework for Quantum Excited States**|Shi-Xin Zhang et.al.|[2504.21459v1](http://arxiv.org/abs/2504.21459v1)|null|
+|**2025-04-30**|**An Inversion Theorem for Buffered Linear Toeplitz (BLT) Matrices and Applications to Streaming Differential Privacy**|H. Brendan McMahan et.al.|[2504.21413v1](http://arxiv.org/abs/2504.21413v1)|null|
+|**2025-04-30**|**Pupil Phase Series: A Fast, Accurate, and Energy-Conserving Model for Forward and Inverse Light Scattering in Thick Biological Samples**|Herve Hugonnet et.al.|[2504.21369v1](http://arxiv.org/abs/2504.21369v1)|null|
+|**2025-04-30**|**Long-time asymptotics of the coupled nonlinear Schödinger equation in a weighted Sobolev space**|Yubin Huang et.al.|[2504.21315v1](http://arxiv.org/abs/2504.21315v1)|null|
+|**2025-04-29**|**Abstract computation over first-order structures. Part IIa: Moschovakis' operator and other non-determinisms**|Christine Gaßner et.al.|[2504.21192v1](http://arxiv.org/abs/2504.21192v1)|null|
+|**2025-04-29**|**Tunable stacking-driven topological phase transitions in pnictide layers**|Arjyama Bordoloi et.al.|[2504.21126v1](http://arxiv.org/abs/2504.21126v1)|null|
+|**2025-04-29**|**Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts**|Hanhua Hong et.al.|[2504.21117v1](http://arxiv.org/abs/2504.21117v1)|null|
+|**2025-04-29**|**EvoPort: An Evolutionary Framework for Portfolio Optimization via Randomized Alpha Discovery and Ensemble-Based Allocation**|Nguyen Van Thanh et.al.|[2504.21095v1](http://arxiv.org/abs/2504.21095v1)|null|
+|**2025-04-29**|**Electrical switching of an unconventional odd parity magnet**|Qian Song et.al.|[2504.21086v1](http://arxiv.org/abs/2504.21086v1)|null|
 |**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995v1](http://arxiv.org/abs/2504.20995v1)|null|
 |**2025-04-29**|**Freezing Phase Transitions for Lattice Systems and Higher-Dimensional Subshifts**|J. -R. Chazottes et.al.|[2504.20881v1](http://arxiv.org/abs/2504.20881v1)|null|
 |**2025-04-29**|**Multiwavelength thermometry without a priori emissivity information: from promise to disillusionment**|Jean-Claude Krapez et.al.|[2504.20853v1](http://arxiv.org/abs/2504.20853v1)|null|
@@ -18,17 +32,3 @@
 |**2025-04-28**|**Deep Physics Prior for First Order Inverse Optimization**|Haoyu Yang et.al.|[2504.20278v1](http://arxiv.org/abs/2504.20278v1)|null|
 |**2025-04-28**|**Impact of Broken Inversion Symmetry on Molecular States in multi-Weyl fermions**|W. C. Silva et.al.|[2504.20258v1](http://arxiv.org/abs/2504.20258v1)|null|
 |**2025-04-28**|**Hinge electronic structure of strained half-Heuslers**|Sanjib Kumar Das et.al.|[2504.20190v1](http://arxiv.org/abs/2504.20190v1)|null|
-|**2025-04-28**|**Unconventional magnetization in the multiphase superconductor PdBi2**|Wenjun Kuang et.al.|[2504.20170v1](http://arxiv.org/abs/2504.20170v1)|null|
-|**2025-04-28**|**Generalized Pulse Design in Floquet Engineering: Application to Interacting Spin Systems**|Ryan Scott et.al.|[2504.20154v1](http://arxiv.org/abs/2504.20154v1)|null|
-|**2025-04-28**|**Gyrotropic magnetic effect in metallic chiral magnets**|Nisarga Paul et.al.|[2504.20153v1](http://arxiv.org/abs/2504.20153v1)|null|
-|**2025-04-28**|**On the Properties of Cosmological Ionization Fronts**|Hanjue Zhu et.al.|[2504.20046v1](http://arxiv.org/abs/2504.20046v1)|null|
-|**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026v1](http://arxiv.org/abs/2504.20026v1)|null|
-|**2025-04-28**|**Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio**|Lars Reichwein et.al.|[2504.20015v1](http://arxiv.org/abs/2504.20015v1)|null|
-|**2025-04-28**|**Planar Coulomb gas on a Jordan arc at any temperature**|Klara Courteaut et.al.|[2504.19887v1](http://arxiv.org/abs/2504.19887v1)|null|
-|**2025-04-28**|**Simulating integrated Volterra square-root processes and Volterra Heston models via Inverse Gaussian**|Eduardo Abi Jaber et.al.|[2504.19885v1](http://arxiv.org/abs/2504.19885v1)|null|
-|**2025-04-28**|**Graph Fourier Transformer with Structure-Frequency Information**|Yonghui Zhai et.al.|[2504.19740v1](http://arxiv.org/abs/2504.19740v1)|null|
-|**2025-04-28**|**Interactive Discovery and Exploration of Visual Bias in Generative Text-to-Image Models**|Johannes Eschner et.al.|[2504.19703v1](http://arxiv.org/abs/2504.19703v1)|null|
-|**2025-04-28**|**Rescuing leptogenesis in inverse seesaw models with the help of non-Abelian flavor symmetries**|Yan Shao et.al.|[2504.19697v1](http://arxiv.org/abs/2504.19697v1)|null|
-|**2025-04-28**|**On Unitary Groups in Ternary and Generalized Clifford Algebras**|D. S. Shirokov et.al.|[2504.19689v1](http://arxiv.org/abs/2504.19689v1)|null|
-|**2025-04-28**|**The impact of the TMD shape function on matching the transverse momentum spectrum in $J/ψ$ production at the EIC**|Luca Maxia et.al.|[2504.19617v1](http://arxiv.org/abs/2504.19617v1)|null|
-|**2025-04-28**|**Identification and Estimation of Long-Term Treatment Effects with Monotone Missing**|Qinwei Yang et.al.|[2504.19527v1](http://arxiv.org/abs/2504.19527v1)|null|
