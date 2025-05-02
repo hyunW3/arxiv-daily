@@ -10,7 +10,7 @@
 |**2025-04-30**|**A Unified Variational Framework for Quantum Excited States**|Shi-Xin Zhang et.al.|[2504.21459v1](http://arxiv.org/abs/2504.21459v1)|null|
 |**2025-04-30**|**An Inversion Theorem for Buffered Linear Toeplitz (BLT) Matrices and Applications to Streaming Differential Privacy**|H. Brendan McMahan et.al.|[2504.21413v1](http://arxiv.org/abs/2504.21413v1)|null|
 |**2025-04-30**|**Pupil Phase Series: A Fast, Accurate, and Energy-Conserving Model for Forward and Inverse Light Scattering in Thick Biological Samples**|Herve Hugonnet et.al.|[2504.21369v1](http://arxiv.org/abs/2504.21369v1)|null|
-|**2025-04-30**|**Long-time asymptotics of the coupled nonlinear Schödinger equation in a weighted Sobolev space**|Yubin Huang et.al.|[2504.21315v1](http://arxiv.org/abs/2504.21315v1)|null|
+|**2025-04-30**|**Long-time asymptotics of the coupled nonlinear Schödinger equation in a weighted Sobolev space**|Yubin Huang et.al.|[2504.21315v2](http://arxiv.org/abs/2504.21315v2)|null|
 |**2025-04-29**|**Abstract computation over first-order structures. Part IIa: Moschovakis' operator and other non-determinisms**|Christine Gaßner et.al.|[2504.21192v1](http://arxiv.org/abs/2504.21192v1)|null|
 |**2025-04-29**|**Tunable stacking-driven topological phase transitions in pnictide layers**|Arjyama Bordoloi et.al.|[2504.21126v1](http://arxiv.org/abs/2504.21126v1)|null|
 |**2025-04-29**|**Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts**|Hanhua Hong et.al.|[2504.21117v1](http://arxiv.org/abs/2504.21117v1)|null|
@@ -26,7 +26,7 @@
 |**2025-04-29**|**Boundary Control and Calderón type Inverse Problems in Non-local heat equation**|Saumyajit Das et.al.|[2504.20517v1](http://arxiv.org/abs/2504.20517v1)|null|
 |**2025-04-29**|**Quality-factor inspired deep neural network solver for solving inverse scattering problems**|Yutong Du et.al.|[2504.20504v1](http://arxiv.org/abs/2504.20504v1)|null|
 |**2025-04-29**|**Separation and Definability in Fragments of Two-Variable First-Order Logic with Counting**|Louwe Kuijer et.al.|[2504.20491v2](http://arxiv.org/abs/2504.20491v2)|null|
-|**2025-04-29**|**Identification and estimation of vaccine effectiveness in the test-negative design under equi-confounding**|Christopher B. Boyer et.al.|[2504.20360v1](http://arxiv.org/abs/2504.20360v1)|null|
+|**2025-04-29**|**Identification and estimation of vaccine effectiveness in the test-negative design under equi-confounding**|Christopher B. Boyer et.al.|[2504.20360v2](http://arxiv.org/abs/2504.20360v2)|null|
 |**2025-04-29**|**Inverse problems for the zeros of the Wigner function**|Luís Daniel Abreu et.al.|[2504.20324v1](http://arxiv.org/abs/2504.20324v1)|null|
 |**2025-04-29**|**Bayesian Experimental Design for Model Discrepancy Calibration: An Auto-Differentiable Ensemble Kalman Inversion Approach**|Huchen Yang et.al.|[2504.20319v1](http://arxiv.org/abs/2504.20319v1)|null|
 |**2025-04-28**|**Deep Physics Prior for First Order Inverse Optimization**|Haoyu Yang et.al.|[2504.20278v1](http://arxiv.org/abs/2504.20278v1)|null|
