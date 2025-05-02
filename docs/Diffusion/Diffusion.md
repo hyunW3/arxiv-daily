@@ -2,6 +2,16 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-01**|**Direct spectral problems for Paley-Wiener canonical systems**|Ashley R. Zhang et.al.|[2505.00669v1](http://arxiv.org/abs/2505.00669v1)|null|
+|**2025-05-01**|**Direct and inverse spectral continuity for Dirac operators**|Roman Bessonov et.al.|[2505.00485v1](http://arxiv.org/abs/2505.00485v1)|null|
+|**2025-05-01**|**Fast Azimuthally Anisotropic 3D Radon Transform by Generalized Fourier Slice Theorem**|Ahmadreza Mokhtari et.al.|[2505.00387v1](http://arxiv.org/abs/2505.00387v1)|null|
+|**2025-05-01**|**Some Questions and Challenges in Measurements of Solar Magnetic Fields**|Hongqi Zhang et.al.|[2505.00329v1](http://arxiv.org/abs/2505.00329v1)|null|
+|**2025-05-01**|**J-PARSE: Jacobian-based Projection Algorithm for Resolving Singularities Effectively in Inverse Kinematic Control of Serial Manipulators**|Shivani Guptasarma et.al.|[2505.00306v1](http://arxiv.org/abs/2505.00306v1)|null|
+|**2025-04-30**|**Towards Robust and Generalizable Gerchberg Saxton based Physics Inspired Neural Networks for Computer Generated Holography: A Sensitivity Analysis Framework**|Ankit Amrutkar et.al.|[2505.00220v1](http://arxiv.org/abs/2505.00220v1)|null|
+|**2025-04-30**|**A Bayesian approach to inverse problems in spaces of measures**|Phuoc-Truong Huynh et.al.|[2505.00151v1](http://arxiv.org/abs/2505.00151v1)|null|
+|**2025-04-30**|**Efficient Learning Implies Quantum Glassiness**|Eric R. Anschuetz et.al.|[2505.00087v1](http://arxiv.org/abs/2505.00087v1)|null|
+|**2025-04-30**|**Josephson Diode Effect from Nonequilibrium Current in a Superconducting Interferometer**|Daniel Shaffer et.al.|[2505.00085v1](http://arxiv.org/abs/2505.00085v1)|null|
+|**2025-04-30**|**An unbiased measure over the matrix product state manifold**|Sebastian Leontica et.al.|[2505.00073v1](http://arxiv.org/abs/2505.00073v1)|null|
 |**2025-04-30**|**On a Conjecture About the Sum-Freedom of the Binary Multiplicative Inverse Function**|Xiang-dong Hou et.al.|[2504.21805v1](http://arxiv.org/abs/2504.21805v1)|null|
 |**2025-04-30**|**Leptogenesis, $0νββ$ and lepton flavor violation in modular left-right asymmetric model with polyharmonic $Maaβ$ forms**|Bhabana Kumar et.al.|[2504.21701v1](http://arxiv.org/abs/2504.21701v1)|null|
 |**2025-04-30**|**Spatio-temporal entanglement of the vacuum**|Pravin Kumar Dahal et.al.|[2504.21649v1](http://arxiv.org/abs/2504.21649v1)|null|
@@ -22,13 +32,3 @@
 |**2025-04-29**|**Linear dichroism signals due to the alignment in the ground state of hydrogen-like atoms and their inversion in a single-beam optical pumping scheme**|M. V. Petrenko et.al.|[2504.20716v1](http://arxiv.org/abs/2504.20716v1)|null|
 |**2025-04-29**|**DICOM Compatible, 3D Multimodality Image Encryption using Hyperchaotic Signal**|Anandik N Anand et.al.|[2504.20689v1](http://arxiv.org/abs/2504.20689v1)|null|
 |**2025-04-29**|**DiffLiB: High-fidelity differentiable modeling of lithium-ion batteries and efficient gradient-based parameter identification**|Weipeng Xu et.al.|[2504.20674v1](http://arxiv.org/abs/2504.20674v1)|null|
-|**2025-04-29**|**ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models**|Jin Xie et.al.|[2504.20570v1](http://arxiv.org/abs/2504.20570v1)|null|
-|**2025-04-29**|**Boundary Control and Calderón type Inverse Problems in Non-local heat equation**|Saumyajit Das et.al.|[2504.20517v1](http://arxiv.org/abs/2504.20517v1)|null|
-|**2025-04-29**|**Quality-factor inspired deep neural network solver for solving inverse scattering problems**|Yutong Du et.al.|[2504.20504v1](http://arxiv.org/abs/2504.20504v1)|null|
-|**2025-04-29**|**Separation and Definability in Fragments of Two-Variable First-Order Logic with Counting**|Louwe Kuijer et.al.|[2504.20491v2](http://arxiv.org/abs/2504.20491v2)|null|
-|**2025-04-29**|**Identification and estimation of vaccine effectiveness in the test-negative design under equi-confounding**|Christopher B. Boyer et.al.|[2504.20360v2](http://arxiv.org/abs/2504.20360v2)|null|
-|**2025-04-29**|**Inverse problems for the zeros of the Wigner function**|Luís Daniel Abreu et.al.|[2504.20324v1](http://arxiv.org/abs/2504.20324v1)|null|
-|**2025-04-29**|**Bayesian Experimental Design for Model Discrepancy Calibration: An Auto-Differentiable Ensemble Kalman Inversion Approach**|Huchen Yang et.al.|[2504.20319v1](http://arxiv.org/abs/2504.20319v1)|null|
-|**2025-04-28**|**Deep Physics Prior for First Order Inverse Optimization**|Haoyu Yang et.al.|[2504.20278v1](http://arxiv.org/abs/2504.20278v1)|null|
-|**2025-04-28**|**Impact of Broken Inversion Symmetry on Molecular States in multi-Weyl fermions**|W. C. Silva et.al.|[2504.20258v1](http://arxiv.org/abs/2504.20258v1)|null|
-|**2025-04-28**|**Hinge electronic structure of strained half-Heuslers**|Sanjib Kumar Das et.al.|[2504.20190v1](http://arxiv.org/abs/2504.20190v1)|null|
