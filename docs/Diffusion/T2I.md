@@ -7,8 +7,8 @@
 |**2025-05-01**|**RayZer: A Self-supervised Large View Synthesis Model**|Hanwen Jiang et.al.|[2505.00702v1](http://arxiv.org/abs/2505.00702v1)|null|
 |**2025-05-01**|**A log-depth in-place quantum Fourier transform that rarely needs ancillas**|Gregory D. Kahanamoku-Meyer et.al.|[2505.00701v1](http://arxiv.org/abs/2505.00701v1)|null|
 |**2025-05-01**|**Luminosity Function of collapsar Gamma-Ray Bursts:the Progenitor of Long Gamma-Ray Bursts Is Not Singular**|Yan-Kun Qu et.al.|[2505.00700v1](http://arxiv.org/abs/2505.00700v1)|null|
-|**2025-05-01**|**Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation**|Yuki Koizumi et.al.|[2505.00698v1](http://arxiv.org/abs/2505.00698v1)|null|
-|**2025-05-01**|**Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems**|Yuki Koizumi et.al.|[2505.00697v1](http://arxiv.org/abs/2505.00697v1)|null|
+|**2025-05-01**|**Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation**|Yuki Koizumi et.al.|[2505.00698v2](http://arxiv.org/abs/2505.00698v2)|null|
+|**2025-05-01**|**Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems**|Yuki Koizumi et.al.|[2505.00697v2](http://arxiv.org/abs/2505.00697v2)|null|
 |**2025-05-01**|**On the Beilinson-Bloch conjecture over function fields**|Matt Broe et.al.|[2505.00696v1](http://arxiv.org/abs/2505.00696v1)|null|
 |**2025-05-01**|**Simple Holography in General Spacetimes**|Raphael Bousso et.al.|[2505.00695v1](http://arxiv.org/abs/2505.00695v1)|null|
 |**2025-05-01**|**What is the Hierarchy Problem?**|Michael E. Peskin et.al.|[2505.00694v1](http://arxiv.org/abs/2505.00694v1)|null|
