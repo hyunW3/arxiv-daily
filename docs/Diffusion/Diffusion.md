@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-02**|**Dirac Scoto Inverse-Seesaw from $A_4$ Flavor Symmetry**|Ranjeet Kumar et.al.|[2505.01407v1](http://arxiv.org/abs/2505.01407v1)|null|
-|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399v1](http://arxiv.org/abs/2505.01399v1)|null|
-|**2025-05-02**|**The DC Kerr Effect in Nonlinear Optics**|Nikolas Eptaminitakis et.al.|[2505.01392v1](http://arxiv.org/abs/2505.01392v1)|null|
-|**2025-05-02**|**Higher-Order Spectra and their Unbiased Estimation in the GPU-accelerated SignalSnap Library**|Markus Sifft et.al.|[2505.01231v1](http://arxiv.org/abs/2505.01231v1)|null|
-|**2025-05-02**|**Inverse design of mirror-symmetric disordered systems for broadband perfect transmission**|Zhazira Zhumabay et.al.|[2505.01220v1](http://arxiv.org/abs/2505.01220v1)|null|
-|**2025-05-02**|**Enabling Training-Free Semantic Communication Systems with Generative Diffusion Models**|Shunpu Tang et.al.|[2505.01209v2](http://arxiv.org/abs/2505.01209v2)|null|
-|**2025-05-02**|**Connecting afterglow light curves to the GRB central engine**|Muhammed Diyaddin Ilhan et.al.|[2505.01158v1](http://arxiv.org/abs/2505.01158v1)|null|
-|**2025-05-02**|**Quasi-local Frustration-Free Free Fermions**|Shunsuke Sengoku et.al.|[2505.01010v1](http://arxiv.org/abs/2505.01010v1)|null|
-|**2025-05-02**|**What is estimated in cluster randomized crossover trials with informative sizes? -- A survey of estimands and common estimators**|Kenneth M. Lee et.al.|[2505.00925v1](http://arxiv.org/abs/2505.00925v1)|null|
-|**2025-05-01**|**Gaussian Process Policy Iteration with Additive Schwarz Acceleration for Forward and Inverse HJB and Mean Field Game Problems**|Xianjin Yang et.al.|[2505.00909v1](http://arxiv.org/abs/2505.00909v1)|null|
-|**2025-05-01**|**Physics-Informed Neural Network-Driven Sparse Field Discretization Method for Near-Field Acoustic Holography**|Xinmeng Luan et.al.|[2505.00897v1](http://arxiv.org/abs/2505.00897v1)|null|
-|**2025-05-01**|**IK Seed Generator for Dual-Arm Human-like Physicality Robot with Mobile Base**|Jun Takamatsu et.al.|[2505.00871v1](http://arxiv.org/abs/2505.00871v1)|null|
-|**2025-05-01**|**Fault-Tolerant Multi-Modal Localization of Multi-Robots on Matrix Lie Groups**|Mahboubeh Zarei et.al.|[2505.00842v1](http://arxiv.org/abs/2505.00842v1)|null|
-|**2025-05-01**|**A High-resolution, Inversion-Based Synoptic Study of Solar Granulation**|James Crowley et.al.|[2505.00826v1](http://arxiv.org/abs/2505.00826v1)|null|
-|**2025-05-01**|**Direct spectral problems for Paley-Wiener canonical systems**|Ashley R. Zhang et.al.|[2505.00669v1](http://arxiv.org/abs/2505.00669v1)|null|
-|**2025-05-01**|**Direct and inverse spectral continuity for Dirac operators**|Roman Bessonov et.al.|[2505.00485v1](http://arxiv.org/abs/2505.00485v1)|null|
-|**2025-05-01**|**Satellite-Based Seasonal Fingerprinting of Methane Emissions from Canadian Dairy Farms Using Sentinel-5P**|Padmanabhan Jagannathan Prajesh et.al.|[2505.00756v1](http://arxiv.org/abs/2505.00756v1)|null|
-|**2025-05-01**|**Fast Azimuthally Anisotropic 3D Radon Transform by Generalized Fourier Slice Theorem**|Ahmadreza Mokhtari et.al.|[2505.00387v1](http://arxiv.org/abs/2505.00387v1)|null|
-|**2025-05-01**|**Some Questions and Challenges in Measurements of Solar Magnetic Fields**|Hongqi Zhang et.al.|[2505.00329v1](http://arxiv.org/abs/2505.00329v1)|null|
-|**2025-05-01**|**J-PARSE: Jacobian-based Projection Algorithm for Resolving Singularities Effectively in Inverse Kinematic Control of Serial Manipulators**|Shivani Guptasarma et.al.|[2505.00306v1](http://arxiv.org/abs/2505.00306v1)|null|
-|**2025-04-30**|**Towards Robust and Generalizable Gerchberg Saxton based Physics Inspired Neural Networks for Computer Generated Holography: A Sensitivity Analysis Framework**|Ankit Amrutkar et.al.|[2505.00220v1](http://arxiv.org/abs/2505.00220v1)|null|
-|**2025-04-30**|**A Bayesian approach to inverse problems in spaces of measures**|Phuoc-Truong Huynh et.al.|[2505.00151v1](http://arxiv.org/abs/2505.00151v1)|null|
-|**2025-04-30**|**Efficient Learning Implies Quantum Glassiness**|Eric R. Anschuetz et.al.|[2505.00087v1](http://arxiv.org/abs/2505.00087v1)|null|
-|**2025-04-30**|**Josephson Diode Effect from Nonequilibrium Current in a Superconducting Interferometer**|Daniel Shaffer et.al.|[2505.00085v1](http://arxiv.org/abs/2505.00085v1)|null|
-|**2025-04-30**|**An unbiased measure over the matrix product state manifold**|Sebastian Leontica et.al.|[2505.00073v1](http://arxiv.org/abs/2505.00073v1)|null|
-|**2025-04-30**|**On a Conjecture About the Sum-Freedom of the Binary Multiplicative Inverse Function**|Xiang-dong Hou et.al.|[2504.21805v1](http://arxiv.org/abs/2504.21805v1)|null|
-|**2025-04-30**|**Leptogenesis, $0νββ$ and lepton flavor violation in modular left-right asymmetric model with polyharmonic $Maaβ$ forms**|Bhabana Kumar et.al.|[2504.21701v1](http://arxiv.org/abs/2504.21701v1)|null|
-|**2025-04-30**|**Spatio-temporal entanglement of the vacuum**|Pravin Kumar Dahal et.al.|[2504.21649v1](http://arxiv.org/abs/2504.21649v1)|null|
-|**2025-04-30**|**DGSolver: Diffusion Generalist Solver with Universal Posterior Sampling for Image Restoration**|Hebaixu Wang et.al.|[2504.21487v1](http://arxiv.org/abs/2504.21487v1)|null|
-|**2025-04-30**|**Gate-tunable polarity inversions and three-fold rotation symmetry of the superconducting diode effect**|William F. Schiela et.al.|[2504.21470v1](http://arxiv.org/abs/2504.21470v1)|null|
+|**2025-05-05**|**The Rapidly--Changing Period of the QPE Source 1ES~1927+654**|Andrew King et.al.|[2505.02832v1](http://arxiv.org/abs/2505.02832v1)|null|
+|**2025-05-05**|**Unifying Laplace Mechanism with Instance Optimality in Differential Privacy**|David Durfee et.al.|[2505.02798v1](http://arxiv.org/abs/2505.02798v1)|null|
+|**2025-05-05**|**Coexistence of Nodal and Nodeless Pairing Symmetry in Superconducting 6R-SnNbSe2**|K. Yadav et.al.|[2505.02793v1](http://arxiv.org/abs/2505.02793v1)|null|
+|**2025-05-05**|**Fermi surface nesting driven anomalous Hall effect in magnetically frustrated Mn_2PdIn**|Afsar Ahmed et.al.|[2505.02769v1](http://arxiv.org/abs/2505.02769v1)|null|
+|**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|null|
+|**2025-05-05**|**Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v1](http://arxiv.org/abs/2505.02704v1)|null|
+|**2025-05-05**|**Ultra-Compact Silicon Nitride Devices for High-Density Integration**|Julian L. Pita Ruiz et.al.|[2505.02662v1](http://arxiv.org/abs/2505.02662v1)|null|
+|**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598v1](http://arxiv.org/abs/2505.02598v1)|null|
+|**2025-05-05**|**Ensemble Kalman filter for uncertainty in human language comprehension**|Diksha Bhandari et.al.|[2505.02590v1](http://arxiv.org/abs/2505.02590v1)|null|
+|**2025-05-05**|**Marginal minimization and sup-norm expansions in perturbed optimization**|Vladimir Spokoiny et.al.|[2505.02562v1](http://arxiv.org/abs/2505.02562v1)|null|
+|**2025-05-05**|**Anomalous valley Hall effect in monolayer chromium-based triple-Q magnets**|Xiu-Cai Jiang et.al.|[2505.02559v1](http://arxiv.org/abs/2505.02559v1)|null|
+|**2025-05-05**|**The Multidimensional Quadratic Phase Fourier Transform: Theoretical Analysis and Applications**|Sarga Varghese et.al.|[2505.02526v1](http://arxiv.org/abs/2505.02526v1)|null|
+|**2025-05-05**|**Analytical and numerical routes to strong coupling in $\mathcal{N}=2$ SCFTs**|Pieter-Jan De Smet et.al.|[2505.02525v1](http://arxiv.org/abs/2505.02525v1)|null|
+|**2025-05-05**|**Limits over orbit categories of locally finite groups**|Bob Oliver et.al.|[2505.02488v1](http://arxiv.org/abs/2505.02488v1)|null|
+|**2025-05-05**|**Uncertainty-Weighted Image-Event Multimodal Fusion for Video Anomaly Detection**|Sungheon Jeong et.al.|[2505.02393v1](http://arxiv.org/abs/2505.02393v1)|null|
+|**2025-05-05**|**Inverse problem to determine simultaneously several scalar parameters and a time-dependent source term in a superdiffusion equation involving a multiterm fractional Laplacian**|Hany Gerges et.al.|[2505.02348v1](http://arxiv.org/abs/2505.02348v1)|null|
+|**2025-05-04**|**Gaussian Cumulative Prospect Theory**|Mederic Motte et.al.|[2505.02267v1](http://arxiv.org/abs/2505.02267v1)|null|
+|**2025-05-04**|**Many-body critical phase in a quasiperiodic chain and dynamical Widom lines in Fock space properties**|Nilanjan Roy et.al.|[2505.02234v1](http://arxiv.org/abs/2505.02234v1)|null|
+|**2025-05-04**|**Spectral parameter power series for Zakharov-Shabat direct and inverse scattering problems**|Vladislav V. Kravchenko et.al.|[2505.02169v1](http://arxiv.org/abs/2505.02169v1)|null|
+|**2025-05-04**|**Four new classes of permutation trinomials and their compositional inverses**|Sartaj Ul Hasan et.al.|[2505.02128v1](http://arxiv.org/abs/2505.02128v1)|null|
+|**2025-05-04**|**A Deep Learning Scheme of Electromagnetic Scattering From Scatterers With Incomplete Profiles**|Ji-Yuan Wang et.al.|[2505.02086v1](http://arxiv.org/abs/2505.02086v1)|null|
+|**2025-05-04**|**The inversion statistic in derangements and in other permutations with a prescribed number of fixed points**|Ross G. Pinsky et.al.|[2505.02058v1](http://arxiv.org/abs/2505.02058v1)|null|
+|**2025-05-04**|**Efficient Noise Calculation in Deep Learning-based MRI Reconstructions**|Onat Dalmaz et.al.|[2505.02007v1](http://arxiv.org/abs/2505.02007v1)|null|
+|**2025-05-04**|**Sharp bounds in perturbed smooth optimization**|Vladimir Spokoiny et.al.|[2505.02002v1](http://arxiv.org/abs/2505.02002v1)|null|
+|**2025-05-04**|**Supermassive Black Holes with High Accretion Rates in Active Galactic Nuclei. XII. Reverberation Mapping Results for 15 PG Quasars from a Long-Duration High-Cadence Campaign**|Chen Hu et.al.|[2505.01992v1](http://arxiv.org/abs/2505.01992v1)|null|
+|**2025-05-04**|**A Survey on Privacy Risks and Protection in Large Language Models**|Kang Chen et.al.|[2505.01976v1](http://arxiv.org/abs/2505.01976v1)|null|
+|**2025-05-03**|**Inverse Design of Perfectly-Matched Metamaterials Via Circuit-Based Surrogate Models and the Adjoint Method**|Shrey Thakkar et.al.|[2505.01891v1](http://arxiv.org/abs/2505.01891v1)|null|
+|**2025-05-03**|**Priorconditioned Sparsity-Promoting Projection Methods for Deterministic and Bayesian Linear Inverse Problems**|Jonathan Lindbloom et.al.|[2505.01827v1](http://arxiv.org/abs/2505.01827v1)|null|
+|**2025-05-03**|**Robust Frequency Domain Full-Waveform Inversion via HV-Geometry**|Zhijun Zeng et.al.|[2505.01817v1](http://arxiv.org/abs/2505.01817v1)|null|
+|**2025-05-03**|**RVSNUpy: A Python Package for Spectroscopic Redshift Measurement Based on Cross-Correlation**|Taewan Kim et.al.|[2505.01710v1](http://arxiv.org/abs/2505.01710v1)|null|
