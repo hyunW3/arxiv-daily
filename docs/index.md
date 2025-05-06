@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-05 21:08:12 Asia/Shanghai
+ Automated deployment @ 2025-05-06 09:18:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -14,7 +14,7 @@
 |**2025-05-02**|**Neutrino mass generation in asymptotically safe gravity**|Gustavo P. de Brito et.al.|[2505.01422v1](http://arxiv.org/abs/2505.01422v1)|null|
 |**2025-05-02**|**Galaxy Zoo CEERS: Bar fractions up to z~4.0**|Tobias Géron et.al.|[2505.01421v1](http://arxiv.org/abs/2505.01421v1)|null|
 |**2025-05-02**|**Evaluating Frontier Models for Stealth and Situational Awareness**|Mary Phuong et.al.|[2505.01420v1](http://arxiv.org/abs/2505.01420v1)|null|
-|**2025-05-02**|**Timely Tracking of a Wiener Process With Single Bit Quantization**|Osmail Cosandal et.al.|[2505.01419v1](http://arxiv.org/abs/2505.01419v1)|null|
+|**2025-05-02**|**Timely Tracking of a Wiener Process With Single Bit Quantization**|Ismail Cosandal et.al.|[2505.01419v1](http://arxiv.org/abs/2505.01419v1)|null|
 |**2025-05-02**|**Propagation and circulating modes of reciprocal non-Hermitian skin effect**|Issei Takeda et.al.|[2505.01417v1](http://arxiv.org/abs/2505.01417v1)|null|
 |**2025-05-02**|**Redundancy analysis using lcm-filtrations: networks, system signature and sensitivity evaluation**|Fatemeh Mohammadi et.al.|[2505.01416v1](http://arxiv.org/abs/2505.01416v1)|null|
 |**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415v1](http://arxiv.org/abs/2505.01415v1)|null|
@@ -47,7 +47,7 @@
 |**2025-05-02**|**The DC Kerr Effect in Nonlinear Optics**|Nikolas Eptaminitakis et.al.|[2505.01392v1](http://arxiv.org/abs/2505.01392v1)|null|
 |**2025-05-02**|**Higher-Order Spectra and their Unbiased Estimation in the GPU-accelerated SignalSnap Library**|Markus Sifft et.al.|[2505.01231v1](http://arxiv.org/abs/2505.01231v1)|null|
 |**2025-05-02**|**Inverse design of mirror-symmetric disordered systems for broadband perfect transmission**|Zhazira Zhumabay et.al.|[2505.01220v1](http://arxiv.org/abs/2505.01220v1)|null|
-|**2025-05-02**|**Enabling Training-Free Semantic Communication Systems with Generative Diffusion Models**|Shunpu Tang et.al.|[2505.01209v1](http://arxiv.org/abs/2505.01209v1)|null|
+|**2025-05-02**|**Enabling Training-Free Semantic Communication Systems with Generative Diffusion Models**|Shunpu Tang et.al.|[2505.01209v2](http://arxiv.org/abs/2505.01209v2)|null|
 |**2025-05-02**|**Connecting afterglow light curves to the GRB central engine**|Muhammed Diyaddin Ilhan et.al.|[2505.01158v1](http://arxiv.org/abs/2505.01158v1)|null|
 |**2025-05-02**|**Quasi-local Frustration-Free Free Fermions**|Shunsuke Sengoku et.al.|[2505.01010v1](http://arxiv.org/abs/2505.01010v1)|null|
 |**2025-05-02**|**What is estimated in cluster randomized crossover trials with informative sizes? -- A survey of estimands and common estimators**|Kenneth M. Lee et.al.|[2505.00925v1](http://arxiv.org/abs/2505.00925v1)|null|

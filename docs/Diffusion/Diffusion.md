@@ -7,7 +7,7 @@
 |**2025-05-02**|**The DC Kerr Effect in Nonlinear Optics**|Nikolas Eptaminitakis et.al.|[2505.01392v1](http://arxiv.org/abs/2505.01392v1)|null|
 |**2025-05-02**|**Higher-Order Spectra and their Unbiased Estimation in the GPU-accelerated SignalSnap Library**|Markus Sifft et.al.|[2505.01231v1](http://arxiv.org/abs/2505.01231v1)|null|
 |**2025-05-02**|**Inverse design of mirror-symmetric disordered systems for broadband perfect transmission**|Zhazira Zhumabay et.al.|[2505.01220v1](http://arxiv.org/abs/2505.01220v1)|null|
-|**2025-05-02**|**Enabling Training-Free Semantic Communication Systems with Generative Diffusion Models**|Shunpu Tang et.al.|[2505.01209v1](http://arxiv.org/abs/2505.01209v1)|null|
+|**2025-05-02**|**Enabling Training-Free Semantic Communication Systems with Generative Diffusion Models**|Shunpu Tang et.al.|[2505.01209v2](http://arxiv.org/abs/2505.01209v2)|null|
 |**2025-05-02**|**Connecting afterglow light curves to the GRB central engine**|Muhammed Diyaddin Ilhan et.al.|[2505.01158v1](http://arxiv.org/abs/2505.01158v1)|null|
 |**2025-05-02**|**Quasi-local Frustration-Free Free Fermions**|Shunsuke Sengoku et.al.|[2505.01010v1](http://arxiv.org/abs/2505.01010v1)|null|
 |**2025-05-02**|**What is estimated in cluster randomized crossover trials with informative sizes? -- A survey of estimands and common estimators**|Kenneth M. Lee et.al.|[2505.00925v1](http://arxiv.org/abs/2505.00925v1)|null|
