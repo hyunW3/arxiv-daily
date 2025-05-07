@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836v1](http://arxiv.org/abs/2505.02836v1)|null|
-|**2025-05-05**|**Pauli crystal superradiance**|Daniel Ortuño-Gonzalez et.al.|[2505.02837v1](http://arxiv.org/abs/2505.02837v1)|null|
-|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835v1](http://arxiv.org/abs/2505.02835v1)|null|
-|**2025-05-05**|**What is a Gaussian channel, and when is it physically implementable using a multiport interferometer?**|Repana Devendra et.al.|[2505.02834v1](http://arxiv.org/abs/2505.02834v1)|null|
-|**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833v1](http://arxiv.org/abs/2505.02833v1)|null|
-|**2025-05-05**|**The Rapidly--Changing Period of the QPE Source 1ES~1927+654**|Andrew King et.al.|[2505.02832v1](http://arxiv.org/abs/2505.02832v1)|null|
-|**2025-05-05**|**No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves**|Dengyang Jiang et.al.|[2505.02831v1](http://arxiv.org/abs/2505.02831v1)|[link](https://github.com/vvvvvjdy/SRA)|
-|**2025-05-05**|**AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation**|Qingqiu Li et.al.|[2505.02830v1](http://arxiv.org/abs/2505.02830v1)|null|
-|**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|null|
-|**2025-05-05**|**Privacy Risks and Preservation Methods in Explainable Artificial Intelligence: A Scoping Review**|Sonal Allana et.al.|[2505.02828v1](http://arxiv.org/abs/2505.02828v1)|null|
-|**2025-05-05**|**Constraints on Inflationary Gravitational Waves with Two Years of SPT-3G Data**|J. A. Zebrowski et.al.|[2505.02827v1](http://arxiv.org/abs/2505.02827v1)|null|
-|**2025-05-05**|**Statistical mechanical theory of liquid water**|Lakshmanji Verma et.al.|[2505.02826v1](http://arxiv.org/abs/2505.02826v1)|null|
-|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v2](http://arxiv.org/abs/2505.02825v2)|null|
-|**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824v1](http://arxiv.org/abs/2505.02824v1)|null|
-|**2025-05-05**|**MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**|Zinan Guo et.al.|[2505.02823v1](http://arxiv.org/abs/2505.02823v1)|null|
-|**2025-05-05**|**High-Frequency Gravitational Wave Search with ABRACADABRA-10\,cm**|Kaliroë M. W. Pappas et.al.|[2505.02821v1](http://arxiv.org/abs/2505.02821v1)|null|
-|**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820v1](http://arxiv.org/abs/2505.02820v1)|null|
-|**2025-05-05**|**ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations**|Dmitriy Shopkhoev et.al.|[2505.02819v1](http://arxiv.org/abs/2505.02819v1)|null|
-|**2025-05-05**|**Closeby Habitable Exoplanet Survey (CHES). IV. Synergy between astrometry and direct imaging missions of the Habitable World Observatory for detecting Earth-like planets**|Chunhui Bao et.al.|[2505.02818v1](http://arxiv.org/abs/2505.02818v1)|null|
-|**2025-05-05**|**Interacting massive/massless continuous-spin fields and integer-spin fields**|R. R. Metsaev et.al.|[2505.02817v1](http://arxiv.org/abs/2505.02817v1)|null|
-|**2025-05-05**|**Exploring minimal two component doublet dark matter**|Mariana Frank et.al.|[2505.02816v1](http://arxiv.org/abs/2505.02816v1)|null|
-|**2025-05-05**|**Database-Agnostic Gait Enrollment using SetTransformers**|Nicoleta Basoc et.al.|[2505.02815v1](http://arxiv.org/abs/2505.02815v1)|null|
-|**2025-05-05**|**Characterization of Gaussian Tensor Ensembles**|Remi Bonnin et.al.|[2505.02814v1](http://arxiv.org/abs/2505.02814v1)|null|
-|**2025-05-05**|**Structured Estimators: A New Perspective on Information Freshness**|Sahan Liyanaarachchi et.al.|[2505.02813v1](http://arxiv.org/abs/2505.02813v1)|null|
-|**2025-05-05**|**Topological bounds, odd subdivisions and odd immersions**|Henry Echeverría et.al.|[2505.02812v1](http://arxiv.org/abs/2505.02812v1)|null|
-|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811v1](http://arxiv.org/abs/2505.02811v1)|null|
-|**2025-05-05**|**Complex-variable MP2 theory applied to core-vacant states for the computation of Auger spectra**|Florian Matz et.al.|[2505.02810v1](http://arxiv.org/abs/2505.02810v1)|null|
-|**2025-05-05**|**A coherent radio burst from an X-ray neutron star in the Carina Nebula**|K. M. Rajwade et.al.|[2505.02808v1](http://arxiv.org/abs/2505.02808v1)|null|
-|**2025-05-05**|**Entanglement between pair-created universes bridged by a wormhole and its implications to big bang cosmology**|Pisin Chen et.al.|[2505.02807v1](http://arxiv.org/abs/2505.02807v1)|null|
-|**2025-05-05**|**Cell-Free Massive MIMO-Assisted SWIPT for IoT Networks**|Mohammadali Mohammadi et.al.|[2505.02806v1](http://arxiv.org/abs/2505.02806v1)|null|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|null|
+|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738v1](http://arxiv.org/abs/2505.03738v1)|null|
+|**2025-05-06**|**Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements**|Irene Abril-Cabezas et.al.|[2505.03737v1](http://arxiv.org/abs/2505.03737v1)|null|
+|**2025-05-06**|**Decentralized Nonconvex Optimization under Heavy-Tailed Noise: Normalization and Optimal Convergence**|Shuhua Yu et.al.|[2505.03736v1](http://arxiv.org/abs/2505.03736v1)|null|
+|**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735v1](http://arxiv.org/abs/2505.03735v1)|null|
+|**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734v1](http://arxiv.org/abs/2505.03734v1)|null|
+|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733v1](http://arxiv.org/abs/2505.03733v1)|null|
+|**2025-05-06**|**A Communication-First Account of Explanation**|Jacqueline Harding et.al.|[2505.03732v1](http://arxiv.org/abs/2505.03732v1)|null|
+|**2025-05-06**|**Weiss derivatives of holomorphic maps**|Alexis Aumonier et.al.|[2505.03731v1](http://arxiv.org/abs/2505.03731v1)|null|
+|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730v1](http://arxiv.org/abs/2505.03730v1)|null|
+|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729v1](http://arxiv.org/abs/2505.03729v1)|null|
+|**2025-05-06**|**PyRoki: A Modular Toolkit for Robot Kinematic Optimization**|Chung Min Kim et.al.|[2505.03728v1](http://arxiv.org/abs/2505.03728v1)|null|
+|**2025-05-06**|**Critical habitat size of organisms diffusing with stochastic resetting**|Luiz Menon et.al.|[2505.03727v1](http://arxiv.org/abs/2505.03727v1)|null|
+|**2025-05-06**|**Anomalous proximity effect under Andreev and Majorana bound states**|Eslam Ahmed et.al.|[2505.03726v1](http://arxiv.org/abs/2505.03726v1)|null|
+|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725v1](http://arxiv.org/abs/2505.03725v1)|null|
+|**2025-05-06**|**Stay Positive: Neural Refinement of Sample Weights**|Benjamin Nachman et.al.|[2505.03724v1](http://arxiv.org/abs/2505.03724v1)|null|
+|**2025-05-06**|**Effects of transient stellar emissions on planetary climates of tidally-locked exo-earths**|Howard Chen et.al.|[2505.03723v1](http://arxiv.org/abs/2505.03723v1)|null|
+|**2025-05-06**|**The LHC sensitivity to weak gauginos in light of the latest muon $g-2$ and dark matter results**|Shuang Liang et.al.|[2505.03722v1](http://arxiv.org/abs/2505.03722v1)|null|
+|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721v1](http://arxiv.org/abs/2505.03721v1)|null|
+|**2025-05-06**|**Smooth concordance of cables of the figure-eight knot**|Sungkyung Kang et.al.|[2505.03720v1](http://arxiv.org/abs/2505.03720v1)|null|
+|**2025-05-06**|**Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach**|Jingwang Li et.al.|[2505.03719v1](http://arxiv.org/abs/2505.03719v1)|null|
+|**2025-05-06**|**Nematic ordering via vertical stratification in drying clay nanotube suspensions**|Arun Dadwal et.al.|[2505.03718v1](http://arxiv.org/abs/2505.03718v1)|null|
+|**2025-05-06**|**Nonnegative Low-rank Matrix Recovery Can Have Spurious Local Minima**|Richard Y. Zhang et.al.|[2505.03717v1](http://arxiv.org/abs/2505.03717v1)|null|
+|**2025-05-06**|**Investigating the Upper Scorpius OB association with HERMES. I. The spectroscopic sample and 6D kinematics**|Joseph J. Armstrong et.al.|[2505.03716v1](http://arxiv.org/abs/2505.03716v1)|null|
+|**2025-05-06**|**DISARM++: Beyond scanner-free harmonization**|Luca Caldera et.al.|[2505.03715v1](http://arxiv.org/abs/2505.03715v1)|null|
+|**2025-05-06**|**Incremental universality of Wigner random matrices**|Giovanni M. Cicuta et.al.|[2505.03714v1](http://arxiv.org/abs/2505.03714v1)|null|
+|**2025-05-06**|**Large Topological Magnetic Optical Effects and Imaging of Antiferromagnetic Octupole Domains of an Altermagnet-like Weyl Semimetal**|Xingyue Han et.al.|[2505.03713v1](http://arxiv.org/abs/2505.03713v1)|null|
+|**2025-05-06**|**Learning Survival Distributions with the Asymmetric Laplace Distribution**|Deming Sheng et.al.|[2505.03712v1](http://arxiv.org/abs/2505.03712v1)|null|
+|**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710v1](http://arxiv.org/abs/2505.03710v1)|null|
+|**2025-05-06**|**Toward a Harmonized Approach -- Requirement-based Structuring of a Safety Assurance Argumentation for Automated Vehicles**|M. Loba et.al.|[2505.03709v1](http://arxiv.org/abs/2505.03709v1)|null|
