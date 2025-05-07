@@ -7,7 +7,7 @@
 |**2025-05-05**|**Coexistence of Nodal and Nodeless Pairing Symmetry in Superconducting 6R-SnNbSe2**|K. Yadav et.al.|[2505.02793v1](http://arxiv.org/abs/2505.02793v1)|null|
 |**2025-05-05**|**Fermi surface nesting driven anomalous Hall effect in magnetically frustrated Mn_2PdIn**|Afsar Ahmed et.al.|[2505.02769v1](http://arxiv.org/abs/2505.02769v1)|null|
 |**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|null|
-|**2025-05-05**|**Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v1](http://arxiv.org/abs/2505.02704v1)|null|
+|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|null|
 |**2025-05-05**|**Ultra-Compact Silicon Nitride Devices for High-Density Integration**|Julian L. Pita Ruiz et.al.|[2505.02662v1](http://arxiv.org/abs/2505.02662v1)|null|
 |**2025-05-05**|**LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**|Mehdi Heydari Shahna et.al.|[2505.02598v1](http://arxiv.org/abs/2505.02598v1)|null|
 |**2025-05-05**|**Ensemble Kalman filter for uncertainty in human language comprehension**|Diksha Bhandari et.al.|[2505.02590v1](http://arxiv.org/abs/2505.02590v1)|null|

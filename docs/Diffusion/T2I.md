@@ -14,7 +14,7 @@
 |**2025-05-05**|**Privacy Risks and Preservation Methods in Explainable Artificial Intelligence: A Scoping Review**|Sonal Allana et.al.|[2505.02828v1](http://arxiv.org/abs/2505.02828v1)|null|
 |**2025-05-05**|**Constraints on Inflationary Gravitational Waves with Two Years of SPT-3G Data**|J. A. Zebrowski et.al.|[2505.02827v1](http://arxiv.org/abs/2505.02827v1)|null|
 |**2025-05-05**|**Statistical mechanical theory of liquid water**|Lakshmanji Verma et.al.|[2505.02826v1](http://arxiv.org/abs/2505.02826v1)|null|
-|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v1](http://arxiv.org/abs/2505.02825v1)|null|
+|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v2](http://arxiv.org/abs/2505.02825v2)|null|
 |**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824v1](http://arxiv.org/abs/2505.02824v1)|null|
 |**2025-05-05**|**MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**|Zinan Guo et.al.|[2505.02823v1](http://arxiv.org/abs/2505.02823v1)|null|
 |**2025-05-05**|**High-Frequency Gravitational Wave Search with ABRACADABRA-10\,cm**|Kaliroë M. W. Pappas et.al.|[2505.02821v1](http://arxiv.org/abs/2505.02821v1)|null|
