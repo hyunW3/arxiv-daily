@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-07 21:18:58 Asia/Shanghai
+ Automated deployment @ 2025-05-08 09:19:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|null|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|[link](https://github.com/vita-mllm/vita-audio)|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738v1](http://arxiv.org/abs/2505.03738v1)|null|
 |**2025-05-06**|**Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements**|Irene Abril-Cabezas et.al.|[2505.03737v1](http://arxiv.org/abs/2505.03737v1)|null|
 |**2025-05-06**|**Decentralized Nonconvex Optimization under Heavy-Tailed Noise: Normalization and Optimal Convergence**|Shuhua Yu et.al.|[2505.03736v1](http://arxiv.org/abs/2505.03736v1)|null|
@@ -18,7 +18,7 @@
 |**2025-05-06**|**A Communication-First Account of Explanation**|Jacqueline Harding et.al.|[2505.03732v1](http://arxiv.org/abs/2505.03732v1)|null|
 |**2025-05-06**|**Weiss derivatives of holomorphic maps**|Alexis Aumonier et.al.|[2505.03731v1](http://arxiv.org/abs/2505.03731v1)|null|
 |**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730v1](http://arxiv.org/abs/2505.03730v1)|null|
-|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729v1](http://arxiv.org/abs/2505.03729v1)|null|
+|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729v2](http://arxiv.org/abs/2505.03729v2)|null|
 |**2025-05-06**|**PyRoki: A Modular Toolkit for Robot Kinematic Optimization**|Chung Min Kim et.al.|[2505.03728v1](http://arxiv.org/abs/2505.03728v1)|null|
 |**2025-05-06**|**Critical habitat size of organisms diffusing with stochastic resetting**|Luiz Menon et.al.|[2505.03727v1](http://arxiv.org/abs/2505.03727v1)|null|
 |**2025-05-06**|**Anomalous proximity effect under Andreev and Majorana bound states**|Eslam Ahmed et.al.|[2505.03726v1](http://arxiv.org/abs/2505.03726v1)|null|
@@ -35,9 +35,9 @@
 |**2025-05-06**|**DISARM++: Beyond scanner-free harmonization**|Luca Caldera et.al.|[2505.03715v1](http://arxiv.org/abs/2505.03715v1)|null|
 |**2025-05-06**|**Incremental universality of Wigner random matrices**|Giovanni M. Cicuta et.al.|[2505.03714v1](http://arxiv.org/abs/2505.03714v1)|null|
 |**2025-05-06**|**Large Topological Magnetic Optical Effects and Imaging of Antiferromagnetic Octupole Domains of an Altermagnet-like Weyl Semimetal**|Xingyue Han et.al.|[2505.03713v1](http://arxiv.org/abs/2505.03713v1)|null|
-|**2025-05-06**|**Learning Survival Distributions with the Asymmetric Laplace Distribution**|Deming Sheng et.al.|[2505.03712v1](http://arxiv.org/abs/2505.03712v1)|null|
+|**2025-05-06**|**Learning Survival Distributions with the Asymmetric Laplace Distribution**|Deming Sheng et.al.|[2505.03712v2](http://arxiv.org/abs/2505.03712v2)|null|
 |**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710v1](http://arxiv.org/abs/2505.03710v1)|null|
-|**2025-05-06**|**Toward a Harmonized Approach -- Requirement-based Structuring of a Safety Assurance Argumentation for Automated Vehicles**|M. Loba et.al.|[2505.03709v1](http://arxiv.org/abs/2505.03709v1)|null|
+|**2025-05-06**|**Toward a Harmonized Approach - Requirement-based Structuring of a Safety Assurance Argumentation for Automated Vehicles**|Marvin Loba et.al.|[2505.03709v2](http://arxiv.org/abs/2505.03709v2)|null|
 
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
@@ -69,6 +69,6 @@
 |**2025-05-05**|**Unifying Laplace Mechanism with Instance Optimality in Differential Privacy**|David Durfee et.al.|[2505.02798v1](http://arxiv.org/abs/2505.02798v1)|null|
 |**2025-05-05**|**Coexistence of Nodal and Nodeless Pairing Symmetry in Superconducting 6R-SnNbSe2**|K. Yadav et.al.|[2505.02793v1](http://arxiv.org/abs/2505.02793v1)|null|
 |**2025-05-05**|**Fermi surface nesting driven anomalous Hall effect in magnetically frustrated Mn_2PdIn**|Afsar Ahmed et.al.|[2505.02769v1](http://arxiv.org/abs/2505.02769v1)|null|
-|**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|null|
-|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|null|
+|**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|[link](https://github.com/sphere-ai-lab/formalmath-bench)|
+|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|[link](https://github.com/pakinwu/vgld)|
 |**2025-05-05**|**Ultra-Compact Silicon Nitride Devices for High-Density Integration**|Julian L. Pita Ruiz et.al.|[2505.02662v1](http://arxiv.org/abs/2505.02662v1)|null|

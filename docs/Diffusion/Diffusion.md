@@ -29,6 +29,6 @@
 |**2025-05-05**|**Unifying Laplace Mechanism with Instance Optimality in Differential Privacy**|David Durfee et.al.|[2505.02798v1](http://arxiv.org/abs/2505.02798v1)|null|
 |**2025-05-05**|**Coexistence of Nodal and Nodeless Pairing Symmetry in Superconducting 6R-SnNbSe2**|K. Yadav et.al.|[2505.02793v1](http://arxiv.org/abs/2505.02793v1)|null|
 |**2025-05-05**|**Fermi surface nesting driven anomalous Hall effect in magnetically frustrated Mn_2PdIn**|Afsar Ahmed et.al.|[2505.02769v1](http://arxiv.org/abs/2505.02769v1)|null|
-|**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|null|
-|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|null|
+|**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|[link](https://github.com/sphere-ai-lab/formalmath-bench)|
+|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|[link](https://github.com/pakinwu/vgld)|
 |**2025-05-05**|**Ultra-Compact Silicon Nitride Devices for High-Density Integration**|Julian L. Pita Ruiz et.al.|[2505.02662v1](http://arxiv.org/abs/2505.02662v1)|null|
