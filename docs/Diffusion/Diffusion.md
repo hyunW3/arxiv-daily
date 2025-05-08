@@ -2,6 +2,26 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-07**|**First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**|Tim Linden et.al.|[2505.04625v1](http://arxiv.org/abs/2505.04625v1)|null|
+|**2025-05-07**|**Duality-Based Algorithm and Numerical Analysis for Optimal Insulation Problems on Non-Smooth Domains**|Harbir Antil et.al.|[2505.04571v1](http://arxiv.org/abs/2505.04571v1)|null|
+|**2025-05-07**|**Conformal Survival Bands for Risk Screening under Right-Censoring**|Matteo Sesia et.al.|[2505.04568v1](http://arxiv.org/abs/2505.04568v1)|[link](https://github.com/msesia/conformal_survival_screening)|
+|**2025-05-07**|**Light Spanners with Small Hop-Diameter**|Sujoy Bhore et.al.|[2505.04536v1](http://arxiv.org/abs/2505.04536v1)|null|
+|**2025-05-07**|**Magnetic precession as a model for QPOs in PULXs: flat-top noise ULXs are different**|Miljenko Čemeljić et.al.|[2505.04523v1](http://arxiv.org/abs/2505.04523v1)|null|
+|**2025-05-07**|**Accelerated escape dynamics in non-Markovian stochastic feedback**|Francesco Coghi et.al.|[2505.04489v1](http://arxiv.org/abs/2505.04489v1)|null|
+|**2025-05-07**|**Ratchet Hall Effect in Fluctuating Superconductors**|A. V. Parafilo et.al.|[2505.04478v1](http://arxiv.org/abs/2505.04478v1)|null|
+|**2025-05-07**|**Probabilistic Zeeman-Doppler imaging of stellar magnetic fields: I. Analysis of tau Scorpii in the weak-field limit**|Jennifer Rosina Andersson et.al.|[2505.04437v1](http://arxiv.org/abs/2505.04437v1)|null|
+|**2025-05-07**|**Polynomial deformations of $sl(2)$ and unified algebraic framework for solutions of a class of spin models**|Siyu Li et.al.|[2505.04426v1](http://arxiv.org/abs/2505.04426v1)|null|
+|**2025-05-07**|**Generic Two-Mode Gaussian States as Quantum Sensors**|Pritam Chattopadhyay et.al.|[2505.04321v1](http://arxiv.org/abs/2505.04321v1)|null|
+|**2025-05-07**|**Multi-turn Consistent Image Editing**|Zijun Zhou et.al.|[2505.04320v1](http://arxiv.org/abs/2505.04320v1)|null|
+|**2025-05-07**|**Sign competing sources of Berry curvature and anomalous Hall conductance humps in topological ferromagnets**|Wojciech Brzezicki et.al.|[2505.04268v1](http://arxiv.org/abs/2505.04268v1)|null|
+|**2025-05-07**|**Physics-Informed DeepONets for drift-diffusion on metric graphs: simulation and parameter identification**|Jan Blechschmidt et.al.|[2505.04263v1](http://arxiv.org/abs/2505.04263v1)|null|
+|**2025-05-07**|**Space-Time-Dependent Source Identification Problem for a Subdiffusion Equation**|R. R. Ashurov et.al.|[2505.04252v1](http://arxiv.org/abs/2505.04252v1)|null|
+|**2025-05-07**|**On submodularity of the expected information gain**|Steven Maio et.al.|[2505.04145v1](http://arxiv.org/abs/2505.04145v1)|null|
+|**2025-05-07**|**Bertrand framed surfaces in the Euclidean 3-space and its applications**|Nozomi Nakatsuyama et.al.|[2505.04124v1](http://arxiv.org/abs/2505.04124v1)|null|
+|**2025-05-07**|**Topology of KK-theory via inverse limits of discrete abelian groups**|Arturo Jaime et.al.|[2505.04117v1](http://arxiv.org/abs/2505.04117v1)|null|
+|**2025-05-06**|**Robust acoustic and elastic full waveform inversion by adaptive Tikhonov-TV regularization**|Kamal Aghazade et.al.|[2505.04022v1](http://arxiv.org/abs/2505.04022v1)|null|
+|**2025-05-06**|**Recovery of the matrix potential of the one-dimensional Dirac equation from spectral data**|Emmanuel Roque et.al.|[2505.04010v1](http://arxiv.org/abs/2505.04010v1)|null|
+|**2025-05-06**|**Comparing statistical and deep learning techniques for parameter estimation of continuous-time stochastic differentiable equations**|Aroon Sankoh et.al.|[2505.03980v1](http://arxiv.org/abs/2505.03980v1)|null|
 |**2025-05-06**|**PyRoki: A Modular Toolkit for Robot Kinematic Optimization**|Chung Min Kim et.al.|[2505.03728v1](http://arxiv.org/abs/2505.03728v1)|null|
 |**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v1](http://arxiv.org/abs/2505.03677v1)|null|
 |**2025-05-06**|**Numerical Reconstruction and Analysis of Backward Semilinear Subdiffusion Problems**|Xu Wu et.al.|[2505.03625v1](http://arxiv.org/abs/2505.03625v1)|null|
@@ -12,23 +32,3 @@
 |**2025-05-06**|**Physics-Informed Neural Networks in Electromagnetic and Nanophotonic Design**|Omar A. M. Abdelraouf et.al.|[2505.03354v1](http://arxiv.org/abs/2505.03354v1)|null|
 |**2025-05-06**|**Accelerated inverse design of passive Si Photonics**|Anton Sofronov et.al.|[2505.03352v1](http://arxiv.org/abs/2505.03352v1)|null|
 |**2025-05-06**|**GUAVA: Generalizable Upper Body 3D Gaussian Avatar**|Dongbin Zhang et.al.|[2505.03351v1](http://arxiv.org/abs/2505.03351v1)|null|
-|**2025-05-06**|**The Inverse Drum Machine: Source Separation Through Joint Transcription and Analysis-by-Synthesis**|Bernardo Torres et.al.|[2505.03337v1](http://arxiv.org/abs/2505.03337v1)|null|
-|**2025-05-06**|**GNN-enabled Precoding for Massive MIMO LEO Satellite Communications**|Huibin Zhou et.al.|[2505.03311v1](http://arxiv.org/abs/2505.03311v1)|null|
-|**2025-05-06**|**Surpassing the Global Heisenberg Limit Using a High-effciency Quantum Switch**|Yu Guo et.al.|[2505.03290v1](http://arxiv.org/abs/2505.03290v1)|null|
-|**2025-05-06**|**Poincar{é}-Steklov operator and Calder{ó}n's problem on extension domains**|Gabriel Claret et.al.|[2505.03277v1](http://arxiv.org/abs/2505.03277v1)|null|
-|**2025-05-06**|**Geometric means of HPD GLT matrix-sequences: a maximal result beyond invertibility assumptions on the GLT symbols**|Asiim Ilyas et.al.|[2505.03256v1](http://arxiv.org/abs/2505.03256v1)|null|
-|**2025-05-06**|**Non-linear dynamics of multibody systems: a system-based approach**|Daniel Alazard et.al.|[2505.03248v1](http://arxiv.org/abs/2505.03248v1)|null|
-|**2025-05-06**|**Bayesian full waveform inversion with sequential surrogate model refinement**|Giovanni Angelo Meles et.al.|[2505.03246v1](http://arxiv.org/abs/2505.03246v1)|null|
-|**2025-05-06**|**DiffusionInv: Prior-enhanced Bayesian Full Waveform Inversion using Diffusion models**|Yuanyuan Li et.al.|[2505.03138v1](http://arxiv.org/abs/2505.03138v1)|null|
-|**2025-05-06**|**Inverse semialgebras and partial actions of Lie algebras**|Mikhailo Dokuchaev et.al.|[2505.03081v1](http://arxiv.org/abs/2505.03081v1)|null|
-|**2025-05-05**|**Robustly Invertible Nonlinear Dynamics and the BiLipREN: Contracting Neural Models with Contracting Inverses**|Yurui Zhang et.al.|[2505.03069v1](http://arxiv.org/abs/2505.03069v1)|null|
-|**2025-05-05**|**Matter-antimatter asymmetry in minimal inverse seesaw framework with $A_4$ modular symmetry**|Gourab Pathak et.al.|[2505.03000v1](http://arxiv.org/abs/2505.03000v1)|null|
-|**2025-05-05**|**Parameter estimation for land-surface models using machine learning libraries**|Ruiyue Huang et.al.|[2505.02979v1](http://arxiv.org/abs/2505.02979v1)|null|
-|**2025-05-05**|**The Sky Remembers everything: Celestial amplitude, Shadow and OPE in quadratic EFT of gravity**|Arpan Bhattacharyya et.al.|[2505.02899v1](http://arxiv.org/abs/2505.02899v1)|null|
-|**2025-05-05**|**The Rapidly--Changing Period of the QPE Source 1ES~1927+654**|Andrew King et.al.|[2505.02832v1](http://arxiv.org/abs/2505.02832v1)|null|
-|**2025-05-05**|**Unifying Laplace Mechanism with Instance Optimality in Differential Privacy**|David Durfee et.al.|[2505.02798v1](http://arxiv.org/abs/2505.02798v1)|null|
-|**2025-05-05**|**Coexistence of Nodal and Nodeless Pairing Symmetry in Superconducting 6R-SnNbSe2**|K. Yadav et.al.|[2505.02793v1](http://arxiv.org/abs/2505.02793v1)|null|
-|**2025-05-05**|**Fermi surface nesting driven anomalous Hall effect in magnetically frustrated Mn_2PdIn**|Afsar Ahmed et.al.|[2505.02769v1](http://arxiv.org/abs/2505.02769v1)|null|
-|**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|[link](https://github.com/sphere-ai-lab/formalmath-bench)|
-|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|[link](https://github.com/pakinwu/vgld)|
-|**2025-05-05**|**Ultra-Compact Silicon Nitride Devices for High-Density Integration**|Julian L. Pita Ruiz et.al.|[2505.02662v1](http://arxiv.org/abs/2505.02662v1)|null|
