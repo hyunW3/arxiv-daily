@@ -23,9 +23,9 @@
 |**2025-05-06**|**Recovery of the matrix potential of the one-dimensional Dirac equation from spectral data**|Emmanuel Roque et.al.|[2505.04010v1](http://arxiv.org/abs/2505.04010v1)|null|
 |**2025-05-06**|**Comparing statistical and deep learning techniques for parameter estimation of continuous-time stochastic differentiable equations**|Aroon Sankoh et.al.|[2505.03980v1](http://arxiv.org/abs/2505.03980v1)|null|
 |**2025-05-06**|**PyRoki: A Modular Toolkit for Robot Kinematic Optimization**|Chung Min Kim et.al.|[2505.03728v1](http://arxiv.org/abs/2505.03728v1)|null|
-|**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v1](http://arxiv.org/abs/2505.03677v1)|null|
+|**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v2](http://arxiv.org/abs/2505.03677v2)|null|
 |**2025-05-06**|**Numerical Reconstruction and Analysis of Backward Semilinear Subdiffusion Problems**|Xu Wu et.al.|[2505.03625v1](http://arxiv.org/abs/2505.03625v1)|null|
-|**2025-05-06**|**Uncovering the Limitations of Model Inversion Evaluation: Benchmarks and Connection to Type-I Adversarial Attacks**|Sy-Tuyen Ho et.al.|[2505.03519v1](http://arxiv.org/abs/2505.03519v1)|null|
+|**2025-05-06**|**Uncovering the Limitations of Model Inversion Evaluation -- Benchmarks and Connection to Type-I Adversarial Attacks**|Sy-Tuyen Ho et.al.|[2505.03519v2](http://arxiv.org/abs/2505.03519v2)|null|
 |**2025-05-06**|**A generalised non-linear reconstructor for all Fourier-type wavefront sensors**|Victoria Laidlaw et.al.|[2505.03477v1](http://arxiv.org/abs/2505.03477v1)|null|
 |**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435v1](http://arxiv.org/abs/2505.03435v1)|null|
 |**2025-05-06**|**Data-efficient inverse design of spinodoid metamaterials**|Max Rosenkranz et.al.|[2505.03415v1](http://arxiv.org/abs/2505.03415v1)|null|

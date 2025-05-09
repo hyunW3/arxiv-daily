@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-08 21:09:16 Asia/Shanghai
+ Automated deployment @ 2025-05-09 09:19:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -29,9 +29,9 @@
 |**2025-05-06**|**Recovery of the matrix potential of the one-dimensional Dirac equation from spectral data**|Emmanuel Roque et.al.|[2505.04010v1](http://arxiv.org/abs/2505.04010v1)|null|
 |**2025-05-06**|**Comparing statistical and deep learning techniques for parameter estimation of continuous-time stochastic differentiable equations**|Aroon Sankoh et.al.|[2505.03980v1](http://arxiv.org/abs/2505.03980v1)|null|
 |**2025-05-06**|**PyRoki: A Modular Toolkit for Robot Kinematic Optimization**|Chung Min Kim et.al.|[2505.03728v1](http://arxiv.org/abs/2505.03728v1)|null|
-|**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v1](http://arxiv.org/abs/2505.03677v1)|null|
+|**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v2](http://arxiv.org/abs/2505.03677v2)|null|
 |**2025-05-06**|**Numerical Reconstruction and Analysis of Backward Semilinear Subdiffusion Problems**|Xu Wu et.al.|[2505.03625v1](http://arxiv.org/abs/2505.03625v1)|null|
-|**2025-05-06**|**Uncovering the Limitations of Model Inversion Evaluation: Benchmarks and Connection to Type-I Adversarial Attacks**|Sy-Tuyen Ho et.al.|[2505.03519v1](http://arxiv.org/abs/2505.03519v1)|null|
+|**2025-05-06**|**Uncovering the Limitations of Model Inversion Evaluation -- Benchmarks and Connection to Type-I Adversarial Attacks**|Sy-Tuyen Ho et.al.|[2505.03519v2](http://arxiv.org/abs/2505.03519v2)|null|
 |**2025-05-06**|**A generalised non-linear reconstructor for all Fourier-type wavefront sensors**|Victoria Laidlaw et.al.|[2505.03477v1](http://arxiv.org/abs/2505.03477v1)|null|
 |**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435v1](http://arxiv.org/abs/2505.03435v1)|null|
 |**2025-05-06**|**Data-efficient inverse design of spinodoid metamaterials**|Max Rosenkranz et.al.|[2505.03415v1](http://arxiv.org/abs/2505.03415v1)|null|
@@ -58,7 +58,7 @@
 |**2025-05-07**|**Axion Dark Matter Archaeology with Primordial Gravitational Waves**|Andrew Cheek et.al.|[2505.04614v1](http://arxiv.org/abs/2505.04614v1)|null|
 |**2025-05-07**|**From Two Sample Testing to Singular Gaussian Discrimination**|Leonardo V. Santoro et.al.|[2505.04613v1](http://arxiv.org/abs/2505.04613v1)|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612v1](http://arxiv.org/abs/2505.04612v1)|null|
-|**2025-05-07**|**Particle Gibbs without the Gibbs bit**|Adrien Corenflos et.al.|[2505.04611v1](http://arxiv.org/abs/2505.04611v1)|null|
+|**2025-05-07**|**Particle Gibbs without the Gibbs bit**|Adrien Corenflos et.al.|[2505.04611v2](http://arxiv.org/abs/2505.04611v2)|null|
 |**2025-05-07**|**Early and Extensive Ultraviolet Through Near Infrared Observations of the Intermediate-Luminosity Type Iax Supernovae 2024pxl**|W. B. Hoogendam et.al.|[2505.04610v1](http://arxiv.org/abs/2505.04610v1)|null|
 |**2025-05-07**|**CAPERS-LRD-z9: A Gas Enshrouded Little Red Dot Hosting a Broad-line AGN at z=9.288**|Anthony J. Taylor et.al.|[2505.04609v1](http://arxiv.org/abs/2505.04609v1)|null|
 |**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608v1](http://arxiv.org/abs/2505.04608v1)|null|
