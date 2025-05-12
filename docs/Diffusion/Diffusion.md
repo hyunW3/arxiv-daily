@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-09**|**Anomalous spin dynamics after dual optical excitation**|Sergii Parchenko et.al.|[2505.06225v1](http://arxiv.org/abs/2505.06225v1)|null|
+|**2025-05-09**|**Guerra interpolation for inverse freezing**|Linda Albanese et.al.|[2505.06202v1](http://arxiv.org/abs/2505.06202v1)|null|
+|**2025-05-09**|**Efficient time-domain scattering synthesis via frequency-domain singularity subtraction**|Oscar P. Bruno et.al.|[2505.06189v1](http://arxiv.org/abs/2505.06189v1)|null|
+|**2025-05-09**|**New Advances in Phonons: From Band Topology to Quasiparticle Chirality**|Tiantian Zhang et.al.|[2505.06179v1](http://arxiv.org/abs/2505.06179v1)|null|
+|**2025-05-09**|**A Convergent Inexact Abedin-Kitagawa Iteration Method for Monge-Ampère Eigenvalue Problems**|Liang Chen et.al.|[2505.06160v1](http://arxiv.org/abs/2505.06160v1)|null|
+|**2025-05-09**|**A categorification of combinatorial Auslander-Reiten quivers**|Ricardo Canesin et.al.|[2505.06147v1](http://arxiv.org/abs/2505.06147v1)|null|
+|**2025-05-09**|**Edelstein effect in optically driven monolayer jacutingaite Pt$_2$HgSe$_3$**|Nguyen Quang Bau et.al.|[2505.06144v1](http://arxiv.org/abs/2505.06144v1)|null|
+|**2025-05-09**|**Inverse problems for finite Jacobi matrices and Krein--Stieltjes strings**|Alexander Mikhaylov et.al.|[2505.06143v1](http://arxiv.org/abs/2505.06143v1)|null|
+|**2025-05-09**|**Inverse Problem for the Schrödinger Equation with Non-self-adjoint Matrix Potential**|Sergei Avdonin et.al.|[2505.06142v1](http://arxiv.org/abs/2505.06142v1)|null|
+|**2025-05-09**|**Unconditionally local bounds preserving numerical scheme based on inverse Lax-Wendroff procedure for advection on networks**|Peter Frolkovič et.al.|[2505.06106v1](http://arxiv.org/abs/2505.06106v1)|null|
+|**2025-05-09**|**Methodology for Topological Interface Engineering in 2D Photonic Crystals**|Ondřej Novák et.al.|[2505.06077v1](http://arxiv.org/abs/2505.06077v1)|null|
+|**2025-05-09**|**Smooth optimization algorithms for global and locally low-rank regularizers**|Rodrigo A. Lobos et.al.|[2505.06073v1](http://arxiv.org/abs/2505.06073v1)|null|
+|**2025-05-09**|**Omni-Temporal Theory and Simulation of Hydrodynamic Dispersion using Fourier Transformation**|Md Abdul Hamid et.al.|[2505.06063v1](http://arxiv.org/abs/2505.06063v1)|null|
+|**2025-05-09**|**Fast Differentiable Modal Simulation of Non-linear Strings, Membranes, and Plates**|Rodrigo Diaz et.al.|[2505.05940v1](http://arxiv.org/abs/2505.05940v1)|null|
+|**2025-05-09**|**A Taxonomy of Attacks and Defenses in Split Learning**|Aqsa Shabbir et.al.|[2505.05872v1](http://arxiv.org/abs/2505.05872v1)|null|
+|**2025-05-09**|**Finite Membrane Thickness Influences Hydrodynamics on the Nanoscale**|Zachary G. Lipel et.al.|[2505.05776v1](http://arxiv.org/abs/2505.05776v1)|null|
+|**2025-05-09**|**A Mechanism-Guided Inverse Engineering Framework to Unlock Design Principles of H-Bonded Organic Frameworks for Gas Separation**|Yong Qiu et.al.|[2505.05749v1](http://arxiv.org/abs/2505.05749v1)|null|
+|**2025-05-09**|**Static and dynamic theory of polarization under internal and directing electric fields: Fixed-charge and fixed-potential conditions**|Akira Onuki et.al.|[2505.05739v1](http://arxiv.org/abs/2505.05739v1)|null|
+|**2025-05-09**|**Periodic Kerr solution as an infinite soliton chain**|Dmitry Korotkin et.al.|[2505.05698v1](http://arxiv.org/abs/2505.05698v1)|null|
+|**2025-05-09**|**A prototype reactor-antineutrino detector based on $^6$Li-doped pulse-shaping-discriminating plastic scintillator**|O. Benevides Rodrigues et.al.|[2505.05696v1](http://arxiv.org/abs/2505.05696v1)|null|
+|**2025-05-08**|**Unsupervised Blind Speech Separation with a Diffusion Prior**|Zhongweiyang Xu et.al.|[2505.05657v1](http://arxiv.org/abs/2505.05657v1)|[link](https://github.com/arraydps/arraydps)|
+|**2025-05-08**|**Interpolating between pair-potential systems**|Lorenzo Costigliola et.al.|[2505.05656v1](http://arxiv.org/abs/2505.05656v1)|null|
+|**2025-05-08**|**Invariant-Based Cryptography**|Stanislav Semenov et.al.|[2505.05653v1](http://arxiv.org/abs/2505.05653v1)|null|
+|**2025-05-08**|**Cowen-Douglas operators and analytic continuation**|Paweł Pietrzycki et.al.|[2505.05649v1](http://arxiv.org/abs/2505.05649v1)|null|
+|**2025-05-08**|**A Cohen-Lenstra Heuristic for Schur $σ$-Groups**|Richard Pink et.al.|[2505.05569v1](http://arxiv.org/abs/2505.05569v1)|null|
 |**2025-05-08**|**A new time-dependent quantum theory based on Tsallis' distribution**|Won Sang Chung et.al.|[2505.05419v1](http://arxiv.org/abs/2505.05419v1)|null|
 |**2025-05-08**|**Longitudinal Josephson effect in systems with pairing of spatially separated electrons and holes**|S. I. Shevchenko et.al.|[2505.05389v1](http://arxiv.org/abs/2505.05389v1)|null|
 |**2025-05-08**|**Fourier-based Inversion of Partial X-ray Transforms in n Dimensions**|Murdock G. Grewar et.al.|[2505.05372v2](http://arxiv.org/abs/2505.05372v2)|null|
 |**2025-05-08**|**Finite element approximation for quantitative photoacoustic tomography in a diffusive regime**|Giovanni S. Alberti et.al.|[2505.05361v1](http://arxiv.org/abs/2505.05361v1)|null|
 |**2025-05-08**|**The geometry of zonotopal algebras II: Orlik--Terao algebras and Schubert varieties**|Colin Crowley et.al.|[2505.05324v1](http://arxiv.org/abs/2505.05324v1)|null|
-|**2025-05-08**|**Inverse problems for semilinear elliptic equations with low regularity**|David Johansson et.al.|[2505.05278v1](http://arxiv.org/abs/2505.05278v1)|null|
-|**2025-05-08**|**Weighting operators for sparsity regularization**|Ole Løseth Elvetun et.al.|[2505.05234v1](http://arxiv.org/abs/2505.05234v1)|null|
-|**2025-05-08**|**Switching Dynamics of Metastable Open Quantum Systems**|Ya-Xin Xiang et.al.|[2505.05202v1](http://arxiv.org/abs/2505.05202v1)|null|
-|**2025-05-08**|**Discrete dynamical systems: inverse problems and related topics**|Alexander Mikhaylov et.al.|[2505.05161v1](http://arxiv.org/abs/2505.05161v1)|null|
-|**2025-05-08**|**On an inverse problem in photoacoustic**|M. I. Belishev et.al.|[2505.05146v1](http://arxiv.org/abs/2505.05146v1)|null|
-|**2025-05-08**|**Inverse problem for one-dimensional dynamical Dirac system (BC-method)**|Mikhail Belishev et.al.|[2505.05140v1](http://arxiv.org/abs/2505.05140v1)|null|
-|**2025-05-08**|**Stability analysis of an inverse coefficients problem in a system of partial differential equations**|Houcine Meftahi et.al.|[2505.05116v1](http://arxiv.org/abs/2505.05116v1)|null|
-|**2025-05-08**|**Data-driven radiative hydrodynamics simulations of the solar photosphere using physics-informed neural networks: proof of concept**|Christoph U. Keller et.al.|[2505.04865v1](http://arxiv.org/abs/2505.04865v1)|null|
-|**2025-05-07**|**Assessing Risk Heterogeneity through Heavy-Tailed Frequency and Severity Mixtures**|Michael R. Powers et.al.|[2505.04795v1](http://arxiv.org/abs/2505.04795v1)|null|
-|**2025-05-07**|**Spectral theory for non-self-adjoint Dirac operators with periodic potentials and inverse scattering transform for the focusing nonlinear Schrödinger equation with periodic boundary conditions**|Gino Biondini et.al.|[2505.04790v1](http://arxiv.org/abs/2505.04790v1)|null|
-|**2025-05-07**|**Phase Retrieval via Gain-Based Photonic XY-Hamiltonian Optimization**|Richard Zhipeng Wang et.al.|[2505.04766v1](http://arxiv.org/abs/2505.04766v1)|null|
-|**2025-05-07**|**Cluster Lensing Mass Inversion (CLUMI+): Combining Dynamics and Weak Lensing around Galaxy Clusters**|Keiichi Umetsu et.al.|[2505.04694v1](http://arxiv.org/abs/2505.04694v1)|null|
-|**2025-05-07**|**Quantum critical scaling of altermagnetism**|Sondre Duna Lundemo et.al.|[2505.04683v1](http://arxiv.org/abs/2505.04683v1)|null|
-|**2025-05-07**|**First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**|Tim Linden et.al.|[2505.04625v1](http://arxiv.org/abs/2505.04625v1)|null|
-|**2025-05-07**|**Duality-Based Algorithm and Numerical Analysis for Optimal Insulation Problems on Non-Smooth Domains**|Harbir Antil et.al.|[2505.04571v1](http://arxiv.org/abs/2505.04571v1)|null|
-|**2025-05-07**|**Conformal Survival Bands for Risk Screening under Right-Censoring**|Matteo Sesia et.al.|[2505.04568v1](http://arxiv.org/abs/2505.04568v1)|[link](https://github.com/msesia/conformal_survival_screening)|
-|**2025-05-07**|**Light Spanners with Small Hop-Diameter**|Sujoy Bhore et.al.|[2505.04536v1](http://arxiv.org/abs/2505.04536v1)|null|
-|**2025-05-07**|**Magnetic precession as a model for QPOs in PULXs: flat-top noise ULXs are different**|Miljenko Čemeljić et.al.|[2505.04523v1](http://arxiv.org/abs/2505.04523v1)|null|
-|**2025-05-07**|**Accelerated escape dynamics in non-Markovian stochastic feedback**|Francesco Coghi et.al.|[2505.04489v1](http://arxiv.org/abs/2505.04489v1)|null|
-|**2025-05-07**|**Ratchet Hall Effect in Fluctuating Superconductors**|A. V. Parafilo et.al.|[2505.04478v1](http://arxiv.org/abs/2505.04478v1)|null|
-|**2025-05-07**|**Probabilistic Zeeman-Doppler imaging of stellar magnetic fields: I. Analysis of tau Scorpii in the weak-field limit**|Jennifer Rosina Andersson et.al.|[2505.04437v1](http://arxiv.org/abs/2505.04437v1)|null|
-|**2025-05-07**|**Polynomial deformations of $sl(2)$ and unified algebraic framework for solutions of a class of spin models**|Siyu Li et.al.|[2505.04426v1](http://arxiv.org/abs/2505.04426v1)|null|
-|**2025-05-07**|**Generic Two-Mode Gaussian States as Quantum Sensors**|Pritam Chattopadhyay et.al.|[2505.04321v1](http://arxiv.org/abs/2505.04321v1)|null|
-|**2025-05-07**|**Multi-turn Consistent Image Editing**|Zijun Zhou et.al.|[2505.04320v1](http://arxiv.org/abs/2505.04320v1)|null|
-|**2025-05-07**|**Sign competing sources of Berry curvature and anomalous Hall conductance humps in topological ferromagnets**|Wojciech Brzezicki et.al.|[2505.04268v1](http://arxiv.org/abs/2505.04268v1)|null|
