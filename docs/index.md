@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-11 21:02:23 Asia/Shanghai
+ Automated deployment @ 2025-05-12 09:21:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-08**|**A new time-dependent quantum theory based on Tsallis' distribution**|Won Sang Chung et.al.|[2505.05419v1](http://arxiv.org/abs/2505.05419v1)|null|
 |**2025-05-08**|**Longitudinal Josephson effect in systems with pairing of spatially separated electrons and holes**|S. I. Shevchenko et.al.|[2505.05389v1](http://arxiv.org/abs/2505.05389v1)|null|
-|**2025-05-08**|**Fourier-based Inversion of Partial X-ray Transforms in $n$ Dimensions**|Murdock G. Grewar et.al.|[2505.05372v1](http://arxiv.org/abs/2505.05372v1)|null|
+|**2025-05-08**|**Fourier-based Inversion of Partial X-ray Transforms in n Dimensions**|Murdock G. Grewar et.al.|[2505.05372v2](http://arxiv.org/abs/2505.05372v2)|null|
 |**2025-05-08**|**Finite element approximation for quantitative photoacoustic tomography in a diffusive regime**|Giovanni S. Alberti et.al.|[2505.05361v1](http://arxiv.org/abs/2505.05361v1)|null|
 |**2025-05-08**|**The geometry of zonotopal algebras II: Orlik--Terao algebras and Schubert varieties**|Colin Crowley et.al.|[2505.05324v1](http://arxiv.org/abs/2505.05324v1)|null|
 |**2025-05-08**|**Inverse problems for semilinear elliptic equations with low regularity**|David Johansson et.al.|[2505.05278v1](http://arxiv.org/abs/2505.05278v1)|null|
