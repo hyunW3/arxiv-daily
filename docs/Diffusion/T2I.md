@@ -24,7 +24,7 @@
 |**2025-05-12**|**Automatically Differentiable Model Updating (ADiMU): conventional, hybrid, and neural network material model discovery including history-dependency**|Bernardo P. Ferreira et.al.|[2505.07801v1](http://arxiv.org/abs/2505.07801v1)|null|
 |**2025-05-12**|**Moderation effects and elasticities in compositional regression with a total. Application to Bayesian spatiotemporal modelling of all-cause mortality from environmental stressors**|Germà Coenders et.al.|[2505.07800v1](http://arxiv.org/abs/2505.07800v1)|null|
 |**2025-05-12**|**PT symmetry and the square well potential: Antilinear symmetry rather than Hermiticity in scattering processes**|Philip D. Mannheim et.al.|[2505.07798v1](http://arxiv.org/abs/2505.07798v1)|null|
-|**2025-05-12**|**A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2505.07797v1](http://arxiv.org/abs/2505.07797v1)|null|
+|**2025-05-12**|**A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2505.07797v1](http://arxiv.org/abs/2505.07797v1)|[link](https://github.com/djeb20/sverl)|
 |**2025-05-12**|**Learning Dynamics in Continual Pre-Training for Large Language Models**|Xingjin Wang et.al.|[2505.07796v1](http://arxiv.org/abs/2505.07796v1)|null|
 |**2025-05-12**|**Mixed state deep thermalization**|Xie-Hang Yu et.al.|[2505.07795v1](http://arxiv.org/abs/2505.07795v1)|null|
 |**2025-05-12**|**Disparity in sound speeds: implications for unitarity and effective potential in quantum field theory**|Dmitry S. Ageev et.al.|[2505.07794v1](http://arxiv.org/abs/2505.07794v1)|null|

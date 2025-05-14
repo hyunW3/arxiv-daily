@@ -22,13 +22,13 @@
 |**2025-05-12**|**Carleman estimates for the Korteweg-de Vries equation with piecewise constant main coefficient**|Cristóbal Loyola et.al.|[2505.07264v1](http://arxiv.org/abs/2505.07264v1)|null|
 |**2025-05-12**|**Topological surface states induced by magnetic proximity effect in narrow-gap semiconductor alpha-Sn**|Soichiro Fukuoka et.al.|[2505.07250v1](http://arxiv.org/abs/2505.07250v1)|null|
 |**2025-05-12**|**Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models**|Yan Xie et.al.|[2505.07209v1](http://arxiv.org/abs/2505.07209v1)|null|
-|**2025-05-12**|**Reflexive Composition of Elementary State Machines, with an Application to the Reversal of Cellular Automata Rule 90**|Chris Salzberg et.al.|[2505.07186v1](http://arxiv.org/abs/2505.07186v1)|null|
+|**2025-05-12**|**Reflexive Composition of Elementary State Machines, with an Application to the Reversal of Cellular Automata Rule 90**|Chris Salzberg et.al.|[2505.07186v2](http://arxiv.org/abs/2505.07186v2)|null|
 |**2025-05-11**|**Non-singular maps in toposes with a local state classifier**|Matí as Menni et.al.|[2505.07131v1](http://arxiv.org/abs/2505.07131v1)|null|
 |**2025-05-11**|**Learning from Samples: Inverse Problems over measures via Sharpened Fenchel-Young Losses**|Francisco Andrade et.al.|[2505.07124v1](http://arxiv.org/abs/2505.07124v1)|null|
 |**2025-05-11**|**A new formalism of the bi-adjoint scalar $\ell$-loop planar integrand recursion**|Yi-Xiao Tao et.al.|[2505.07077v1](http://arxiv.org/abs/2505.07077v1)|null|
 |**2025-05-11**|**A Sparse Bayesian Learning Algorithm for Estimation of Interaction Kernels in Motsch-Tadmor Model**|Jinchao Feng et.al.|[2505.07068v1](http://arxiv.org/abs/2505.07068v1)|null|
 |**2025-05-11**|**Probing quantum phase transition in a staggered Bosonic Kitaev chain via layer-resolved localization-delocalization transition**|R. Wang et.al.|[2505.07017v1](http://arxiv.org/abs/2505.07017v1)|null|
-|**2025-05-11**|**Hand-Shadow Poser**|Hao Xu et.al.|[2505.07012v1](http://arxiv.org/abs/2505.07012v1)|null|
+|**2025-05-11**|**Hand-Shadow Poser**|Hao Xu et.al.|[2505.07012v1](http://arxiv.org/abs/2505.07012v1)|[link](https://github.com/hxwork/HandShadowPoser)|
 |**2025-05-11**|**Long-time behavior of the reduced Maxwell-Bloch equations in the sharp-line limit**|Kang Wu et.al.|[2505.06986v1](http://arxiv.org/abs/2505.06986v1)|null|
 |**2025-05-11**|**One-loop corrections to the neutrino in the N-B-LSSM**|Shuang Di et.al.|[2505.06970v1](http://arxiv.org/abs/2505.06970v1)|null|
 |**2025-05-11**|**AI-Powered Inverse Design of Ku-Band SIW Resonant Structures by Iterative Residual Correction Network**|Mohammad Mashayekhi et.al.|[2505.06936v1](http://arxiv.org/abs/2505.06936v1)|null|
