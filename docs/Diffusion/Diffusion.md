@@ -12,7 +12,7 @@
 |**2025-05-14**|**On some applications of the Boundary Control method to spectral estimation and inverse problems**|S. A. Avdonin et.al.|[2505.09410v1](http://arxiv.org/abs/2505.09410v1)|null|
 |**2025-05-14**|**Spectral Estimation Problem in Infinite Dimensional Spaces**|S. A. Avdonin et.al.|[2505.09403v1](http://arxiv.org/abs/2505.09403v1)|null|
 |**2025-05-14**|**Relationship between different types of inverse data for the one-dimensional Schrödinger operator on a half-line**|A. S. Mikhaylov et.al.|[2505.09397v1](http://arxiv.org/abs/2505.09397v1)|null|
-|**2025-05-14**|**Reproducibility Study of "Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents"**|Pedro M. P. Curvo et.al.|[2505.09289v1](http://arxiv.org/abs/2505.09289v1)|null|
+|**2025-05-14**|**Reproducibility Study of "Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents"**|Pedro M. P. Curvo et.al.|[2505.09289v1](http://arxiv.org/abs/2505.09289v1)|[link](https://github.com/giorgiopiatti/govsim)|
 |**2025-05-14**|**Enhanced Photonic Chip Design via Interpretable Machine Learning Techniques**|Lirandë Pira et.al.|[2505.09266v1](http://arxiv.org/abs/2505.09266v1)|null|
 |**2025-05-14**|**Fully analytical propagator for lunar satellite orbits in closed form**|Rita Mastroianni et.al.|[2505.09241v1](http://arxiv.org/abs/2505.09241v1)|null|
 |**2025-05-14**|**Coexistence of Rashba and Dirac dispersions on the surface of centrosymmetric topological insulator decorated with transition metals**|Giuseppe Cuono et.al.|[2505.09211v1](http://arxiv.org/abs/2505.09211v1)|null|
@@ -31,4 +31,4 @@
 |**2025-05-13**|**Learning Cocoercive Conservative Denoisers via Helmholtz Decomposition for Poisson Inverse Problems**|Deliang Wei et.al.|[2505.08909v1](http://arxiv.org/abs/2505.08909v1)|null|
 |**2025-05-13**|**A P-theorem for Inverse Semigroupoids through Ordered Globalizations**|Felipe Augusto Tasca et.al.|[2505.08897v1](http://arxiv.org/abs/2505.08897v1)|null|
 |**2025-05-13**|**On the three-point functions in timelike N=1 Liouville CFT**|Beatrix Mühlmann et.al.|[2505.08890v1](http://arxiv.org/abs/2505.08890v1)|null|
-|**2025-05-13**|**IntrinsicEdit: Precise generative image manipulation in intrinsic space**|Linjie Lyu et.al.|[2505.08889v1](http://arxiv.org/abs/2505.08889v1)|null|
+|**2025-05-13**|**IntrinsicEdit: Precise generative image manipulation in intrinsic space**|Linjie Lyu et.al.|[2505.08889v2](http://arxiv.org/abs/2505.08889v2)|null|

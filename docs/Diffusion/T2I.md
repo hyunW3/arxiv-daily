@@ -28,7 +28,7 @@
 |**2025-05-14**|**Quantum-State-Controlled Collisions of Ultracold Polyatomic Molecules**|Nathaniel B. Vilas et.al.|[2505.09592v1](http://arxiv.org/abs/2505.09592v1)|null|
 |**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591v1](http://arxiv.org/abs/2505.09591v1)|null|
 |**2025-05-14**|**Galois groups of simple abelian varieties over finite fields and exceptional Tate classes**|Santiago Arango-Piñeros et.al.|[2505.09589v1](http://arxiv.org/abs/2505.09589v1)|null|
-|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590v1](http://arxiv.org/abs/2505.09590v1)|null|
+|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590v1](http://arxiv.org/abs/2505.09590v1)|[link](https://github.com/coffeetau/sagcn)|
 |**2025-05-14**|**Basic representation theorems of forms**|Zoltán Sebestyén et.al.|[2505.09588v1](http://arxiv.org/abs/2505.09588v1)|null|
 |**2025-05-14**|**On-surface Synthesis of a Ferromagnetic Molecular Spin Trimer**|Alessio Vegliante et.al.|[2505.09587v1](http://arxiv.org/abs/2505.09587v1)|null|
 |**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586v1](http://arxiv.org/abs/2505.09586v1)|null|
