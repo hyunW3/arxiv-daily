@@ -25,7 +25,7 @@
 |**2025-05-15**|**How many measurements are enough? Bayesian recovery in inverse problems with general distributions**|Ben Adcock et.al.|[2505.10630v1](http://arxiv.org/abs/2505.10630v1)|null|
 |**2025-05-15**|**Variational Seasonal-Trend Decomposition with Sparse Continuous-Domain Regularization**|Julien Fageot et.al.|[2505.10486v1](http://arxiv.org/abs/2505.10486v1)|null|
 |**2025-05-15**|**Interpretable Artificial Intelligence for Topological Photonics**|Ali Ghorashi et.al.|[2505.10485v1](http://arxiv.org/abs/2505.10485v1)|null|
-|**2025-05-15**|**Superposition Yields Robust Neural Scaling**|Yizhou liu et.al.|[2505.10465v1](http://arxiv.org/abs/2505.10465v1)|[link](https://github.com/liuyz0/superpositionscaling)|
+|**2025-05-15**|**Superposition Yields Robust Neural Scaling**|Yizhou Liu et.al.|[2505.10465v2](http://arxiv.org/abs/2505.10465v2)|[link](https://github.com/liuyz0/superpositionscaling)|
 |**2025-05-15**|**On the elementary theory of earthquake aftershocks**|A. V. Guglielmi et.al.|[2505.10414v1](http://arxiv.org/abs/2505.10414v1)|null|
 |**2025-05-15**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311v2](http://arxiv.org/abs/2505.10311v2)|null|
 |**2025-05-15**|**Probing how bright the quark-gluon plasma glows in lattice QCD**|Ardit Krasniqi et.al.|[2505.10295v1](http://arxiv.org/abs/2505.10295v1)|null|
