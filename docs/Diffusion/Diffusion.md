@@ -2,6 +2,23 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-20**|**Minimizing Contaminant Leakage in Internal Linear Combination Maps Using a Data-Driven Approach**|Kristen M. Surrao et.al.|[2505.14644v1](http://arxiv.org/abs/2505.14644v1)|null|
+|**2025-05-20**|**LaMET's Asymptotic Extrapolation vs. Inverse Problem**|Jiunn-Wei Chen et.al.|[2505.14619v1](http://arxiv.org/abs/2505.14619v1)|null|
+|**2025-05-20**|**Solenoids in automorphism groups of evolution algebras**|Yolanda Cabrera Casado et.al.|[2505.14584v1](http://arxiv.org/abs/2505.14584v1)|null|
+|**2025-05-20**|**Structural States of Filamentary Microgravity Dusty Plasma**|Emerson Gehr et.al.|[2505.14576v1](http://arxiv.org/abs/2505.14576v1)|null|
+|**2025-05-20**|**Neural Inverse Scattering with Score-based Regularization**|Yuan Gao et.al.|[2505.14560v1](http://arxiv.org/abs/2505.14560v1)|null|
+|**2025-05-20**|**Global Maxwell Tomography Using the Volume-Surface Integral Equation for Improved Estimation of Electrical Properties**|Ilias Giannakopoulos et.al.|[2505.14546v1](http://arxiv.org/abs/2505.14546v1)|null|
+|**2025-05-20**|**MicroCrypt Assumptions with Quantum Input Sampling and Pseudodeterminism: Constructions and Separations**|Mohammed Barhoush et.al.|[2505.14461v1](http://arxiv.org/abs/2505.14461v1)|null|
+|**2025-05-20**|**Application of Deep Learning to the Classification of Stokes Profiles: From the Quiet Sun to Sunspots**|Ryan James Campbell et.al.|[2505.14275v1](http://arxiv.org/abs/2505.14275v1)|null|
+|**2025-05-20**|**A General Algorithm For Determining The Conductivity Zeros In Large Molecular Nanostructures: Applications To Rectangular Graphene Sheets**|Marian Nita et.al.|[2505.14237v1](http://arxiv.org/abs/2505.14237v1)|null|
+|**2025-05-20**|**From stability of Langevin diffusion to convergence of proximal MCMC for non-log-concave sampling**|Marien Renaud et.al.|[2505.14177v1](http://arxiv.org/abs/2505.14177v1)|null|
+|**2025-05-20**|**Valid Post-Contextual Bandit Inference**|Ramon van den Akker et.al.|[2505.13897v1](http://arxiv.org/abs/2505.13897v1)|null|
+|**2025-05-20**|**Physics-Guided Sequence Modeling for Fast Simulation and Design Exploration of 2D Memristive Devices**|Benjamin Spetzler et.al.|[2505.13882v1](http://arxiv.org/abs/2505.13882v1)|null|
+|**2025-05-20**|**The dynamics of the parsec-scale jet in the neutrino blazar PKS 0735+178**|Yu-Sik Kim et.al.|[2505.13876v1](http://arxiv.org/abs/2505.13876v1)|null|
+|**2025-05-19**|**BeamClean: Language Aware Embedding Reconstruction**|Kaan Kale et.al.|[2505.13758v1](http://arxiv.org/abs/2505.13758v1)|null|
+|**2025-05-19**|**Can thermodynamic equilibrium be established in planet-forming disks?**|Jayatee Kanwar et.al.|[2505.13705v1](http://arxiv.org/abs/2505.13705v1)|null|
+|**2025-05-19**|**Origin of the X-ray emission in blazars through multiwavelength polarization**|Ioannis Liodakis et.al.|[2505.13603v1](http://arxiv.org/abs/2505.13603v1)|null|
+|**2025-05-19**|**Constraining cosmic ray transport models using circumgalactic medium properties and observables**|Yue Samuel Lu et.al.|[2505.13597v1](http://arxiv.org/abs/2505.13597v1)|null|
 |**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436v1](http://arxiv.org/abs/2505.13436v1)|null|
 |**2025-05-19**|**Musical Chords by the Numbers**|Matthias Beck et.al.|[2505.13411v1](http://arxiv.org/abs/2505.13411v1)|null|
 |**2025-05-19**|**Inverse-Designed Silicon Nitride Nanophotonics**|Toby Bi et.al.|[2505.13383v1](http://arxiv.org/abs/2505.13383v1)|null|
@@ -11,24 +28,7 @@
 |**2025-05-19**|**Radio continuum spectra of SFGs in the XMM-LSS Field below-threshold**|E. F. Ocran et.al.|[2505.13267v1](http://arxiv.org/abs/2505.13267v1)|null|
 |**2025-05-19**|**Conformalized Decision Risk Assessment**|Wenbin Zhou et.al.|[2505.13243v1](http://arxiv.org/abs/2505.13243v1)|null|
 |**2025-05-19**|**Group Symmetry Enables Faster Optimization in Inverse Problems**|Junqi Tang et.al.|[2505.13223v2](http://arxiv.org/abs/2505.13223v2)|null|
+|**2025-05-19**|**Symmetry-Breaking Descent for Invariant Cost Functionals**|Mikhail Osipov et.al.|[2505.13578v1](http://arxiv.org/abs/2505.13578v1)|null|
 |**2025-05-19**|**Quantum Hamiltonian Certification**|Minbo Gao et.al.|[2505.13217v1](http://arxiv.org/abs/2505.13217v1)|null|
 |**2025-05-19**|**A near-optimal Quadratic Goldreich-Levin algorithm**|Jop Briët et.al.|[2505.13134v1](http://arxiv.org/abs/2505.13134v1)|null|
 |**2025-05-19**|**Stochastic Orthogonal Regularization for deep projective priors**|Ali Joundi et.al.|[2505.13078v1](http://arxiv.org/abs/2505.13078v1)|null|
-|**2025-05-19**|**A flexible approach for fat-water separation with bipolar readouts and correction of gradient-induced phase and amplitude effects**|Jorge Campos Pazmino et.al.|[2505.13015v1](http://arxiv.org/abs/2505.13015v1)|null|
-|**2025-05-19**|**A new approach for solving the problem of creation of inverse electron distribution function and practical recommendations for experimental searches for such media in glow discharges with hollow and flat cathodes**|Chengxun Yuan et.al.|[2505.12986v1](http://arxiv.org/abs/2505.12986v1)|null|
-|**2025-05-19**|**LatentINDIGO: An INN-Guided Latent Diffusion Algorithm for Image Restoration**|Di You et.al.|[2505.12935v1](http://arxiv.org/abs/2505.12935v1)|null|
-|**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875v1](http://arxiv.org/abs/2505.12875v1)|null|
-|**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873v1](http://arxiv.org/abs/2505.12873v1)|null|
-|**2025-05-19**|**FLTG: Byzantine-Robust Federated Learning via Angle-Based Defense and Non-IID-Aware Weighting**|Yanhua Wen et.al.|[2505.12851v1](http://arxiv.org/abs/2505.12851v1)|null|
-|**2025-05-19**|**The Gaussian Latent Machine: Efficient Prior and Posterior Sampling for Inverse Problems**|Muhamed Kuric et.al.|[2505.12836v1](http://arxiv.org/abs/2505.12836v1)|null|
-|**2025-05-19**|**Adaptive Inference through Bayesian and Inverse Bayesian Inference with Symmetry-Bias in Nonstationary Environments**|Shuji Shinohara et.al.|[2505.12796v2](http://arxiv.org/abs/2505.12796v2)|null|
-|**2025-05-19**|**DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories**|Joel Jang et.al.|[2505.12705v1](http://arxiv.org/abs/2505.12705v1)|null|
-|**2025-05-19**|**Implicit differentiation with second-order derivatives and benchmarks in finite-element-based differentiable physics**|Tianju Xue et.al.|[2505.12646v1](http://arxiv.org/abs/2505.12646v1)|null|
-|**2025-05-19**|**Single Image Reflection Removal via inter-layer Complementarity**|Yue Huang et.al.|[2505.12641v1](http://arxiv.org/abs/2505.12641v1)|null|
-|**2025-05-19**|**Emergence of the electronic states by quantum charge fluctuations in electron-doped high-$T_c$ cuprate superconductors**|Hiroshi Yamaguchi et.al.|[2505.12639v2](http://arxiv.org/abs/2505.12639v2)|null|
-|**2025-05-19**|**Inverse nonlinear fast Fourier transform on SU(2) with applications to quantum signal processing**|Hongkang Ni et.al.|[2505.12615v1](http://arxiv.org/abs/2505.12615v1)|null|
-|**2025-05-18**|**Acoustic Field Reconstruction in Tubes via Physics-Informed Neural Networks**|Xinmeng Luan et.al.|[2505.12557v1](http://arxiv.org/abs/2505.12557v1)|null|
-|**2025-05-18**|**DS-ProGen: A Dual-Structure Deep Language Model for Functional Protein Design**|Yanting Li et.al.|[2505.12511v1](http://arxiv.org/abs/2505.12511v1)|null|
-|**2025-05-18**|**UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning**|Longxi Gao et.al.|[2505.12493v1](http://arxiv.org/abs/2505.12493v1)|null|
-|**2025-05-18**|**Intrinsic layer polarization and multi-flatband transport in non-centrosymmetric mixed-stacked multilayer graphene**|Kai Liu et.al.|[2505.12478v1](http://arxiv.org/abs/2505.12478v1)|null|
-|**2025-05-18**|**DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model**|Siwei Xia et.al.|[2505.12427v2](http://arxiv.org/abs/2505.12427v2)|[link](https://github.com/sylvie-x/draglora)|
