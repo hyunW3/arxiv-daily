@@ -8,10 +8,10 @@
 |**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445v1](http://arxiv.org/abs/2505.13445v1)|null|
 |**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444v1](http://arxiv.org/abs/2505.13444v1)|null|
 |**2025-05-19**|**Wonderings on Wiggly Bispectra: Non-linear Evolution and Reconstruction of Oscillations in the Squeezed Bispectrum**|Samuel Goldstein et.al.|[2505.13443v1](http://arxiv.org/abs/2505.13443v1)|null|
-|**2025-05-19**|**Emergence of cross-layer composite spins in La$_4$Ni$_3$O$_{10}$ under pressure and possible routes to enhance its superconductivity**|Jiang Ruoshi et.al.|[2505.13442v1](http://arxiv.org/abs/2505.13442v1)|null|
+|**2025-05-19**|**Emergence of cross-layer composite spins in La$_4$Ni$_3$O$_{10}$ under pressure and possible routes to enhance its superconductivity**|Ruoshi Jiang et.al.|[2505.13442v2](http://arxiv.org/abs/2505.13442v2)|null|
 |**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|null|
 |**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|[link](https://github.com/dwawayu/pensieve)|
-|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|null|
+|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|[link](https://github.com/huawei-lin/VTBench)|
 |**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438v1](http://arxiv.org/abs/2505.13438v1)|[link](https://github.com/sail-sg/anytimereasoner)|
 |**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|null|
 |**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436v1](http://arxiv.org/abs/2505.13436v1)|null|
@@ -19,7 +19,7 @@
 |**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434v1](http://arxiv.org/abs/2505.13434v1)|null|
 |**2025-05-19**|**Nucleon-nucleon correlation functions from different interactions in comparison**|Matthias Göbel et.al.|[2505.13433v1](http://arxiv.org/abs/2505.13433v1)|null|
 |**2025-05-19**|**Synthetic-Powered Predictive Inference**|Meshi Bashari et.al.|[2505.13432v1](http://arxiv.org/abs/2505.13432v1)|null|
-|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431v1](http://arxiv.org/abs/2505.13431v1)|null|
+|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431v2](http://arxiv.org/abs/2505.13431v2)|null|
 |**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430v1](http://arxiv.org/abs/2505.13430v1)|null|
 |**2025-05-19**|**Understanding Complexity in VideoQA via Visual Program Generation**|Cristobal Eyzaguirre et.al.|[2505.13429v1](http://arxiv.org/abs/2505.13429v1)|null|
 |**2025-05-19**|**Meta-rotations and the Structure of Stable Matchings in the Student Project Allocation Problem**|Peace Ayegba et.al.|[2505.13428v1](http://arxiv.org/abs/2505.13428v1)|null|
