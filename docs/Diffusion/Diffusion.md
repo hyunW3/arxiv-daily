@@ -9,10 +9,10 @@
 |**2025-05-21**|**Borg-type theorem for a class of higher-order differential operators**|Ai-Wei Guan et.al.|[2505.15675v1](http://arxiv.org/abs/2505.15675v1)|null|
 |**2025-05-21**|**Permutons from Demazure Products**|Colin Defant et.al.|[2505.15630v1](http://arxiv.org/abs/2505.15630v1)|null|
 |**2025-05-21**|**Pointwise convergence of polynomial multiple ergodic averages along the primes**|Renhui Wan et.al.|[2505.15549v1](http://arxiv.org/abs/2505.15549v1)|null|
-|**2025-05-21**|**Scale-by-scale kinetic energy lfux calculations in simulations of rotating convection**|Youri H. Lemm et.al.|[2505.15463v1](http://arxiv.org/abs/2505.15463v1)|null|
+|**2025-05-21**|**Scale-by-scale kinetic energy flux calculations in simulations of rotating convection**|Youri H. Lemm et.al.|[2505.15463v2](http://arxiv.org/abs/2505.15463v2)|null|
 |**2025-05-21**|**Phasebook: A Survey of Selected Open Problems in Phase Retrieval**|Marc Allain et.al.|[2505.15351v1](http://arxiv.org/abs/2505.15351v1)|null|
 |**2025-05-21**|**Linear Convergence of Plug-and-Play Algorithms with Kernel Denoisers**|Arghya Sinha et.al.|[2505.15318v1](http://arxiv.org/abs/2505.15318v1)|null|
-|**2025-05-21**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222v1](http://arxiv.org/abs/2505.15222v1)|[link](https://github.com/yisiluo/continuous-representation-zoo)|
+|**2025-05-21**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222v2](http://arxiv.org/abs/2505.15222v2)|[link](https://github.com/yisiluo/continuous-representation-zoo)|
 |**2025-05-21**|**Damping Effects on Global Existence and Scattering for an Inhomogeneous NLS Equation with Inverse-Square Potential**|Makram Hamouda et.al.|[2505.15126v1](http://arxiv.org/abs/2505.15126v1)|null|
 |**2025-05-21**|**Adaptive Inertial Method**|Han Long et.al.|[2505.15114v1](http://arxiv.org/abs/2505.15114v1)|null|
 |**2025-05-21**|**Rethinking Habitability using Biogenic Precursors: Formaldehyde in Millimeter Molecular Clouds of the Inner Galaxy**|Nursyazela Badrina Baharin et.al.|[2505.15027v1](http://arxiv.org/abs/2505.15027v1)|null|
