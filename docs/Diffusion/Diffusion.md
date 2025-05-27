@@ -2,6 +2,9 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26**|**On Certain Problems in the Theory of Root Clusters**|Shubham Jaiswal et.al.|[2505.20238v1](http://arxiv.org/abs/2505.20238v1)|null|
+|**2025-05-26**|**URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning**|Fengkang Ying et.al.|[2505.20175v1](http://arxiv.org/abs/2505.20175v1)|null|
+|**2025-05-26**|**DeepInverse: A Python package for solving imaging inverse problems with deep learning**|Julián Tachella et.al.|[2505.20160v1](http://arxiv.org/abs/2505.20160v1)|null|
 |**2025-05-26**|**Proxy-Free GFlowNet**|Ruishuo Chen et.al.|[2505.20110v1](http://arxiv.org/abs/2505.20110v1)|null|
 |**2025-05-26**|**Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning**|Ziyi Zhang et.al.|[2505.20107v1](http://arxiv.org/abs/2505.20107v1)|null|
 |**2025-05-26**|**Gradient Inversion Transcript: Leveraging Robust Generative Priors to Reconstruct Training Data from Gradient Leakage**|Xinping Chen et.al.|[2505.20026v1](http://arxiv.org/abs/2505.20026v1)|null|
@@ -29,6 +32,3 @@
 |**2025-05-25**|**On certain subclasses of analytic and harmonic mappings**|Raju Biswas et.al.|[2505.19160v1](http://arxiv.org/abs/2505.19160v1)|null|
 |**2025-05-25**|**An application-oriented inverse nodal problem for Sturm-Liouville operators**|Yuchao He et.al.|[2505.19129v1](http://arxiv.org/abs/2505.19129v1)|null|
 |**2025-05-25**|**Training-free Stylized Text-to-Image Generation with Fast Inference**|Xin Ma et.al.|[2505.19063v1](http://arxiv.org/abs/2505.19063v1)|null|
-|**2025-05-25**|**Is Architectural Complexity Overrated? Competitive and Interpretable Knowledge Graph Completion with RelatE**|Abhijit Chakraborty et.al.|[2505.18971v1](http://arxiv.org/abs/2505.18971v1)|null|
-|**2025-05-25**|**Echo Planning for Autonomous Driving: From Current Observations to Future Trajectories and Back**|Jintao Sun et.al.|[2505.18945v1](http://arxiv.org/abs/2505.18945v1)|null|
-|**2025-05-24**|**Efficient Online Random Sampling via Randomness Recycling**|Thomas L. Draper et.al.|[2505.18879v1](http://arxiv.org/abs/2505.18879v1)|null|
