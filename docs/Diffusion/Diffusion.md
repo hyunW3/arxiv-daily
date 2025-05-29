@@ -19,7 +19,7 @@
 |**2025-05-27**|**Multi-Mode Process Control Using Multi-Task Inverse Reinforcement Learning**|Runze Lin et.al.|[2505.21026v1](http://arxiv.org/abs/2505.21026v1)|null|
 |**2025-05-27**|**A longitudinal Bayesian framework for estimating causal dose-response relationships**|Yu Luo et.al.|[2505.20893v1](http://arxiv.org/abs/2505.20893v1)|null|
 |**2025-05-27**|**Exploring Timeline Control for Facial Motion Generation**|Yifeng Ma et.al.|[2505.20861v1](http://arxiv.org/abs/2505.20861v1)|null|
-|**2025-05-27**|**Integrating Intermediate Layer Optimization and Projected Gradient Descent for Solving Inverse Problems with Diffusion Models**|Yang Zheng et.al.|[2505.20789v1](http://arxiv.org/abs/2505.20789v1)|null|
+|**2025-05-27**|**Integrating Intermediate Layer Optimization and Projected Gradient Descent for Solving Inverse Problems with Diffusion Models**|Yang Zheng et.al.|[2505.20789v2](http://arxiv.org/abs/2505.20789v2)|null|
 |**2025-05-27**|**Dislocations in a multi-layered elastic solid with applications to fault and interface identifications**|Huaian Diao et.al.|[2505.20763v1](http://arxiv.org/abs/2505.20763v1)|null|
 |**2025-05-27**|**Critical Spectrum and Quantum Criticality in the Two-Photon Rabi-Stark Model**|Jiong Li et.al.|[2505.20703v1](http://arxiv.org/abs/2505.20703v1)|null|
 |**2025-05-27**|**Dynamic inverse problem for complex Jacobi matrices**|A. S. Mikhaylov et.al.|[2505.20689v1](http://arxiv.org/abs/2505.20689v1)|null|
