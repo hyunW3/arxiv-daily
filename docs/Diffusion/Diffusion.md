@@ -25,7 +25,7 @@
 |**2025-05-27**|**Comment on "On the bound states of the Schwarzschild black hole" by S. H. Völkel: A Reassessment of the Bound-State Analogy**|Davood Momeni et.al.|[2505.21836v1](http://arxiv.org/abs/2505.21836v1)|null|
 |**2025-05-27**|**On Some Time-changed Variants of Erlang Queue with Multiple Arrivals**|Manisha Dhillon et.al.|[2505.21804v1](http://arxiv.org/abs/2505.21804v1)|null|
 |**2025-05-27**|**The Sunspot Solar Observatory Data Archive: Continuing Operations at the Dunn Solar Telescope**|Sean G. Sellers et.al.|[2505.21794v1](http://arxiv.org/abs/2505.21794v1)|null|
-|**2025-05-27**|**Compositional Scene Understanding through Inverse Generative Modeling**|Yanbo Wang et.al.|[2505.21780v1](http://arxiv.org/abs/2505.21780v1)|null|
+|**2025-05-27**|**Compositional Scene Understanding through Inverse Generative Modeling**|Yanbo Wang et.al.|[2505.21780v2](http://arxiv.org/abs/2505.21780v2)|null|
 |**2025-05-27**|**Are Statistical Methods Obsolete in the Era of Deep Learning?**|Skyler Wu et.al.|[2505.21723v1](http://arxiv.org/abs/2505.21723v1)|null|
 |**2025-05-27**|**Preconditioning transformations of adjoint systems for evolution equations**|Brian K. Tran et.al.|[2505.21705v1](http://arxiv.org/abs/2505.21705v1)|null|
 |**2025-05-27**|**Support identification for parameter variations in a PDE system via regularized methods**|Houcine Meftahi et.al.|[2505.21663v1](http://arxiv.org/abs/2505.21663v1)|null|
