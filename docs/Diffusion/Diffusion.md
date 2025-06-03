@@ -24,7 +24,7 @@
 |**2025-05-29**|**Density of states correlations in Lévy Rosenzweig-Porter model via supersymmetry approach**|Elizaveta Safonova et.al.|[2505.23903v1](http://arxiv.org/abs/2505.23903v1)|null|
 |**2025-05-29**|**Efficient sampling for sparse Bayesian learning using hierarchical prior normalization**|Jan Glaubitz et.al.|[2505.23753v1](http://arxiv.org/abs/2505.23753v1)|[link](https://github.com/jglaubitz/paper-2025-sbl-priornormalization)|
 |**2025-05-29**|**Hub Detection in Gaussian Graphical Models**|José Á. Sánchez Gómez et.al.|[2505.23707v1](http://arxiv.org/abs/2505.23707v1)|[link](https://github.com/jsgomez94/hubestimationcodesubmission)|
-|**2025-05-29**|**Measuring topological invariants of even-dimensional non-Hermitian systems through quench dynamics**|Xiao-Dong Lin et.al.|[2505.23633v1](http://arxiv.org/abs/2505.23633v1)|null|
+|**2025-05-29**|**Measuring topological invariants of even-dimensional non-Hermitian systems through quench dynamics**|Xiao-Dong Lin et.al.|[2505.23633v2](http://arxiv.org/abs/2505.23633v2)|null|
 |**2025-05-29**|**Relative to any non-arithmetic set**|Matthew Harrison-Trainor et.al.|[2505.23613v1](http://arxiv.org/abs/2505.23613v1)|null|
 |**2025-05-29**|**Multilook Coherent Imaging: Theoretical Guarantees and Algorithms**|Xi Chen et.al.|[2505.23594v1](http://arxiv.org/abs/2505.23594v1)|[link](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)|
 |**2025-05-29**|**Accelerated Training of Federated Learning via Second-Order Methods**|Mrinmay Sen et.al.|[2505.23588v1](http://arxiv.org/abs/2505.23588v1)|null|
