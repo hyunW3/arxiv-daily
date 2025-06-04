@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-30**|**Novel methodology to obtain transonic solutions for dissipative flows around compact objects**|Shilpa Sarkar et.al.|[2505.24839v1](http://arxiv.org/abs/2505.24839v1)|null|
 |**2025-05-30**|**Spin-dependent transport through edge states in 2D semi-Dirac materials with Rashba spin-orbit coupling and band inversion**|Marta García-Olmos et.al.|[2505.24745v1](http://arxiv.org/abs/2505.24745v1)|null|
-|**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718v1](http://arxiv.org/abs/2505.24718v1)|null|
+|**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718v2](http://arxiv.org/abs/2505.24718v2)|null|
 |**2025-05-30**|**Efficient Bayesian multi-fidelity inverse analysis for expensive and non-differentiable physics-based simulations in high stochastic dimensions**|Jonas Nitzler et.al.|[2505.24708v1](http://arxiv.org/abs/2505.24708v1)|null|
 |**2025-05-30**|**Two-stage MCMC for Fast Bayesian Inference of Large Spatio-temporal Ordinal Data, with Application to US Drought**|Staci Hepler et.al.|[2505.24594v1](http://arxiv.org/abs/2505.24594v1)|null|
 |**2025-05-30**|**Efficient Neural and Numerical Methods for High-Quality Online Speech Spectrogram Inversion via Gradient Theorem**|Andres Fernandez et.al.|[2505.24498v1](http://arxiv.org/abs/2505.24498v1)|null|
