@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-04 21:20:22 Asia/Shanghai
+ Automated deployment @ 2025-06-05 09:20:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -9,7 +9,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-03**|**Change of bifurcation type in 2D free boundary model of a moving cell with nonlinear diffusion**|Leonid Berlyand et.al.|[2506.03138v1](http://arxiv.org/abs/2506.03138v1)|null|
-|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v1](http://arxiv.org/abs/2506.03074v1)|null|
+|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v2](http://arxiv.org/abs/2506.03074v2)|null|
 |**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067v1](http://arxiv.org/abs/2506.03067v1)|null|
 |**2025-06-03**|**MAEBE: Multi-Agent Emergent Behavior Framework**|Sinem Erisken et.al.|[2506.03053v1](http://arxiv.org/abs/2506.03053v1)|null|
 |**2025-06-03**|**An IPCW Adjusted Win Statistics Approach in Clinical Trials Incorporating Equivalence Margins to Define Ties**|Ying Cui et.al.|[2506.03050v1](http://arxiv.org/abs/2506.03050v1)|null|
@@ -31,7 +31,7 @@
 |**2025-06-03**|**Reappraising the Elatina series: Solar dynamo clocking and inference of orbital periods**|F. Stefani et.al.|[2506.02628v1](http://arxiv.org/abs/2506.02628v1)|null|
 |**2025-06-03**|**DCI: Dual-Conditional Inversion for Boosting Diffusion-Based Image Editing**|Zixiang Li et.al.|[2506.02560v1](http://arxiv.org/abs/2506.02560v1)|null|
 |**2025-06-03**|**Identification of gapless phases by squaring a twist operator**|Hang Su et.al.|[2506.02496v1](http://arxiv.org/abs/2506.02496v1)|null|
-|**2025-06-03**|**On the Inversion Modulo a Power of an Integer**|Guangwu Xu et.al.|[2506.02491v1](http://arxiv.org/abs/2506.02491v1)|null|
+|**2025-06-03**|**On the Inversion Modulo a Power of an Integer**|Guangwu Xu et.al.|[2506.02491v2](http://arxiv.org/abs/2506.02491v2)|null|
 |**2025-06-03**|**Anisotropic superconducting gap probed by $^{125}$Te NMR in noncentrosymmetric Sc$_6M$Te$_2$ ($M$ = Fe, Co)**|Kanako Doi et.al.|[2506.02484v1](http://arxiv.org/abs/2506.02484v1)|null|
 |**2025-06-02**|**Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning**|Yijun Yang et.al.|[2506.02327v1](http://arxiv.org/abs/2506.02327v1)|null|
 |**2025-06-02**|**Dark Matter in X-rays: Revised XMM-Newton Limits and New Constraints from eROSITA**|Shyam Balaji et.al.|[2506.02310v1](http://arxiv.org/abs/2506.02310v1)|null|
@@ -45,7 +45,7 @@
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150v1](http://arxiv.org/abs/2506.03150v1)|null|
 |**2025-06-03**|**Causal Estimation of Tokenisation Bias**|Pietro Lesci et.al.|[2506.03149v1](http://arxiv.org/abs/2506.03149v1)|null|
 |**2025-06-03**|**Self-Supervised Spatial Correspondence Across Modalities**|Ayush Shrivastava et.al.|[2506.03148v1](http://arxiv.org/abs/2506.03148v1)|null|
-|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v1](http://arxiv.org/abs/2506.03147v1)|null|
+|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v2](http://arxiv.org/abs/2506.03147v2)|null|
 |**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke et.al.|[2506.03146v1](http://arxiv.org/abs/2506.03146v1)|null|
 |**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145v1](http://arxiv.org/abs/2506.03145v1)|null|
 |**2025-06-03**|**MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query**|Wei Chow et.al.|[2506.03144v1](http://arxiv.org/abs/2506.03144v1)|null|
