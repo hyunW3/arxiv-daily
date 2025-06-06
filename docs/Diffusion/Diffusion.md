@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-05**|**Neural Inverse Rendering from Propagating Light**|Anagh Malik et.al.|[2506.05347v1](http://arxiv.org/abs/2506.05347v1)|null|
+|**2025-06-05**|**Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment**|Yingshuai Ji et.al.|[2506.05325v1](http://arxiv.org/abs/2506.05325v1)|null|
+|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v1](http://arxiv.org/abs/2506.05317v1)|null|
+|**2025-06-05**|**Hydrodynamic noise in one dimension: projected Kubo formula and its vanishing in integrable models**|Benjamin Doyon et.al.|[2506.05279v1](http://arxiv.org/abs/2506.05279v1)|null|
+|**2025-06-05**|**Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**|Violet Xiang et.al.|[2506.05256v1](http://arxiv.org/abs/2506.05256v1)|null|
+|**2025-06-05**|**A Gaussian process approach for rapid evaluation of skin tension**|Matt Nagle et.al.|[2506.05118v1](http://arxiv.org/abs/2506.05118v1)|null|
+|**2025-06-05**|**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing**|Guangzhao Li et.al.|[2506.05046v1](http://arxiv.org/abs/2506.05046v1)|null|
+|**2025-06-05**|**Generalized product formulas for Whittaker's functions and a novel class of index transforms**|Semyon Yakubovich et.al.|[2506.05013v1](http://arxiv.org/abs/2506.05013v1)|null|
+|**2025-06-05**|**On the construction of a gradient method of quadratic optimization, optimal from the point of view of minimizing the distance to the exact solution**|N. V. Pletnev et.al.|[2506.04866v1](http://arxiv.org/abs/2506.04866v1)|null|
+|**2025-06-05**|**Controlling rovibrational state populations of polar molecules in inhomogeneous electric fields of the Stark deceleration: molecular dynamics and quantum chemistry simulations**|Emil Zak et.al.|[2506.04798v1](http://arxiv.org/abs/2506.04798v1)|null|
+|**2025-06-05**|**Lipschitz stability for Bayesian inference in porous medium tissue growth models**|Tomasz Dębiec et.al.|[2506.04769v1](http://arxiv.org/abs/2506.04769v1)|null|
+|**2025-06-05**|**An Array Decomposition Method for Finite Arrays with Electrically Connected Elements for fast Toeplitz Solvers**|Lucas Åkerstedt et.al.|[2506.04710v1](http://arxiv.org/abs/2506.04710v1)|null|
+|**2025-06-05**|**Inverse elastic obstacle scattering problems by monotonicity method**|Mengjiao Bai et.al.|[2506.04655v1](http://arxiv.org/abs/2506.04655v1)|null|
+|**2025-06-05**|**Nonreciprocal superconducting critical currents with normal state field trainability in kagome superconductor CsV3Sb5**|Jun Ge et.al.|[2506.04601v1](http://arxiv.org/abs/2506.04601v1)|null|
+|**2025-06-05**|**Classical and quantum trace-free Einstein cosmology**|Merced Montesinos et.al.|[2506.04550v1](http://arxiv.org/abs/2506.04550v1)|null|
+|**2025-06-05**|**Assessing parameter identifiability of a hemodynamics PDE model using spectral surrogates and dimension reduction**|Mitchel J. Colebank et.al.|[2506.04538v1](http://arxiv.org/abs/2506.04538v1)|null|
+|**2025-06-04**|**Towards Large-Scale Pose-Invariant Face Recognition Using Face Defrontalization**|Patrik Mesec et.al.|[2506.04496v1](http://arxiv.org/abs/2506.04496v1)|null|
+|**2025-06-04**|**Pushforwards in Inverse Homotopical Diagrams**|Chris Kapulkin et.al.|[2506.04472v1](http://arxiv.org/abs/2506.04472v1)|null|
+|**2025-06-04**|**Faster Probabilistic Error Cancellation**|Yi-Hsiang Chen et.al.|[2506.04468v1](http://arxiv.org/abs/2506.04468v1)|null|
+|**2025-06-04**|**Chern insulators in two and three dimensions: A global perspective**|Jason G. Kattan et.al.|[2506.04466v1](http://arxiv.org/abs/2506.04466v1)|null|
+|**2025-06-04**|**Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning**|Hasin Us Sami et.al.|[2506.04453v1](http://arxiv.org/abs/2506.04453v1)|null|
+|**2025-06-04**|**KOALA++: Efficient Kalman-Based Optimization of Neural Networks with Gradient-Covariance Products**|Zixuan Xia et.al.|[2506.04432v1](http://arxiv.org/abs/2506.04432v1)|null|
+|**2025-06-04**|**A phase transition in the Bakry-Émery gradient estimate for Dyson Brownian motion**|Kohei Suzuki et.al.|[2506.04424v1](http://arxiv.org/abs/2506.04424v1)|null|
+|**2025-06-04**|**Om-Theory of Macroscopic Electromagnetism: Greener Vibes for Isotropy-Broken Media**|Maxim Durach et.al.|[2506.04393v1](http://arxiv.org/abs/2506.04393v1)|null|
+|**2025-06-04**|**The Hashed Fractal Key Recovery (HFKR) Problem: From Symbolic Path Inversion to Post-Quantum Cryptographic Keys**|Mohamed Aly Bouke et.al.|[2506.04383v1](http://arxiv.org/abs/2506.04383v1)|null|
+|**2025-06-04**|**Solving engineering eigenvalue problems with neural networks using the Rayleigh quotient**|Conor Rowan et.al.|[2506.04375v1](http://arxiv.org/abs/2506.04375v1)|null|
+|**2025-06-04**|**Superconducting antiqubits achieve optimal phase estimation via unitary inversion**|Xingrui Song et.al.|[2506.04315v1](http://arxiv.org/abs/2506.04315v1)|null|
 |**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216v1](http://arxiv.org/abs/2506.04216v1)|null|
 |**2025-06-04**|**Synthetic multi-inversion time magnetic resonance images for visualization of subcortical structures**|Savannah P. Hays et.al.|[2506.04173v1](http://arxiv.org/abs/2506.04173v1)|null|
 |**2025-06-04**|**Dynamically derived morphology from the recurrence patterns of close binary stars using Kepler data**|Anisha R. V. Kashyap et.al.|[2506.04111v1](http://arxiv.org/abs/2506.04111v1)|null|
-|**2025-06-04**|**Finite-time self-similar implosion of hollow vortices**|Robin Ming Chen et.al.|[2506.04093v1](http://arxiv.org/abs/2506.04093v1)|null|
-|**2025-06-04**|**Collaborative On-Sensor Array Cameras**|Jipeng Sun et.al.|[2506.04061v1](http://arxiv.org/abs/2506.04061v1)|null|
-|**2025-06-04**|**Dark matter mixing within the seesaw type II mechanism in the left-right symmetric model**|M. Dubinin et.al.|[2506.04035v1](http://arxiv.org/abs/2506.04035v1)|null|
-|**2025-06-04**|**Dreaming up scale invariance via inverse renormalization group**|Adam Rançon et.al.|[2506.04016v1](http://arxiv.org/abs/2506.04016v1)|null|
-|**2025-06-04**|**On the enumeration of double cosets and self-inverse double cosets**|Ludovic Schwob et.al.|[2506.04007v1](http://arxiv.org/abs/2506.04007v1)|null|
-|**2025-06-04**|**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**|Haoxuan Chen et.al.|[2506.03979v2](http://arxiv.org/abs/2506.03979v2)|null|
-|**2025-06-04**|**Determination of Effect of the Movement of a Finite, Dip-slip Fault in Viscoelastic Half-space of Fractional Burger Rheology**|Pabita Mahato et.al.|[2506.03977v1](http://arxiv.org/abs/2506.03977v1)|null|
-|**2025-06-04**|**From Spikes to Speech: NeuroVoc -- A Biologically Plausible Vocoder Framework for Auditory Perception and Cochlear Implant Simulation**|Jacob de Nobel et.al.|[2506.03959v1](http://arxiv.org/abs/2506.03959v1)|null|
-|**2025-06-04**|**Block Alpha-Circulant Preconditioners for All-at-Once Diffusion-Based Covariance Operators**|Jemima M. Tabeart et.al.|[2506.03947v2](http://arxiv.org/abs/2506.03947v2)|null|
-|**2025-06-04**|**Personalized Improvement of Standard Readout Error Mitigation using Low-Depth Circuits and Machine Learning**|Melody Lee et.al.|[2506.03920v1](http://arxiv.org/abs/2506.03920v1)|null|
-|**2025-06-04**|**Stabilization of Linear Switched Systems with Long Input Delay via Average or Averaging Predictor Feedbacks**|Andreas Katsanikakis et.al.|[2506.03908v1](http://arxiv.org/abs/2506.03908v1)|null|
-|**2025-06-04**|**The generalized and pseudo $n$-strong Drazin inverse of the sum of elements in Banach algebras**|Rounak Biswas et.al.|[2506.03845v1](http://arxiv.org/abs/2506.03845v1)|null|
-|**2025-06-04**|**Toward Entailment Checking: Explore Eigenmarking Search**|Tatpong Katanyukul et.al.|[2506.03771v1](http://arxiv.org/abs/2506.03771v1)|null|
-|**2025-06-04**|**Influence of photon inverse emission on forward-backward asymmetry in dilepton production at LHC**|Vladimir Zykunov et.al.|[2506.03736v1](http://arxiv.org/abs/2506.03736v1)|null|
-|**2025-06-04**|**The precision measurement of the electron anti-neutrino spectrum in beta-decay of $\rm{^{144}Pr}$ nuclei**|A. V. Derbin et.al.|[2506.03716v1](http://arxiv.org/abs/2506.03716v1)|null|
-|**2025-06-04**|**Quenching of single-particle strength inferred from nucleon-removal transfer reactions on $^{15}$C**|Y. C. Jiang et.al.|[2506.03685v1](http://arxiv.org/abs/2506.03685v1)|null|
-|**2025-06-04**|**The Yang-Baxter integrability of the critical Ising chain**|Akash Sinha et.al.|[2506.03668v1](http://arxiv.org/abs/2506.03668v1)|null|
-|**2025-06-04**|**Quantum field theory and inverse problems: imaging with entangled photons**|Matti Lassas et.al.|[2506.03653v1](http://arxiv.org/abs/2506.03653v1)|null|
-|**2025-06-04**|**Physics-Informed Neural Network Approach to Quark-Antiquark Color Flux Tube**|Wei Kou et.al.|[2506.03513v1](http://arxiv.org/abs/2506.03513v1)|null|
-|**2025-06-03**|**RefEdit: A Benchmark and Method for Improving Instruction-based Image Editing Model on Referring Expressions**|Bimsara Pathiraja et.al.|[2506.03448v1](http://arxiv.org/abs/2506.03448v1)|null|
-|**2025-06-03**|**Late gas released in the young Kuiper belt could have significantly contributed to the carbon enrichment of the atmospheres of Neptune and Uranus**|Paul Huet et.al.|[2506.03412v1](http://arxiv.org/abs/2506.03412v1)|null|
-|**2025-06-03**|**Genetic Algorithm-Based Inverse Design of Guided Wave Planar Terahertz Filters**|Ali Dehghanian et.al.|[2506.03372v1](http://arxiv.org/abs/2506.03372v1)|null|
-|**2025-06-03**|**Causal Inference with Missing Exposures, Missing Outcomes, and Dependence**|Kirsten E. Landsiedel et.al.|[2506.03336v1](http://arxiv.org/abs/2506.03336v1)|null|
-|**2025-06-03**|**Universal Resources for QAOA and Quantum Annealing**|Pablo Díez-Valle et.al.|[2506.03241v1](http://arxiv.org/abs/2506.03241v1)|null|
-|**2025-06-03**|**Change of bifurcation type in 2D free boundary model of a moving cell with nonlinear diffusion**|Leonid Berlyand et.al.|[2506.03138v1](http://arxiv.org/abs/2506.03138v1)|null|
-|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v2](http://arxiv.org/abs/2506.03074v2)|null|
-|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067v1](http://arxiv.org/abs/2506.03067v1)|null|
