@@ -6,10 +6,10 @@
 |**2025-06-05**|**Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment**|Yingshuai Ji et.al.|[2506.05325v1](http://arxiv.org/abs/2506.05325v1)|null|
 |**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v1](http://arxiv.org/abs/2506.05317v1)|null|
 |**2025-06-05**|**Hydrodynamic noise in one dimension: projected Kubo formula and its vanishing in integrable models**|Benjamin Doyon et.al.|[2506.05279v1](http://arxiv.org/abs/2506.05279v1)|null|
-|**2025-06-05**|**Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**|Violet Xiang et.al.|[2506.05256v1](http://arxiv.org/abs/2506.05256v1)|null|
+|**2025-06-05**|**Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**|Violet Xiang et.al.|[2506.05256v2](http://arxiv.org/abs/2506.05256v2)|null|
 |**2025-06-05**|**A Gaussian process approach for rapid evaluation of skin tension**|Matt Nagle et.al.|[2506.05118v1](http://arxiv.org/abs/2506.05118v1)|null|
 |**2025-06-05**|**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing**|Guangzhao Li et.al.|[2506.05046v1](http://arxiv.org/abs/2506.05046v1)|null|
-|**2025-06-05**|**Generalized product formulas for Whittaker's functions and a novel class of index transforms**|Semyon Yakubovich et.al.|[2506.05013v1](http://arxiv.org/abs/2506.05013v1)|null|
+|**2025-06-05**|**Generalized product formulas for Whittaker's functions and a novel class of index transforms**|Semyon Yakubovich et.al.|[2506.05013v2](http://arxiv.org/abs/2506.05013v2)|null|
 |**2025-06-05**|**On the construction of a gradient method of quadratic optimization, optimal from the point of view of minimizing the distance to the exact solution**|N. V. Pletnev et.al.|[2506.04866v1](http://arxiv.org/abs/2506.04866v1)|null|
 |**2025-06-05**|**Controlling rovibrational state populations of polar molecules in inhomogeneous electric fields of the Stark deceleration: molecular dynamics and quantum chemistry simulations**|Emil Zak et.al.|[2506.04798v1](http://arxiv.org/abs/2506.04798v1)|null|
 |**2025-06-05**|**Lipschitz stability for Bayesian inference in porous medium tissue growth models**|Tomasz Dębiec et.al.|[2506.04769v1](http://arxiv.org/abs/2506.04769v1)|null|
