@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-06**|**Tuning of altermagnetism by strain**|M. Khodas et.al.|[2506.06257v1](http://arxiv.org/abs/2506.06257v1)|null|
 |**2025-06-06**|**Inverse-designed nanophotonic neural network accelerators for ultra-compact optical computing**|Joel Sved et.al.|[2506.06150v1](http://arxiv.org/abs/2506.06150v1)|null|
-|**2025-06-06**|**Faint absorption of the ground state hyperfine-splitting transitions of hydroxyl at 18 cm in the Galactic Disk**|M. R. Rugel et.al.|[2506.06149v1](http://arxiv.org/abs/2506.06149v1)|null|
+|**2025-06-06**|**Faint absorption of the ground state hyperfine-splitting transitions of hydroxyl at 18 cm in the Galactic Disk**|M. R. Rugel et.al.|[2506.06149v2](http://arxiv.org/abs/2506.06149v2)|null|
 |**2025-06-06**|**Serre functor and $\mathbb{P}$-objects for perverse sheaves on $\mathbb{P}^n$**|Lukas Bonfert et.al.|[2506.06051v1](http://arxiv.org/abs/2506.06051v1)|null|
 |**2025-06-06**|**On Inverse Problems, Parameter Estimation, and Domain Generalization**|Deborah Pereg et.al.|[2506.06024v1](http://arxiv.org/abs/2506.06024v1)|null|
 |**2025-06-06**|**Dual Approach to Inverse Covariance Intersection Fusion**|Jiří Ajgl et.al.|[2506.05955v1](http://arxiv.org/abs/2506.05955v1)|null|
@@ -17,7 +17,7 @@
 |**2025-06-05**|**Initial Model Incorporation for Deep Learning FWI: Pretraining or Denormalization?**|Ruihua Chen et.al.|[2506.05484v1](http://arxiv.org/abs/2506.05484v1)|null|
 |**2025-06-05**|**Neural Inverse Rendering from Propagating Light**|Anagh Malik et.al.|[2506.05347v1](http://arxiv.org/abs/2506.05347v1)|null|
 |**2025-06-05**|**Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment**|Yingshuai Ji et.al.|[2506.05325v1](http://arxiv.org/abs/2506.05325v1)|null|
-|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v1](http://arxiv.org/abs/2506.05317v1)|null|
+|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v2](http://arxiv.org/abs/2506.05317v2)|null|
 |**2025-06-05**|**Hydrodynamic noise in one dimension: projected Kubo formula and its vanishing in integrable models**|Benjamin Doyon et.al.|[2506.05279v1](http://arxiv.org/abs/2506.05279v1)|null|
 |**2025-06-05**|**Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**|Violet Xiang et.al.|[2506.05256v2](http://arxiv.org/abs/2506.05256v2)|null|
 |**2025-06-05**|**A Gaussian process approach for rapid evaluation of skin tension**|Matt Nagle et.al.|[2506.05118v1](http://arxiv.org/abs/2506.05118v1)|null|

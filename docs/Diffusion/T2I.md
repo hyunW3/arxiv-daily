@@ -16,7 +16,7 @@
 |**2025-06-06**|**Accurately simulating core-collapse self-interacting dark matter halos**|Moritz S. Fischer et.al.|[2506.06269v1](http://arxiv.org/abs/2506.06269v1)|null|
 |**2025-06-06**|**Design Tradeoffs in Photonically Linked Qubit Networks**|Ely Novakoski et.al.|[2506.06268v1](http://arxiv.org/abs/2506.06268v1)|null|
 |**2025-06-06**|**When Measurement Mediates the Effect of Interest**|Joy Zora Nakato et.al.|[2506.06267v1](http://arxiv.org/abs/2506.06267v1)|null|
-|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266v1](http://arxiv.org/abs/2506.06266v1)|null|
+|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266v2](http://arxiv.org/abs/2506.06266v2)|null|
 |**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|null|
 |**2025-06-06**|**The SagbiHomotopy.jl package for solving polynomial systems**|Barbara Betti et.al.|[2506.06264v1](http://arxiv.org/abs/2506.06264v1)|null|
 |**2025-06-06**|**Dynamics of rotationally invariant polynomial root sets under iterated differentiations**|André Galligo et.al.|[2506.06263v1](http://arxiv.org/abs/2506.06263v1)|null|
