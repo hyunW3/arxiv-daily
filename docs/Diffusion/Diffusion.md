@@ -2,6 +2,22 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-12**|**How Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?**|Sohee Yang et.al.|[2506.10979v1](http://arxiv.org/abs/2506.10979v1)|null|
+|**2025-06-12**|**ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems**|Aayush Karan et.al.|[2506.10955v1](http://arxiv.org/abs/2506.10955v1)|null|
+|**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946v1](http://arxiv.org/abs/2506.10946v1)|null|
+|**2025-06-12**|**A Combined Parallel-in-time Direct Inverse (ParaDIn)-Parareal Method for Nonlinear Differential Equations**|Subhash Paudel et.al.|[2506.10820v1](http://arxiv.org/abs/2506.10820v1)|null|
+|**2025-06-12**|**Construction of Kondo Chains by Engineering Porphyrin π-Radicals on Au(111)**|Yan Zhao et.al.|[2506.10729v1](http://arxiv.org/abs/2506.10729v1)|null|
+|**2025-06-12**|**An $O(n$)-Algorithm for the Higher-Order Kinematics and Inverse Dynamics of Serial Manipulators using Spatial Representation of Twists**|Andreas Mueller et.al.|[2506.10686v1](http://arxiv.org/abs/2506.10686v1)|null|
+|**2025-06-12**|**Ultrafast non-volatile rewritable ferroaxial switching**|Z. Zeng et.al.|[2506.10682v1](http://arxiv.org/abs/2506.10682v1)|null|
+|**2025-06-12**|**Relative Inverse Limit Perfection of Derived Commutative Rings**|Daniel Fink et.al.|[2506.10626v1](http://arxiv.org/abs/2506.10626v1)|null|
+|**2025-06-12**|**HBAR entropy of Infalling Atoms into a GUP-corrected Schwarzschild Black Hole and equivalence principle**|Ali Övgün et.al.|[2506.10621v1](http://arxiv.org/abs/2506.10621v1)|null|
+|**2025-06-12**|**Hamiltonian Learning via Inverse Physics-Informed Neural Networks**|Jie Liu et.al.|[2506.10379v1](http://arxiv.org/abs/2506.10379v1)|null|
+|**2025-06-12**|**Nonlinear Néel Spin-Orbit Torque in Centrosymmetric Antiferromagnets**|Jin Cao et.al.|[2506.10333v1](http://arxiv.org/abs/2506.10333v1)|null|
+|**2025-06-11**|**Exploring Topological and Localization Phenomena in SSH Chains under Generalized AAH Modulation: A Computational Approach**|Souvik Ghosh et.al.|[2506.10195v1](http://arxiv.org/abs/2506.10195v1)|null|
+|**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182v1](http://arxiv.org/abs/2506.10182v1)|null|
+|**2025-06-11**|**Diffusion prior as a direct regularization term for FWI**|Yuke Xie et.al.|[2506.10141v1](http://arxiv.org/abs/2506.10141v1)|null|
+|**2025-06-11**|**Interacting Electronic Topology of Nonlocal Crystals**|Shu Hamanaka et.al.|[2506.10071v1](http://arxiv.org/abs/2506.10071v1)|null|
+|**2025-06-11**|**Cylindrical gravitational impulse wave**|Jean Jules Defo et.al.|[2506.10053v1](http://arxiv.org/abs/2506.10053v1)|null|
 |**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949v1](http://arxiv.org/abs/2506.09949v1)|null|
 |**2025-06-11**|**A Diffuse-Interface Marangoni Instability**|Xiangwei Li et.al.|[2506.09945v1](http://arxiv.org/abs/2506.09945v1)|null|
 |**2025-06-11**|**Efficient multigrid solvers for mixed-degree local discontinuous Galerkin multiphase Stokes problems**|Robert I. Saye et.al.|[2506.09933v1](http://arxiv.org/abs/2506.09933v1)|null|
@@ -16,19 +32,3 @@
 |**2025-06-11**|**Hall effect in isolated flat-band systems**|Raigo Nagashima et.al.|[2506.09535v1](http://arxiv.org/abs/2506.09535v1)|null|
 |**2025-06-11**|**Entropy proxy inversions as tracers of the evolution of physical conditions at the base of the solar convective envelope**|G. Buldgen et.al.|[2506.09503v1](http://arxiv.org/abs/2506.09503v1)|null|
 |**2025-06-11**|**EnerBridge-DPO: Energy-Guided Protein Inverse Folding with Markov Bridges and Direct Preference Optimization**|Dingyi Rong et.al.|[2506.09496v1](http://arxiv.org/abs/2506.09496v1)|null|
-|**2025-06-11**|**Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation**|Yuxin Liu et.al.|[2506.09485v1](http://arxiv.org/abs/2506.09485v1)|null|
-|**2025-06-11**|**QuGrav: Bringing gravitational waves to light with Qumodes**|Dmitri E. Kharzeev et.al.|[2506.09459v1](http://arxiv.org/abs/2506.09459v1)|null|
-|**2025-06-11**|**Noise Conditional Variational Score Distillation**|Xinyu Peng et.al.|[2506.09416v1](http://arxiv.org/abs/2506.09416v1)|null|
-|**2025-06-11**|**Ising superconductivity in bulk layered non-centrosymmetric 4H-NbSe2**|Chandan Patra et.al.|[2506.09413v1](http://arxiv.org/abs/2506.09413v1)|null|
-|**2025-06-11**|**Inverse scattering problem for the third-order equation on the line**|Tuncay Aktosun et.al.|[2506.09346v1](http://arxiv.org/abs/2506.09346v1)|null|
-|**2025-06-11**|**Engineering topological phase transitions via sliding ferroelectricity in MBi2Te4 (M = Ge, Sn, Pb) bilayers**|Xinlong Dong et.al.|[2506.09317v1](http://arxiv.org/abs/2506.09317v1)|null|
-|**2025-06-10**|**Enhancing Acoustic-to-Articulatory Speech Inversion by Incorporating Nasality**|Saba Tabatabaee et.al.|[2506.09231v1](http://arxiv.org/abs/2506.09231v1)|null|
-|**2025-06-10**|**Can repeating and non-repeating FRBs be drawn from the same population?**|Paz Beniamini et.al.|[2506.09138v1](http://arxiv.org/abs/2506.09138v1)|null|
-|**2025-06-10**|**Equivalence of Optical Theorems**|Edwin A. Marengo et.al.|[2506.08943v1](http://arxiv.org/abs/2506.08943v1)|null|
-|**2025-06-10**|**The Fourier transform in variable exponent Lebesgue spaces**|André Pedroso Kowacs et.al.|[2506.08891v1](http://arxiv.org/abs/2506.08891v1)|null|
-|**2025-06-10**|**Nonequilibrium fluctuation-response relations for state-current correlations**|Krzysztof Ptaszynski et.al.|[2506.08877v2](http://arxiv.org/abs/2506.08877v2)|null|
-|**2025-06-10**|**Low-Rank Augmented Implicit Neural Representation for Unsupervised High-Dimensional Quantitative MRI Reconstruction**|Haonan Zhang et.al.|[2506.09100v1](http://arxiv.org/abs/2506.09100v1)|null|
-|**2025-06-10**|**The MeerKAT Massive Distant Clusters Survey: Detection of Diffuse Radio Emission in Galaxy Clusters at $z > 1$**|Dakalo G. Phuravhathu et.al.|[2506.08853v1](http://arxiv.org/abs/2506.08853v1)|null|
-|**2025-06-10**|**Phonon- and magnon-mediated decoherence of a magnonic qubit**|Vemund Falch et.al.|[2506.08823v1](http://arxiv.org/abs/2506.08823v1)|null|
-|**2025-06-10**|**Symmetry energy and neutron matter equation of state at $ρ_0/3$ from the electric dipole polarizability in $^{48}$Ca, $^{68}$Ni and $^{208}$Pb**|Mengying Qiu et.al.|[2506.08778v1](http://arxiv.org/abs/2506.08778v1)|null|
-|**2025-06-10**|**Bayesian Inverse Physics for Neuro-Symbolic Robot Learning**|Octavio Arriaga et.al.|[2506.08756v1](http://arxiv.org/abs/2506.08756v1)|null|
