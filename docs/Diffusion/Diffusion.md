@@ -18,14 +18,14 @@
 |**2025-06-11**|**Diffusion prior as a direct regularization term for FWI**|Yuke Xie et.al.|[2506.10141v1](http://arxiv.org/abs/2506.10141v1)|null|
 |**2025-06-11**|**Interacting Electronic Topology of Nonlocal Crystals**|Shu Hamanaka et.al.|[2506.10071v1](http://arxiv.org/abs/2506.10071v1)|null|
 |**2025-06-11**|**Cylindrical gravitational impulse wave**|Jean Jules Defo et.al.|[2506.10053v1](http://arxiv.org/abs/2506.10053v1)|null|
-|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949v1](http://arxiv.org/abs/2506.09949v1)|null|
+|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949v1](http://arxiv.org/abs/2506.09949v1)|[link](https://github.com/gregongie/super_inrs)|
 |**2025-06-11**|**A Diffuse-Interface Marangoni Instability**|Xiangwei Li et.al.|[2506.09945v1](http://arxiv.org/abs/2506.09945v1)|null|
 |**2025-06-11**|**Efficient multigrid solvers for mixed-degree local discontinuous Galerkin multiphase Stokes problems**|Robert I. Saye et.al.|[2506.09933v1](http://arxiv.org/abs/2506.09933v1)|null|
 |**2025-06-11**|**Surface phase behavior, not hydrogen bonding, governs hydrophobic attraction between extended solutes**|Nigel B. Wilding et.al.|[2506.09858v1](http://arxiv.org/abs/2506.09858v1)|null|
 |**2025-06-11**|**Influence of photon-magnon coupling to enhance spin-wave excitation**|Liubov Ivzhenko et.al.|[2506.09808v1](http://arxiv.org/abs/2506.09808v1)|null|
-|**2025-06-11**|**Inverting Black-Box Face Recognition Systems via Zero-Order Optimization in Eigenface Space**|Anton Razzhigaev et.al.|[2506.09777v1](http://arxiv.org/abs/2506.09777v1)|null|
+|**2025-06-11**|**Inverting Black-Box Face Recognition Systems via Zero-Order Optimization in Eigenface Space**|Anton Razzhigaev et.al.|[2506.09777v1](http://arxiv.org/abs/2506.09777v1)|[link](https://github.com/fusionbrainlab/adversarialfaces)|
 |**2025-06-11**|**Hidden degree of freedom implied by unusual nonlocal transport in a topological semimetal**|Yongjian Wang et.al.|[2506.09720v1](http://arxiv.org/abs/2506.09720v1)|null|
-|**2025-06-11**|**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**|Haoyi Song et.al.|[2506.09684v1](http://arxiv.org/abs/2506.09684v1)|null|
+|**2025-06-11**|**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**|Haoyi Song et.al.|[2506.09684v1](http://arxiv.org/abs/2506.09684v1)|[link](https://github.com/umdatasciencelab/uncertainty-quantification-for-llms)|
 |**2025-06-11**|**Type III Valley Polarization and Anomalous Valley Hall Effect in Two-Dimensional Non-Janus and Janus Altermagnet Fe2WS2Se2**|Yanchao She et.al.|[2506.09675v1](http://arxiv.org/abs/2506.09675v1)|null|
 |**2025-06-11**|**Rigidity of pseudofunction algebras of ample groupoids**|Eusebio Gardella et.al.|[2506.09563v1](http://arxiv.org/abs/2506.09563v1)|null|
 |**2025-06-11**|**Covariant dynamics from static spherically symmetric geometries**|Cong Zhang et.al.|[2506.09540v1](http://arxiv.org/abs/2506.09540v1)|null|
