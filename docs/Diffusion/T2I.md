@@ -27,7 +27,7 @@
 |**2025-06-13**|**Statistical State Dynamics based study of turbulence in Eady fronts. Part 1. Instability**|Eojin Kim et.al.|[2506.11993v1](http://arxiv.org/abs/2506.11993v1)|null|
 |**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v1](http://arxiv.org/abs/2506.11991v1)|null|
 |**2025-06-13**|**Learning the Analytic Geometry of Transformations to Achieve Efficient Computation**|Pei-Chun Su et.al.|[2506.11990v1](http://arxiv.org/abs/2506.11990v1)|null|
-|**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|null|
+|**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|[link](https://github.com/glerium/Thought-Graph-Traversal)|
 |**2025-06-13**|**Sturmian basis set for the Dirac equation with finite nuclear size: Application to polarizability, Zeeman and hyperfine splitting, and vacuum polarization**|V. K. Ivanov et.al.|[2506.11988v1](http://arxiv.org/abs/2506.11988v1)|null|
 |**2025-06-13**|**Using gridpoint relaxation for forecast error diagnostics in neural weather models**|Uros Perkan et.al.|[2506.11987v1](http://arxiv.org/abs/2506.11987v1)|null|
 |**2025-06-13**|**Schema-R1: A reasoning training approach for schema linking in Text-to-SQL Task**|Wuzhenghong Wen et.al.|[2506.11986v1](http://arxiv.org/abs/2506.11986v1)|null|
