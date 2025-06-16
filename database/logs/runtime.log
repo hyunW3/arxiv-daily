@@ -22695,3 +22695,5 @@ expected <block end>, but found '<block mapping start>'
 2025-06-15 21:05:49.504 | SUCCESS  | __main__:parse:182 - handle [2/2] | topic=`Diffusion` subtopic=`Diffusion`
 2025-06-16 09:24:33.355 | SUCCESS  | __main__:parse:182 - handle [1/2] | topic=`Diffusion` subtopic=`Diffusion`
 2025-06-16 09:24:33.390 | SUCCESS  | __main__:parse:182 - handle [2/2] | topic=`Diffusion` subtopic=`T2I`
+2025-06-16 20:36:26.253 | SUCCESS  | __main__:parse:182 - handle [1/2] | topic=`Diffusion` subtopic=`Diffusion`
+2025-06-16 20:36:26.949 | SUCCESS  | __main__:parse:182 - handle [2/2] | topic=`Diffusion` subtopic=`T2I`
