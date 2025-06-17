@@ -18,14 +18,14 @@
 |**2025-06-13**|**Worldvolume Hybrid Monte Carlo algorithm for group manifolds**|Masafumi Fukuma et.al.|[2506.12002v1](http://arxiv.org/abs/2506.12002v1)|null|
 |**2025-06-13**|**No dynamical CPT symmetry restoration in quantum gravity**|Astrid Eichhorn et.al.|[2506.12001v1](http://arxiv.org/abs/2506.12001v1)|null|
 |**2025-06-13**|**An Efficient Compression of Deep Neural Network Checkpoints Based on Prediction and Context Modeling**|Yuriy Kim et.al.|[2506.12000v1](http://arxiv.org/abs/2506.12000v1)|null|
-|**2025-06-13**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999v1](http://arxiv.org/abs/2506.11999v1)|null|
+|**2025-06-13**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999v2](http://arxiv.org/abs/2506.11999v2)|null|
 |**2025-06-13**|**Spot-Crossing Variations Confirm a Misaligned Orbit for a Planet Transiting an M Dwarf**|Patrick Tamburo et.al.|[2506.11998v1](http://arxiv.org/abs/2506.11998v1)|null|
 |**2025-06-13**|**pLSTM: parallelizable Linear Source Transition Mark networks**|Korbinian Pöppel et.al.|[2506.11997v1](http://arxiv.org/abs/2506.11997v1)|null|
 |**2025-06-13**|**Improving Surgical Risk Prediction Through Integrating Automated Body Composition Analysis: a Retrospective Trial on Colectomy Surgery**|Hanxue Gu et.al.|[2506.11996v1](http://arxiv.org/abs/2506.11996v1)|null|
 |**2025-06-13**|**Minimum-hop Constellation Design for Low Earth Orbit Satellite Networks**|Chirag Rao et.al.|[2506.11995v1](http://arxiv.org/abs/2506.11995v1)|null|
 |**2025-06-13**|**Spectral Estimation with Free Decompression**|Siavash Ameli et.al.|[2506.11994v1](http://arxiv.org/abs/2506.11994v1)|null|
 |**2025-06-13**|**Statistical State Dynamics based study of turbulence in Eady fronts. Part 1. Instability**|Eojin Kim et.al.|[2506.11993v1](http://arxiv.org/abs/2506.11993v1)|null|
-|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v1](http://arxiv.org/abs/2506.11991v1)|null|
+|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v2](http://arxiv.org/abs/2506.11991v2)|null|
 |**2025-06-13**|**Learning the Analytic Geometry of Transformations to Achieve Efficient Computation**|Pei-Chun Su et.al.|[2506.11990v1](http://arxiv.org/abs/2506.11990v1)|null|
 |**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|[link](https://github.com/glerium/Thought-Graph-Traversal)|
 |**2025-06-13**|**Sturmian basis set for the Dirac equation with finite nuclear size: Application to polarizability, Zeeman and hyperfine splitting, and vacuum polarization**|V. K. Ivanov et.al.|[2506.11988v1](http://arxiv.org/abs/2506.11988v1)|null|
