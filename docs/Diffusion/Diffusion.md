@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-18**|**UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting**|Kai He et.al.|[2506.15673v1](http://arxiv.org/abs/2506.15673v1)|null|
+|**2025-06-18**|**On the Upper Bounds for the Matrix Spectral Norm**|Alexey Naumov et.al.|[2506.15660v1](http://arxiv.org/abs/2506.15660v1)|null|
+|**2025-06-18**|**Flips Reveal the Universal Impact of Memory on Random Explorations**|Julien Brémont et.al.|[2506.15642v1](http://arxiv.org/abs/2506.15642v1)|null|
+|**2025-06-18**|**Quantum metric and localization in a quasicrystal**|Quentin Marsal et.al.|[2506.15575v1](http://arxiv.org/abs/2506.15575v1)|null|
+|**2025-06-18**|**${\sf QMA}={\sf QMA}_1$ with an infinite counter**|Stacey Jeffery et.al.|[2506.15551v1](http://arxiv.org/abs/2506.15551v1)|null|
+|**2025-06-18**|**Null infinity as an inverted extremal horizon: Matching an infinite set of conserved quantities for gravitational perturbations**|Shreyansh Agrawal et.al.|[2506.15526v1](http://arxiv.org/abs/2506.15526v1)|null|
+|**2025-06-18**|**Confined-deconfined interface tension and latent heat in $\SU{N}$ gauge theory**|Tobias Rindlisbacher et.al.|[2506.15509v1](http://arxiv.org/abs/2506.15509v1)|null|
+|**2025-06-18**|**Near-field optical mode engineering-enabled freeform nonlocal metasurfaces**|Zhongjun Jiang et.al.|[2506.15495v1](http://arxiv.org/abs/2506.15495v1)|null|
+|**2025-06-18**|**Inverse eigenvalue problem for discrete Schrödinger operators of a graph**|Anzila Laikhuram et.al.|[2506.15430v1](http://arxiv.org/abs/2506.15430v1)|null|
+|**2025-06-18**|**Golden Partition Zone: Rethinking Neural Network Partitioning Under Inversion Threats in Collaborative Inference**|Rongke Liu et.al.|[2506.15412v1](http://arxiv.org/abs/2506.15412v1)|null|
+|**2025-06-18**|**Efficient, inverse gigavoxel-scale optimization of diffractive lens**|Marco Gerhardt et.al.|[2506.15411v1](http://arxiv.org/abs/2506.15411v1)|null|
+|**2025-06-18**|**Synchronization of lasers with complex spatio-temporal dynamics**|Jules Mercadier et.al.|[2506.15351v1](http://arxiv.org/abs/2506.15351v1)|null|
+|**2025-06-18**|**Acoustic Waveform Inversion with Image-to-Image Schrödinger Bridges**|A. S. Stankevich et.al.|[2506.15346v1](http://arxiv.org/abs/2506.15346v1)|null|
+|**2025-06-18**|**Conjugate reversibility in complex special linear groups**|Krishnendu Gongopadhyay et.al.|[2506.15336v1](http://arxiv.org/abs/2506.15336v1)|null|
+|**2025-06-18**|**Tight bounds of norms of Wasserstein metric matrix**|Aaisha Be et.al.|[2506.15326v1](http://arxiv.org/abs/2506.15326v1)|null|
+|**2025-06-18**|**Uniform stability for the matrix inverse Sturm-Liouville problems**|Natalia P. Bondarenko et.al.|[2506.15300v1](http://arxiv.org/abs/2506.15300v1)|null|
+|**2025-06-18**|**Anomalous energy correlations and spectral form factor in the nonergodic phase of the $β$-ensemble**|Basudha Roy et.al.|[2506.15283v1](http://arxiv.org/abs/2506.15283v1)|null|
+|**2025-06-18**|**Heterogeneous and anisotropic elastic parameter estimation using a novel semi-analytical forward solver**|Xiaopeng Zhu et.al.|[2506.15185v1](http://arxiv.org/abs/2506.15185v1)|null|
+|**2025-06-18**|**Parallel Data Object Creation: Towards Scalable Metadata Management in High-Performance I/O Library**|Youjia Li et.al.|[2506.15114v1](http://arxiv.org/abs/2506.15114v1)|null|
+|**2025-06-18**|**Strongly coupled interface ferroelectricity and interface superconductivity in LAO/KTO**|M. D. Dong et.al.|[2506.15062v1](http://arxiv.org/abs/2506.15062v1)|null|
+|**2025-06-18**|**Geometric spin Hall effect of spatiotemporal optical vortices**|Chaokai Yang et.al.|[2506.15053v1](http://arxiv.org/abs/2506.15053v1)|null|
+|**2025-06-18**|**Unveiling the Cosmic Dance of Repeated Nuclear Transient ASASSN-14ko: Insights from Multiwavelength Observations**|Shifeng Huang et.al.|[2506.15039v1](http://arxiv.org/abs/2506.15039v1)|null|
+|**2025-06-17**|**Quantum and Semi-Classical Signatures of Dissipative Chaos in the Steady State**|Griffith Rufo et.al.|[2506.14961v1](http://arxiv.org/abs/2506.14961v1)|null|
+|**2025-06-17**|**Inverse method for determining general molecular weight distribution from polymer rheology**|Nihal Pushkar et.al.|[2506.14926v1](http://arxiv.org/abs/2506.14926v1)|null|
+|**2025-06-17**|**Demonstrating Superresolution in Radar Range Estimation Using a Denoising Autoencoder**|Robert Czupryniak et.al.|[2506.14906v1](http://arxiv.org/abs/2506.14906v1)|null|
+|**2025-06-17**|**An Annotated Translation of D. Bernoulli's "A New Theory on the Motion of Waters Through Channels of Any Kind"**|Sylvio R. Bistafa et.al.|[2506.14905v1](http://arxiv.org/abs/2506.14905v1)|null|
+|**2025-06-17**|**Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization**|Xuemin Chi et.al.|[2506.14865v1](http://arxiv.org/abs/2506.14865v1)|null|
 |**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710v1](http://arxiv.org/abs/2506.14710v1)|null|
-|**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682v1](http://arxiv.org/abs/2506.14682v1)|null|
+|**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682v1](http://arxiv.org/abs/2506.14682v1)|[link](https://github.com/dreadnode/airtbench-code)|
 |**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605v1](http://arxiv.org/abs/2506.14605v1)|null|
-|**2025-06-17**|**Mutual effect of charge- and number-density correlations in ionic liquids and concentrated electrolytes**|O. Patsahan et.al.|[2506.14604v1](http://arxiv.org/abs/2506.14604v1)|null|
-|**2025-06-17**|**Deep Learning Surrogates for Real-Time Gas Emission Inversion**|Thomas Newman et.al.|[2506.14597v1](http://arxiv.org/abs/2506.14597v1)|null|
-|**2025-06-17**|**Convergence of generalized cross-validation with applications to ill-posed integral equations**|Tim Jahn et.al.|[2506.14558v1](http://arxiv.org/abs/2506.14558v1)|null|
-|**2025-06-17**|**GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments**|Farha Abdul Wasay et.al.|[2506.14513v1](http://arxiv.org/abs/2506.14513v1)|null|
-|**2025-06-17**|**Decoupled Classifier-Free Guidance for Counterfactual Diffusion Models**|Tian Xia et.al.|[2506.14399v1](http://arxiv.org/abs/2506.14399v1)|null|
-|**2025-06-17**|**Random organization criticality with long-range hydrodynamic interactions**|Tristan Jocteur et.al.|[2506.14330v1](http://arxiv.org/abs/2506.14330v1)|null|
-|**2025-06-17**|**A simple and efficient second-order immersed-boundary method for the incompressible Navier--Stokes equations**|Paolo Luchini et.al.|[2506.14328v1](http://arxiv.org/abs/2506.14328v1)|null|
-|**2025-06-17**|**Rota-Baxter operators on compact simple Lie groups and algebras**|Saveliy V. Skresanov et.al.|[2506.14324v1](http://arxiv.org/abs/2506.14324v1)|null|
-|**2025-06-17**|**High computational density nanophotonic media for machine learning inference**|Zhenyu Zhao et.al.|[2506.14269v1](http://arxiv.org/abs/2506.14269v1)|null|
-|**2025-06-17**|**Bayesian Inference for Initial Heat States with Gaussian Series Priors**|Matteo Giordano et.al.|[2506.14241v1](http://arxiv.org/abs/2506.14241v1)|null|
-|**2025-06-17**|**Physics-Informed Neural Networks for the Korteweg-de Vries Equation for Internal Solitary Wave Problem: Forward Simulation and Inverse Parameter Estimation**|Ming Kang et.al.|[2506.14236v1](http://arxiv.org/abs/2506.14236v1)|null|
-|**2025-06-17**|**AMPLIFY: Actionless Motion Priors for Robot Learning from Videos**|Jeremy A. Collins et.al.|[2506.14198v1](http://arxiv.org/abs/2506.14198v1)|null|
-|**2025-06-17**|**Nonvanishing Higher Derived Limits without $w\diamondsuit_{ω_1}$**|Nathaniel Bannister et.al.|[2506.14183v1](http://arxiv.org/abs/2506.14183v1)|null|
-|**2025-06-17**|**Structured and Informed Probabilistic Modeling with the Thermodynamic Kolmogorov-Arnold Model**|Prithvi Raj et.al.|[2506.14167v1](http://arxiv.org/abs/2506.14167v1)|null|
-|**2025-06-17**|**Smooth surface reconstruction of earthquake faults from distributed potency beachballs**|Dye SK Sato et.al.|[2506.14082v1](http://arxiv.org/abs/2506.14082v1)|null|
-|**2025-06-17**|**Quiet Sun Magnetism from ViSP Data Multiline Inversions Around 630.1 nm**|Juan Carlos Trelles Arjona et.al.|[2506.14076v1](http://arxiv.org/abs/2506.14076v1)|null|
-|**2025-06-16**|**Emergence of Chern metal in a moiré Kondo lattice**|Wenjin Zhao et.al.|[2506.14063v1](http://arxiv.org/abs/2506.14063v1)|null|
-|**2025-06-16**|**On Universal Inverse Monoids with the $F$-Inverse Property**|Igor Dolinka et.al.|[2506.14047v1](http://arxiv.org/abs/2506.14047v1)|null|
-|**2025-06-16**|**Robust Physics-Informed Neural Network Approach for Estimating Heterogeneous Elastic Properties from Noisy Displacement Data**|Tatthapong Srikitrungruang et.al.|[2506.14036v1](http://arxiv.org/abs/2506.14036v1)|null|
-|**2025-06-16**|**Diffusion-based Inverse Observation Model for Artificial Skin**|Ante Maric et.al.|[2506.13986v1](http://arxiv.org/abs/2506.13986v1)|null|
-|**2025-06-16**|**Legendre-Gauss-Lobatto Collocation Method for Optimal Control via Polynomial Approximations of Differential Equation Vector Fields**|Gabriela Abadia-Doyle et.al.|[2506.13938v1](http://arxiv.org/abs/2506.13938v1)|null|
-|**2025-06-16**|**Weyl semimetal engineering by symmetry control in NiTe$_2$**|Marcos G. O. Junior et.al.|[2506.13908v1](http://arxiv.org/abs/2506.13908v1)|null|
-|**2025-06-16**|**Stability analysis of time-periodic shear flow generated by an oscillating density interface**|Lima Biswas et.al.|[2506.13893v1](http://arxiv.org/abs/2506.13893v1)|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v2](http://arxiv.org/abs/2506.13754v2)|null|
-|**2025-06-16**|**BanditWare: A Contextual Bandit-based Framework for Hardware Prediction**|Tainã Coleman et.al.|[2506.13730v1](http://arxiv.org/abs/2506.13730v1)|null|
-|**2025-06-16**|**Dimer-projection contact and the clock shift of a unitary Fermi gas**|Kevin G. S. Xie et.al.|[2506.13707v1](http://arxiv.org/abs/2506.13707v1)|null|
-|**2025-06-16**|**Sums of Schubert structure constants with bounded Coxeter length**|Ada Stelzer et.al.|[2506.13684v1](http://arxiv.org/abs/2506.13684v1)|null|
