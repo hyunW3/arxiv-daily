@@ -12,7 +12,7 @@
 |**2025-06-18**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677v1](http://arxiv.org/abs/2506.15677v1)|null|
 |**2025-06-18**|**Gender-Neutral Machine Translation Strategies in Practice**|Hillary Dawkins et.al.|[2506.15676v1](http://arxiv.org/abs/2506.15676v1)|null|
 |**2025-06-18**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675v1](http://arxiv.org/abs/2506.15675v1)|null|
-|**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674v1](http://arxiv.org/abs/2506.15674v1)|null|
+|**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674v1](http://arxiv.org/abs/2506.15674v1)|[link](https://github.com/parameterlab/leaky_thoughts)|
 |**2025-06-18**|**UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting**|Kai He et.al.|[2506.15673v1](http://arxiv.org/abs/2506.15673v1)|null|
 |**2025-06-18**|**SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence**|Yao Zhang et.al.|[2506.15672v1](http://arxiv.org/abs/2506.15672v1)|null|
 |**2025-06-18**|**Quantum-inspired algorithm for simulating viral response**|D. O. Konina et.al.|[2506.15671v1](http://arxiv.org/abs/2506.15671v1)|null|
