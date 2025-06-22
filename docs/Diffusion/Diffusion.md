@@ -14,7 +14,7 @@
 |**2025-06-18**|**Golden Partition Zone: Rethinking Neural Network Partitioning Under Inversion Threats in Collaborative Inference**|Rongke Liu et.al.|[2506.15412v1](http://arxiv.org/abs/2506.15412v1)|null|
 |**2025-06-18**|**Efficient, inverse gigavoxel-scale optimization of diffractive lens**|Marco Gerhardt et.al.|[2506.15411v1](http://arxiv.org/abs/2506.15411v1)|null|
 |**2025-06-18**|**Synchronization of lasers with complex spatio-temporal dynamics**|Jules Mercadier et.al.|[2506.15351v1](http://arxiv.org/abs/2506.15351v1)|null|
-|**2025-06-18**|**Acoustic Waveform Inversion with Image-to-Image Schrödinger Bridges**|A. S. Stankevich et.al.|[2506.15346v1](http://arxiv.org/abs/2506.15346v1)|null|
+|**2025-06-18**|**Acoustic Waveform Inversion with Image-to-Image Schrödinger Bridges**|A. S. Stankevich et.al.|[2506.15346v1](http://arxiv.org/abs/2506.15346v1)|[link](https://github.com/stankevich-mipt/seismic_inversion_via_i2sb)|
 |**2025-06-18**|**Conjugate reversibility in complex special linear groups**|Krishnendu Gongopadhyay et.al.|[2506.15336v1](http://arxiv.org/abs/2506.15336v1)|null|
 |**2025-06-18**|**Tight bounds of norms of Wasserstein metric matrix**|Aaisha Be et.al.|[2506.15326v1](http://arxiv.org/abs/2506.15326v1)|null|
 |**2025-06-18**|**Uniform stability for the matrix inverse Sturm-Liouville problems**|Natalia P. Bondarenko et.al.|[2506.15300v1](http://arxiv.org/abs/2506.15300v1)|null|
@@ -31,4 +31,4 @@
 |**2025-06-17**|**Efficient and Real-Time Motion Planning for Robotics Using Projection-Based Optimization**|Xuemin Chi et.al.|[2506.14865v1](http://arxiv.org/abs/2506.14865v1)|null|
 |**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710v1](http://arxiv.org/abs/2506.14710v1)|null|
 |**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682v1](http://arxiv.org/abs/2506.14682v1)|[link](https://github.com/dreadnode/airtbench-code)|
-|**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605v1](http://arxiv.org/abs/2506.14605v1)|null|
+|**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605v1](http://arxiv.org/abs/2506.14605v1)|[link](https://github.com/inria-thoth/ddm4ip)|
