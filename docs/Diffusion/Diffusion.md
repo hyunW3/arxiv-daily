@@ -11,7 +11,7 @@
 |**2025-06-18**|**Confined-deconfined interface tension and latent heat in $\SU{N}$ gauge theory**|Tobias Rindlisbacher et.al.|[2506.15509v1](http://arxiv.org/abs/2506.15509v1)|null|
 |**2025-06-18**|**Near-field optical mode engineering-enabled freeform nonlocal metasurfaces**|Zhongjun Jiang et.al.|[2506.15495v1](http://arxiv.org/abs/2506.15495v1)|null|
 |**2025-06-18**|**Inverse eigenvalue problem for discrete Schrödinger operators of a graph**|Anzila Laikhuram et.al.|[2506.15430v1](http://arxiv.org/abs/2506.15430v1)|null|
-|**2025-06-18**|**Golden Partition Zone: Rethinking Neural Network Partitioning Under Inversion Threats in Collaborative Inference**|Rongke Liu et.al.|[2506.15412v1](http://arxiv.org/abs/2506.15412v1)|null|
+|**2025-06-18**|**Golden Partition Zone: Rethinking Neural Network Partitioning Under Inversion Threats in Collaborative Inference**|Rongke Liu et.al.|[2506.15412v2](http://arxiv.org/abs/2506.15412v2)|null|
 |**2025-06-18**|**Efficient, inverse gigavoxel-scale optimization of diffractive lens**|Marco Gerhardt et.al.|[2506.15411v1](http://arxiv.org/abs/2506.15411v1)|null|
 |**2025-06-18**|**Synchronization of lasers with complex spatio-temporal dynamics**|Jules Mercadier et.al.|[2506.15351v1](http://arxiv.org/abs/2506.15351v1)|null|
 |**2025-06-18**|**Acoustic Waveform Inversion with Image-to-Image Schrödinger Bridges**|A. S. Stankevich et.al.|[2506.15346v1](http://arxiv.org/abs/2506.15346v1)|[link](https://github.com/stankevich-mipt/seismic_inversion_via_i2sb)|
