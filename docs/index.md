@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-23 21:20:41 Asia/Shanghai
+ Automated deployment @ 2025-06-24 09:22:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-20**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090v1](http://arxiv.org/abs/2506.17090v1)|null|
+|**2025-06-20**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090v2](http://arxiv.org/abs/2506.17090v2)|null|
 |**2025-06-20**|**Nanosculpted 3D helices of a magnetic Weyl semimetal with switchable nonreciprocity**|Max T. Birch et.al.|[2506.17023v1](http://arxiv.org/abs/2506.17023v1)|null|
 |**2025-06-20**|**Language Bottleneck Models: A Framework for Interpretable Knowledge Tracing and Beyond**|Antonin Berthon et.al.|[2506.16982v1](http://arxiv.org/abs/2506.16982v1)|null|
 |**2025-06-20**|**Error analysis of BDF schemes for the evolutionary incompressible Navier--Stokes equations**|Bosco García-Archilla et.al.|[2506.16917v1](http://arxiv.org/abs/2506.16917v1)|null|
@@ -26,7 +26,7 @@
 |**2025-06-19**|**An introduction to Causal Modelling**|Gauranga Kumar Baishya et.al.|[2506.16486v1](http://arxiv.org/abs/2506.16486v1)|null|
 |**2025-06-19**|**Leveraging Influence Functions for Resampling Data in Physics-Informed Neural Networks**|Jonas R. Naujoks et.al.|[2506.16443v1](http://arxiv.org/abs/2506.16443v1)|null|
 |**2025-06-19**|**Full-Pose Tracking via Robust Control for Over-Actuated Multirotors**|Mohamad Hachem et.al.|[2506.16427v1](http://arxiv.org/abs/2506.16427v1)|null|
-|**2025-06-19**|**Investigating DUNE oscillations sensitivity to Pseudo-Dirac Neutrinos**|Asmaa Abada et.al.|[2506.16390v1](http://arxiv.org/abs/2506.16390v1)|null|
+|**2025-06-19**|**Investigating DUNE oscillations sensitivity to Pseudo-Dirac Neutrinos**|Asmaa Abada et.al.|[2506.16390v2](http://arxiv.org/abs/2506.16390v2)|null|
 |**2025-06-19**|**Exact static linear response of excited states from ensemble density functional theory**|Lucien Dupuy et.al.|[2506.16363v1](http://arxiv.org/abs/2506.16363v1)|null|
 |**2025-06-19**|**Quasiseparable LU decay bounds for inverses of banded matrices**|Paola Boito et.al.|[2506.16339v1](http://arxiv.org/abs/2506.16339v1)|null|
 |**2025-06-19**|**The Third Hankel determinant for inverse coefficients of bounded turning functions**|Mohsan Raza et.al.|[2506.16212v1](http://arxiv.org/abs/2506.16212v1)|null|
@@ -44,7 +44,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221v1](http://arxiv.org/abs/2506.17221v1)|null|
 |**2025-06-20**|**Impact of the large-scale cosmic web on the X-ray emitting circumgalactic medium**|Soumya Shreeram et.al.|[2506.17222v1](http://arxiv.org/abs/2506.17222v1)|null|
-|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220v1](http://arxiv.org/abs/2506.17220v1)|[link](https://github.com/cvlab-kaist/DiffTrack)|
+|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220v2](http://arxiv.org/abs/2506.17220v2)|[link](https://github.com/cvlab-kaist/DiffTrack)|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219v1](http://arxiv.org/abs/2506.17219v1)|null|
 |**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218v1](http://arxiv.org/abs/2506.17218v1)|null|
 |**2025-06-20**|**Bias hardened estimators of patchy screening profiles**|Noah Sailer et.al.|[2506.17217v1](http://arxiv.org/abs/2506.17217v1)|null|

@@ -2,7 +2,7 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-20**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090v1](http://arxiv.org/abs/2506.17090v1)|null|
+|**2025-06-20**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090v2](http://arxiv.org/abs/2506.17090v2)|null|
 |**2025-06-20**|**Nanosculpted 3D helices of a magnetic Weyl semimetal with switchable nonreciprocity**|Max T. Birch et.al.|[2506.17023v1](http://arxiv.org/abs/2506.17023v1)|null|
 |**2025-06-20**|**Language Bottleneck Models: A Framework for Interpretable Knowledge Tracing and Beyond**|Antonin Berthon et.al.|[2506.16982v1](http://arxiv.org/abs/2506.16982v1)|null|
 |**2025-06-20**|**Error analysis of BDF schemes for the evolutionary incompressible Navier--Stokes equations**|Bosco García-Archilla et.al.|[2506.16917v1](http://arxiv.org/abs/2506.16917v1)|null|
@@ -20,7 +20,7 @@
 |**2025-06-19**|**An introduction to Causal Modelling**|Gauranga Kumar Baishya et.al.|[2506.16486v1](http://arxiv.org/abs/2506.16486v1)|null|
 |**2025-06-19**|**Leveraging Influence Functions for Resampling Data in Physics-Informed Neural Networks**|Jonas R. Naujoks et.al.|[2506.16443v1](http://arxiv.org/abs/2506.16443v1)|null|
 |**2025-06-19**|**Full-Pose Tracking via Robust Control for Over-Actuated Multirotors**|Mohamad Hachem et.al.|[2506.16427v1](http://arxiv.org/abs/2506.16427v1)|null|
-|**2025-06-19**|**Investigating DUNE oscillations sensitivity to Pseudo-Dirac Neutrinos**|Asmaa Abada et.al.|[2506.16390v1](http://arxiv.org/abs/2506.16390v1)|null|
+|**2025-06-19**|**Investigating DUNE oscillations sensitivity to Pseudo-Dirac Neutrinos**|Asmaa Abada et.al.|[2506.16390v2](http://arxiv.org/abs/2506.16390v2)|null|
 |**2025-06-19**|**Exact static linear response of excited states from ensemble density functional theory**|Lucien Dupuy et.al.|[2506.16363v1](http://arxiv.org/abs/2506.16363v1)|null|
 |**2025-06-19**|**Quasiseparable LU decay bounds for inverses of banded matrices**|Paola Boito et.al.|[2506.16339v1](http://arxiv.org/abs/2506.16339v1)|null|
 |**2025-06-19**|**The Third Hankel determinant for inverse coefficients of bounded turning functions**|Mohsan Raza et.al.|[2506.16212v1](http://arxiv.org/abs/2506.16212v1)|null|
