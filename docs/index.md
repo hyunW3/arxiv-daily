@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-24 21:20:55 Asia/Shanghai
+ Automated deployment @ 2025-06-25 09:23:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -19,7 +19,7 @@
 |**2025-06-23**|**The Lifting Property for Frame Multipliers and Toeplitz Operators**|Peter Balazs et.al.|[2506.18441v1](http://arxiv.org/abs/2506.18441v1)|null|
 |**2025-06-23**|**On the Maximization of Real Sequences**|Assalé Adjé et.al.|[2506.18409v1](http://arxiv.org/abs/2506.18409v1)|null|
 |**2025-06-23**|**Consistent Channel Hopping Algorithms for the Multichannel Rendezvous Problem with Heterogeneous Available Channel Sets**|Yiwei Liu et.al.|[2506.18381v1](http://arxiv.org/abs/2506.18381v1)|null|
-|**2025-06-23**|**Galton-Watson processes, simple varieties of trees and Khinchin families**|Víctor J. Maciá et.al.|[2506.18370v1](http://arxiv.org/abs/2506.18370v1)|null|
+|**2025-06-23**|**Galton-Watson processes, simple varieties of trees and Khinchin families**|Víctor J. Maciá et.al.|[2506.18370v2](http://arxiv.org/abs/2506.18370v2)|null|
 |**2025-06-23**|**Accuracy and componentwise accuracy in multilinear PageRank**|Mehdi Najafi Kalyani et.al.|[2506.18356v1](http://arxiv.org/abs/2506.18356v1)|null|
 |**2025-06-23**|**ARSAR-Net: Adaptively Regularized SAR Imaging Network via Non-matrix-inversion ADMM**|Shiping Fu et.al.|[2506.18324v1](http://arxiv.org/abs/2506.18324v1)|null|
 |**2025-06-23**|**The Exponential of Skew-Symmetric Matrices: A Nearby Inverse and Efficient Computation of Derivatives**|Zhifeng Deng et.al.|[2506.18302v1](http://arxiv.org/abs/2506.18302v1)|null|
@@ -30,9 +30,9 @@
 |**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996v1](http://arxiv.org/abs/2506.17996v1)|null|
 |**2025-06-22**|**Newtonian and Lagrangian Neural Networks: A Comparison Towards Efficient Inverse Dynamics Identification**|Minh Trinh et.al.|[2506.17994v1](http://arxiv.org/abs/2506.17994v1)|null|
 |**2025-06-22**|**Trustworthy Efficient Communication for Distributed Learning using LQ-SGD Algorithm**|Hongyang Li et.al.|[2506.17974v1](http://arxiv.org/abs/2506.17974v1)|null|
-|**2025-06-22**|**Simultaneous recovery of corroded boundaries and admittance using the Kohn-Vogelius method**|Moustapha Essahraoui et.al.|[2506.17938v1](http://arxiv.org/abs/2506.17938v1)|null|
+|**2025-06-22**|**Simultaneous recovery of a corroded boundary and admittance using the Kohn-Vogelius method**|Moustapha Essahraoui et.al.|[2506.17938v2](http://arxiv.org/abs/2506.17938v2)|null|
 |**2025-06-22**|**Inverse Chance Constrained Optimal Power Flow**|Shenglu Wang et.al.|[2506.17924v1](http://arxiv.org/abs/2506.17924v1)|null|
-|**2025-06-22**|**GD-Retriever: Controllable Generative Text-Music Retrieval with Diffusion Models**|Julien Guinot et.al.|[2506.17886v1](http://arxiv.org/abs/2506.17886v1)|null|
+|**2025-06-22**|**GD-Retriever: Controllable Generative Text-Music Retrieval with Diffusion Models**|Julien Guinot et.al.|[2506.17886v2](http://arxiv.org/abs/2506.17886v2)|null|
 |**2025-06-21**|**The dominant role of jetting in micron- and sub-micron sea spray produced by bubble bursting: a revised model and comparison with measurements**|Alfonso M. Ganan-Calvo et.al.|[2506.17836v1](http://arxiv.org/abs/2506.17836v1)|null|
 |**2025-06-21**|**Brightening dark trions in WS2 monolayers via introducing atomic sulfur vacancies**|Xuguang Cao et.al.|[2506.17691v1](http://arxiv.org/abs/2506.17691v1)|null|
 |**2025-06-21**|**Simultaneous Identification of Coefficients and Source in a Subdiffusion Equation from One Passive Measurement**|Maolin Deng et.al.|[2506.17648v1](http://arxiv.org/abs/2506.17648v1)|null|
@@ -46,7 +46,7 @@
 |**2025-06-23**|**State updates and useful qubits in relativistic quantum information**|José Polo-Gómez et.al.|[2506.18906v1](http://arxiv.org/abs/2506.18906v1)|null|
 |**2025-06-23**|**TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**|Yang Liu et.al.|[2506.18904v1](http://arxiv.org/abs/2506.18904v1)|null|
 |**2025-06-23**|**VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory**|Runjia Li et.al.|[2506.18903v1](http://arxiv.org/abs/2506.18903v1)|null|
-|**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v1](http://arxiv.org/abs/2506.18902v1)|null|
+|**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|null|
 |**2025-06-23**|**From Virtual Games to Real-World Play**|Wenqiang Sun et.al.|[2506.18901v1](http://arxiv.org/abs/2506.18901v1)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900v1](http://arxiv.org/abs/2506.18900v1)|null|
 |**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899v1](http://arxiv.org/abs/2506.18899v1)|null|
@@ -65,7 +65,7 @@
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885v1](http://arxiv.org/abs/2506.18885v1)|null|
 |**2025-06-23**|**A comparison principle for variational problems : with an application to optimal transport**|Flavien Léger et.al.|[2506.18884v1](http://arxiv.org/abs/2506.18884v1)|null|
 |**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883v1](http://arxiv.org/abs/2506.18883v1)|null|
-|**2025-06-23**|**Light of Normals: Unified Feature Representation for Universal Photometric Stereo**|Hong Li et.al.|[2506.18882v1](http://arxiv.org/abs/2506.18882v1)|null|
+|**2025-06-23**|**Light of Normals: Unified Feature Representation for Universal Photometric Stereo**|Hong Li et.al.|[2506.18882v2](http://arxiv.org/abs/2506.18882v2)|null|
 |**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881v1](http://arxiv.org/abs/2506.18881v1)|null|
 |**2025-06-23**|**OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization**|Yiyou Sun et.al.|[2506.18880v1](http://arxiv.org/abs/2506.18880v1)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879v1](http://arxiv.org/abs/2506.18879v1)|null|

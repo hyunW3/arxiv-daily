@@ -13,7 +13,7 @@
 |**2025-06-23**|**The Lifting Property for Frame Multipliers and Toeplitz Operators**|Peter Balazs et.al.|[2506.18441v1](http://arxiv.org/abs/2506.18441v1)|null|
 |**2025-06-23**|**On the Maximization of Real Sequences**|Assalé Adjé et.al.|[2506.18409v1](http://arxiv.org/abs/2506.18409v1)|null|
 |**2025-06-23**|**Consistent Channel Hopping Algorithms for the Multichannel Rendezvous Problem with Heterogeneous Available Channel Sets**|Yiwei Liu et.al.|[2506.18381v1](http://arxiv.org/abs/2506.18381v1)|null|
-|**2025-06-23**|**Galton-Watson processes, simple varieties of trees and Khinchin families**|Víctor J. Maciá et.al.|[2506.18370v1](http://arxiv.org/abs/2506.18370v1)|null|
+|**2025-06-23**|**Galton-Watson processes, simple varieties of trees and Khinchin families**|Víctor J. Maciá et.al.|[2506.18370v2](http://arxiv.org/abs/2506.18370v2)|null|
 |**2025-06-23**|**Accuracy and componentwise accuracy in multilinear PageRank**|Mehdi Najafi Kalyani et.al.|[2506.18356v1](http://arxiv.org/abs/2506.18356v1)|null|
 |**2025-06-23**|**ARSAR-Net: Adaptively Regularized SAR Imaging Network via Non-matrix-inversion ADMM**|Shiping Fu et.al.|[2506.18324v1](http://arxiv.org/abs/2506.18324v1)|null|
 |**2025-06-23**|**The Exponential of Skew-Symmetric Matrices: A Nearby Inverse and Efficient Computation of Derivatives**|Zhifeng Deng et.al.|[2506.18302v1](http://arxiv.org/abs/2506.18302v1)|null|
@@ -24,9 +24,9 @@
 |**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996v1](http://arxiv.org/abs/2506.17996v1)|null|
 |**2025-06-22**|**Newtonian and Lagrangian Neural Networks: A Comparison Towards Efficient Inverse Dynamics Identification**|Minh Trinh et.al.|[2506.17994v1](http://arxiv.org/abs/2506.17994v1)|null|
 |**2025-06-22**|**Trustworthy Efficient Communication for Distributed Learning using LQ-SGD Algorithm**|Hongyang Li et.al.|[2506.17974v1](http://arxiv.org/abs/2506.17974v1)|null|
-|**2025-06-22**|**Simultaneous recovery of corroded boundaries and admittance using the Kohn-Vogelius method**|Moustapha Essahraoui et.al.|[2506.17938v1](http://arxiv.org/abs/2506.17938v1)|null|
+|**2025-06-22**|**Simultaneous recovery of a corroded boundary and admittance using the Kohn-Vogelius method**|Moustapha Essahraoui et.al.|[2506.17938v2](http://arxiv.org/abs/2506.17938v2)|null|
 |**2025-06-22**|**Inverse Chance Constrained Optimal Power Flow**|Shenglu Wang et.al.|[2506.17924v1](http://arxiv.org/abs/2506.17924v1)|null|
-|**2025-06-22**|**GD-Retriever: Controllable Generative Text-Music Retrieval with Diffusion Models**|Julien Guinot et.al.|[2506.17886v1](http://arxiv.org/abs/2506.17886v1)|null|
+|**2025-06-22**|**GD-Retriever: Controllable Generative Text-Music Retrieval with Diffusion Models**|Julien Guinot et.al.|[2506.17886v2](http://arxiv.org/abs/2506.17886v2)|null|
 |**2025-06-21**|**The dominant role of jetting in micron- and sub-micron sea spray produced by bubble bursting: a revised model and comparison with measurements**|Alfonso M. Ganan-Calvo et.al.|[2506.17836v1](http://arxiv.org/abs/2506.17836v1)|null|
 |**2025-06-21**|**Brightening dark trions in WS2 monolayers via introducing atomic sulfur vacancies**|Xuguang Cao et.al.|[2506.17691v1](http://arxiv.org/abs/2506.17691v1)|null|
 |**2025-06-21**|**Simultaneous Identification of Coefficients and Source in a Subdiffusion Equation from One Passive Measurement**|Maolin Deng et.al.|[2506.17648v1](http://arxiv.org/abs/2506.17648v1)|null|
