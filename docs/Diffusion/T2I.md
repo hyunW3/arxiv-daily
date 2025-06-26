@@ -21,7 +21,7 @@
 |**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835v1](http://arxiv.org/abs/2506.19835v1)|null|
 |**2025-06-24**|**A standard transformer and attention with linear biases for molecular conformer generation**|Viatcheslav Gurev et.al.|[2506.19834v1](http://arxiv.org/abs/2506.19834v1)|null|
 |**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833v1](http://arxiv.org/abs/2506.19833v1)|null|
-|**2025-06-24**|**Resonances of recurrence time of monitored quantum walks**|Ruoyu Yin et.al.|[2506.19832v1](http://arxiv.org/abs/2506.19832v1)|null|
+|**2025-06-24**|**Resonances of recurrence time of monitored quantum walks**|Ruoyu Yin et.al.|[2506.19832v2](http://arxiv.org/abs/2506.19832v2)|null|
 |**2025-06-24**|**How Effectively Can BERT Models Interpret Context and Detect Bengali Communal Violent Text?**|Abdullah Khondoker et.al.|[2506.19831v1](http://arxiv.org/abs/2506.19831v1)|null|
 |**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830v1](http://arxiv.org/abs/2506.19830v1)|null|
 |**2025-06-24**|**Adversarial Observability and Performance Tradeoffs in Optimal Control**|Filippos Fotiadis et.al.|[2506.19829v1](http://arxiv.org/abs/2506.19829v1)|null|
