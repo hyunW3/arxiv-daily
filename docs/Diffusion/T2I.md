@@ -23,7 +23,7 @@
 |**2025-06-26**|**Rashba spin-orbit coupling and artificially engineered topological superconductors**|Sankar Das Sarma et.al.|[2506.21534v1](http://arxiv.org/abs/2506.21534v1)|null|
 |**2025-06-26**|**On the Invariance of Expansive Measures for Flows**|Eduardo Pedrosa et.al.|[2506.21533v1](http://arxiv.org/abs/2506.21533v1)|null|
 |**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532v1](http://arxiv.org/abs/2506.21532v1)|null|
-|**2025-06-26**|**The Kaleidoscope Survey: Strong Gravitational Lensing in Galaxy Clusters with Radial Arcs**|Catherine Cerny et.al.|[2506.21531v1](http://arxiv.org/abs/2506.21531v1)|null|
+|**2025-06-26**|**The Kaleidoscope Survey: Strong Gravitational Lensing in Galaxy Clusters with Radial Arcs**|Catherine Cerny et.al.|[2506.21531v2](http://arxiv.org/abs/2506.21531v2)|null|
 |**2025-06-26**|**Detectability and Parameter Estimation for Einstein Telescope Configurations with GWJulia**|Andrea Begnoni et.al.|[2506.21530v1](http://arxiv.org/abs/2506.21530v1)|null|
 |**2025-06-26**|**Landau levels of a Dirac electron in graphene from non-uniform magnetic fields**|Aritra Ghosh et.al.|[2506.21529v1](http://arxiv.org/abs/2506.21529v1)|null|
 |**2025-06-26**|**Koszul complexes and derived intersections**|Tristan Bozec et.al.|[2506.21528v1](http://arxiv.org/abs/2506.21528v1)|null|
