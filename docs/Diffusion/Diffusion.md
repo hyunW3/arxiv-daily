@@ -2,6 +2,24 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27**|**Characteristic solutions of the chain of Vlasov equations**|E. E. Perepelkin et.al.|[2506.22377v1](http://arxiv.org/abs/2506.22377v1)|null|
+|**2025-06-27**|**A free boundary approach to non-scattering obstacles with vanishing contrast**|Mikko Salo et.al.|[2506.22328v1](http://arxiv.org/abs/2506.22328v1)|null|
+|**2025-06-27**|**Terahertz time-domain signatures of the inverse Edelstein effect in topological-insulator|ferromagnet heterostructures**|Genaro Bierhance et.al.|[2506.22327v1](http://arxiv.org/abs/2506.22327v1)|null|
+|**2025-06-27**|**Recovering the Topology in One Point Interaction Problem on Extended Non-Local Star Graphs**|Lung-Hui Chen et.al.|[2506.22322v1](http://arxiv.org/abs/2506.22322v1)|null|
+|**2025-06-27**|**On Inversion Graphs of Permutations**|Sean Mandrick et.al.|[2506.22307v1](http://arxiv.org/abs/2506.22307v1)|null|
+|**2025-06-27**|**Critical gradient optimization for quasi-isodynamic stellarators**|G. T. Roberg-Clark et.al.|[2506.22166v1](http://arxiv.org/abs/2506.22166v1)|null|
+|**2025-06-27**|**TROFI: Trajectory-Ranked Offline Inverse Reinforcement Learning**|Alessandro Sestini et.al.|[2506.22008v1](http://arxiv.org/abs/2506.22008v1)|null|
+|**2025-06-27**|**Universal Modelling of Autocovariance Functions via Spline Kernels**|Lachlan Astfalck et.al.|[2506.21953v1](http://arxiv.org/abs/2506.21953v1)|null|
+|**2025-06-27**|**Some more constructions of $n-$cycle permutation polynomials**|Varsha Jarali et.al.|[2506.21936v1](http://arxiv.org/abs/2506.21936v1)|null|
+|**2025-06-26**|**Angular Momentum Fluctuations in the Phonon Vacuum of Symmetric Crystals**|Rule Yi et.al.|[2506.21801v1](http://arxiv.org/abs/2506.21801v1)|null|
+|**2025-06-26**|**Hydrodynamic Origin of Friction Between Suspended Rough Particles**|Jake Minten et.al.|[2506.21799v1](http://arxiv.org/abs/2506.21799v1)|null|
+|**2025-06-26**|**Droplet growth, Ostwald's rule, and emergence of order in Fused in Sarcoma**|Farkhad Maksudov et.al.|[2506.21792v1](http://arxiv.org/abs/2506.21792v1)|null|
+|**2025-06-26**|**Feedforward equilibrium trajectory optimization with GSPulse**|J. T. Wai et.al.|[2506.21760v1](http://arxiv.org/abs/2506.21760v1)|null|
+|**2025-06-26**|**Inverse Design of Diffractive Metasurfaces Using Diffusion Models**|Liav Hen et.al.|[2506.21748v1](http://arxiv.org/abs/2506.21748v1)|null|
+|**2025-06-26**|**Relating insplittings of 2-graphs and of textile systems**|Samantha Brooker et.al.|[2506.21708v1](http://arxiv.org/abs/2506.21708v1)|null|
+|**2025-06-26**|**Inverse scattering without phase: Carleman convexification and phase retrieval via the Wentzel--Kramers--Brillouin approximation**|Thuy T. Le et.al.|[2506.21699v1](http://arxiv.org/abs/2506.21699v1)|null|
+|**2025-06-26**|**Heavy-Heavy-Light Asymptotics from Thermal Correlators**|Ilija Burić et.al.|[2506.21671v1](http://arxiv.org/abs/2506.21671v1)|null|
+|**2025-06-26**|**Microscopic origin of the magnetic interactions and their experimental signatures in altermagnetic La$_2$O$_3$Mn$_2$Se$_2$**|Laura Garcia-Gassull et.al.|[2506.21661v1](http://arxiv.org/abs/2506.21661v1)|null|
 |**2025-06-26**|**Counting biquadratic number fields with quaternionic and dihedral extensions**|Louis M. Gaudet et.al.|[2506.21522v1](http://arxiv.org/abs/2506.21522v1)|null|
 |**2025-06-26**|**Synergy of Rashba and Topological Effects for High-Performance Bismuth-Based Thermoelectrics**|Lei Peng et.al.|[2506.21479v1](http://arxiv.org/abs/2506.21479v1)|null|
 |**2025-06-26**|**Spin-orbit interaction, band topology, and spin texture in BiInO3(001) surface**|Ramsamoj Kewat et.al.|[2506.21438v1](http://arxiv.org/abs/2506.21438v1)|null|
@@ -13,22 +31,4 @@
 |**2025-06-26**|**Constraint on Momentum-coupled Dark Energy using DESI DR2**|Prasanta Sahoo et.al.|[2506.21295v1](http://arxiv.org/abs/2506.21295v1)|null|
 |**2025-06-26**|**Determination of the potential by a fixed angle scattering data**|Suliang Si et.al.|[2506.21251v1](http://arxiv.org/abs/2506.21251v1)|null|
 |**2025-06-26**|**Eigenvalue spectrum support of paired random matrices with pseudo-inverse**|Uri Cohen et.al.|[2506.21244v1](http://arxiv.org/abs/2506.21244v1)|null|
-|**2025-06-26**|**Shape sensitivity analysis of the heat equation and the Dirichlet-to-Neumann map**|Matteo Dalla Riva et.al.|[2506.21196v1](http://arxiv.org/abs/2506.21196v1)|null|
-|**2025-06-26**|**Quantum Walks: First Hitting Times with Weak Measurements**|Tim Heine et.al.|[2506.21168v1](http://arxiv.org/abs/2506.21168v1)|null|
-|**2025-06-26**|**GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**|Muleilan Pei et.al.|[2506.21121v1](http://arxiv.org/abs/2506.21121v1)|null|
-|**2025-06-26**|**Inverse source problem with a posteriori interior measurements for space-time fractional diffusion equations**|Kai Yu et.al.|[2506.21070v1](http://arxiv.org/abs/2506.21070v1)|null|
-|**2025-06-26**|**Inverse Scene Text Removal**|Takumi Yoshimatsu et.al.|[2506.21002v1](http://arxiv.org/abs/2506.21002v1)|null|
-|**2025-06-25**|**Leveraging Vision-Language Models to Select Trustworthy Super-Resolution Samples Generated by Diffusion Models**|Cansu Korkmaz et.al.|[2506.20832v1](http://arxiv.org/abs/2506.20832v1)|null|
-|**2025-06-25**|**Entropic additive energy and entropy inequalities for sums and products**|Rupert Li et.al.|[2506.20813v1](http://arxiv.org/abs/2506.20813v1)|null|
-|**2025-06-25**|**Inverse initial data reconstruction for Maxwell's equations via time-dimensional reduction method**|Thuy T. Le et.al.|[2506.20777v1](http://arxiv.org/abs/2506.20777v1)|null|
-|**2025-06-25**|**Efficient Inversion of Unknown Unitary Operations with Structured Hamiltonians**|Yin Mo et.al.|[2506.20570v1](http://arxiv.org/abs/2506.20570v1)|null|
-|**2025-06-25**|**Partial Inverse Spectral Problems for Sturm-Liouville Operators with Frozen Arguments on a Star-Shaped Graph**|Chung-Tsun Shieh et.al.|[2506.20569v1](http://arxiv.org/abs/2506.20569v1)|null|
-|**2025-06-25**|**Relativistic spin hydrodynamics with antisymmetric spin tensors and an extension of the Bargmann-Michel-Telegdi equation**|Shuo Fang et.al.|[2506.20698v1](http://arxiv.org/abs/2506.20698v1)|null|
-|**2025-06-25**|**Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch**|Lei Liu et.al.|[2506.20513v1](http://arxiv.org/abs/2506.20513v1)|null|
-|**2025-06-25**|**High-temperature helical edge states in BiSbTeSe$_2$/graphene van der Waals heterostructure**|Yoichi Tanabe et.al.|[2506.20510v1](http://arxiv.org/abs/2506.20510v1)|null|
-|**2025-06-25**|**HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling**|Tobias Vontobel et.al.|[2506.20452v1](http://arxiv.org/abs/2506.20452v1)|null|
-|**2025-06-25**|**The KELT-7b atmospheric thermal-inversion conundrum revisited with CHEOPS, TESS, and additional data**|Z. Garai et.al.|[2506.20432v1](http://arxiv.org/abs/2506.20432v1)|null|
-|**2025-06-25**|**Solver Performance of Accelerated MoM for Connected Arrays**|Harald Hultin et.al.|[2506.20350v1](http://arxiv.org/abs/2506.20350v1)|null|
-|**2025-06-25**|**IMC-PINN-FE: A Physics-Informed Neural Network for Patient-Specific Left Ventricular Finite Element Modeling with Image Motion Consistency and Biomechanical Parameter Estimation**|Siyu Mu et.al.|[2506.20696v1](http://arxiv.org/abs/2506.20696v1)|null|
-|**2025-06-25**|**Evidence of Time-Dependent Diffusive Shock Acceleration in the 2022 September 5 Solar Energetic Particle Event**|Xiaohang Chen et.al.|[2506.20322v1](http://arxiv.org/abs/2506.20322v1)|null|
-|**2025-06-25**|**Homology and cohomology of crossed products by inverse monoid actions and Steinberg algebras**|Mikhailo Dokuchaev et.al.|[2506.20321v1](http://arxiv.org/abs/2506.20321v1)|null|
+|**2025-06-26**|**Canonical Thermodynamics**|Arnaldo Spalvieri et.al.|[2506.21650v1](http://arxiv.org/abs/2506.21650v1)|null|
