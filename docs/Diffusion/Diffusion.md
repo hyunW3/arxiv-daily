@@ -30,5 +30,5 @@
 |**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347v1](http://arxiv.org/abs/2506.21347v1)|null|
 |**2025-06-26**|**Constraint on Momentum-coupled Dark Energy using DESI DR2**|Prasanta Sahoo et.al.|[2506.21295v1](http://arxiv.org/abs/2506.21295v1)|null|
 |**2025-06-26**|**Determination of the potential by a fixed angle scattering data**|Suliang Si et.al.|[2506.21251v1](http://arxiv.org/abs/2506.21251v1)|null|
-|**2025-06-26**|**Eigenvalue spectrum support of paired random matrices with pseudo-inverse**|Uri Cohen et.al.|[2506.21244v1](http://arxiv.org/abs/2506.21244v1)|null|
-|**2025-06-26**|**Canonical Thermodynamics**|Arnaldo Spalvieri et.al.|[2506.21650v1](http://arxiv.org/abs/2506.21650v1)|null|
+|**2025-06-26**|**Eigenvalue spectrum support of paired random matrices with pseudo-inverse**|Uri Cohen et.al.|[2506.21244v2](http://arxiv.org/abs/2506.21244v2)|null|
+|**2025-06-26**|**Canonical Thermodynamics**|Arnaldo Spalvieri et.al.|[2506.21650v2](http://arxiv.org/abs/2506.21650v2)|null|
