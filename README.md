@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2025-07-01 20:36:18 Asia/Shanghai
+ Automated deployment @ 2025-07-01 21:19:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
 ## Diffusion
-
-### Diffusion
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-30**|**Comment on "LaMET's Asymptotic Extrapolation vs. Inverse Problem"**|Hervé Dutrieux et.al.|[2506.24037v1](http://arxiv.org/abs/2506.24037v1)|null|
-|**2025-06-30**|**Factorization norms and an inverse theorem for MaxCut**|Igor Balla et.al.|[2506.23989v1](http://arxiv.org/abs/2506.23989v1)|null|
-|**2025-06-30**|**On the convergence of the no-response test for the heat equation**|Shiwei Sun et.al.|[2506.23948v1](http://arxiv.org/abs/2506.23948v1)|null|
-|**2025-06-30**|**Dimension and model reduction approaches for linear Bayesian inverse problems with rank-deficient prior covariances**|Josie König et.al.|[2506.23892v1](http://arxiv.org/abs/2506.23892v1)|null|
-|**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854v1](http://arxiv.org/abs/2506.23854v1)|null|
-|**2025-06-30**|**Reviewing Current-Driven Dynamics and Monte Carlo based Analysis of Thermodynamic Properties of a Magnetic Skyrmion Crystal**|Rajdip Banerjee et.al.|[2506.23732v1](http://arxiv.org/abs/2506.23732v1)|null|
-|**2025-06-30**|**System-Embedded Diffusion Bridge Models**|Bartlomiej Sobieski et.al.|[2506.23726v1](http://arxiv.org/abs/2506.23726v1)|null|
-|**2025-06-30**|**High brightness multi-MeV photon source driven by a petawatt-scale laser wakefield accelerator**|E. Gerstmayr et.al.|[2506.23718v1](http://arxiv.org/abs/2506.23718v1)|null|
-|**2025-06-30**|**Truncated symbols of differential symmetry breaking operators**|Toshihisa Kubo et.al.|[2506.23599v1](http://arxiv.org/abs/2506.23599v1)|null|
-|**2025-06-30**|**On Exponential Instability of an Inverse Problem for the Wave Equation**|Leonard Busch et.al.|[2506.23559v1](http://arxiv.org/abs/2506.23559v1)|null|
-|**2025-06-30**|**Engineering Magnetization with Photons: Nanoscale Advances in the Inverse Faraday Effect for Metallic and Plasmonic Systems**|Chantal Hareau et.al.|[2506.23515v1](http://arxiv.org/abs/2506.23515v1)|null|
-|**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484v1](http://arxiv.org/abs/2506.23484v1)|null|
-|**2025-06-30**|**On the convergence of iterative regularization method assisted by the graph Laplacian with early stopping**|Harshit Bajpai et.al.|[2506.23483v1](http://arxiv.org/abs/2506.23483v1)|null|
-|**2025-06-29**|**The Jaynes-Cummings model in Phase Space Quantum Mechanics**|Mar Sanchez-Cordova et.al.|[2506.23386v1](http://arxiv.org/abs/2506.23386v1)|null|
-|**2025-06-29**|**Inverse conductivity problem on a Riemann surface**|Peter L. Polyakov et.al.|[2506.23362v1](http://arxiv.org/abs/2506.23362v1)|null|
-|**2025-06-29**|**Lagrangian Finite-Time Fluctuation Relation in isotropic turbulence**|Hanxun Yao et.al.|[2506.23336v1](http://arxiv.org/abs/2506.23336v1)|null|
-|**2025-06-29**|**Auto-Doubly Robust Estimation of Causal Effects on a Network**|Jizhou Liu et.al.|[2506.23332v1](http://arxiv.org/abs/2506.23332v1)|null|
-|**2025-06-29**|**IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering**|Parker Liu et.al.|[2506.23329v1](http://arxiv.org/abs/2506.23329v1)|null|
-|**2025-06-29**|**Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction**|Perla Mayo et.al.|[2506.23311v1](http://arxiv.org/abs/2506.23311v1)|null|
-|**2025-06-29**|**Type II Seesaw Leptogenesis in a Majoron background**|Maximilian Berbig et.al.|[2506.23290v1](http://arxiv.org/abs/2506.23290v1)|null|
-|**2025-06-29**|**Revisiting Z Transform Laplace Inversion: To Correct flaws in Signal and System Theory**|Yuxin Yang et.al.|[2506.23242v1](http://arxiv.org/abs/2506.23242v1)|null|
-|**2025-06-29**|**Generalist Reward Models: Found Inside Large Language Models**|Yi-Chen Li et.al.|[2506.23235v1](http://arxiv.org/abs/2506.23235v1)|null|
-|**2025-06-29**|**Direct proton transfer on $^{46}$Ar supports the presence of a charge density bubble linked to a novel nuclear structure below $^{48}$Ca**|Daniele Brugnara et.al.|[2506.23228v1](http://arxiv.org/abs/2506.23228v1)|null|
-|**2025-06-29**|**Multi-Branch DNN and CRLB-Ratio-Weight Fusion for Enhanced DOA Sensing via a Massive H$^2$AD MIMO Receiver**|Feng Shu et.al.|[2506.23203v1](http://arxiv.org/abs/2506.23203v1)|null|
-|**2025-06-29**|**Josephson diode effect: a phenomenological perspective**|Da Wang et.al.|[2506.23200v1](http://arxiv.org/abs/2506.23200v1)|null|
-|**2025-06-29**|**Deep Learning for Optical Misalignment Diagnostics in Multi-Lens Imaging Systems**|Tomer Slor et.al.|[2506.23173v1](http://arxiv.org/abs/2506.23173v1)|null|
-|**2025-06-29**|**The Grothendieck duality and sparse minimizing in spaces of Sobolev solutions to elliptic systems**|Alexander Shlapunov et.al.|[2506.23087v1](http://arxiv.org/abs/2506.23087v1)|null|
-|**2025-06-29**|**PML method for the time-domain stochastic acoustic wave equation and an inverse source problem**|Hongxia Guo et.al.|[2506.23084v1](http://arxiv.org/abs/2506.23084v1)|null|
-|**2025-06-29**|**From Coarse to Fine: Learnable Discrete Wavelet Transforms for Efficient 3D Gaussian Splatting**|Hung Nguyen et.al.|[2506.23042v1](http://arxiv.org/abs/2506.23042v1)|null|
-|**2025-06-28**|**Equilibrium Correction Iteration for A Class of Mean-Field Game Inverse Problem**|Jiajia Yu et.al.|[2506.23018v1](http://arxiv.org/abs/2506.23018v1)|null|
 
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,3 +38,37 @@
 |**2025-06-30**|**Learning Structured Population Models from Data with WSINDy**|Rainey Lyons et.al.|[2506.24101v1](http://arxiv.org/abs/2506.24101v1)|null|
 |**2025-06-30**|**Tidal Inflation is Stronger for Misaligned Neptune-Sized Planets Than Aligned Ones**|Ritika Sethi et.al.|[2506.24100v1](http://arxiv.org/abs/2506.24100v1)|null|
 |**2025-06-30**|**Modified non-local damage model: resolving spurious damage evolution**|Roshan Philip Saji et.al.|[2506.24099v1](http://arxiv.org/abs/2506.24099v1)|null|
+
+### Diffusion
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-30**|**Comment on "LaMET's Asymptotic Extrapolation vs. Inverse Problem"**|Hervé Dutrieux et.al.|[2506.24037v1](http://arxiv.org/abs/2506.24037v1)|null|
+|**2025-06-30**|**Factorization norms and an inverse theorem for MaxCut**|Igor Balla et.al.|[2506.23989v1](http://arxiv.org/abs/2506.23989v1)|null|
+|**2025-06-30**|**On the convergence of the no-response test for the heat equation**|Shiwei Sun et.al.|[2506.23948v1](http://arxiv.org/abs/2506.23948v1)|null|
+|**2025-06-30**|**Dimension and model reduction approaches for linear Bayesian inverse problems with rank-deficient prior covariances**|Josie König et.al.|[2506.23892v1](http://arxiv.org/abs/2506.23892v1)|null|
+|**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854v1](http://arxiv.org/abs/2506.23854v1)|null|
+|**2025-06-30**|**Reviewing Current-Driven Dynamics and Monte Carlo based Analysis of Thermodynamic Properties of a Magnetic Skyrmion Crystal**|Rajdip Banerjee et.al.|[2506.23732v1](http://arxiv.org/abs/2506.23732v1)|null|
+|**2025-06-30**|**System-Embedded Diffusion Bridge Models**|Bartlomiej Sobieski et.al.|[2506.23726v1](http://arxiv.org/abs/2506.23726v1)|null|
+|**2025-06-30**|**High brightness multi-MeV photon source driven by a petawatt-scale laser wakefield accelerator**|E. Gerstmayr et.al.|[2506.23718v1](http://arxiv.org/abs/2506.23718v1)|null|
+|**2025-06-30**|**Truncated symbols of differential symmetry breaking operators**|Toshihisa Kubo et.al.|[2506.23599v1](http://arxiv.org/abs/2506.23599v1)|null|
+|**2025-06-30**|**On Exponential Instability of an Inverse Problem for the Wave Equation**|Leonard Busch et.al.|[2506.23559v1](http://arxiv.org/abs/2506.23559v1)|null|
+|**2025-06-30**|**Engineering Magnetization with Photons: Nanoscale Advances in the Inverse Faraday Effect for Metallic and Plasmonic Systems**|Chantal Hareau et.al.|[2506.23515v1](http://arxiv.org/abs/2506.23515v1)|null|
+|**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484v1](http://arxiv.org/abs/2506.23484v1)|null|
+|**2025-06-30**|**On the convergence of iterative regularization method assisted by the graph Laplacian with early stopping**|Harshit Bajpai et.al.|[2506.23483v1](http://arxiv.org/abs/2506.23483v1)|null|
+|**2025-06-29**|**The Jaynes-Cummings model in Phase Space Quantum Mechanics**|Mar Sanchez-Cordova et.al.|[2506.23386v1](http://arxiv.org/abs/2506.23386v1)|null|
+|**2025-06-29**|**Inverse conductivity problem on a Riemann surface**|Peter L. Polyakov et.al.|[2506.23362v1](http://arxiv.org/abs/2506.23362v1)|null|
+|**2025-06-29**|**Lagrangian Finite-Time Fluctuation Relation in isotropic turbulence**|Hanxun Yao et.al.|[2506.23336v1](http://arxiv.org/abs/2506.23336v1)|null|
+|**2025-06-29**|**Auto-Doubly Robust Estimation of Causal Effects on a Network**|Jizhou Liu et.al.|[2506.23332v1](http://arxiv.org/abs/2506.23332v1)|null|
+|**2025-06-29**|**IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering**|Parker Liu et.al.|[2506.23329v1](http://arxiv.org/abs/2506.23329v1)|null|
+|**2025-06-29**|**Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction**|Perla Mayo et.al.|[2506.23311v1](http://arxiv.org/abs/2506.23311v1)|null|
+|**2025-06-29**|**Type II Seesaw Leptogenesis in a Majoron background**|Maximilian Berbig et.al.|[2506.23290v1](http://arxiv.org/abs/2506.23290v1)|null|
+|**2025-06-29**|**Revisiting Z Transform Laplace Inversion: To Correct flaws in Signal and System Theory**|Yuxin Yang et.al.|[2506.23242v1](http://arxiv.org/abs/2506.23242v1)|null|
+|**2025-06-29**|**Generalist Reward Models: Found Inside Large Language Models**|Yi-Chen Li et.al.|[2506.23235v1](http://arxiv.org/abs/2506.23235v1)|null|
+|**2025-06-29**|**Direct proton transfer on $^{46}$Ar supports the presence of a charge density bubble linked to a novel nuclear structure below $^{48}$Ca**|Daniele Brugnara et.al.|[2506.23228v1](http://arxiv.org/abs/2506.23228v1)|null|
+|**2025-06-29**|**Multi-Branch DNN and CRLB-Ratio-Weight Fusion for Enhanced DOA Sensing via a Massive H$^2$AD MIMO Receiver**|Feng Shu et.al.|[2506.23203v1](http://arxiv.org/abs/2506.23203v1)|null|
+|**2025-06-29**|**Josephson diode effect: a phenomenological perspective**|Da Wang et.al.|[2506.23200v1](http://arxiv.org/abs/2506.23200v1)|null|
+|**2025-06-29**|**Deep Learning for Optical Misalignment Diagnostics in Multi-Lens Imaging Systems**|Tomer Slor et.al.|[2506.23173v1](http://arxiv.org/abs/2506.23173v1)|null|
+|**2025-06-29**|**The Grothendieck duality and sparse minimizing in spaces of Sobolev solutions to elliptic systems**|Alexander Shlapunov et.al.|[2506.23087v1](http://arxiv.org/abs/2506.23087v1)|null|
+|**2025-06-29**|**PML method for the time-domain stochastic acoustic wave equation and an inverse source problem**|Hongxia Guo et.al.|[2506.23084v1](http://arxiv.org/abs/2506.23084v1)|null|
+|**2025-06-29**|**From Coarse to Fine: Learnable Discrete Wavelet Transforms for Efficient 3D Gaussian Splatting**|Hung Nguyen et.al.|[2506.23042v1](http://arxiv.org/abs/2506.23042v1)|null|
+|**2025-06-28**|**Equilibrium Correction Iteration for A Class of Mean-Field Game Inverse Problem**|Jiajia Yu et.al.|[2506.23018v1](http://arxiv.org/abs/2506.23018v1)|null|
