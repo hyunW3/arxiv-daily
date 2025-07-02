@@ -17,7 +17,7 @@
 |**2025-06-30**|**On the convergence of iterative regularization method assisted by the graph Laplacian with early stopping**|Harshit Bajpai et.al.|[2506.23483v1](http://arxiv.org/abs/2506.23483v1)|null|
 |**2025-06-29**|**The Jaynes-Cummings model in Phase Space Quantum Mechanics**|Mar Sanchez-Cordova et.al.|[2506.23386v1](http://arxiv.org/abs/2506.23386v1)|null|
 |**2025-06-29**|**Inverse conductivity problem on a Riemann surface**|Peter L. Polyakov et.al.|[2506.23362v1](http://arxiv.org/abs/2506.23362v1)|null|
-|**2025-06-29**|**Lagrangian Finite-Time Fluctuation Relation in isotropic turbulence**|Hanxun Yao et.al.|[2506.23336v1](http://arxiv.org/abs/2506.23336v1)|null|
+|**2025-06-29**|**Lagrangian Finite-Time Fluctuation Relation in isotropic turbulence**|Hanxun Yao et.al.|[2506.23336v2](http://arxiv.org/abs/2506.23336v2)|null|
 |**2025-06-29**|**Auto-Doubly Robust Estimation of Causal Effects on a Network**|Jizhou Liu et.al.|[2506.23332v1](http://arxiv.org/abs/2506.23332v1)|null|
 |**2025-06-29**|**IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering**|Parker Liu et.al.|[2506.23329v1](http://arxiv.org/abs/2506.23329v1)|null|
 |**2025-06-29**|**Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction**|Perla Mayo et.al.|[2506.23311v1](http://arxiv.org/abs/2506.23311v1)|null|

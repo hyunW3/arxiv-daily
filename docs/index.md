@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-01 21:19:33 Asia/Shanghai
+ Automated deployment @ 2025-07-02 09:22:38 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -13,14 +13,14 @@
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127v1](http://arxiv.org/abs/2506.24127v1)|null|
 |**2025-06-30**|**Controlling the false discovery rate under a non-parametric graphical dependence model**|Drew T. Nguyen et.al.|[2506.24126v1](http://arxiv.org/abs/2506.24126v1)|null|
 |**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125v1](http://arxiv.org/abs/2506.24125v1)|null|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124v1](http://arxiv.org/abs/2506.24124v1)|null|
+|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124v2](http://arxiv.org/abs/2506.24124v2)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123v1](http://arxiv.org/abs/2506.24123v1)|null|
 |**2025-06-30**|**TextMesh4D: High-Quality Text-to-4D Mesh Generation**|Sisi Dai et.al.|[2506.24121v1](http://arxiv.org/abs/2506.24121v1)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120v1](http://arxiv.org/abs/2506.24120v1)|null|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119v1](http://arxiv.org/abs/2506.24119v1)|null|
+|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119v2](http://arxiv.org/abs/2506.24119v2)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118v1](http://arxiv.org/abs/2506.24118v1)|null|
-|**2025-06-30**|**Computational Detection of Intertextual Parallels in Biblical Hebrew: A Benchmark Study Using Transformer-Based Language Models**|David M. Smiley et.al.|[2506.24117v1](http://arxiv.org/abs/2506.24117v1)|null|
-|**2025-06-30**|**On the zero sets of harmonic polynomials**|Ioann Vasilyev et.al.|[2506.24116v1](http://arxiv.org/abs/2506.24116v1)|null|
+|**2025-06-30**|**Intertextual Parallel Detection in Biblical Hebrew: A Transformer-Based Benchmark**|David M. Smiley et.al.|[2506.24117v2](http://arxiv.org/abs/2506.24117v2)|null|
+|**2025-06-30**|**On the zero sets of harmonic polynomials**|Ioann Vasilyev et.al.|[2506.24116v2](http://arxiv.org/abs/2506.24116v2)|null|
 |**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu et.al.|[2506.24115v1](http://arxiv.org/abs/2506.24115v1)|null|
 |**2025-06-30**|**A Refined Kernel for $d$-Hitting Set**|Yuxi Liu et.al.|[2506.24114v1](http://arxiv.org/abs/2506.24114v1)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113v1](http://arxiv.org/abs/2506.24113v1)|null|
@@ -57,7 +57,7 @@
 |**2025-06-30**|**On the convergence of iterative regularization method assisted by the graph Laplacian with early stopping**|Harshit Bajpai et.al.|[2506.23483v1](http://arxiv.org/abs/2506.23483v1)|null|
 |**2025-06-29**|**The Jaynes-Cummings model in Phase Space Quantum Mechanics**|Mar Sanchez-Cordova et.al.|[2506.23386v1](http://arxiv.org/abs/2506.23386v1)|null|
 |**2025-06-29**|**Inverse conductivity problem on a Riemann surface**|Peter L. Polyakov et.al.|[2506.23362v1](http://arxiv.org/abs/2506.23362v1)|null|
-|**2025-06-29**|**Lagrangian Finite-Time Fluctuation Relation in isotropic turbulence**|Hanxun Yao et.al.|[2506.23336v1](http://arxiv.org/abs/2506.23336v1)|null|
+|**2025-06-29**|**Lagrangian Finite-Time Fluctuation Relation in isotropic turbulence**|Hanxun Yao et.al.|[2506.23336v2](http://arxiv.org/abs/2506.23336v2)|null|
 |**2025-06-29**|**Auto-Doubly Robust Estimation of Causal Effects on a Network**|Jizhou Liu et.al.|[2506.23332v1](http://arxiv.org/abs/2506.23332v1)|null|
 |**2025-06-29**|**IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering**|Parker Liu et.al.|[2506.23329v1](http://arxiv.org/abs/2506.23329v1)|null|
 |**2025-06-29**|**Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction**|Perla Mayo et.al.|[2506.23311v1](http://arxiv.org/abs/2506.23311v1)|null|
