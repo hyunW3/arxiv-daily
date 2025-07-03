@@ -2,33 +2,33 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-30**|**Comment on "LaMET's Asymptotic Extrapolation vs. Inverse Problem"**|Hervé Dutrieux et.al.|[2506.24037v1](http://arxiv.org/abs/2506.24037v1)|null|
-|**2025-06-30**|**Factorization norms and an inverse theorem for MaxCut**|Igor Balla et.al.|[2506.23989v1](http://arxiv.org/abs/2506.23989v1)|null|
-|**2025-06-30**|**On the convergence of the no-response test for the heat equation**|Shiwei Sun et.al.|[2506.23948v1](http://arxiv.org/abs/2506.23948v1)|null|
-|**2025-06-30**|**Dimension and model reduction approaches for linear Bayesian inverse problems with rank-deficient prior covariances**|Josie König et.al.|[2506.23892v1](http://arxiv.org/abs/2506.23892v1)|null|
-|**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854v1](http://arxiv.org/abs/2506.23854v1)|null|
-|**2025-06-30**|**Reviewing Current-Driven Dynamics and Monte Carlo based Analysis of Thermodynamic Properties of a Magnetic Skyrmion Crystal**|Rajdip Banerjee et.al.|[2506.23732v1](http://arxiv.org/abs/2506.23732v1)|null|
-|**2025-06-30**|**System-Embedded Diffusion Bridge Models**|Bartlomiej Sobieski et.al.|[2506.23726v1](http://arxiv.org/abs/2506.23726v1)|null|
-|**2025-06-30**|**High brightness multi-MeV photon source driven by a petawatt-scale laser wakefield accelerator**|E. Gerstmayr et.al.|[2506.23718v1](http://arxiv.org/abs/2506.23718v1)|null|
-|**2025-06-30**|**Truncated symbols of differential symmetry breaking operators**|Toshihisa Kubo et.al.|[2506.23599v1](http://arxiv.org/abs/2506.23599v1)|null|
-|**2025-06-30**|**On Exponential Instability of an Inverse Problem for the Wave Equation**|Leonard Busch et.al.|[2506.23559v1](http://arxiv.org/abs/2506.23559v1)|null|
-|**2025-06-30**|**Engineering Magnetization with Photons: Nanoscale Advances in the Inverse Faraday Effect for Metallic and Plasmonic Systems**|Chantal Hareau et.al.|[2506.23515v1](http://arxiv.org/abs/2506.23515v1)|null|
-|**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484v1](http://arxiv.org/abs/2506.23484v1)|null|
-|**2025-06-30**|**On the convergence of iterative regularization method assisted by the graph Laplacian with early stopping**|Harshit Bajpai et.al.|[2506.23483v1](http://arxiv.org/abs/2506.23483v1)|null|
-|**2025-06-29**|**The Jaynes-Cummings model in Phase Space Quantum Mechanics**|Mar Sanchez-Cordova et.al.|[2506.23386v1](http://arxiv.org/abs/2506.23386v1)|null|
-|**2025-06-29**|**Inverse conductivity problem on a Riemann surface**|Peter L. Polyakov et.al.|[2506.23362v1](http://arxiv.org/abs/2506.23362v1)|null|
-|**2025-06-29**|**Lagrangian Finite-Time Fluctuation Relation in isotropic turbulence**|Hanxun Yao et.al.|[2506.23336v2](http://arxiv.org/abs/2506.23336v2)|null|
-|**2025-06-29**|**Auto-Doubly Robust Estimation of Causal Effects on a Network**|Jizhou Liu et.al.|[2506.23332v1](http://arxiv.org/abs/2506.23332v1)|null|
-|**2025-06-29**|**IR3D-Bench: Evaluating Vision-Language Model Scene Understanding as Agentic Inverse Rendering**|Parker Liu et.al.|[2506.23329v1](http://arxiv.org/abs/2506.23329v1)|null|
-|**2025-06-29**|**Physics informed guided diffusion for accelerated multi-parametric MRI reconstruction**|Perla Mayo et.al.|[2506.23311v1](http://arxiv.org/abs/2506.23311v1)|null|
-|**2025-06-29**|**Type II Seesaw Leptogenesis in a Majoron background**|Maximilian Berbig et.al.|[2506.23290v1](http://arxiv.org/abs/2506.23290v1)|null|
-|**2025-06-29**|**Revisiting Z Transform Laplace Inversion: To Correct flaws in Signal and System Theory**|Yuxin Yang et.al.|[2506.23242v1](http://arxiv.org/abs/2506.23242v1)|null|
-|**2025-06-29**|**Generalist Reward Models: Found Inside Large Language Models**|Yi-Chen Li et.al.|[2506.23235v1](http://arxiv.org/abs/2506.23235v1)|null|
-|**2025-06-29**|**Direct proton transfer on $^{46}$Ar supports the presence of a charge density bubble linked to a novel nuclear structure below $^{48}$Ca**|Daniele Brugnara et.al.|[2506.23228v1](http://arxiv.org/abs/2506.23228v1)|null|
-|**2025-06-29**|**Multi-Branch DNN and CRLB-Ratio-Weight Fusion for Enhanced DOA Sensing via a Massive H$^2$AD MIMO Receiver**|Feng Shu et.al.|[2506.23203v1](http://arxiv.org/abs/2506.23203v1)|null|
-|**2025-06-29**|**Josephson diode effect: a phenomenological perspective**|Da Wang et.al.|[2506.23200v1](http://arxiv.org/abs/2506.23200v1)|null|
-|**2025-06-29**|**Deep Learning for Optical Misalignment Diagnostics in Multi-Lens Imaging Systems**|Tomer Slor et.al.|[2506.23173v1](http://arxiv.org/abs/2506.23173v1)|null|
-|**2025-06-29**|**The Grothendieck duality and sparse minimizing in spaces of Sobolev solutions to elliptic systems**|Alexander Shlapunov et.al.|[2506.23087v1](http://arxiv.org/abs/2506.23087v1)|null|
-|**2025-06-29**|**PML method for the time-domain stochastic acoustic wave equation and an inverse source problem**|Hongxia Guo et.al.|[2506.23084v1](http://arxiv.org/abs/2506.23084v1)|null|
-|**2025-06-29**|**From Coarse to Fine: Learnable Discrete Wavelet Transforms for Efficient 3D Gaussian Splatting**|Hung Nguyen et.al.|[2506.23042v1](http://arxiv.org/abs/2506.23042v1)|null|
-|**2025-06-28**|**Equilibrium Correction Iteration for A Class of Mean-Field Game Inverse Problem**|Jiajia Yu et.al.|[2506.23018v1](http://arxiv.org/abs/2506.23018v1)|null|
+|**2025-07-02**|**Deterministic Equations for Feedback Control of Open Quantum Systems**|Alberto J. B. Rosal et.al.|[2507.01934v1](http://arxiv.org/abs/2507.01934v1)|null|
+|**2025-07-02**|**Perceptual Ratings Predict Speech Inversion Articulatory Kinematics in Childhood Speech Sound Disorders**|Nina R. Benway et.al.|[2507.01888v1](http://arxiv.org/abs/2507.01888v1)|null|
+|**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886v1](http://arxiv.org/abs/2507.01886v1)|null|
+|**2025-07-02**|**Generalized ODE reduction algorithm for bounded degree transformation**|Shaoxuan Huang et.al.|[2507.01878v1](http://arxiv.org/abs/2507.01878v1)|null|
+|**2025-07-02**|**Graded phononic metamaterials: Scalable design meets scalable microfabrication**|Charles Dorn et.al.|[2507.01874v1](http://arxiv.org/abs/2507.01874v1)|null|
+|**2025-07-02**|**The inverse source problem of stochastic wave equation**|Yunqing Huang et.al.|[2507.01789v1](http://arxiv.org/abs/2507.01789v1)|null|
+|**2025-07-02**|**Microscale architected materials for elastic wave guiding: Fabrication and dynamic characterization across length and time scales**|Vignesh Kannan et.al.|[2507.01757v1](http://arxiv.org/abs/2507.01757v1)|null|
+|**2025-07-02**|**Using Wavelet Domain Fingerprints to Improve Source Camera Identification**|Xinle Tian et.al.|[2507.01712v1](http://arxiv.org/abs/2507.01712v1)|null|
+|**2025-07-02**|**A modified Levenberg-Marquardt method for estimating the elastic material parameters of polymer waveguides using residuals between autocorrelated frequency responses**|Dominik Itner et.al.|[2507.01706v1](http://arxiv.org/abs/2507.01706v1)|null|
+|**2025-07-02**|**Quasinormal modes of nonlocal gravity black holes**|Rocco D'Agostino et.al.|[2507.01698v1](http://arxiv.org/abs/2507.01698v1)|null|
+|**2025-07-02**|**The Klein-Gordon equation on asymptotically Minkowski spacetimes: the Feynman propagator**|Dean Baskin et.al.|[2507.01600v1](http://arxiv.org/abs/2507.01600v1)|null|
+|**2025-07-02**|**Extraction of Physical Parameters of RRab Variables using Neural Network based Interpolator**|Nitesh Kumar et.al.|[2507.01554v1](http://arxiv.org/abs/2507.01554v1)|null|
+|**2025-07-02**|**A Compact 16-bit S-box over Tower Field $\F_{(((2^2)^2)^2)^2}$ with High Security**|Bahram Rashidi et.al.|[2507.01423v1](http://arxiv.org/abs/2507.01423v1)|null|
+|**2025-07-02**|**Primordial Black Holes as Coma Cluster Dark Matter and the Unresolved γ-Ray Background**|Jeremy Mould et.al.|[2507.01421v1](http://arxiv.org/abs/2507.01421v1)|null|
+|**2025-07-02**|**Reconstruction of the observable universe from the integrated Sachs-Wolfe effect**|Julianne Chung et.al.|[2507.01399v1](http://arxiv.org/abs/2507.01399v1)|null|
+|**2025-07-02**|**The inverse $Z$-polynomial of a matroid**|Alice L. L. Gao et.al.|[2507.01332v1](http://arxiv.org/abs/2507.01332v1)|null|
+|**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285v1](http://arxiv.org/abs/2507.01285v1)|null|
+|**2025-07-01**|**On the Intensity-based Inversion Method for Quantitative Quasi-Static Elastography**|Ekaterina Sherina et.al.|[2507.01207v1](http://arxiv.org/abs/2507.01207v1)|null|
+|**2025-07-01**|**Searching for intermediate mass ratio binary black hole mergers in the third observing run of LIGO-Virgo-KAGRA**|Mark Ho-Yeuk Cheung et.al.|[2507.01083v1](http://arxiv.org/abs/2507.01083v1)|null|
+|**2025-07-01**|**Orbital Hall Effect and Angular Momentum Dynamics in Confined Geometries**|Egor I. Kiselev et.al.|[2507.00982v1](http://arxiv.org/abs/2507.00982v1)|null|
+|**2025-07-01**|**Inverse Velocity Dispersion of Solar Energetic Protons Observed by Solar Orbiter and Its Shock Acceleration Explanation**|Yuncong Li et.al.|[2507.00954v1](http://arxiv.org/abs/2507.00954v1)|null|
+|**2025-07-01**|**Black holes and wormholes in Deser-Woodard gravity**|Juliano C. S. Neves et.al.|[2507.00936v1](http://arxiv.org/abs/2507.00936v1)|null|
+|**2025-07-01**|**Quantum Hall Effect and Chern Phases in the 1/5-Depleted Square Lattice**|Sara Aghtouman et.al.|[2507.00932v1](http://arxiv.org/abs/2507.00932v1)|null|
+|**2025-07-01**|**Inverse matroid optimization under subset constraints**|Kristóf Bérczi et.al.|[2507.00930v2](http://arxiv.org/abs/2507.00930v2)|null|
+|**2025-07-01**|**Quantum Imaginary-Time Evolution with Polynomial Resources in Time**|Lei Zhang et.al.|[2507.00908v1](http://arxiv.org/abs/2507.00908v1)|null|
+|**2025-07-01**|**Scaling Laws Are Unreliable for Downstream Tasks: A Reality Check**|Nicholas Lourie et.al.|[2507.00885v1](http://arxiv.org/abs/2507.00885v1)|null|
+|**2025-07-01**|**Real-Time Inverse Kinematics for Generating Multi-Constrained Movements of Virtual Human Characters**|Hendric Voss et.al.|[2507.00792v1](http://arxiv.org/abs/2507.00792v1)|null|
+|**2025-07-01**|**Light Curve Analysis Of W-uma Type Binary Systems Rz Umi, Oq Uma, Lp Uma**|Marko Grozdanović et.al.|[2507.00768v1](http://arxiv.org/abs/2507.00768v1)|null|
+|**2025-07-01**|**Reshaping the anomalous Hall response in tilted 3D system with disorder correction**|Vivek Pandey et.al.|[2507.00744v1](http://arxiv.org/abs/2507.00744v1)|null|
+|**2025-07-01**|**A General Simulation-Based Optimisation Framework for Multipoint Constant-Stress Accelerated Life Tests**|Owen McGrath et.al.|[2507.00722v1](http://arxiv.org/abs/2507.00722v1)|null|
