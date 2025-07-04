@@ -5,7 +5,7 @@
 |**2025-07-02**|**Deterministic Equations for Feedback Control of Open Quantum Systems**|Alberto J. B. Rosal et.al.|[2507.01934v1](http://arxiv.org/abs/2507.01934v1)|null|
 |**2025-07-02**|**Perceptual Ratings Predict Speech Inversion Articulatory Kinematics in Childhood Speech Sound Disorders**|Nina R. Benway et.al.|[2507.01888v1](http://arxiv.org/abs/2507.01888v1)|null|
 |**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886v1](http://arxiv.org/abs/2507.01886v1)|null|
-|**2025-07-02**|**Generalized ODE reduction algorithm for bounded degree transformation**|Shaoxuan Huang et.al.|[2507.01878v1](http://arxiv.org/abs/2507.01878v1)|null|
+|**2025-07-02**|**Generalized ODE reduction algorithm for bounded degree transformation**|Shaoxuan Huang et.al.|[2507.01878v2](http://arxiv.org/abs/2507.01878v2)|null|
 |**2025-07-02**|**Graded phononic metamaterials: Scalable design meets scalable microfabrication**|Charles Dorn et.al.|[2507.01874v1](http://arxiv.org/abs/2507.01874v1)|null|
 |**2025-07-02**|**The inverse source problem of stochastic wave equation**|Yunqing Huang et.al.|[2507.01789v1](http://arxiv.org/abs/2507.01789v1)|null|
 |**2025-07-02**|**Microscale architected materials for elastic wave guiding: Fabrication and dynamic characterization across length and time scales**|Vignesh Kannan et.al.|[2507.01757v1](http://arxiv.org/abs/2507.01757v1)|null|

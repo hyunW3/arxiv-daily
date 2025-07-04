@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-03 21:17:08 Asia/Shanghai
+ Automated deployment @ 2025-07-04 09:22:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -10,7 +10,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962v1](http://arxiv.org/abs/2507.01962v1)|null|
 |**2025-07-02**|**Resolving Individual Stars in Nearby Large Galaxies with the Habitable Worlds Observatory**|Adam Smercina et.al.|[2507.01960v1](http://arxiv.org/abs/2507.01960v1)|null|
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|null|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|null|
 |**2025-07-02**|**Stabilization of long-range order in low-dimensional nonequilibrium $O(N)$ models**|Oriana K. Diessel et.al.|[2507.01959v1](http://arxiv.org/abs/2507.01959v1)|null|
 |**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957v1](http://arxiv.org/abs/2507.01957v1)|null|
 |**2025-07-02**|**Universal lower bound on the axion decay constant from free streaming effects**|Keisuke Harigaya et.al.|[2507.01956v1](http://arxiv.org/abs/2507.01956v1)|null|
@@ -37,7 +37,7 @@
 |**2025-07-02**|**Photoelastic Grain Solver v2.0: An updated tool for analysis of force measurements in granular materials**|Carmen L. Lee et.al.|[2507.01933v1](http://arxiv.org/abs/2507.01933v1)|null|
 |**2025-07-02**|**A first-order method for nonconvex-nonconcave minimax problems under a local Kurdyka-Łojasiewicz condition**|Zhaosong Lu et.al.|[2507.01932v1](http://arxiv.org/abs/2507.01932v1)|null|
 |**2025-07-02**|**Adaptability of ASR Models on Low-Resource Language: A Comparative Study of Whisper and Wav2Vec-BERT on Bangla**|Md Sazzadul Islam Ridoy et.al.|[2507.01931v1](http://arxiv.org/abs/2507.01931v1)|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930v1](http://arxiv.org/abs/2507.01930v1)|null|
+|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930v2](http://arxiv.org/abs/2507.01930v2)|null|
 
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
@@ -45,7 +45,7 @@
 |**2025-07-02**|**Deterministic Equations for Feedback Control of Open Quantum Systems**|Alberto J. B. Rosal et.al.|[2507.01934v1](http://arxiv.org/abs/2507.01934v1)|null|
 |**2025-07-02**|**Perceptual Ratings Predict Speech Inversion Articulatory Kinematics in Childhood Speech Sound Disorders**|Nina R. Benway et.al.|[2507.01888v1](http://arxiv.org/abs/2507.01888v1)|null|
 |**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886v1](http://arxiv.org/abs/2507.01886v1)|null|
-|**2025-07-02**|**Generalized ODE reduction algorithm for bounded degree transformation**|Shaoxuan Huang et.al.|[2507.01878v1](http://arxiv.org/abs/2507.01878v1)|null|
+|**2025-07-02**|**Generalized ODE reduction algorithm for bounded degree transformation**|Shaoxuan Huang et.al.|[2507.01878v2](http://arxiv.org/abs/2507.01878v2)|null|
 |**2025-07-02**|**Graded phononic metamaterials: Scalable design meets scalable microfabrication**|Charles Dorn et.al.|[2507.01874v1](http://arxiv.org/abs/2507.01874v1)|null|
 |**2025-07-02**|**The inverse source problem of stochastic wave equation**|Yunqing Huang et.al.|[2507.01789v1](http://arxiv.org/abs/2507.01789v1)|null|
 |**2025-07-02**|**Microscale architected materials for elastic wave guiding: Fabrication and dynamic characterization across length and time scales**|Vignesh Kannan et.al.|[2507.01757v1](http://arxiv.org/abs/2507.01757v1)|null|
