@@ -2,13 +2,13 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-07**|**Electromagnetic energy calibration of the SoLid detector with horizontal muons**|SoLid collaboration et.al.|[2507.05180v1](http://arxiv.org/abs/2507.05180v1)|null|
+|**2025-07-07**|**Electromagnetic energy calibration of the SoLid detector with horizontal muons**|SoLid collaboration et.al.|[2507.05180v2](http://arxiv.org/abs/2507.05180v2)|null|
 |**2025-07-07**|**Deep Learning to Automate Parameter Extraction and Model Fitting of Two-Dimensional Transistors**|Robert K. A. Bennett et.al.|[2507.05134v1](http://arxiv.org/abs/2507.05134v1)|null|
 |**2025-07-07**|**DICE: Discrete inverse continuity equation for learning population dynamics**|Tobias Blickhan et.al.|[2507.05107v1](http://arxiv.org/abs/2507.05107v1)|null|
 |**2025-07-07**|**A Generative Diffusion Model for Amorphous Materials**|Kai Yang et.al.|[2507.05024v1](http://arxiv.org/abs/2507.05024v1)|null|
 |**2025-07-07**|**Adaptive Vector-Valued Splines for the Resolution of Inverse Problems**|Vincent Guillemet et.al.|[2507.05014v1](http://arxiv.org/abs/2507.05014v1)|null|
 |**2025-07-07**|**When Imitation Learning Outperforms Reinforcement Learning in Surgical Action Planning**|Maxence Boels et.al.|[2507.05011v1](http://arxiv.org/abs/2507.05011v1)|null|
-|**2025-07-07**|**Geometry of the vapor layerunder a Leidenfrost hydrogel sphere**|Vicente L. Diaz-Melian et.al.|[2507.04982v1](http://arxiv.org/abs/2507.04982v1)|null|
+|**2025-07-07**|**Geometry of the vapor layer under a Leidenfrost hydrogel sphere**|Vicente L. Diaz-Melian et.al.|[2507.04982v2](http://arxiv.org/abs/2507.04982v2)|null|
 |**2025-07-07**|**Unifying Robot Optimization: Monte Carlo Tree Search with Tensor Factorization**|Teng Xue et.al.|[2507.04949v1](http://arxiv.org/abs/2507.04949v1)|null|
 |**2025-07-07**|**Universal Diagnostic Criterion for Intrinsic Superconducting Diode Effect**|Ran Wang et.al.|[2507.04876v1](http://arxiv.org/abs/2507.04876v1)|null|
 |**2025-07-07**|**Fractional Bessel Process with Constant Drift: Spectral Analysis and Queueing Applications**|Ivan Papić et.al.|[2507.04861v1](http://arxiv.org/abs/2507.04861v1)|null|
