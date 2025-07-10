@@ -5,7 +5,7 @@
 |**2025-07-08**|**Quantum simulation of a noisy classical nonlinear dynamics**|Sergey Bravyi et.al.|[2507.06198v1](http://arxiv.org/abs/2507.06198v1)|null|
 |**2025-07-08**|**Learning-Enhanced Variational Regularization for Electrical Impedance Tomography via \Calderon's Method**|Kai Li et.al.|[2507.06114v1](http://arxiv.org/abs/2507.06114v1)|null|
 |**2025-07-08**|**SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles**|Jakub F. Kowalewski et.al.|[2507.06053v1](http://arxiv.org/abs/2507.06053v1)|null|
-|**2025-07-08**|**Fredholm Neural Networks for forward and inverse problems in elliptic PDEs**|Kyriakos Georgiou et.al.|[2507.06038v1](http://arxiv.org/abs/2507.06038v1)|null|
+|**2025-07-08**|**Fredholm Neural Networks for forward and inverse problems in elliptic PDEs**|Kyriakos Georgiou et.al.|[2507.06038v2](http://arxiv.org/abs/2507.06038v2)|null|
 |**2025-07-08**|**Second-Order Conductivity Probes a Cascade of Singularities in a Moiré Superlattice**|Tanweer Ahmed et.al.|[2507.05969v1](http://arxiv.org/abs/2507.05969v1)|null|
 |**2025-07-08**|**Interpreting the multi-TeV emission from GRB 221009A with a second electron component accelerated by turbulence in the jet**|Xing-Wei Gong et.al.|[2507.05968v1](http://arxiv.org/abs/2507.05968v1)|null|
 |**2025-07-08**|**Excess dissipation shapes symmetry breaking in non-equilibrium currents**|Matteo Sireci et.al.|[2507.05882v1](http://arxiv.org/abs/2507.05882v1)|null|
@@ -28,7 +28,7 @@
 |**2025-07-07**|**Mastering Regional 3DGS: Locating, Initializing, and Editing with Diverse 2D Priors**|Lanqing Guo et.al.|[2507.05426v1](http://arxiv.org/abs/2507.05426v1)|null|
 |**2025-07-07**|**Asymptotically Good Quantum Codes with Addressable and Transversal Non-Clifford Gates**|Zhiyang He et.al.|[2507.05392v1](http://arxiv.org/abs/2507.05392v1)|null|
 |**2025-07-07**|**Topological phase diagram of twisted bilayer graphene as a function of the twist angle**|Leonardo A. Navarro-Labastida et.al.|[2507.05341v1](http://arxiv.org/abs/2507.05341v1)|null|
-|**2025-07-07**|**Electromagnetic energy calibration of the SoLid detector with horizontal muons**|SoLid collaboration et.al.|[2507.05180v2](http://arxiv.org/abs/2507.05180v2)|null|
+|**2025-07-07**|**Electromagnetic energy calibration of the SoLid detector with horizontal muons**|SoLid collaboration et.al.|[2507.05180v3](http://arxiv.org/abs/2507.05180v3)|null|
 |**2025-07-07**|**Deep Learning to Automate Parameter Extraction and Model Fitting of Two-Dimensional Transistors**|Robert K. A. Bennett et.al.|[2507.05134v1](http://arxiv.org/abs/2507.05134v1)|null|
 |**2025-07-07**|**DICE: Discrete inverse continuity equation for learning population dynamics**|Tobias Blickhan et.al.|[2507.05107v1](http://arxiv.org/abs/2507.05107v1)|null|
 |**2025-07-07**|**A Generative Diffusion Model for Amorphous Materials**|Kai Yang et.al.|[2507.05024v1](http://arxiv.org/abs/2507.05024v1)|null|
