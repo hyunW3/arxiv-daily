@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106v1](http://arxiv.org/abs/2507.07106v1)|null|
-|**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105v1](http://arxiv.org/abs/2507.07105v1)|null|
-|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104v1](http://arxiv.org/abs/2507.07104v1)|null|
-|**2025-07-09**|**Does Data Scaling Lead to Visual Compositional Generalization?**|Arnas Uselis et.al.|[2507.07102v1](http://arxiv.org/abs/2507.07102v1)|null|
-|**2025-07-09**|**A localized particle filter for geophysical data assimilation**|Dan Crisan et.al.|[2507.07103v1](http://arxiv.org/abs/2507.07103v1)|null|
-|**2025-07-09**|**Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful**|Martin Marek et.al.|[2507.07101v1](http://arxiv.org/abs/2507.07101v1)|null|
-|**2025-07-09**|**Addressing Imbalanced Domain-Incremental Learning through Dual-Balance Collaborative Experts**|Lan Li et.al.|[2507.07100v1](http://arxiv.org/abs/2507.07100v1)|null|
-|**2025-07-09**|**Sensitivity and Topology of Exceptional Rings in Nonlinear Non-Hermitian Planar Optical Microcavities**|Jan Wingenbach et.al.|[2507.07099v1](http://arxiv.org/abs/2507.07099v1)|null|
-|**2025-07-09**|**IceCube population constraints on neutrino emission by Fermi-LAT detected active galactic nuclei**|Sam Hori et.al.|[2507.07098v1](http://arxiv.org/abs/2507.07098v1)|null|
-|**2025-07-09**|**Results from IceCube Follow-up of Nearby Supernova SN2023ixf**|Alicia Mand et.al.|[2507.07097v1](http://arxiv.org/abs/2507.07097v1)|null|
-|**2025-07-09**|**Search for GeV-PeV neutrinos from nova T Coronae Borealis with IceCube**|Jessie Thwaites et.al.|[2507.07096v1](http://arxiv.org/abs/2507.07096v1)|null|
-|**2025-07-09**|**Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data**|Ke Fan et.al.|[2507.07095v1](http://arxiv.org/abs/2507.07095v1)|null|
-|**2025-07-09**|**Numbers with three close factorizations and central lattice points on hyperbolas**|Tsz Ho Chan et.al.|[2507.07094v1](http://arxiv.org/abs/2507.07094v1)|null|
-|**2025-07-09**|**The Nineteenth Data Release of the Sloan Digital Sky Survey**|SDSS Collaboration et.al.|[2507.07093v1](http://arxiv.org/abs/2507.07093v1)|null|
-|**2025-07-09**|**Non-Gaussian Phase Transition and Cascade of Instabilities in the Dissipative Quantum Rabi Model**|Mingyu Kang et.al.|[2507.07092v1](http://arxiv.org/abs/2507.07092v1)|null|
-|**2025-07-09**|**Ray-tracing Fast Radio Bursts Through IllustrisTNG: Cosmological Dispersion Measures from Redshift 0 to 5.5**|Ralf M. Konietzka et.al.|[2507.07090v1](http://arxiv.org/abs/2507.07090v1)|null|
-|**2025-07-09**|**Testing frozen-in pNGB dark matter with a long-lived dark Higgs**|Nicolás Bernal et.al.|[2507.07089v1](http://arxiv.org/abs/2507.07089v1)|null|
-|**2025-07-09**|**Investigating the CREDIT history of supernova remnants as cosmic-ray sources**|Anton Stall et.al.|[2507.07088v1](http://arxiv.org/abs/2507.07088v1)|null|
-|**2025-07-09**|**Incremental Averaging Method to Improve Graph-Based Time-Difference-of-Arrival Estimation**|Klaus Brümann et.al.|[2507.07087v1](http://arxiv.org/abs/2507.07087v1)|null|
-|**2025-07-09**|**Lifetime study of the ColdADC for the Deep Underground Neutrino Experiment**|Wenjie Wu et.al.|[2507.07086v1](http://arxiv.org/abs/2507.07086v1)|null|
-|**2025-07-09**|**The parabolic split-type Monge-Ampere on split tangent bundle surfaces**|Joshua Jordan et.al.|[2507.07084v1](http://arxiv.org/abs/2507.07084v1)|null|
-|**2025-07-09**|**The cosmic-ray sea explains the Galactic $γ$-ray and $ν$ diffuse emissions from GeV to PeV**|Pedro De La Torre Luque et.al.|[2507.07083v1](http://arxiv.org/abs/2507.07083v1)|null|
-|**2025-07-09**|**Asymmetric two-photon response of an incoherently driven quantum emitter**|Lennart Jehle et.al.|[2507.07082v1](http://arxiv.org/abs/2507.07082v1)|null|
-|**2025-07-09**|**Joint Target Acquisition and Refined Position Estimation in OFDM-based ISAC Networks**|Lorenzo Pucci et.al.|[2507.07081v1](http://arxiv.org/abs/2507.07081v1)|null|
-|**2025-07-09**|**Monodromy Representations: Decomposing Rank-Three Bundles over the Projective Line with Three Marked Points**|Diego Yépez et.al.|[2507.07080v1](http://arxiv.org/abs/2507.07080v1)|null|
-|**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079v1](http://arxiv.org/abs/2507.07079v1)|null|
-|**2025-07-09**|**Temperature induced tipping in a two box ocean circulation model**|Jasmine Noory et.al.|[2507.07078v1](http://arxiv.org/abs/2507.07078v1)|null|
-|**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077v1](http://arxiv.org/abs/2507.07077v1)|null|
-|**2025-07-09**|**Surjectivity of the Cannon--Thurston map in metric (graph) bundles**|Rakesh Halder et.al.|[2507.07076v1](http://arxiv.org/abs/2507.07076v1)|null|
-|**2025-07-09**|**Resolving the QCD Axion Domain Wall Problem with a Light Axion**|Junseok Lee et.al.|[2507.07075v1](http://arxiv.org/abs/2507.07075v1)|null|
+|**2025-07-10**|**Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**|Helen Qu et.al.|[2507.08000v1](http://arxiv.org/abs/2507.08000v1)|null|
+|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999v1](http://arxiv.org/abs/2507.07999v1)|null|
+|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998v1](http://arxiv.org/abs/2507.07998v1)|null|
+|**2025-07-10**|**MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization**|Mingkai Jia et.al.|[2507.07997v1](http://arxiv.org/abs/2507.07997v1)|null|
+|**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995v1](http://arxiv.org/abs/2507.07995v1)|null|
+|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996v1](http://arxiv.org/abs/2507.07996v1)|null|
+|**2025-07-10**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994v1](http://arxiv.org/abs/2507.07994v1)|null|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993v1](http://arxiv.org/abs/2507.07993v1)|null|
+|**2025-07-10**|**Correlations and quantum circuits with dynamical causal order**|Raphaël Mothe et.al.|[2507.07992v1](http://arxiv.org/abs/2507.07992v1)|null|
+|**2025-07-10**|**Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations**|Michael Kovač et.al.|[2507.07991v1](http://arxiv.org/abs/2507.07991v1)|null|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990v1](http://arxiv.org/abs/2507.07990v1)|null|
+|**2025-07-10**|**Strong converse rate for asymptotic hypothesis testing in type III**|Nicholas Laracuente et.al.|[2507.07989v1](http://arxiv.org/abs/2507.07989v1)|null|
+|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988v1](http://arxiv.org/abs/2507.07988v1)|null|
+|**2025-07-10**|**Purcell enhancement of photogalvanic currents in a van der Waals plasmonic self-cavity**|Xinyu Li et.al.|[2507.07987v1](http://arxiv.org/abs/2507.07987v1)|null|
+|**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986v1](http://arxiv.org/abs/2507.07986v1)|null|
+|**2025-07-10**|**CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why**|Bijay Gurung et.al.|[2507.07985v1](http://arxiv.org/abs/2507.07985v1)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984v1](http://arxiv.org/abs/2507.07984v1)|null|
+|**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982v1](http://arxiv.org/abs/2507.07982v1)|null|
+|**2025-07-10**|**UniTac: Whole-Robot Touch Sensing Without Tactile Sensors**|Wanjia Fu et.al.|[2507.07980v1](http://arxiv.org/abs/2507.07980v1)|null|
+|**2025-07-10**|**Why is Your Language Model a Poor Implicit Reward Model?**|Noam Razin et.al.|[2507.07981v1](http://arxiv.org/abs/2507.07981v1)|null|
+|**2025-07-10**|**A Service Architecture for Dataspaces**|Benedikt T. Arnold et.al.|[2507.07979v1](http://arxiv.org/abs/2507.07979v1)|null|
+|**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978v1](http://arxiv.org/abs/2507.07978v1)|null|
+|**2025-07-10**|**From spatial to null infinity: Connecting initial data to peeling**|Berend Schneider et.al.|[2507.07977v1](http://arxiv.org/abs/2507.07977v1)|null|
+|**2025-07-10**|**Finding sparse induced subgraphs on graphs of bounded induced matching treewidth**|Hans L. Bodlaender et.al.|[2507.07975v1](http://arxiv.org/abs/2507.07975v1)|null|
+|**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974v1](http://arxiv.org/abs/2507.07974v1)|null|
+|**2025-07-10**|**Multiple Axions Save High-Scale Inflation**|Dan Kondo et.al.|[2507.07973v1](http://arxiv.org/abs/2507.07973v1)|null|
+|**2025-07-10**|**EinHops: Einsum Notation for Expressive Homomorphic Operations on RNS-CKKS Tensors**|Karthik Garimella et.al.|[2507.07972v1](http://arxiv.org/abs/2507.07972v1)|null|
+|**2025-07-10**|**Spectral networks for polynomial cubic differentials**|Omar Kidwai et.al.|[2507.07971v1](http://arxiv.org/abs/2507.07971v1)|null|
+|**2025-07-10**|**Non-holomorphic Contributions in GMSB with Adjoint Messengers**|Busra Nis et.al.|[2507.07970v1](http://arxiv.org/abs/2507.07970v1)|null|
+|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969v1](http://arxiv.org/abs/2507.07969v1)|null|
