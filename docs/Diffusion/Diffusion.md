@@ -2,6 +2,21 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-11**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773v1](http://arxiv.org/abs/2507.08773v1)|null|
+|**2025-07-11**|**Propensity score with factor loadings: the effect of the Paris Agreement**|Angelo Forino et.al.|[2507.08764v1](http://arxiv.org/abs/2507.08764v1)|null|
+|**2025-07-11**|**Modeling Partially Observed Nonlinear Dynamical Systems and Efficient Data Assimilation via Discrete-Time Conditional Gaussian Koopman Network**|Chuanqi Chen et.al.|[2507.08749v1](http://arxiv.org/abs/2507.08749v1)|null|
+|**2025-07-11**|**Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series**|Azimov Sherkhon et.al.|[2507.08738v1](http://arxiv.org/abs/2507.08738v1)|null|
+|**2025-07-11**|**SPLASH! Sample-efficient Preference-based inverse reinforcement learning for Long-horizon Adversarial tasks from Suboptimal Hierarchical demonstrations**|Peter Crowley et.al.|[2507.08707v1](http://arxiv.org/abs/2507.08707v1)|null|
+|**2025-07-11**|**Robotic Calibration Based on Haptic Feedback Improves Sim-to-Real Transfer**|Juraj Gavura et.al.|[2507.08572v1](http://arxiv.org/abs/2507.08572v1)|null|
+|**2025-07-11**|**Exploiting Cognition in ISAR Processing for Spectral Compatibility Applications**|Massimo Rosamilia et.al.|[2507.08423v1](http://arxiv.org/abs/2507.08423v1)|null|
+|**2025-07-11**|**Discontinuity-aware KAN-based physics-informed neural networks**|Guoqiang Lei et.al.|[2507.08338v1](http://arxiv.org/abs/2507.08338v1)|null|
+|**2025-07-11**|**Neutrino oscillations and PMNS matrix in gauge-Higgs unification**|Yutaka Hosotani et.al.|[2507.08321v1](http://arxiv.org/abs/2507.08321v1)|null|
+|**2025-07-11**|**Control of nonreciprocal charge transport in topological insulator/superconductor heterostructures with Fermi level tuning and superconducting-layer thickness**|Soma Nagahama et.al.|[2507.08300v1](http://arxiv.org/abs/2507.08300v1)|null|
+|**2025-07-11**|**Data-Driven Dimensional Synthesis of Diverse Planar Four-bar Function Generation Mechanisms via Direct Parameterization**|Woon Ryong Kim et.al.|[2507.08269v1](http://arxiv.org/abs/2507.08269v1)|null|
+|**2025-07-11**|**Data Generation without Function Estimation**|Hadi Daneshmand et.al.|[2507.08239v1](http://arxiv.org/abs/2507.08239v1)|null|
+|**2025-07-10**|**Evaluation of bound-state $β^-$-decay half-lives of fully ionized atoms**|Priyanka Choudhary et.al.|[2507.08199v1](http://arxiv.org/abs/2507.08199v1)|null|
+|**2025-07-10**|**Off-resonant light-induced topological phase transition and thermoelectric transport in semi-Dirac materials**|Vassilios Vargiamidis et.al.|[2507.08168v1](http://arxiv.org/abs/2507.08168v1)|null|
+|**2025-07-10**|**Magnetic properties of orphan penumbrae**|J. S. Castellanos Durán et.al.|[2507.08117v1](http://arxiv.org/abs/2507.08117v1)|null|
 |**2025-07-10**|**Document Similarity Enhanced IPS Estimation for Unbiased Learning to Rank**|Zeyan Liang et.al.|[2507.07909v1](http://arxiv.org/abs/2507.07909v1)|null|
 |**2025-07-10**|**New properties of weighted generalized core-EP inverse in Banach algebras**|Huanyin Chen et.al.|[2507.07777v1](http://arxiv.org/abs/2507.07777v1)|null|
 |**2025-07-10**|**The JWST Weather Report: retrieving temperature variations, auroral heating, and static cloud coverage on SIMP-0136**|Evert Nasedkin et.al.|[2507.07772v1](http://arxiv.org/abs/2507.07772v1)|null|
@@ -17,18 +32,3 @@
 |**2025-07-10**|**Forward and Inverse Problems for a Langevin-Type Fractional Equation Involving Non-Local Time Condition**|Fayziev Yusuf et.al.|[2507.07446v1](http://arxiv.org/abs/2507.07446v1)|null|
 |**2025-07-10**|**PILOC: A Pheromone Inverse Guidance Mechanism and Local-Communication Framework for Dynamic Target Search of Multi-Agent in Unknown Environments**|Hengrui Liu et.al.|[2507.07376v1](http://arxiv.org/abs/2507.07376v1)|null|
 |**2025-07-09**|**The interscale behaviour of uncertainty in three-dimensional Navier-Stokes turbulence**|Jin Ge et.al.|[2507.07314v1](http://arxiv.org/abs/2507.07314v1)|null|
-|**2025-07-09**|**Estimating Dataset Dimension via Singular Metrics under the Manifold Hypothesis: Application to Inverse Problems**|Paola Causin et.al.|[2507.07291v1](http://arxiv.org/abs/2507.07291v1)|null|
-|**2025-07-09**|**Exact Solutions for Bimodal Distributions under Stochastic Plasma Irradiation in Thin Films**|Joel Saucedo et.al.|[2507.07268v1](http://arxiv.org/abs/2507.07268v1)|null|
-|**2025-07-09**|**Kubo-Martin-Schwinger relation for energy eigenstates of SU(2)-symmetric quantum many-body systems**|Jae Dong Noh et.al.|[2507.07249v1](http://arxiv.org/abs/2507.07249v1)|null|
-|**2025-07-09**|**Statistics on $\ell$-interval parking functions**|Kyle Celano et.al.|[2507.07243v1](http://arxiv.org/abs/2507.07243v1)|null|
-|**2025-07-09**|**Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems**|Minchan Jeong et.al.|[2507.07222v1](http://arxiv.org/abs/2507.07222v1)|null|
-|**2025-07-09**|**Generic and intrinsic negative longitudinal magnetoresistance at weak fields in non-magnetic metals with inversion symmetry**|Rhonald Burgos Atencia et.al.|[2507.07215v1](http://arxiv.org/abs/2507.07215v1)|null|
-|**2025-07-09**|**Energy Spectra of Compressed Quantum States**|Daochen Wang et.al.|[2507.07191v1](http://arxiv.org/abs/2507.07191v1)|null|
-|**2025-07-09**|**Confined and deconfined chaos in classical spin systems**|Hyeongjin Kim et.al.|[2507.07168v1](http://arxiv.org/abs/2507.07168v1)|null|
-|**2025-07-09**|**The Post Science Paradigm of Scientific Discovery in the Era of Artificial Intelligence: Modelling the Collapse of Ideation Costs, Epistemic Inversion, and the End of Knowledge Scarcity**|Christian William Callaghan et.al.|[2507.07019v1](http://arxiv.org/abs/2507.07019v1)|null|
-|**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008v1](http://arxiv.org/abs/2507.07008v1)|null|
-|**2025-07-09**|**Off-Policy Evaluation Under Nonignorable Missing Data**|Han Wang et.al.|[2507.06961v1](http://arxiv.org/abs/2507.06961v1)|null|
-|**2025-07-09**|**Inverse Seesaw Model in Non-holomorphic Modular $A_4$ Flavor Symmetry**|Xianshuo Zhang et.al.|[2507.06945v1](http://arxiv.org/abs/2507.06945v1)|null|
-|**2025-07-09**|**Fractional Programming for Stochastic Precoding over Generalized Fading Channels**|Wenyu Wang et.al.|[2507.06944v1](http://arxiv.org/abs/2507.06944v1)|null|
-|**2025-07-09**|**Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes**|Lisa Gaedke-Merzhäuser et.al.|[2507.06938v1](http://arxiv.org/abs/2507.06938v1)|null|
-|**2025-07-09**|**Anisotropy-Driven Anomalous Inverse Orbital Hall Effect in Fe Films**|E. Santos et.al.|[2507.06891v1](http://arxiv.org/abs/2507.06891v1)|null|
