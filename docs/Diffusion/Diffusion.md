@@ -2,7 +2,7 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-11**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773v1](http://arxiv.org/abs/2507.08773v1)|null|
+|**2025-07-11**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773v2](http://arxiv.org/abs/2507.08773v2)|null|
 |**2025-07-11**|**Propensity score with factor loadings: the effect of the Paris Agreement**|Angelo Forino et.al.|[2507.08764v1](http://arxiv.org/abs/2507.08764v1)|null|
 |**2025-07-11**|**Modeling Partially Observed Nonlinear Dynamical Systems and Efficient Data Assimilation via Discrete-Time Conditional Gaussian Koopman Network**|Chuanqi Chen et.al.|[2507.08749v1](http://arxiv.org/abs/2507.08749v1)|null|
 |**2025-07-11**|**Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series**|Azimov Sherkhon et.al.|[2507.08738v1](http://arxiv.org/abs/2507.08738v1)|null|

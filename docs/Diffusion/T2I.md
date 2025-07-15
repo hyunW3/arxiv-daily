@@ -27,8 +27,8 @@
 |**2025-07-11**|**Routing Quantum Control of Causal Order**|Maarten Grothus et.al.|[2507.08781v1](http://arxiv.org/abs/2507.08781v1)|null|
 |**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779v1](http://arxiv.org/abs/2507.08779v1)|null|
 |**2025-07-11**|**Mining the Alerts: A Preliminary Catalog of Compact Binaries from the Fourth Observing Run**|Aleyna Akyüz et.al.|[2507.08778v1](http://arxiv.org/abs/2507.08778v1)|null|
-|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776v1](http://arxiv.org/abs/2507.08776v1)|null|
+|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776v2](http://arxiv.org/abs/2507.08776v2)|null|
 |**2025-07-11**|**The thermal backreaction of a scalar field in de Sitter spacetime**|Nikos Irges et.al.|[2507.08774v1](http://arxiv.org/abs/2507.08774v1)|null|
-|**2025-07-11**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773v1](http://arxiv.org/abs/2507.08773v1)|null|
+|**2025-07-11**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773v2](http://arxiv.org/abs/2507.08773v2)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772v1](http://arxiv.org/abs/2507.08772v1)|null|
 |**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771v1](http://arxiv.org/abs/2507.08771v1)|null|

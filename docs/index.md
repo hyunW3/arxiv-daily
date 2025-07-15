@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-14 21:23:00 Asia/Shanghai
+ Automated deployment @ 2025-07-15 09:38:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-11**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773v1](http://arxiv.org/abs/2507.08773v1)|null|
+|**2025-07-11**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773v2](http://arxiv.org/abs/2507.08773v2)|null|
 |**2025-07-11**|**Propensity score with factor loadings: the effect of the Paris Agreement**|Angelo Forino et.al.|[2507.08764v1](http://arxiv.org/abs/2507.08764v1)|null|
 |**2025-07-11**|**Modeling Partially Observed Nonlinear Dynamical Systems and Efficient Data Assimilation via Discrete-Time Conditional Gaussian Koopman Network**|Chuanqi Chen et.al.|[2507.08749v1](http://arxiv.org/abs/2507.08749v1)|null|
 |**2025-07-11**|**Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series**|Azimov Sherkhon et.al.|[2507.08738v1](http://arxiv.org/abs/2507.08738v1)|null|
@@ -67,8 +67,8 @@
 |**2025-07-11**|**Routing Quantum Control of Causal Order**|Maarten Grothus et.al.|[2507.08781v1](http://arxiv.org/abs/2507.08781v1)|null|
 |**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779v1](http://arxiv.org/abs/2507.08779v1)|null|
 |**2025-07-11**|**Mining the Alerts: A Preliminary Catalog of Compact Binaries from the Fourth Observing Run**|Aleyna Akyüz et.al.|[2507.08778v1](http://arxiv.org/abs/2507.08778v1)|null|
-|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776v1](http://arxiv.org/abs/2507.08776v1)|null|
+|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776v2](http://arxiv.org/abs/2507.08776v2)|null|
 |**2025-07-11**|**The thermal backreaction of a scalar field in de Sitter spacetime**|Nikos Irges et.al.|[2507.08774v1](http://arxiv.org/abs/2507.08774v1)|null|
-|**2025-07-11**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773v1](http://arxiv.org/abs/2507.08773v1)|null|
+|**2025-07-11**|**Total/dual correlation/coherence, redundancy/synergy, complexity, and O-information for real and complex valued multivariate data**|Roberto D. Pascual-Marqui et.al.|[2507.08773v2](http://arxiv.org/abs/2507.08773v2)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772v1](http://arxiv.org/abs/2507.08772v1)|null|
 |**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771v1](http://arxiv.org/abs/2507.08771v1)|null|
