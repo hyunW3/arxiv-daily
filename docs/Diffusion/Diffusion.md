@@ -18,7 +18,7 @@
 |**2025-07-13**|**FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation**|Cuiwen Che et.al.|[2507.09800v1](http://arxiv.org/abs/2507.09800v1)|null|
 |**2025-07-13**|**Optimal Power Management of Battery Energy Storage Systems via Ensemble Kalman Inversion**|Amir Farakhor et.al.|[2507.09755v1](http://arxiv.org/abs/2507.09755v1)|null|
 |**2025-07-13**|**Discovering Governing Equations in the Presence of Uncertainty**|Ridwan Olabiyi et.al.|[2507.09740v1](http://arxiv.org/abs/2507.09740v1)|null|
-|**2025-07-13**|**Quantum Singular Value Transformation for Solving the Time-Dependent Maxwell's Equations**|Gal G. Shaviner et.al.|[2507.09686v1](http://arxiv.org/abs/2507.09686v1)|null|
+|**2025-07-13**|**Quantum Singular Value Transformation for Solving the Time-Dependent Maxwell's Equations**|Gal G. Shaviner et.al.|[2507.09686v2](http://arxiv.org/abs/2507.09686v2)|null|
 |**2025-07-13**|**SimStep: Chain-of-Abstractions for Incremental Specification and Debugging of AI-Generated Interactive Simulations**|Zoe Kaputa et.al.|[2507.09664v1](http://arxiv.org/abs/2507.09664v1)|null|
 |**2025-07-13**|**Correction for Weak IV Bias and Winner's Curse in Mendelian Randomization Egger Regression: Rerandomized Egger estimator**|Youpeng Su et.al.|[2507.09634v1](http://arxiv.org/abs/2507.09634v1)|null|
 |**2025-07-13**|**TrajectoryFlowNet: Hybrid Lagrangian-Eulerian learning of flow field and trajectories**|Jingdi Wan et.al.|[2507.09621v1](http://arxiv.org/abs/2507.09621v1)|null|
