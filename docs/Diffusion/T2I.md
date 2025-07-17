@@ -2,33 +2,33 @@
 ### T2I
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540v1](http://arxiv.org/abs/2507.11540v1)|null|
-|**2025-07-15**|**Koopman-von Neumann Field Theory**|James Stokes et.al.|[2507.11541v1](http://arxiv.org/abs/2507.11541v1)|null|
-|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539v1](http://arxiv.org/abs/2507.11539v1)|null|
-|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538v1](http://arxiv.org/abs/2507.11538v1)|null|
-|**2025-07-15**|**Sharp Error-Rate Transitions in Quantum QC-LDPC Codes under Joint BP Decoding**|Daiki Komoto et.al.|[2507.11534v2](http://arxiv.org/abs/2507.11534v2)|null|
-|**2025-07-15**|**CharaConsist: Fine-Grained Consistent Character Generation**|Mengyu Wang et.al.|[2507.11533v1](http://arxiv.org/abs/2507.11533v1)|null|
-|**2025-07-15**|**Critical and super-critical scatterings in baryogenesis and leptogenesis**|Marcos M. Flores et.al.|[2507.11532v1](http://arxiv.org/abs/2507.11532v1)|null|
-|**2025-07-15**|**Langevin Flows for Modeling Neural Latent Dynamics**|Yue Song et.al.|[2507.11531v1](http://arxiv.org/abs/2507.11531v1)|null|
-|**2025-07-15**|**Intrinsic alignment demographics for next-generation lensing: Revealing galaxy property trends with DESI Y1 direct measurements**|J. Siegel et.al.|[2507.11530v2](http://arxiv.org/abs/2507.11530v2)|null|
-|**2025-07-15**|**Dam breaks in the discrete nonlinear Schrödinger equation**|Shrohan Mohapatra et.al.|[2507.11529v1](http://arxiv.org/abs/2507.11529v1)|null|
-|**2025-07-15**|**FlexCAST: Enabling Flexible Scientific Data Analyses**|Benjamin Nachman et.al.|[2507.11528v1](http://arxiv.org/abs/2507.11528v1)|null|
-|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527v1](http://arxiv.org/abs/2507.11527v1)|null|
-|**2025-07-15**|**Gravitational wave propagation in bigravity in the late universe**|David Brizuela et.al.|[2507.11526v1](http://arxiv.org/abs/2507.11526v1)|null|
-|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525v1](http://arxiv.org/abs/2507.11525v1)|null|
-|**2025-07-15**|**Quantum modified inertia: an application to galaxy rotation curves**|Jonathan Gillot et.al.|[2507.11524v1](http://arxiv.org/abs/2507.11524v1)|null|
-|**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523v1](http://arxiv.org/abs/2507.11523v1)|null|
-|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522v1](http://arxiv.org/abs/2507.11522v1)|null|
-|**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521v1](http://arxiv.org/abs/2507.11521v1)|null|
-|**2025-07-15**|**HIF: The hypergraph interchange format for higher-order networks**|Martín Coll et.al.|[2507.11520v1](http://arxiv.org/abs/2507.11520v1)|null|
-|**2025-07-15**|**Optimizing loading of cold cesium atoms into a hollow-core fiber using machine learning**|Paul Anderson et.al.|[2507.11519v1](http://arxiv.org/abs/2507.11519v1)|null|
-|**2025-07-15**|**Revisiting Cosmic Distance Duality with Megamasers and DESI DR2: Model Independent Constraints on Early-Late Calibration**|Brijesh Kanodia et.al.|[2507.11518v1](http://arxiv.org/abs/2507.11518v1)|null|
-|**2025-07-15**|**Gaussian Noise Model of Nonlinear Distortions from Semiconductor Optical Amplifiers**|Hartmut Hafermann et.al.|[2507.11517v1](http://arxiv.org/abs/2507.11517v1)|null|
-|**2025-07-15**|**Inversions Tableaux**|Ilani Axelrod-Freed et.al.|[2507.11516v2](http://arxiv.org/abs/2507.11516v2)|null|
-|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515v1](http://arxiv.org/abs/2507.11515v1)|null|
-|**2025-07-15**|**Density of solutions for systems of forms**|Amichai Lampert et.al.|[2507.11514v1](http://arxiv.org/abs/2507.11514v1)|null|
-|**2025-07-15**|**Recursive Bound-Constrained AdaGrad with Applications to Multilevel and Domain Decomposition Minimization**|Serge Gratton et.al.|[2507.11513v1](http://arxiv.org/abs/2507.11513v1)|null|
-|**2025-07-15**|**Scaling the memory wall using mixed-precision -- HPG-MxP on an exascale machine**|Aditya Kashi et.al.|[2507.11512v1](http://arxiv.org/abs/2507.11512v1)|null|
-|**2025-07-15**|**Demographic Distribution Matching between real world and virtual phantom population**|Dhrubajyoti Ghosh et.al.|[2507.11511v2](http://arxiv.org/abs/2507.11511v2)|null|
-|**2025-07-15**|**Plane-layer Rayleigh-Bénard convection up to $Ra=10^{11}$: Near-wall fluctuations and role of initial conditions**|Roshan J. Samuel et.al.|[2507.11510v1](http://arxiv.org/abs/2507.11510v1)|null|
-|**2025-07-15**|**On the Complexity of the Optimal Correlated Equilibria in Extensive-Form Games**|Vincent Cheval et.al.|[2507.11509v1](http://arxiv.org/abs/2507.11509v1)|null|
+|**2025-07-16**|**The AdS/$\mathsf{C}$-$\mathsf{P}$-${\mathsf T}$ Correspondence**|Jaume Gomis et.al.|[2507.12467v1](http://arxiv.org/abs/2507.12467v1)|null|
+|**2025-07-16**|**Language Models Improve When Pretraining Data Matches Target Tasks**|David Mizrahi et.al.|[2507.12466v1](http://arxiv.org/abs/2507.12466v1)|null|
+|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465v1](http://arxiv.org/abs/2507.12465v1)|null|
+|**2025-07-16**|**CytoSAE: Interpretable Cell Embeddings for Hematology**|Muhammed Furkan Dasdelen et.al.|[2507.12464v1](http://arxiv.org/abs/2507.12464v1)|null|
+|**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463v1](http://arxiv.org/abs/2507.12463v1)|null|
+|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
+|**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461v1](http://arxiv.org/abs/2507.12461v1)|null|
+|**2025-07-16**|**Hamilton decompositions of regular tripartite tournaments**|Francesco Di Braccio et.al.|[2507.12460v1](http://arxiv.org/abs/2507.12460v1)|null|
+|**2025-07-16**|**The BAO-CMB Tension and Implications for Inflation**|Elisa G. M. Ferreira et.al.|[2507.12459v1](http://arxiv.org/abs/2507.12459v1)|null|
+|**2025-07-16**|**On the algebraic $K$-theory of smooth schemes over truncated Witt vectors**|Xiaowen Hu et.al.|[2507.12458v1](http://arxiv.org/abs/2507.12458v1)|null|
+|**2025-07-16**|**Does $K$-fold CV based penalty perform variable selection or does it lead to $n^{1/2}$-consistency in Lasso?**|Mayukh Choudhury et.al.|[2507.12457v1](http://arxiv.org/abs/2507.12457v1)|null|
+|**2025-07-16**|**On One-Shot Signatures, Quantum vs Classical Binding, and Obfuscating Permutations**|Omri Shmueli et.al.|[2507.12456v1](http://arxiv.org/abs/2507.12456v1)|null|
+|**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455v1](http://arxiv.org/abs/2507.12455v1)|null|
+|**2025-07-16**|**Cohomology rings of character varieties**|Anton Mellit et.al.|[2507.12454v1](http://arxiv.org/abs/2507.12454v1)|null|
+|**2025-07-16**|**Cost-aware Stopping for Bayesian Optimization**|Qian Xie et.al.|[2507.12453v1](http://arxiv.org/abs/2507.12453v1)|null|
+|**2025-07-16**|**A single chip 1.024 Tb/s silicon photonics PAM4 receiver**|Ali Pirmoradi et.al.|[2507.12452v1](http://arxiv.org/abs/2507.12452v1)|null|
+|**2025-07-16**|**S2WTM: Spherical Sliced-Wasserstein Autoencoder for Topic Modeling**|Suman Adhya et.al.|[2507.12451v1](http://arxiv.org/abs/2507.12451v1)|null|
+|**2025-07-16**|**Hanf Locality and Invariant Elementary Definability**|Steven Lindell et.al.|[2507.12450v1](http://arxiv.org/abs/2507.12450v1)|null|
+|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449v1](http://arxiv.org/abs/2507.12449v1)|null|
+|**2025-07-16**|**Jenga-Krotov algorithm: Efficient compilation of multi-qubit gates for exchange-only qubits**|Jiahao Wu et.al.|[2507.12448v1](http://arxiv.org/abs/2507.12448v1)|null|
+|**2025-07-16**|**Minmax Exclusivity Classes for Power-Type Loss Functions**|Stanisław M. S. Halkiewicz et.al.|[2507.12447v1](http://arxiv.org/abs/2507.12447v1)|null|
+|**2025-07-16**|**Alkali doping of Zn$_{\rm x}$Mg$_{\rm 1-x}$O alloys for $p$-type conductivity**|John L. Lyons et.al.|[2507.12446v1](http://arxiv.org/abs/2507.12446v1)|null|
+|**2025-07-16**|**CRAFT: Latency and Cost-Aware Genetic-Based Framework for Node Placement in Edge-Fog Environments**|Soheil Mahdizadeh et.al.|[2507.12445v1](http://arxiv.org/abs/2507.12445v1)|null|
+|**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444v1](http://arxiv.org/abs/2507.12444v1)|null|
+|**2025-07-16**|**LLM-Based Config Synthesis requires Disambiguation**|Rajdeep Mondal et.al.|[2507.12443v1](http://arxiv.org/abs/2507.12443v1)|null|
+|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442v1](http://arxiv.org/abs/2507.12442v1)|null|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441v1](http://arxiv.org/abs/2507.12441v1)|null|
+|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v1](http://arxiv.org/abs/2507.12440v1)|null|
+|**2025-07-16**|**A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning**|Daniel Commey et.al.|[2507.12439v1](http://arxiv.org/abs/2507.12439v1)|null|
+|**2025-07-16**|**Heisenberg limited multiple eigenvalue estimation via off-the-grid compressed sensing**|Davide Castaldo et.al.|[2507.12438v1](http://arxiv.org/abs/2507.12438v1)|null|
