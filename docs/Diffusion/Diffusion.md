@@ -2,7 +2,7 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-15**|**Inversions Tableaux**|Ilani Axelrod-Freed et.al.|[2507.11516v1](http://arxiv.org/abs/2507.11516v1)|null|
+|**2025-07-15**|**Inversions Tableaux**|Ilani Axelrod-Freed et.al.|[2507.11516v2](http://arxiv.org/abs/2507.11516v2)|null|
 |**2025-07-15**|**Deep Equilibrium models for Poisson Imaging Inverse problems via Mirror Descent**|Christian Daniele et.al.|[2507.11461v1](http://arxiv.org/abs/2507.11461v1)|null|
 |**2025-07-15**|**The production of orbitally modulated UHE photons in LS 5039**|V. Bosch-Ramon et.al.|[2507.11438v1](http://arxiv.org/abs/2507.11438v1)|null|
 |**2025-07-15**|**Second Quantization for the Kepler Problem**|John C. Baez et.al.|[2507.11428v1](http://arxiv.org/abs/2507.11428v1)|null|
@@ -18,7 +18,7 @@
 |**2025-07-15**|**Performance Enhancement of the Recursive Least Squares Algorithms with Rank Two Updates**|Alexander Stotsky et.al.|[2507.11095v1](http://arxiv.org/abs/2507.11095v1)|null|
 |**2025-07-15**|**Topological edge states and disorder robustness in one-dimensional off-diagonal mosaic lattices**|Ba Phi Nguyen et.al.|[2507.11074v1](http://arxiv.org/abs/2507.11074v1)|null|
 |**2025-07-15**|**Products of involutions in symplectic groups I: bireflections**|Klaus Nielsen et.al.|[2507.11056v1](http://arxiv.org/abs/2507.11056v1)|null|
-|**2025-07-15**|**Two-particle cumulant distribution: a probe of "true" elliptic flow**|Satya Ranjan Nayak et.al.|[2507.11026v1](http://arxiv.org/abs/2507.11026v1)|null|
+|**2025-07-15**|**Two-particle cumulant distribution: a probe of "true" elliptic flow**|Satya Ranjan Nayak et.al.|[2507.11026v2](http://arxiv.org/abs/2507.11026v2)|null|
 |**2025-07-15**|**First-Order Error Matters: Accurate Compensation for Quantized Large Language Models**|Xingyu Zheng et.al.|[2507.11017v1](http://arxiv.org/abs/2507.11017v1)|null|
 |**2025-07-15**|**ILCL: Inverse Logic-Constraint Learning from Temporally Constrained Demonstrations**|Minwoo Cho et.al.|[2507.11000v1](http://arxiv.org/abs/2507.11000v1)|null|
 |**2025-07-15**|**Debiased Prediction Inference with Non-sparse Loadings in Misspecified High-dimensional Regression Models**|Libin Liang et.al.|[2507.10944v1](http://arxiv.org/abs/2507.10944v1)|null|
