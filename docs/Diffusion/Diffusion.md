@@ -2,6 +2,21 @@
 ### Diffusion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-18**|**Quantum and classical algorithms for SOCP based on the multiplicative weights update method**|M. Isabel Franco Garrido et.al.|[2507.14127v1](http://arxiv.org/abs/2507.14127v1)|null|
+|**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119v1](http://arxiv.org/abs/2507.14119v1)|null|
+|**2025-07-18**|**Global $q$-dependent inverse transforms of intensity autocorrelation data**|Tobias Eklund et.al.|[2507.14106v1](http://arxiv.org/abs/2507.14106v1)|null|
+|**2025-07-18**|**Physics-guided gated recurrent units for inversion-based feedforward control**|Mingdao Lin et.al.|[2507.14052v1](http://arxiv.org/abs/2507.14052v1)|null|
+|**2025-07-18**|**QuantEIT: Ultra-Lightweight Quantum-Assisted Inference for Chest Electrical Impedance Tomography**|Hao Fang et.al.|[2507.14031v1](http://arxiv.org/abs/2507.14031v1)|null|
+|**2025-07-18**|**Large deviations at the edge for 1D gases and tridiagonal random matrices at high temperature**|Charlie Dworaczek Guera et.al.|[2507.14008v1](http://arxiv.org/abs/2507.14008v1)|null|
+|**2025-07-18**|**Reconnection-driven Flares in M87*: Proton-synchrotron Powered GeV Emission**|Hayk Hakobyan et.al.|[2507.14002v1](http://arxiv.org/abs/2507.14002v1)|null|
+|**2025-07-18**|**Chameleon Gravity as an Alternative to Dark Matter**|Raziyeh Zaregonbadi et.al.|[2507.13972v1](http://arxiv.org/abs/2507.13972v1)|null|
+|**2025-07-18**|**Modulated Poisson-Dirichlet diffusions arising from inclusion processes with a slow phase**|Simon Gabriel et.al.|[2507.13799v1](http://arxiv.org/abs/2507.13799v1)|null|
+|**2025-07-18**|**Investigation of competing magnetic orders and the associated spin-phonon coupling effect in quasi-2D Cr1+xTe2 (x = 0.22) single crystal**|Gayathri V et.al.|[2507.13760v1](http://arxiv.org/abs/2507.13760v1)|null|
+|**2025-07-18**|**Hölder stability of an inverse spectral problem for the magnetic Schrödinger operator on a simple manifold**|Boya Liu et.al.|[2507.13619v1](http://arxiv.org/abs/2507.13619v1)|null|
+|**2025-07-18**|**Off-Policy Evaluation and Learning for Matching Markets**|Yudai Hayashi et.al.|[2507.13608v1](http://arxiv.org/abs/2507.13608v1)|null|
+|**2025-07-18**|**FuSeFL: Fully Secure and Scalable Cross-Silo Federated Learning**|Sahar Ghoflsaz Ghinani et.al.|[2507.13591v1](http://arxiv.org/abs/2507.13591v1)|null|
+|**2025-07-17**|**Hadamard fractional Brownian motion: path properties and Wiener integration**|Luisa Beghin et.al.|[2507.13512v1](http://arxiv.org/abs/2507.13512v1)|null|
+|**2025-07-17**|**Expansive Natural Neural Gradient Flows for Energy Minimization**|Wolfgang Dahmen et.al.|[2507.13475v1](http://arxiv.org/abs/2507.13475v1)|null|
 |**2025-07-17**|**Effective field theory for superfluid vortex lattice from coset construction**|Aleksander Głódkowski et.al.|[2507.13352v1](http://arxiv.org/abs/2507.13352v1)|null|
 |**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339v1](http://arxiv.org/abs/2507.13339v1)|null|
 |**2025-07-17**|**N Bugs on a Circle**|Josh Briley et.al.|[2507.13333v1](http://arxiv.org/abs/2507.13333v1)|null|
@@ -17,18 +32,3 @@
 |**2025-07-17**|**Bayesian Modeling and Estimation of Linear Time-Variant Systems using Neural Networks and Gaussian Processes**|Yaniv Shulman et.al.|[2507.12878v1](http://arxiv.org/abs/2507.12878v1)|null|
 |**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Rahel Rickenbach et.al.|[2507.12855v1](http://arxiv.org/abs/2507.12855v1)|null|
 |**2025-07-17**|**Understanding the Evolution of the Neural Tangent Kernel at the Edge of Stability**|Kaiqi Jiang et.al.|[2507.12837v1](http://arxiv.org/abs/2507.12837v1)|null|
-|**2025-07-17**|**The Physical Origin and Time Lag of Multi-Frequency Flares from SgrA***|Hong-Xuan Jiang et.al.|[2507.12789v1](http://arxiv.org/abs/2507.12789v1)|null|
-|**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Hengkai Tan et.al.|[2507.12768v1](http://arxiv.org/abs/2507.12768v1)|null|
-|**2025-07-17**|**Unraveling Self-Similar Energy Transfer Dynamics: a Case Study for 1D Burgers System**|Pritpal Matharu et.al.|[2507.12764v1](http://arxiv.org/abs/2507.12764v1)|null|
-|**2025-07-17**|**Great comet C/2023 A3 (Tsuchinshan-ATLAS): dust loss before perihelion**|Bin Liu et.al.|[2507.12756v1](http://arxiv.org/abs/2507.12756v1)|null|
-|**2025-07-17**|**Splittable Spanning Trees and Balanced Forests in Dense Random Graphs**|David Gillman et.al.|[2507.12707v1](http://arxiv.org/abs/2507.12707v1)|null|
-|**2025-07-16**|**Enhancement of Indistinguishable Photon Emission from a GaAs Quantum Dot via Charge Noise Suppression**|Priyabrata Mudi et.al.|[2507.12641v1](http://arxiv.org/abs/2507.12641v1)|null|
-|**2025-07-16**|**Semi-classical limit of quantum scattering states for the nonlinear Hartree equation**|Sonae Hadama et.al.|[2507.12627v1](http://arxiv.org/abs/2507.12627v1)|null|
-|**2025-07-16**|**Inverse Physics-informed neural networks procedure for detecting noise in open quantum systems**|Gubio G. de Lima et.al.|[2507.12552v1](http://arxiv.org/abs/2507.12552v1)|null|
-|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442v1](http://arxiv.org/abs/2507.12442v1)|null|
-|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v3](http://arxiv.org/abs/2507.12440v3)|null|
-|**2025-07-16**|**Energy-based models for inverse imaging problems**|Andreas Habring et.al.|[2507.12432v1](http://arxiv.org/abs/2507.12432v1)|null|
-|**2025-07-16**|**On the Fast-radio-burst-associated X-ray Bursts: Inverse Compton Scattering of Radio Photons by an Extreme Pair Flow During Magnetosphere Activities**|Yue Wu et.al.|[2507.12405v1](http://arxiv.org/abs/2507.12405v1)|null|
-|**2025-07-16**|**Two classification results for stationary surfaces of the least moment of inertia**|Rafael López et.al.|[2507.12398v1](http://arxiv.org/abs/2507.12398v1)|null|
-|**2025-07-16**|**Improving Reinforcement Learning Sample-Efficiency using Local Approximation**|Mohit Prashant et.al.|[2507.12383v1](http://arxiv.org/abs/2507.12383v1)|null|
-|**2025-07-16**|**A connection between minimal surfaces and the two-dimensional analogues of a problem of Euler**|Rafael López et.al.|[2507.12371v1](http://arxiv.org/abs/2507.12371v1)|null|
