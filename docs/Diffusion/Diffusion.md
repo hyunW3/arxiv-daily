@@ -26,7 +26,7 @@
 |**2025-07-16**|**Semi-classical limit of quantum scattering states for the nonlinear Hartree equation**|Sonae Hadama et.al.|[2507.12627v1](http://arxiv.org/abs/2507.12627v1)|null|
 |**2025-07-16**|**Inverse Physics-informed neural networks procedure for detecting noise in open quantum systems**|Gubio G. de Lima et.al.|[2507.12552v1](http://arxiv.org/abs/2507.12552v1)|null|
 |**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442v1](http://arxiv.org/abs/2507.12442v1)|null|
-|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v2](http://arxiv.org/abs/2507.12440v2)|null|
+|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v3](http://arxiv.org/abs/2507.12440v3)|null|
 |**2025-07-16**|**Energy-based models for inverse imaging problems**|Andreas Habring et.al.|[2507.12432v1](http://arxiv.org/abs/2507.12432v1)|null|
 |**2025-07-16**|**On the Fast-radio-burst-associated X-ray Bursts: Inverse Compton Scattering of Radio Photons by an Extreme Pair Flow During Magnetosphere Activities**|Yue Wu et.al.|[2507.12405v1](http://arxiv.org/abs/2507.12405v1)|null|
 |**2025-07-16**|**Two classification results for stationary surfaces of the least moment of inertia**|Rafael López et.al.|[2507.12398v1](http://arxiv.org/abs/2507.12398v1)|null|
