@@ -28,7 +28,7 @@
 |**2025-07-20**|**OmniVTON: Training-Free Universal Virtual Try-On**|Zhaotong Yang et.al.|[2507.15037v1](http://arxiv.org/abs/2507.15037v1)|null|
 |**2025-07-20**|**OpenBreastUS: Benchmarking Neural Operators for Wave Imaging Using Breast Ultrasound Computed Tomography**|Zhijun Zeng et.al.|[2507.15035v1](http://arxiv.org/abs/2507.15035v1)|null|
 |**2025-07-20**|**First Extraction of the $φ$-$^{4}\mathrm{He}$ scattering length from near-threshold $φ$ photoproduction on helium-4**|Chengdong Han et.al.|[2507.14972v1](http://arxiv.org/abs/2507.14972v1)|null|
-|**2025-07-20**|**A Compact Post-quantum Strong Designated Verifier Signature Scheme from Isogenies**|Farzin Renan et.al.|[2507.14893v1](http://arxiv.org/abs/2507.14893v1)|null|
+|**2025-07-20**|**A Compact Post-quantum Strong Designated Verifier Signature Scheme from Isogenies**|Farzin Renan et.al.|[2507.14893v2](http://arxiv.org/abs/2507.14893v2)|null|
 |**2025-07-20**|**Bayesian Inversion via Probabilistic Cellular Automata: an application to image denoising**|Danilo Costarelli et.al.|[2507.14869v1](http://arxiv.org/abs/2507.14869v1)|null|
 |**2025-07-20**|**Broad-band THz emission by Spin-to-Charge Conversion in Topological Material -- Ferromagnet Heterostructures**|Xingyue Han et.al.|[2507.14838v1](http://arxiv.org/abs/2507.14838v1)|null|
 |**2025-07-20**|**Pattern formations of coupled PDEs with transparent boundary conditions in product-type ends and applications**|Huaian Diao et.al.|[2507.14779v1](http://arxiv.org/abs/2507.14779v1)|null|
