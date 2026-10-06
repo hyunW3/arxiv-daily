@@ -1,7 +1,8 @@
 "Robotics":
-  "SLAM": '"SLAM"'
-  "VIO": '"VIO"OR"Visual-Inertial Odometry"OR"Visual Inertial Odometry"'
-  "VO": '"VO"OR"Visual Odometry"'
-  "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
-"Computer Science":
-  "Programming Languages": '"Programming Languages"'
+  "Robot Safety": '"Robot Safety"OR"Robotic Safety"'
+  "Obstacle-Conditioned Safe Motion": '"Obstacle-Conditioned Safe Motion"OR"Context-Dependent Safety"'
+  "Robot Safety Evaluation": '"Robot Safety Evaluation"OR"Safety Metric"OR"Safety Metrics"'
+
+"LLM":
+  "Byte-Level Language Models": '"Byte-Level Language Model"OR"Byte-Level Language Modeling"'
+  "Information Retrieval": '"Information Retrieval"OR"Retrieval Evaluation"'
