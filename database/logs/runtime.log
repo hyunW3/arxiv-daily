@@ -28367,3 +28367,8 @@ expected <block end>, but found '<block mapping start>'
 2025-10-13 09:19:29.703 | SUCCESS  | __main__:parse:182 - handle [3/5] | topic=`Computer Science` subtopic=`Programming Languages`
 2025-10-13 09:19:29.742 | SUCCESS  | __main__:parse:182 - handle [4/5] | topic=`Robotics` subtopic=`VIO`
 2025-10-13 09:19:29.746 | SUCCESS  | __main__:parse:182 - handle [5/5] | topic=`Robotics` subtopic=`Visual Localization`
+2026-10-15 17:10:10.256 | SUCCESS  | __main__:parse:154 - handle [1/5] | topic=`Robotics` subtopic=`Robot Safety` papers=30
+2026-10-15 17:10:10.257 | SUCCESS  | __main__:parse:154 - handle [2/5] | topic=`Robotics` subtopic=`Obstacle-Conditioned Safe Motion` papers=10
+2026-10-15 17:10:10.257 | SUCCESS  | __main__:parse:154 - handle [3/5] | topic=`Robotics` subtopic=`Robot Safety Evaluation` papers=30
+2026-10-15 17:10:10.257 | SUCCESS  | __main__:parse:154 - handle [4/5] | topic=`LLM` subtopic=`Byte-Level Language Models` papers=22
+2026-10-15 17:10:10.257 | SUCCESS  | __main__:parse:154 - handle [5/5] | topic=`LLM` subtopic=`Information Retrieval` papers=30
