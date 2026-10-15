@@ -10,10 +10,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
-      TZ: "Asia/Shanghai"
+      TZ: "Asia/Seoul"
       RUN_ENV: "production" # within ['production', 'development']
-      POWER: 16
+      POWER: 2
     steps:
       # ============================================
       # TODO [√] 检查工作分支及 Workflows 运行环境
