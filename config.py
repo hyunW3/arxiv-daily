@@ -22,6 +22,8 @@ SERVER_DIR_STORAGE = join(SERVER_DIR_DATABASE, "storage")
 
 SERVER_PATH_STORAGE_MD = join(SERVER_DIR_STORAGE, "storage_{}.md")
 
+SERVER_PATH_STORAGE_GLOB = join(SERVER_DIR_STORAGE, "storage_*.md")
+
 SERVER_PATH_TOPIC = join(SERVER_DIR_DATABASE, "topic.yml")
 
 # 服务器日志文件路径

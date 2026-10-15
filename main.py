@@ -8,9 +8,11 @@
 @License :   Apache License 2.0
 """
 
-import json.decoder
+import glob
 import os.path
+import re
 import shutil
+import sys
 
 from gevent import monkey
 
@@ -18,7 +20,6 @@ monkey.patch_all()
 import gevent
 from gevent.queue import Queue
 from datetime import datetime
-import requests
 import arxiv
 import yaml
 
@@ -30,6 +31,7 @@ from config import (
     SERVER_PATH_README,
     SERVER_PATH_DOCS,
     SERVER_PATH_STORAGE_MD,
+    SERVER_PATH_STORAGE_GLOB,
     TIME_ZONE_KR,
     logger
 )
@@ -51,19 +53,13 @@ class ToolBox:
         return data
 
     @staticmethod
-    def handle_html(url: str):
-        headers = {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
-                          "Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44"
-        }
-        proxies = {"http": None, "https": None}
-        session = requests.session()
-        response = session.get(url, headers=headers, proxies=proxies)
-        try:
-            data_ = response.json()
-            return data_
-        except json.decoder.JSONDecodeError as e:
-            logger.error(e)
+    def build_query(keyword: str) -> str:
+        """
+        topic.yml 의 '"A B"OR"C"' 를 arxiv 검색식 'all:"A B" OR all:"C"' 로 바꾼다.
+        따옴표를 지우고 OR 를 붙여 쓰면 'BORC' 같은 한 단어로 검색되어 엉뚱한 결과가 나온다.
+        """
+        terms = [t.strip().strip('"').strip() for t in re.split(r"\bOR\b", keyword)]
+        return " OR ".join(f'all:"{t}"' for t in terms if t)
 
 
 class CoroutineSpeedup:
@@ -88,13 +84,24 @@ class CoroutineSpeedup:
 
         self.max_results = 30
 
+        # arxiv API 는 3초에 1회 요청을 권장하므로 클라이언트를 공유해 요청 간격과 재시도를 지킨다
+        self.client = arxiv.Client(page_size=self.max_results, delay_seconds=3, num_retries=5)
+        # 수집에 실패한 subtopic 목록
+        self.failed = []
+
     def _adaptor(self):
         while not self.worker.empty():
             task: dict = self.worker.get_nowait()
-            if task.get("pending"):
-                self.runtime(context=task.get("pending"))
-            elif task.get("response"):
-                self.parse(context=task)
+            context = task.get("pending") or task
+            try:
+                if task.get("pending"):
+                    self.runtime(context=task.get("pending"))
+                elif "response" in task:
+                    self.parse(context=task)
+            except Exception:
+                # 한 subtopic 이 실패해도 코루틴이 죽지 않고 다음 작업을 계속 처리한다
+                logger.exception(f"failed | topic=`{context.get('topic')}` subtopic=`{context.get('subtopic')}`")
+                self.failed.append(context.get("subtopic"))
 
     def _progress(self):
         p = self.max_queue_size - self.worker.qsize() - self.power
@@ -104,84 +111,49 @@ class CoroutineSpeedup:
     def runtime(self, context: dict):
         keyword_ = context.get("keyword")
 
-        res = arxiv.Search(
+        search = arxiv.Search(
             query=keyword_,
             max_results=self.max_results,
             sort_by=arxiv.SortCriterion.SubmittedDate
-        ).results()
+        )
+        # 결과를 여기서 모두 받아 두어 네트워크 오류가 이 단계에서 드러나게 한다
+        res = list(self.client.results(search))
 
         context.update({"response": res, "hook": context})
         self.worker.put_nowait(context)
 
     def parse(self, context):
-        base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
         _paper = {}
         arxiv_res = context.get("response")
         for result in arxiv_res:
-            paper_id = result.get_short_id()
-            paper_title = result.title
-            paper_url = result.entry_id
+            try:
+                paper_id = result.get_short_id()
+                paper_first_author = result.authors[0] if result.authors else "Unknown"
 
-            code_url = base_url + paper_id
-            paper_first_author = result.authors[0]
+                ver_pos = paper_id.find('v')
+                paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
 
-            publish_time = result.published.date()
-
-            ver_pos = paper_id.find('v')
-            paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
-
-            # 尝试获取仓库代码
-            # ----------------------------------------------------------------------------------
-            # Origin(r)
-            # ----------------------------------------------------------------------------------
-            # {
-            #   'paper_url': 'https://',
-            #   'official': {'url': 'https://github.com/nyu-wireless/mmwRobotNav'},
-            #   'all_official': [{'url': 'https://github.com/nyu-wireless/mmwRobotNav'}],
-            #   'unofficial_count': 0,
-            #   'frameworks': [],
-            #   'status': 'OK'
-            # }
-            # ----------------------------------------------------------------------------------
-            # None(r)
-            # ----------------------------------------------------------------------------------
-            # {
-            #   'paper_url': 'https://',
-            #   'official': None,
-            #   'all_official': [],
-            #   'unofficial_count': 0,
-            #   'frameworks': [],
-            #   'status': 'OK'
-            # }
-            response = ToolBox.handle_html(code_url)
-            official_ = response.get("official")
-            repo_url = official_.get("url", "null") if official_ else "null"
-            # ----------------------------------------------------------------------------------
-            # 编排模型
-            # ----------------------------------------------------------------------------------
-            # IF repo
-            #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`[link](url)`
-            # ELSE
-            #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`null`
-            _paper.update({
-                paper_key: {
-                    "publish_time": publish_time,
-                    "title": paper_title,
-                    "authors": f"{paper_first_author} et.al.",
-                    "id": paper_id,
-                    "paper_url": paper_url,
-                    "repo": repo_url
-                },
-            })
+                # |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|
+                _paper.update({
+                    paper_key: {
+                        "publish_time": result.published.date(),
+                        "title": result.title,
+                        "authors": f"{paper_first_author} et.al.",
+                        "id": paper_id,
+                        "paper_url": result.entry_id,
+                    },
+                })
+            except Exception:
+                logger.exception(f"skip paper | subtopic=`{context['subtopic']}`")
         self.channel.put_nowait({
             "paper": _paper,
             "topic": context["hook"]["topic"],
             "subtopic": context["hook"]["subtopic"],
-            "fields": ["Publish Date", "Title", "Authors", "PDF", "Code"]
+            "fields": ["Publish Date", "Title", "Authors", "PDF"]
         })
         logger.success(
             f"handle [{self.channel.qsize()}/{self.max_queue_size}]"
-            f" | topic=`{context['topic']}` subtopic=`{context['hook']['subtopic']}`")
+            f" | topic=`{context['topic']}` subtopic=`{context['hook']['subtopic']}` papers={len(_paper)}")
 
     def offload_tasks(self):
         if self.task_docker:
@@ -192,9 +164,11 @@ class CoroutineSpeedup:
     def overload_tasks(self):
         ot = _OverloadTasks()
         file_obj: dict = {}
+        paper_count = 0
         while not self.channel.empty():
             # 将上下文替换成 Markdown 语法文本
             context: dict = self.channel.get()
+            paper_count += len(context["paper"])
             md_obj: dict = ot.to_markdown(context)
 
             # 子主题分流
@@ -202,19 +176,11 @@ class CoroutineSpeedup:
                 file_obj[md_obj["hook"]] = md_obj["hook"]
             file_obj[md_obj["hook"]] += md_obj["content"]
 
-            # 生成 mkdocs 所需文件
-            os.makedirs(os.path.join(SERVER_PATH_DOCS, f'{context["topic"]}'), exist_ok=True)
-            with open(os.path.join(SERVER_PATH_DOCS, f'{context["topic"]}', f'{context["subtopic"]}.md'), 'w') as f:
-                f.write(md_obj["content"])
-               
-
         # 生成 Markdown 模板文件
         template_ = ot.generate_markdown_template(
             content="".join(list(file_obj.values())))
-        # 存储 Markdown 模板文件
-        ot.storage(template_, obj_="database")
 
-        return template_
+        return ot, template_, paper_count
 
     def go(self, power: int):
         # 任务重载
@@ -259,14 +225,11 @@ class _OverloadTasks:
         paper['title'] = f"**{paper['title']}**"
         _pdf = self._set_markdown_hyperlink(
             text=paper['id'], link=paper['paper_url'])
-        _repo = self._set_markdown_hyperlink(
-            text="link", link=paper['repo']) if "http" in paper['repo'] else "null"
 
         line = f"|{paper['publish_time']}" \
                f"|{paper['title']}" \
                f"|{paper['authors']}" \
-               f"|{_pdf}" \
-               f"|{_repo}|\n"
+               f"|{_pdf}|\n"
 
         return line
 
@@ -348,7 +311,7 @@ class Scaffold:
         context = ToolBox.get_yaml_data()
 
         # Set tasks
-        pending_atomic = [{"subtopic": subtopic, "keyword": keyword.replace('"', ""), "topic": topic}
+        pending_atomic = [{"subtopic": subtopic, "keyword": ToolBox.build_query(keyword), "topic": topic}
                           for topic, subtopics in context.items() for subtopic, keyword in subtopics.items()]
 
         # Offload tasks
@@ -356,15 +319,68 @@ class Scaffold:
         booster.go(power=power)
 
         # Overload tasks
-        template_ = booster.overload_tasks()
+        ot, template_, paper_count = booster.overload_tasks()
 
-        # Replace project README file.
+        if booster.failed:
+            logger.warning(f"failed subtopics: {booster.failed}")
+        # 한 편도 못 가져왔으면 기존 storage/docs 를 빈 내용으로 덮어쓰지 않고 실패로 종료한다
+        if paper_count == 0:
+            logger.error("no papers fetched; keep existing storage and docs")
+            sys.exit(1)
+
+        # Storage 가 원본: storage 에 저장한 뒤 이를 바탕으로 README 와 docs 를 만든다
+        ot.storage(template_, obj_="database")
         if env == "production":
-            with open(SERVER_PATH_README, "w", encoding="utf8") as f:
-                for i in template_:
-                    f.write(i)
-            
-            shutil.copyfile(SERVER_PATH_README, os.path.join(SERVER_PATH_DOCS, "index.md"))
+            shutil.copyfile(ot.storage_path_by_date, SERVER_PATH_README)
+            build_docs_from_storage(ot.storage_path_by_date)
+
+
+def build_docs_from_storage(storage_path: str):
+    """
+    storage 마크다운을 원본으로 mkdocs 용 docs/ 를 다시 만든다.
+    - docs/index.md: 최신 storage 전체
+    - docs/<topic>/<subtopic>.md: 최신 storage 를 subtopic 단위로 나눈 페이지
+    - docs/archive/<date>.md: database/storage 의 날짜별 기록
+    """
+    with open(storage_path, "r", encoding="utf8") as f:
+        content = f.read()
+
+    # 이전에 생성된 페이지(원본 레포의 예전 토픽 포함)를 지우고 새로 만든다
+    for name in os.listdir(SERVER_PATH_DOCS):
+        path_ = os.path.join(SERVER_PATH_DOCS, name)
+        if os.path.isdir(path_):
+            shutil.rmtree(path_)
+        elif name.endswith(".md"):
+            os.remove(path_)
+
+    with open(os.path.join(SERVER_PATH_DOCS, "index.md"), "w", encoding="utf8") as f:
+        f.write(content)
+
+    topic, subtopic, buffer = None, None, []
+
+    def flush():
+        if topic and subtopic:
+            os.makedirs(os.path.join(SERVER_PATH_DOCS, topic), exist_ok=True)
+            with open(os.path.join(SERVER_PATH_DOCS, topic, f"{subtopic}.md"), "w", encoding="utf8") as f:
+                f.write("".join(buffer))
+
+    for line in content.splitlines(keepends=True):
+        if line.startswith("## "):
+            flush()
+            topic, subtopic, buffer = line[3:].strip(), None, []
+        elif line.startswith("### "):
+            flush()
+            subtopic, buffer = line[4:].strip(), [line]
+        elif subtopic:
+            buffer.append(line)
+    flush()
+
+    archive_dir = os.path.join(SERVER_PATH_DOCS, "archive")
+    os.makedirs(archive_dir, exist_ok=True)
+    for path_ in sorted(glob.glob(SERVER_PATH_STORAGE_GLOB)):
+        date_ = re.search(r"storage_(.+)\.md$", path_).group(1)
+        shutil.copyfile(path_, os.path.join(archive_dir, f"{date_}.md"))
+
 
 if __name__ == "__main__":
     Fire(Scaffold)

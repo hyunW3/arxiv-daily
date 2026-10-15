@@ -15,7 +15,7 @@ jobs:
     env:
       TZ: "Asia/Seoul"
       RUN_ENV: "production" # within ['production', 'development']
-      POWER: 2
+      POWER: 1
     steps:
       # ============================================
       # TODO [√] 检查工作分支及 Workflows 运行环境
