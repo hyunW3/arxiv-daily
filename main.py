@@ -21,6 +21,7 @@ import gevent
 from gevent.queue import Queue
 from datetime import datetime
 import arxiv
+import requests
 import yaml
 
 from fire import Fire
@@ -55,39 +56,88 @@ class ToolBox:
     @staticmethod
     def build_query(keyword: str) -> str:
         """
-        topic.yml 의 '"A B"OR"C"' 를 arxiv 검색식 'all:"A B" OR all:"C"' 로 바꾼다.
-        따옴표를 지우고 OR 를 붙여 쓰면 'BORC' 같은 한 단어로 검색되어 엉뚱한 결과가 나온다.
+        Convert '"A B"OR"C"' from topic.yml into the arxiv query 'all:"A B" OR all:"C"'.
+        Stripping quotes and gluing OR yields a single word like 'BORC', which returns unrelated results.
         """
         terms = [t.strip().strip('"').strip() for t in re.split(r"\bOR\b", keyword)]
         return " OR ".join(f'all:"{t}"' for t in terms if t)
 
 
+class CodeFinder:
+    """
+    Find a paper's code repository link. (Replaces the shut-down Papers with Code API)
+    1. A github.com link in the arxiv abstract/comment (no extra request, usually the authors' official repo)
+    2. Otherwise, the githubRepo field from the Hugging Face Papers API
+    """
+    HF_API = "https://huggingface.co/api/papers/{}"
+    GITHUB_RE = re.compile(r"github\.com/([\w.-]+)/([\w.-]+)", re.IGNORECASE)
+    # Placeholder repos created when PwC data was migrated (e.g. github.com/pwc-1/Paper-9)
+    PLACEHOLDER_OWNER_RE = re.compile(r"^pwc-\d+$", re.IGNORECASE)
+
+    def __init__(self):
+        self.session = requests.session()
+        # The same paper can appear in several subtopics, so look it up only once
+        self.cache = {}
+
+    def _normalize(self, owner: str, repo: str):
+        repo = re.sub(r"\.git$", "", repo.rstrip("."))
+        if not repo or self.PLACEHOLDER_OWNER_RE.match(owner):
+            return None
+        return f"https://github.com/{owner}/{repo}"
+
+    def from_text(self, *texts):
+        for text in texts:
+            for owner, repo in self.GITHUB_RE.findall(text or ""):
+                url = self._normalize(owner, repo)
+                if url:
+                    return url
+        return None
+
+    def from_hf(self, paper_key: str):
+        try:
+            response = self.session.get(self.HF_API.format(paper_key), timeout=10)
+            if response.status_code != 200:
+                return None
+            repo_url = response.json().get("githubRepo") or ""
+        except Exception as e:
+            logger.warning(f"hf papers lookup failed | id=`{paper_key}` {e}")
+            return None
+        match = self.GITHUB_RE.search(repo_url)
+        return self._normalize(*match.groups()) if match else None
+
+    def find(self, paper_key: str, result: arxiv.Result):
+        if paper_key not in self.cache:
+            self.cache[paper_key] = self.from_text(result.summary, result.comment) or self.from_hf(paper_key)
+        return self.cache[paper_key]
+
+
 class CoroutineSpeedup:
-    """轻量化的协程控件"""
+    """Lightweight coroutine controller"""
 
     def __init__(
             self,
             work_q: Queue = None,
             task_docker=None,
     ):
-        # 任务容器：queue
+        # Task container: queue
         self.worker = work_q if work_q else Queue()
         self.channel = Queue()
-        # 任务容器：迭代器
+        # Task container: iterator
         self.task_docker = task_docker
-        # 协程数
+        # Number of coroutines
         self.power = 32
-        # 任务队列满载时刻长度
+        # Task queue length when fully loaded
         self.max_queue_size = 0
 
         self.cache_space = []
 
         self.max_results = 30
 
-        # arxiv API 는 3초에 1회 요청을 권장하므로 클라이언트를 공유해 요청 간격과 재시도를 지킨다
+        # The arxiv API asks for one request per 3 seconds, so share one client to respect the delay and retries
         self.client = arxiv.Client(page_size=self.max_results, delay_seconds=3, num_retries=5)
-        # 수집에 실패한 subtopic 목록
+        # Subtopics that failed to fetch
         self.failed = []
+        self.code_finder = CodeFinder()
 
     def _adaptor(self):
         while not self.worker.empty():
@@ -99,7 +149,7 @@ class CoroutineSpeedup:
                 elif "response" in task:
                     self.parse(context=task)
             except Exception:
-                # 한 subtopic 이 실패해도 코루틴이 죽지 않고 다음 작업을 계속 처리한다
+                # Keep the coroutine alive and move on to the next task even if one subtopic fails
                 logger.exception(f"failed | topic=`{context.get('topic')}` subtopic=`{context.get('subtopic')}`")
                 self.failed.append(context.get("subtopic"))
 
@@ -116,7 +166,7 @@ class CoroutineSpeedup:
             max_results=self.max_results,
             sort_by=arxiv.SortCriterion.SubmittedDate
         )
-        # 결과를 여기서 모두 받아 두어 네트워크 오류가 이 단계에서 드러나게 한다
+        # Fetch all results here so network errors surface at this step
         res = list(self.client.results(search))
 
         context.update({"response": res, "hook": context})
@@ -133,7 +183,7 @@ class CoroutineSpeedup:
                 ver_pos = paper_id.find('v')
                 paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
 
-                # |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|
+                # |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|[link](repo)|
                 _paper.update({
                     paper_key: {
                         "publish_time": result.published.date(),
@@ -141,6 +191,7 @@ class CoroutineSpeedup:
                         "authors": f"{paper_first_author} et.al.",
                         "id": paper_id,
                         "paper_url": result.entry_id,
+                        "repo": self.code_finder.find(paper_key, result),
                     },
                 })
             except Exception:
@@ -149,7 +200,7 @@ class CoroutineSpeedup:
             "paper": _paper,
             "topic": context["hook"]["topic"],
             "subtopic": context["hook"]["subtopic"],
-            "fields": ["Publish Date", "Title", "Authors", "PDF"]
+            "fields": ["Publish Date", "Title", "Authors", "PDF", "Code"]
         })
         logger.success(
             f"handle [{self.channel.qsize()}/{self.max_queue_size}]"
@@ -166,29 +217,29 @@ class CoroutineSpeedup:
         file_obj: dict = {}
         paper_count = 0
         while not self.channel.empty():
-            # 将上下文替换成 Markdown 语法文本
+            # Convert the context into Markdown text
             context: dict = self.channel.get()
             paper_count += len(context["paper"])
             md_obj: dict = ot.to_markdown(context)
 
-            # 子主题分流
+            # Group by subtopic
             if not file_obj.get(md_obj["hook"]):
                 file_obj[md_obj["hook"]] = md_obj["hook"]
             file_obj[md_obj["hook"]] += md_obj["content"]
 
-        # 生成 Markdown 模板文件
+        # Generate the Markdown template
         template_ = ot.generate_markdown_template(
             content="".join(list(file_obj.values())))
 
         return ot, template_, paper_count
 
     def go(self, power: int):
-        # 任务重载
+        # Load tasks
         self.offload_tasks()
-        # 配置弹性采集功率
+        # Configure elastic crawling power
         if self.max_queue_size != 0:
             self.power = self.max_queue_size if power > self.max_queue_size else power
-        # 任务启动
+        # Start tasks
         task_list = []
         for _ in range(self.power):
             task = gevent.spawn(self._adaptor)
@@ -225,11 +276,14 @@ class _OverloadTasks:
         paper['title'] = f"**{paper['title']}**"
         _pdf = self._set_markdown_hyperlink(
             text=paper['id'], link=paper['paper_url'])
+        _repo = self._set_markdown_hyperlink(
+            text="link", link=paper['repo']) if paper.get('repo') else "null"
 
         line = f"|{paper['publish_time']}" \
                f"|{paper['title']}" \
                f"|{paper['authors']}" \
-               f"|{_pdf}|\n"
+               f"|{_pdf}" \
+               f"|{_repo}|\n"
 
         return line
 
@@ -242,9 +296,9 @@ class _OverloadTasks:
     # -------------------
     def storage(self, template: str, obj_: str = "database"):
         """
-        将 Markdown 模板存档
+        Save the Markdown template
         @param template:
-        @param obj_: database:将 Markdown 模板存档至 database/store 中。其他值，替换根目录下的 README
+        @param obj_: database: save the Markdown template to database/storage. Any other value replaces the root README
         @return:
         """
         path_factory = {
@@ -301,7 +355,7 @@ class Scaffold:
         Start the test sample.
 
         Usage: python daily_arxiv.py run
-        or: python daily_arxiv.py run --env=production  生产环境下运行
+        or: python daily_arxiv.py run --env=production  run in production
 
         @param power:  synergy power. The recommended value interval is [2,16].The default value is 37.
         @param env: Optional with [development production]
@@ -323,12 +377,12 @@ class Scaffold:
 
         if booster.failed:
             logger.warning(f"failed subtopics: {booster.failed}")
-        # 한 편도 못 가져왔으면 기존 storage/docs 를 빈 내용으로 덮어쓰지 않고 실패로 종료한다
+        # If no papers were fetched, exit with failure instead of overwriting storage/docs with empty content
         if paper_count == 0:
             logger.error("no papers fetched; keep existing storage and docs")
             sys.exit(1)
 
-        # Storage 가 원본: storage 에 저장한 뒤 이를 바탕으로 README 와 docs 를 만든다
+        # Storage is the source of truth: save to storage, then build README and docs from it
         ot.storage(template_, obj_="database")
         if env == "production":
             shutil.copyfile(ot.storage_path_by_date, SERVER_PATH_README)
@@ -337,15 +391,15 @@ class Scaffold:
 
 def build_docs_from_storage(storage_path: str):
     """
-    storage 마크다운을 원본으로 mkdocs 용 docs/ 를 다시 만든다.
-    - docs/index.md: 최신 storage 전체
-    - docs/<topic>/<subtopic>.md: 최신 storage 를 subtopic 단위로 나눈 페이지
-    - docs/archive/<date>.md: database/storage 의 날짜별 기록
+    Rebuild docs/ for mkdocs from the storage markdown.
+    - docs/index.md: the full latest storage
+    - docs/<topic>/<subtopic>.md: the latest storage split into one page per subtopic
+    - docs/archive/<date>.md: per-date records from database/storage
     """
     with open(storage_path, "r", encoding="utf8") as f:
         content = f.read()
 
-    # 이전에 생성된 페이지(원본 레포의 예전 토픽 포함)를 지우고 새로 만든다
+    # Remove previously generated pages (including old topics from the upstream repo) and rebuild
     for name in os.listdir(SERVER_PATH_DOCS):
         path_ = os.path.join(SERVER_PATH_DOCS, name)
         if os.path.isdir(path_):
