@@ -277,7 +277,7 @@ class _OverloadTasks:
         _pdf = self._set_markdown_hyperlink(
             text=paper['id'], link=paper['paper_url'])
         _repo = self._set_markdown_hyperlink(
-            text="link", link=paper['repo']) if paper.get('repo') else "null"
+            text="link", link=paper['repo']) if paper.get('repo') else "-"
 
         line = f"|{paper['publish_time']}" \
                f"|{paper['title']}" \
