@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2026-10-16 20:06:26 Asia/Seoul
+ Automated deployment @ 2026-10-19 10:54:16 Asia/Seoul
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -121,6 +121,13 @@
 ### Information Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-16**|**Self-Reflective Chain-of-Thought (SRCoT): Evidence-Based Text Generation via a Closed-Loop Retrieve--Reflect--Revise Pipeline on Edge LLMs**|Fabian Broszio et.al.|[2610.23311v1](http://arxiv.org/abs/2610.23311v1)|null|
+|**2026-10-16**|**Code Skill Server: A Large-Scale Search Engine for Code Generation Skills**|Xiaoyong Li et.al.|[2610.23186v1](http://arxiv.org/abs/2610.23186v1)|[link](https://github.com/haoyuli-sdu/CodeSkillServer)|
+|**2026-10-16**|**Reasoning Reranking with Semantic IDs as the Sole Item Representation**|Zhenwei Tang et.al.|[2610.22797v1](http://arxiv.org/abs/2610.22797v1)|[link](https://github.com/lilv98/ReRankID)|
+|**2026-10-15**|**Improving OCR Accuracy Through Multi-Classifier Verification of Visually Similar Characters**|Nuzhat Khan et.al.|[2610.22726v1](http://arxiv.org/abs/2610.22726v1)|[link](https://github.com/VeCAD-P04-UTM/94-Class-ASCII-Image-OCR-Data)|
+|**2026-10-15**|**NoveltyScope: A Multi-Agent Research Assistant for Evidence-Grounded Novelty Assessment of Scientific Papers**|Yueran Tian et.al.|[2610.22703v1](http://arxiv.org/abs/2610.22703v1)|null|
+|**2026-10-15**|**AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems**|Shreeyans Arora et.al.|[2610.22511v1](http://arxiv.org/abs/2610.22511v1)|[link](https://github.com/Lexsi-Labs/AuditKIT)|
+|**2026-10-15**|**Star Light, Star Bright: Can Multimodal Models Parse an Astronomy Visual Question Answering Dataset Right?**|J. P. Naiman et.al.|[2610.22474v1](http://arxiv.org/abs/2610.22474v1)|[link](https://github.com/jnaiman/SkyImagesWASP2026)|
 |**2026-10-15**|**CARA: Causally Guided Retrieval Agent for Question Answering**|Weicheng Liu et.al.|[2610.22017v1](http://arxiv.org/abs/2610.22017v1)|null|
 |**2026-10-15**|**GACC-Bench: Benchmarking Goal-Adaptive Context Compression Ability across Large Language Models**|Weiting Liu et.al.|[2610.21893v1](http://arxiv.org/abs/2610.21893v1)|[link](https://github.com/weiting24/GACC-Bench)|
 |**2026-10-15**|**Aligning LLMs with Sparse Retrieval via Adaptive Sparse Supervision**|Tongna Chen et.al.|[2610.21877v1](http://arxiv.org/abs/2610.21877v1)|null|
@@ -138,16 +145,9 @@
 |**2026-10-14**|**Idea2Prior: Auditable Paper Retrieval and Ranking from Research Ideas**|Shitian Yang et.al.|[2610.20857v1](http://arxiv.org/abs/2610.20857v1)|[link](https://github.com/ystok66/IDEA2PRIOR)|
 |**2026-10-14**|**Creating SquashFS Images to Support HPC and AI Datasets**|Julie Mullen et.al.|[2610.20578v1](http://arxiv.org/abs/2610.20578v1)|null|
 |**2026-10-14**|**CASI: Credit Assignment via Set Intervention for Agentic Retrieval**|Xinyi Cheng et.al.|[2610.20293v1](http://arxiv.org/abs/2610.20293v1)|null|
-|**2026-10-14**|**HEM-Med: A Hierarchical Agentic Memory Framework for Safe Multi-Center Medication Recommendation**|Min Xiao et.al.|[2610.20191v1](http://arxiv.org/abs/2610.20191v1)|null|
+|**2026-10-14**|**HEM-Med: A Hierarchical Agentic Memory Framework for Safe Multi-Center Medication Recommendation**|Min Xiao et.al.|[2610.20191v2](http://arxiv.org/abs/2610.20191v2)|null|
 |**2026-10-14**|**XViewRank: Overlap-Conditioned Score Fusion for LLM-Augmented Sparse Retrieval**|Xinxuan Lv et.al.|[2610.20122v1](http://arxiv.org/abs/2610.20122v1)|null|
 |**2026-10-14**|**Reading the Neighborhood: Text-Attentive Graph Reranking for Automated Subject Indexing**|Lakshmi Rajendram Bashyam et.al.|[2610.20048v1](http://arxiv.org/abs/2610.20048v1)|null|
 |**2026-10-14**|**Information-Gain Calibrated On-Policy Distillation for Deep Search Agents**|Chenxi Li et.al.|[2610.20664v1](http://arxiv.org/abs/2610.20664v1)|null|
 |**2026-10-14**|**Twenty Days Later: A Pre-Registered Test of History-Based Forecasts of Brand Mentions in Gemini Answers**|Dmitrij Żatuchin et.al.|[2610.19608v1](http://arxiv.org/abs/2610.19608v1)|null|
 |**2026-10-14**|**Bridging the Topological Divide: Dual-Branch Graph Distillation with Semantic Priors for Robust Cold-Start Recommendation**|Yuanfeng Qiu et.al.|[2610.19578v1](http://arxiv.org/abs/2610.19578v1)|null|
-|**2026-10-14**|**Retrieve What Helps, Only When It Helps: Agentic Reinforcement Learning for Selective Retrieval-Augmented Machine Translation**|Shijun Li et.al.|[2610.19528v1](http://arxiv.org/abs/2610.19528v1)|null|
-|**2026-10-14**|**Weak Private Information Retrieval for Graph-based Storage under $ε$-privacy**|Jayesh Seshadri et.al.|[2610.19456v1](http://arxiv.org/abs/2610.19456v1)|null|
-|**2026-10-14**|**AdCoEvo: A Co-Evolving Multi-Agent Advertising Delivery System**|Tianzhu Hu et.al.|[2610.19454v1](http://arxiv.org/abs/2610.19454v1)|null|
-|**2026-10-14**|**RCER: Reconstructing Cross-Evidence Relations for Iterative Retrieval-Augmented Generation**|Linyao Zheng et.al.|[2610.19398v1](http://arxiv.org/abs/2610.19398v1)|null|
-|**2026-10-13**|**Plan or Retrieve First? A Scale Study of Tool Discovery Architectures**|Mingfei Zhang et.al.|[2610.19068v1](http://arxiv.org/abs/2610.19068v1)|null|
-|**2026-10-13**|**Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap**|Renbo Tu et.al.|[2610.19065v1](http://arxiv.org/abs/2610.19065v1)|null|
-|**2026-10-13**|**Depth Memory**|David González-Martínez et.al.|[2610.18809v1](http://arxiv.org/abs/2610.18809v1)|null|
