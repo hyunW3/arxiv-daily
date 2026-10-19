@@ -1,6 +1,12 @@
 ### Information Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-16**|**A Large Language Model LLM Approach to COVID-19 Fake News Detection**|Muhammad Arif et.al.|[2610.23800v1](http://arxiv.org/abs/2610.23800v1)|-|
+|**2026-10-16**|**Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs**|Sam Partee et.al.|[2610.23707v1](http://arxiv.org/abs/2610.23707v1)|-|
+|**2026-10-16**|**Humanity's Last Choice: A Common Evaluation Standard for Generative Engine Optimization**|Qianfeng Wen et.al.|[2610.23541v1](http://arxiv.org/abs/2610.23541v1)|-|
+|**2026-10-16**|**LSNR: Learned Sparse News Recommendations with Attentive User Modeling**|David Vos et.al.|[2610.23510v1](http://arxiv.org/abs/2610.23510v1)|-|
+|**2026-10-16**|**QD-Rec: Open-Ended Evolution of Recommendations via Quality-Diversity**|Takashi Ishida et.al.|[2610.23470v1](http://arxiv.org/abs/2610.23470v1)|-|
+|**2026-10-16**|**Jev-as-a-Judge for Brazilian Portuguese Information Retrieval: Relevance Assessment and Reranking**|Leandro Carísio Fernandes et.al.|[2610.23346v1](http://arxiv.org/abs/2610.23346v1)|-|
 |**2026-10-16**|**Self-Reflective Chain-of-Thought (SRCoT): Evidence-Based Text Generation via a Closed-Loop Retrieve--Reflect--Revise Pipeline on Edge LLMs**|Fabian Broszio et.al.|[2610.23311v1](http://arxiv.org/abs/2610.23311v1)|-|
 |**2026-10-16**|**Code Skill Server: A Large-Scale Search Engine for Code Generation Skills**|Xiaoyong Li et.al.|[2610.23186v1](http://arxiv.org/abs/2610.23186v1)|[link](https://github.com/haoyuli-sdu/CodeSkillServer)|
 |**2026-10-16**|**Reasoning Reranking with Semantic IDs as the Sole Item Representation**|Zhenwei Tang et.al.|[2610.22797v1](http://arxiv.org/abs/2610.22797v1)|[link](https://github.com/lilv98/ReRankID)|
@@ -25,9 +31,3 @@
 |**2026-10-14**|**Idea2Prior: Auditable Paper Retrieval and Ranking from Research Ideas**|Shitian Yang et.al.|[2610.20857v1](http://arxiv.org/abs/2610.20857v1)|[link](https://github.com/ystok66/IDEA2PRIOR)|
 |**2026-10-14**|**Creating SquashFS Images to Support HPC and AI Datasets**|Julie Mullen et.al.|[2610.20578v1](http://arxiv.org/abs/2610.20578v1)|-|
 |**2026-10-14**|**CASI: Credit Assignment via Set Intervention for Agentic Retrieval**|Xinyi Cheng et.al.|[2610.20293v1](http://arxiv.org/abs/2610.20293v1)|-|
-|**2026-10-14**|**HEM-Med: A Hierarchical Agentic Memory Framework for Safe Multi-Center Medication Recommendation**|Min Xiao et.al.|[2610.20191v2](http://arxiv.org/abs/2610.20191v2)|-|
-|**2026-10-14**|**XViewRank: Overlap-Conditioned Score Fusion for LLM-Augmented Sparse Retrieval**|Xinxuan Lv et.al.|[2610.20122v1](http://arxiv.org/abs/2610.20122v1)|-|
-|**2026-10-14**|**Reading the Neighborhood: Text-Attentive Graph Reranking for Automated Subject Indexing**|Lakshmi Rajendram Bashyam et.al.|[2610.20048v1](http://arxiv.org/abs/2610.20048v1)|-|
-|**2026-10-14**|**Information-Gain Calibrated On-Policy Distillation for Deep Search Agents**|Chenxi Li et.al.|[2610.20664v1](http://arxiv.org/abs/2610.20664v1)|-|
-|**2026-10-14**|**Twenty Days Later: A Pre-Registered Test of History-Based Forecasts of Brand Mentions in Gemini Answers**|Dmitrij Żatuchin et.al.|[2610.19608v1](http://arxiv.org/abs/2610.19608v1)|-|
-|**2026-10-14**|**Bridging the Topological Divide: Dual-Branch Graph Distillation with Semantic Priors for Robust Cold-Start Recommendation**|Yuanfeng Qiu et.al.|[2610.19578v1](http://arxiv.org/abs/2610.19578v1)|-|
