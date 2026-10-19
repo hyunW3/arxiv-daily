@@ -7,6 +7,11 @@ on:
   push:
     branches: [main]
 
+# Queue runs instead of overlapping, so one run cannot overwrite another's push to main
+concurrency:
+  group: arxiv-daily-main
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,6 +27,9 @@ jobs:
       # ============================================
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          # A queued run should build on the latest main, not the commit that triggered it
+          ref: main
       # ============================================
       # TODO [√] 创建 Python3.6+ 编译环境
       # ============================================
@@ -51,8 +59,10 @@ jobs:
       - name: Push done work
         run: |
           git add --all
-          git commit -m "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }}"
-          git push --force origin main
+          git diff --cached --quiet || git commit -m "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }}"
+          # Never force-push: rebase onto anything pushed meanwhile, and fail on conflict instead of overwriting
+          git pull --rebase origin main
+          git push origin main
       # ============================================
       # TODO [√] 更新 mkdocs
       # ============================================
