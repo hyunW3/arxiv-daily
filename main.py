@@ -68,6 +68,7 @@ class CodeFinder:
     Find a paper's code repository link. (Replaces the shut-down Papers with Code API)
     1. A github.com link in the arxiv abstract/comment (no extra request, usually the authors' official repo)
     2. Otherwise, the githubRepo field from the Hugging Face Papers API
+    Also provides the one-line ai_summary from the same Hugging Face response.
     """
     HF_API = "https://huggingface.co/api/papers/{}"
     GITHUB_RE = re.compile(r"github\.com/([\w.-]+)/([\w.-]+)", re.IGNORECASE)
@@ -78,6 +79,7 @@ class CodeFinder:
         self.session = requests.session()
         # The same paper can appear in several subtopics, so look it up only once
         self.cache = {}
+        self.hf_cache = {}
 
     def _normalize(self, owner: str, repo: str):
         repo = re.sub(r"\.git$", "", repo.rstrip("."))
@@ -93,17 +95,27 @@ class CodeFinder:
                     return url
         return None
 
+    def hf_paper(self, paper_key: str) -> dict:
+        """Hugging Face Papers entry for the paper; empty when it is not on Hugging Face (404) or the request fails."""
+        if paper_key not in self.hf_cache:
+            data = {}
+            try:
+                response = self.session.get(self.HF_API.format(paper_key), timeout=10)
+                if response.status_code == 200:
+                    data = response.json()
+            except Exception as e:
+                logger.warning(f"hf papers lookup failed | id=`{paper_key}` {e}")
+            self.hf_cache[paper_key] = data
+        return self.hf_cache[paper_key]
+
     def from_hf(self, paper_key: str):
-        try:
-            response = self.session.get(self.HF_API.format(paper_key), timeout=10)
-            if response.status_code != 200:
-                return None
-            repo_url = response.json().get("githubRepo") or ""
-        except Exception as e:
-            logger.warning(f"hf papers lookup failed | id=`{paper_key}` {e}")
-            return None
-        match = self.GITHUB_RE.search(repo_url)
+        match = self.GITHUB_RE.search(self.hf_paper(paper_key).get("githubRepo") or "")
         return self._normalize(*match.groups()) if match else None
+
+    def summary(self, paper_key: str):
+        # Markdown table cells cannot contain '|' or line breaks
+        text = " ".join((self.hf_paper(paper_key).get("ai_summary") or "").split())
+        return text.replace("|", "\\|") or None
 
     def find(self, paper_key: str, result: arxiv.Result):
         if paper_key not in self.cache:
@@ -192,6 +204,7 @@ class CoroutineSpeedup:
                         "id": paper_id,
                         "paper_url": result.entry_id,
                         "repo": self.code_finder.find(paper_key, result),
+                        "tldr": self.code_finder.summary(paper_key),
                     },
                 })
             except Exception:
@@ -274,6 +287,8 @@ class _OverloadTasks:
     def _generate_markdown_table_content(self, paper: dict):
         paper['publish_time'] = f"**{paper['publish_time']}**"
         paper['title'] = f"**{paper['title']}**"
+        if paper.get('tldr'):
+            paper['title'] += f"<br><sub>TL;DR: {paper['tldr']}</sub>"
         _pdf = self._set_markdown_hyperlink(
             text=paper['id'], link=paper['paper_url'])
         _repo = self._set_markdown_hyperlink(
