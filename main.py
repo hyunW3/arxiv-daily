@@ -9,6 +9,7 @@
 """
 
 import glob
+import html
 import os.path
 import re
 import shutil
@@ -286,9 +287,12 @@ class _OverloadTasks:
 
     def _generate_markdown_table_content(self, paper: dict):
         paper['publish_time'] = f"**{paper['publish_time']}**"
-        paper['title'] = f"**{paper['title']}**"
         if paper.get('tldr'):
-            paper['title'] += f"<br><sub>TL;DR: {paper['tldr']}</sub>"
+            # Collapsible title: click to show the TL;DR. Markdown is not parsed inside HTML, so use <b>
+            paper['title'] = f"<details><summary><b>{html.escape(paper['title'], quote=False)}</b></summary>" \
+                             f"{html.escape(paper['tldr'], quote=False)}</details>"
+        else:
+            paper['title'] = f"**{paper['title']}**"
         _pdf = self._set_markdown_hyperlink(
             text=paper['id'], link=paper['paper_url'])
         _repo = self._set_markdown_hyperlink(
