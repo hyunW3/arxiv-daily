@@ -1,0 +1,31 @@
+name: Lint topic.yml
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install linters
+        run: pip install yamllint pyyaml
+
+      # Syntax, indentation, duplicate keys, tabs, trailing spaces
+      - name: yamllint
+        run: yamllint --strict database/topic.yml
+
+      # Structure, keyword format and names
+      - name: Validate topics
+        run: python topic_lint.py database/topic.yml

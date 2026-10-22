@@ -1,0 +1,7 @@
+extends: default
+
+rules:
+  # Keywords are long single-line strings
+  line-length:
+    max: 200
+  document-start: disable

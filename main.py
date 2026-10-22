@@ -23,9 +23,10 @@ from gevent.queue import Queue
 from datetime import datetime
 import arxiv
 import requests
-import yaml
 
 from fire import Fire
+
+from topic_lint import load_topics
 
 from config import (
     SERVER_PATH_TOPIC,
@@ -49,8 +50,8 @@ class ToolBox:
 
     @staticmethod
     def get_yaml_data() -> dict:
-        with open(SERVER_PATH_TOPIC, "r", encoding="utf8") as f:
-            data = yaml.load(f, Loader=yaml.SafeLoader)
+        # Fail fast on duplicate keys or a malformed topic.yml instead of crawling with it
+        data = load_topics(SERVER_PATH_TOPIC)
         print(data)
         return data
 
