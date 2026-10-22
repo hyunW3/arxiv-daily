@@ -1,0 +1,2368 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+        <link rel="next" href="LLM/Byte-Level%20Language%20Models/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.ec1eaa64.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","UA-145083103-1"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","UA-145083103-1",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=UA-145083103-1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#arxiv-daily" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              arxiv-daily
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/hyunW3/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/hyunW3/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#robotics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Robotics
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Robotics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#robot-safety" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Robot Safety
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#obstacle-conditioned-safe-motion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Obstacle-Conditioned Safe Motion
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#robot-safety-evaluation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Robot Safety Evaluation
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#llm" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LLM
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="LLM">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#byte-level-language-models" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Byte-Level Language Models
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#information-retrieval" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Information Retrieval
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quantization" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quantization
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Quantization">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fp4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FP4
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    LLM
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    LLM
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="LLM/Byte-Level%20Language%20Models/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Byte Level Language Models
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="LLM/Information%20Retrieval/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Information Retrieval
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Quantization
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Quantization
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Quantization/FP4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FP4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robotics
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Robotics
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Robotics/Obstacle-Conditioned%20Safe%20Motion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Obstacle Conditioned Safe Motion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Robotics/Robot%20Safety%20Evaluation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robot Safety Evaluation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Robotics/Robot%20Safety/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robot Safety
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Archive
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Archive
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2026-10-15/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2026-10-16/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2026-10-19/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2026-10-21/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2026-10-22/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#robotics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Robotics
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Robotics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#robot-safety" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Robot Safety
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#obstacle-conditioned-safe-motion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Obstacle-Conditioned Safe Motion
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#robot-safety-evaluation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Robot Safety Evaluation
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#llm" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LLM
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="LLM">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#byte-level-language-models" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Byte-Level Language Models
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#information-retrieval" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Information Retrieval
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quantization" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quantization
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Quantization">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fp4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FP4
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="arxiv-daily">arxiv-daily</h1>
+<p>Automated deployment @ 2026-10-22 20:34:07 Asia/Seoul</p>
+<blockquote>
+<p>Welcome to contribute! Add your topics and keywords in <a href="https://github.com/hyunW3/arxiv-daily/blob/main/database/topic.yml"><code>topic.yml</code></a>.
+You can also view historical data through the <a href="https://github.com/hyunW3/arxiv-daily/tree/main/database/storage">storage</a>.</p>
+</blockquote>
+<h2 id="robotics">Robotics</h2>
+<h3 id="robot-safety">Robot Safety</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2026-10-02</strong></td>
+<td style="text-align: center;"><strong>Lightweight and Resource-Efficient Perception for Robotic Guide Dogs</strong></td>
+<td style="text-align: center;">Jinse Kwon et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.03187v2">2610.03187v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-30</strong></td>
+<td style="text-align: center;"><strong>Neuro-Symbolic Predicate Learning for Semantic Safe Robot Control</strong></td>
+<td style="text-align: center;">Zihan Ye et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.39594v1">2609.39594v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-06</strong></td>
+<td style="text-align: center;"><strong>Rethinking Safety for Generalist Robots</strong></td>
+<td style="text-align: center;">Rohan Sinha et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.06326v1">2609.06326v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-08-07</strong></td>
+<td style="text-align: center;"><strong>Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation</strong></td>
+<td style="text-align: center;">Yang Shen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2608.07154v1">2608.07154v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-23</strong></td>
+<td style="text-align: center;"><strong>URF: A Unified Robot Control-Policy Framework for Stable Contact Aware Manipulation</strong></td>
+<td style="text-align: center;">Jiyou Shin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2607.20912v1">2607.20912v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-16</strong></td>
+<td style="text-align: center;"><strong>Risk-Aware Belief Control Barrier Functions over Random Finite Sets</strong></td>
+<td style="text-align: center;">Shaohang Han et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2607.15016v1">2607.15016v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-08</strong></td>
+<td style="text-align: center;"><strong>Initiation Safety: A Missing Dimension in Generalist-Robot Safety</strong></td>
+<td style="text-align: center;">Zhijin Meng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2607.07420v2">2607.07420v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-06-22</strong></td>
+<td style="text-align: center;"><strong>Verifiable Foundation Models for Robot Safety</strong></td>
+<td style="text-align: center;">Davide Corsi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.23754v1">2606.23754v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-06-04</strong></td>
+<td style="text-align: center;"><strong>Learning of Robot Safety Policies via Adversarial Synthetic Scenarios</strong></td>
+<td style="text-align: center;">Nikolai Dorofeev et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.05952v1">2606.05952v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-06-01</strong></td>
+<td style="text-align: center;"><strong>Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics</strong></td>
+<td style="text-align: center;">Haimin Hu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.02562v1">2606.02562v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-29</strong></td>
+<td style="text-align: center;"><strong>Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration</strong></td>
+<td style="text-align: center;">Jun Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.31196v1">2605.31196v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-23</strong></td>
+<td style="text-align: center;"><details><summary><b>Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems</b></summary>Physical AI systems face safety challenges where black-box models can execute harmful actions without detection, necessitating comprehensive runtime guardrail mechanisms for safe operation.</details></td>
+<td style="text-align: center;">Barak Or et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.00090v1">2606.00090v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-04-26</strong></td>
+<td style="text-align: center;"><details><summary><b>Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms</b></summary>Vision-Language-Action models present unique safety challenges due to their embodied nature, requiring unified approaches across multiple domains to address threats from data poisoning to adversarial attacks and ensuring secure deployment across various applications.</details></td>
+<td style="text-align: center;">Qi Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2604.23775v2">2604.23775v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/LiQiiiii/Awesome-VLA-Safety">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-04-14</strong></td>
+<td style="text-align: center;"><details><summary><b>HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models</b></summary>Vision-language-action models exhibit semantic safety vulnerabilities that can lead to unsafe outcomes despite successful action execution, necessitating new evaluation benchmarks and safety enforcement mechanisms.</details></td>
+<td style="text-align: center;">Zixing Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2604.12447v3">2604.12447v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/HazardArena-Team/HazardArena">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-04-07</strong></td>
+<td style="text-align: center;"><strong>Pre-Execution Safety Gate &amp; Task Safety Contracts for LLM-Controlled Robot Systems</strong></td>
+<td style="text-align: center;">Ike Obi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2604.05427v1">2604.05427v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-03-26</strong></td>
+<td style="text-align: center;"><strong>ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making</strong></td>
+<td style="text-align: center;">Young-Chae Son et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2603.25044v2">2603.25044v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-03-24</strong></td>
+<td style="text-align: center;"><strong>Learning Safe-Stoppability Monitors for Humanoid Robots</strong></td>
+<td style="text-align: center;">Yifan Sun et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2603.22703v1">2603.22703v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-03-07</strong></td>
+<td style="text-align: center;"><strong>Is Your Safe Controller Actually Safe? A Critical Review of CBF Tautologies and Hidden Assumptions</strong></td>
+<td style="text-align: center;">Taekyung Kim et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2603.06954v2">2603.06954v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-02-26</strong></td>
+<td style="text-align: center;"><strong>Refining Almost-Safe Value Functions on the Fly</strong></td>
+<td style="text-align: center;">Sander Tonkens et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2602.23478v1">2602.23478v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-02-20</strong></td>
+<td style="text-align: center;"><strong>Role-Adaptive Collaborative Formation Planning for Team of Quadruped Robots in Cluttered Environments</strong></td>
+<td style="text-align: center;">Magnus Norén et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2602.18260v1">2602.18260v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-02-12</strong></td>
+<td style="text-align: center;"><strong>Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph</strong></td>
+<td style="text-align: center;">Xiang Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2602.12065v3">2602.12065v3</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-02-11</strong></td>
+<td style="text-align: center;"><strong>SQ-CBF: Signed Distance Functions for Reliable Superquadric-Based Safety Filtering</strong></td>
+<td style="text-align: center;">Haocheng Zhao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2602.11049v2">2602.11049v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-02-03</strong></td>
+<td style="text-align: center;"><strong>Modular Safety Guardrails Are Necessary for Foundation-Model-Enabled Robots in the Real World</strong></td>
+<td style="text-align: center;">Joonkyung Kim et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2602.04056v1">2602.04056v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-02-01</strong></td>
+<td style="text-align: center;"><details><summary><b>SkySim: A ROS2-based Simulation Environment for Natural Language Control of Drone Swarms using Large Language Models</b></summary>SkySim presents a ROS2-based Gazebo simulation framework that enables natural language control of UAV swarms through LLM planning and APF-based safety enforcement, achieving real-time collision avoidance and scalability.</details></td>
+<td style="text-align: center;">Aditya Shibu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2602.01226v1">2602.01226v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-01-09</strong></td>
+<td style="text-align: center;"><strong>Formal Methods in Robot Policy Learning and Verification: A Survey on Current Techniques and Future Directions</strong></td>
+<td style="text-align: center;">Anastasios Manganaris et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2602.06971v1">2602.06971v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-12-29</strong></td>
+<td style="text-align: center;"><strong>Explainable Neural Inverse Kinematics for Obstacle-Aware Robotic Manipulation: A Comparative Analysis of IKNet Variants</strong></td>
+<td style="text-align: center;">Sheng-Kai Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2512.23312v1">2512.23312v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-12-19</strong></td>
+<td style="text-align: center;"><strong>On Using Neural Networks to Learn Safety Speed Reduction in Human-Robot Collaboration: A Comparative Analysis</strong></td>
+<td style="text-align: center;">Marco Faroni et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2512.17579v1">2512.17579v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-12-09</strong></td>
+<td style="text-align: center;"><strong>Semantic-Metric Bayesian Risk Fields: Learning Robot Safety from Human Videos with a VLM Prior</strong></td>
+<td style="text-align: center;">Timothy Chen et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2512.08233v1">2512.08233v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-11-25</strong></td>
+<td style="text-align: center;"><details><summary><b>ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation</b></summary>ACE-F is a foldable teleoperation system with integrated force feedback that enables intuitive control of diverse robotic embodiments through inverse kinematics and virtual force signal interpretation.</details></td>
+<td style="text-align: center;">Rui Yan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2511.20887v1">2511.20887v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-11-25</strong></td>
+<td style="text-align: center;"><strong>Conformal Safety Monitoring for Flight Testing: A Case Study in Data-Driven Safety Learning</strong></td>
+<td style="text-align: center;">Aaron O. Feldman et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2511.20811v1">2511.20811v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+<h3 id="obstacle-conditioned-safe-motion">Obstacle-Conditioned Safe Motion</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2026-10-15</strong></td>
+<td style="text-align: center;"><strong>Onboard Lightweight LLM Reasoning for Human-Aware Safe UAV Navigation</strong></td>
+<td style="text-align: center;">Siwei Cai et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.22092v1">2610.22092v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-13</strong></td>
+<td style="text-align: center;"><strong>Which Trajectory Is Safer? Combining Rule and Learning for Safety Evaluation</strong></td>
+<td style="text-align: center;">Xuewen Luo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.17806v1">2610.17806v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/Xuewen2025/safety-evaluation">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-06</strong></td>
+<td style="text-align: center;"><strong>Context-Conditioned Hamilton-Jacobi Reachability for Adaptive Safety Filtering</strong></td>
+<td style="text-align: center;">Ali Fuat Sahin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.08115v1">2610.08115v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-08-25</strong></td>
+<td style="text-align: center;"><strong>RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards</strong></td>
+<td style="text-align: center;">Houcheng Jiang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2608.24275v2">2608.24275v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-04-30</strong></td>
+<td style="text-align: center;"><strong>Safe Bilevel Delegation (SBD): A Formal Framework for Runtime Delegation Safety in Multi-Agent Systems</strong></td>
+<td style="text-align: center;">Yuan Sun et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2604.27358v1">2604.27358v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-03-17</strong></td>
+<td style="text-align: center;"><strong>MOSAIC: Composable Safety Alignment with Modular Control Tokens</strong></td>
+<td style="text-align: center;">Jingyu Peng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2603.16210v1">2603.16210v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-03-05</strong></td>
+<td style="text-align: center;"><strong>Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions</strong></td>
+<td style="text-align: center;">Lizhi Yang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2603.05497v3">2603.05497v3</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-02-23</strong></td>
+<td style="text-align: center;"><strong>Contextual Safety Reasoning and Grounding for Open-World Robots</strong></td>
+<td style="text-align: center;">Zachary Ravichandran et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2602.19983v2">2602.19983v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-11-26</strong></td>
+<td style="text-align: center;"><details><summary><b>GuardTrace-VL: Detecting Unsafe Multimodel Reasoning via Iterative Safety Supervision</b></summary>A vision-aware safety auditor monitors the complete question-thinking-answer pipeline to detect unsafe content in multimodal reasoning processes, achieving superior performance in identifying harmful reasoning traces.</details></td>
+<td style="text-align: center;">Yuxiao Xiang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2511.20994v1">2511.20994v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-08-27</strong></td>
+<td style="text-align: center;"><details><summary><b>Evaluating Language Model Reasoning about Confidential Information</b></summary>Language models demonstrate poor contextual robustness in handling password verification tasks, with reasoning capabilities failing to improve performance and potentially leaking confidential information.</details></td>
+<td style="text-align: center;">Dylan Sam et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2508.19980v1">2508.19980v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-03-10</strong></td>
+<td style="text-align: center;"><strong>Safety Guardrails for LLM-Enabled Robots</strong></td>
+<td style="text-align: center;">Zachary Ravichandran et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2503.07885v2">2503.07885v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+<h3 id="robot-safety-evaluation">Robot Safety Evaluation</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2026-10-13</strong></td>
+<td style="text-align: center;"><strong>Which Trajectory Is Safer? Combining Rule and Learning for Safety Evaluation</strong></td>
+<td style="text-align: center;">Xuewen Luo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.17806v1">2610.17806v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/Xuewen2025/safety-evaluation">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-13</strong></td>
+<td style="text-align: center;"><details><summary><b>LatentRiskBench: Measuring State-Dependent Risks in Enterprise Agents</b></summary>LatentRiskBench evaluates state-dependent safety risks in enterprise agents by comparing risky and benign workflows with identical terminal actions, revealing that state-level assessment detects far more violations than action-level checks.</details></td>
+<td style="text-align: center;">Jingyue Cong et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.17685v1">2610.17685v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/JingyueCong/LatentRiskBench">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-07</strong></td>
+<td style="text-align: center;"><strong>A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration</strong></td>
+<td style="text-align: center;">Alexandra Coroiu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.09891v1">2610.09891v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-06</strong></td>
+<td style="text-align: center;"><strong>Behavioral Safety Assessment towards Large-scale Deployment of Autonomous Vehicles, Part I: Methodology</strong></td>
+<td style="text-align: center;">Henry X. Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.08450v2">2610.08450v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-05</strong></td>
+<td style="text-align: center;"><strong>Multimodal Safety Evaluation Should Measure Controllability Beyond Classification</strong></td>
+<td style="text-align: center;">Junhyeong Park et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.06452v1">2610.06452v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-28</strong></td>
+<td style="text-align: center;"><details><summary><b>AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving</b></summary>AD-E2E-JEPA improves joint-embedding predictive world models for autonomous driving by using a regularized learnable projector to accelerate planning while maintaining accuracy in zero-shot goal-conditioned settings.</details></td>
+<td style="text-align: center;">Haoran Zhu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.34085v1">2609.34085v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/HaoranZhuExplorer/AD-E2E-JEPA">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-18</strong></td>
+<td style="text-align: center;"><strong>DPed-VLN: A Benchmark for Socially Compliant Vision-and-Language Navigation in Dynamic Pedestrian Environments</strong></td>
+<td style="text-align: center;">Haojie Dai et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.21504v1">2609.21504v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-11</strong></td>
+<td style="text-align: center;"><strong>Comfort by Construction: Adaptive, Comfort-Bounded Action Spaces for Learned Driving Policies</strong></td>
+<td style="text-align: center;">Anna Rothenhäusler et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.13011v1">2609.13011v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-08-25</strong></td>
+<td style="text-align: center;"><strong>Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models</strong></td>
+<td style="text-align: center;">Abdulhady Abas Abdullah et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2608.24534v1">2608.24534v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-08-17</strong></td>
+<td style="text-align: center;"><strong>Institution-Specific LLM Prompting Recovers PHI That De-identification Systems and Their Gold Standards Both Miss</strong></td>
+<td style="text-align: center;">Daniel Palacios et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2608.17051v1">2608.17051v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-08-11</strong></td>
+<td style="text-align: center;"><strong>Forward Trajectory Steering for Hamilton-Jacobi Reachability Analysis</strong></td>
+<td style="text-align: center;">Sungje Park et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2608.11480v1">2608.11480v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-31</strong></td>
+<td style="text-align: center;"><strong>IyawoBench v2.0: Extended Diagnostic Evaluation of Large Language Model Clinical Triage in Nigerian Primary Care</strong></td>
+<td style="text-align: center;">Anthonio Oladimeji Gabriel et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2607.29085v1">2607.29085v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-29</strong></td>
+<td style="text-align: center;"><strong>CinemaTraj: Composing Atomic Camera Trajectories for 3D Scenes with LLM Agents</strong></td>
+<td style="text-align: center;">Qianru Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2607.26910v1">2607.26910v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-24</strong></td>
+<td style="text-align: center;"><strong>Scenario-Independent Criticality Assessment and Prediction for Vulnerable Road Users in Autonomous Driving</strong></td>
+<td style="text-align: center;">Jörg Gamerdinger et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.11947v1">2609.11947v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-22</strong></td>
+<td style="text-align: center;"><strong>NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation</strong></td>
+<td style="text-align: center;">Junzhe Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2607.19695v1">2607.19695v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-10</strong></td>
+<td style="text-align: center;"><strong>Empirical Pedestrian Safety Assessment in a Mobile Robot Using a Predictive Social Force Model</strong></td>
+<td style="text-align: center;">Alireza Jafari et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2607.09192v1">2607.09192v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-06-30</strong></td>
+<td style="text-align: center;"><strong>When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue</strong></td>
+<td style="text-align: center;">Mohammad Alijanpour Shalmani et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.31307v1">2606.31307v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-06-29</strong></td>
+<td style="text-align: center;"><strong>EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures</strong></td>
+<td style="text-align: center;">Buğra Alperen Uluırmak et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.30219v5">2606.30219v5</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-06-26</strong></td>
+<td style="text-align: center;"><strong>Pepti-drift: Scalable Safe-Active Peptide Generation Without Inference-Time Guidance</strong></td>
+<td style="text-align: center;">Takashi Fujiwara et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.27824v3">2606.27824v3</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-06-22</strong></td>
+<td style="text-align: center;"><strong>A Generative Model for Closed-Loop Microsimulation of Signalized Intersections</strong></td>
+<td style="text-align: center;">Yash Ranjan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.23588v1">2606.23588v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-06-10</strong></td>
+<td style="text-align: center;"><strong>ConsistencyPlanner: Real-time Planning with Fast-Sampling Consistency Models</strong></td>
+<td style="text-align: center;">Qichao Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.11569v1">2606.11569v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-31</strong></td>
+<td style="text-align: center;"><strong>Time-Optimal Collision Avoidance Via a Greedy Polynomial Backward Sweep</strong></td>
+<td style="text-align: center;">Zeno Pavanello et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.01169v1">2606.01169v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-27</strong></td>
+<td style="text-align: center;"><strong>Multi-Resolution End-to-End Deep Neural Network for Optimizing Latency-Accuracy Tradeoff in Autonomous Driving</strong></td>
+<td style="text-align: center;">Qitao Weng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.29138v1">2605.29138v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-27</strong></td>
+<td style="text-align: center;"><strong>ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving</strong></td>
+<td style="text-align: center;">Mohammadreza Teymoorianfard et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.29114v1">2605.29114v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-27</strong></td>
+<td style="text-align: center;"><strong>DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving</strong></td>
+<td style="text-align: center;">Zian Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.27964v1">2605.27964v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-26</strong></td>
+<td style="text-align: center;"><strong>Efficient Safety Benchmarking via Item Response Theory</strong></td>
+<td style="text-align: center;">Fabio Spagliardi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2606.20626v2">2606.20626v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-20</strong></td>
+<td style="text-align: center;"><strong>Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving</strong></td>
+<td style="text-align: center;">Yang Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.21139v2">2605.21139v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-12</strong></td>
+<td style="text-align: center;"><strong>SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation</strong></td>
+<td style="text-align: center;">Chengyue Huang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.12386v3">2605.12386v3</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-11</strong></td>
+<td style="text-align: center;"><strong>Muninn: Your Trajectory Diffusion Model But Faster</strong></td>
+<td style="text-align: center;">Gokul Puthumanaillam et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.09999v1">2605.09999v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/gokulp01/Muninn">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-04-18</strong></td>
+<td style="text-align: center;"><strong>Evaluating Multimodal LLMs for Inpatient Diagnosis: Real-World Performance, Safety, and Cost Across Ten Frontier Models</strong></td>
+<td style="text-align: center;">Bruce A. Bassett et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2604.16980v1">2604.16980v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+<h2 id="llm">LLM</h2>
+<h3 id="byte-level-language-models">Byte-Level Language Models</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2026-10-15</strong></td>
+<td style="text-align: center;"><strong>Patch where the text is new: a compression view of where byte-level models should spend compute</strong></td>
+<td style="text-align: center;">Nicolás Vera Zúñiga et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.22100v1">2610.22100v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/nicoveraz/segresearch">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-15</strong></td>
+<td style="text-align: center;"><strong>The Right Byte First: How UTF-16 Helps Multilingual Boundary Prediction</strong></td>
+<td style="text-align: center;">Hyunsik Kim et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.22071v1">2610.22071v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-08</strong></td>
+<td style="text-align: center;"><strong>Easy to anticipate, hard to compute: boundary dependence finds the computed outputs that entropy patching misses</strong></td>
+<td style="text-align: center;">Nicolás Vera Zúñiga et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.11790v1">2610.11790v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/nicoveraz/segresearch">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-08-31</strong></td>
+<td style="text-align: center;"><details><summary><b>Toppling the Hierarchy in Byte-level Language Modeling</b></summary>Hierarchical byte-level models sacrifice precise character manipulation for efficiency compared to pure byte-level architectures, with attention mechanisms driving fine-grained understanding.</details></td>
+<td style="text-align: center;">Lukas Edman et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.00463v1">2609.00463v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-08-08</strong></td>
+<td style="text-align: center;"><strong>Semantic-Aided Iterative Decoding for Uplink Non-Orthogonal Transmission</strong></td>
+<td style="text-align: center;">Wenjing Wei et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2608.07897v1">2608.07897v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-08-05</strong></td>
+<td style="text-align: center;"><strong>Kathleen Writes: Autoregressive Generation and Data Scaling Without Attention</strong></td>
+<td style="text-align: center;">George Fountzoulas et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2608.04678v1">2608.04678v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-08-04</strong></td>
+<td style="text-align: center;"><details><summary><b>Disentangling Language Modeling and Boundaries</b></summary>Byte-level language models enable exact knowledge transfer and independent boundary control, supporting a shared interface standard.</details></td>
+<td style="text-align: center;">Mykola Haltiuk et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2608.03599v1">2608.03599v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-29</strong></td>
+<td style="text-align: center;"><strong>The Art of Not Forgetting A Local Learning Architecture for Continual Learning</strong></td>
+<td style="text-align: center;">Ashmith Atmuri et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2607.26523v1">2607.26523v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-07-23</strong></td>
+<td style="text-align: center;"><strong>Parameter-free Adaptive Sparse Attention via Compression-Based Content Selection</strong></td>
+<td style="text-align: center;">Debarshi Kundu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2607.21752v1">2607.21752v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-10</strong></td>
+<td style="text-align: center;"><details><summary><b>Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models</b></summary>Tokenizer-free language models using patch-based approaches face a trade-off between compute efficiency and modeling quality due to patch lag, which Scratchpad Patching addresses by dynamically refreshing context within patches based on prediction entropy.</details></td>
+<td style="text-align: center;">Lin Zheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.09630v1">2605.09630v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-08</strong></td>
+<td style="text-align: center;"><details><summary><b>Fast Byte Latent Transformer</b></summary>Byte-level language models overcome slow autoregressive generation through diffusion-based parallel processing and speculative decoding techniques that improve both speed and quality.</details></td>
+<td style="text-align: center;">Julie Kallini et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.08044v1">2605.08044v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-05-04</strong></td>
+<td style="text-align: center;"><details><summary><b>Semantic Ordered Statistics Decoding</b></summary>Sem-OSD integrates a byte-level language model into ordered statistics decoding to improve error correction for byte-streamed sources across AWGN and burst-error channels.</details></td>
+<td style="text-align: center;">Chentao Yue et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2605.02296v1">2605.02296v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-02-20</strong></td>
+<td style="text-align: center;"><strong>Learning Long-Range Dependencies with Temporal Predictive Coding</strong></td>
+<td style="text-align: center;">Tom Potter et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2602.18131v2">2602.18131v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-01-30</strong></td>
+<td style="text-align: center;"><strong>Elastic Spectral State Space Models for Train-Once Budgeted Inference</strong></td>
+<td style="text-align: center;">Dachuan Song et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2601.22488v3">2601.22488v3</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-12-17</strong></td>
+<td style="text-align: center;"><details><summary><b>Bolmo: Byteifying the Next Generation of Language Models</b></summary>Bolmo, a family of competitive byte-level language models, is trained by converting existing subword-level models, overcoming character understanding and efficiency limitations while achieving performance comparable to subword models.</details></td>
+<td style="text-align: center;">Benjamin Minixhofer et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2512.15586v2">2512.15586v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/allenai/bolmo-core">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-08-07</strong></td>
+<td style="text-align: center;"><strong>H-Net++: Hierarchical Dynamic Chunking for Tokenizer-Free Language Modelling in Morphologically-Rich Languages</strong></td>
+<td style="text-align: center;">Mehrdad Zakershahrak et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2508.05628v1">2508.05628v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2025-07-17</strong></td>
+<td style="text-align: center;"><strong>Synergy: End-to-end Concept Model</strong></td>
+<td style="text-align: center;">Keli Zheng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2507.12769v1">2507.12769v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-10-28</strong></td>
+<td style="text-align: center;"><details><summary><b>MrT5: Dynamic Token Merging for Efficient Byte-level Language Models</b></summary>MrT5, an efficient variant of ByT5, introduces a token deletion mechanism in its encoder to reduce sequence lengths and improve inference runtime with minimal impact on performance.</details></td>
+<td style="text-align: center;">Julie Kallini et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2410.20771v3">2410.20771v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/jkallini/mrt5">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2024-05-17</strong></td>
+<td style="text-align: center;"><strong>Specialising and Analysing Instruction-Tuned and Byte-Level Language Models for Organic Reaction Prediction</strong></td>
+<td style="text-align: center;">Jiayun Pang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2405.10625v1">2405.10625v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2023-02-28</strong></td>
+<td style="text-align: center;"><details><summary><b>Are Character-level Translations Worth the Wait? Comparing ByT5 and mT5 for Machine Translation</b></summary>Character-level pre-trained models demonstrate strong performance in neural machine translation, particularly with limited data, by better translating orthographically similar and rare words, although they may have efficiency trade-offs.</details></td>
+<td style="text-align: center;">Lukas Edman et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2302.14220v3">2302.14220v3</a></td>
+<td style="text-align: center;"><a href="https://github.com/leukas/charlevelmt">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2022-09-22</strong></td>
+<td style="text-align: center;"><details><summary><b>MonoByte: A Pool of Monolingual Byte-level Language Models</b></summary>Monolingual language models pretrained under consistent configurations achieve competitive performance to multilingual models, advancing the understanding of cross-lingual transferability.</details></td>
+<td style="text-align: center;">Hugo Abonizio et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2209.11035v2">2209.11035v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/lersouza/lang-agnostic">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2021-10-28</strong></td>
+<td style="text-align: center;"><details><summary><b>ÚFAL at MultiLexNorm 2021: Improving Multilingual Lexical Normalization by Fine-tuning ByT5</b></summary>A system using ByT5 pre-trained on synthetic data and fine-tuned on normalization data wins the MultiLexNorm shared task with top performance in intrinsic and extrinsic evaluations.</details></td>
+<td style="text-align: center;">David Samuel et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2110.15248v2">2110.15248v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/ufal/multilexnorm2021">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2020-12-14</strong></td>
+<td style="text-align: center;"><strong>Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model</strong></td>
+<td style="text-align: center;">Mohammadreza Ebrahimi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2012.07994v1">2012.07994v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2019-11-26</strong></td>
+<td style="text-align: center;"><details><summary><b>Single Headed Attention RNN: Stop Thinking With Your Head</b></summary>A Single Headed Attention RNN achieves near-state-of-the-art performance on byte level language modeling with minimal resources and hyperparameter tuning.</details></td>
+<td style="text-align: center;">Stephen Merity et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/1911.11423v2">1911.11423v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+<h3 id="information-retrieval">Information Retrieval</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><details><summary><b>Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation</b></summary>LoopRec enables adaptive per-item computation depth in sequential recommendation by using recursive shared blocks with early-exit gates, improving efficiency and accuracy.</details></td>
+<td style="text-align: center;">Zhanshuo Cao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.30128v1">2610.30128v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/Elpmis117/LoopRec">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion</strong></td>
+<td style="text-align: center;">Yikai Zhao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.30026v1">2610.30026v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>ERCLIP: Small-Data Adaptation of CLIP for Free-Length Image-Text Retrieval</strong></td>
+<td style="text-align: center;">Hoang-Bao Le et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29939v1">2610.29939v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents</strong></td>
+<td style="text-align: center;">Mohammed Saqlain et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29812v1">2610.29812v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/saqlain2204/real-pmids-wrong-papers">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>SOAR: Social and Opinion-Aware Recommendations</strong></td>
+<td style="text-align: center;">Giannis Christoforidis et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29556v1">2610.29556v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>pplx-embed-v2-late Technical Report</strong></td>
+<td style="text-align: center;">Markus Krimmel et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29523v1">2610.29523v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>X-Embedding: Two-Stage Training for Multilingual Patent Prior-Art Retrieval</strong></td>
+<td style="text-align: center;">Wentao Wu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29521v1">2610.29521v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Beyond the Vote: When Do LLMs Add Value to Retrieval-Based Tabular Classification?</strong></td>
+<td style="text-align: center;">Ziquan Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29520v1">2610.29520v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Directional Posterior Feedback Fusion for Query Reformulation in Dense Retrieval</strong></td>
+<td style="text-align: center;">Yiteng Tu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29464v1">2610.29464v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Generative Recommenders Forget the Long Tail: Restoring Memorization in Retrieval and Ranking</strong></td>
+<td style="text-align: center;">Xu Huang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29298v1">2610.29298v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Extending FAIR Principles with Observability for Trustworthy Federated Learning</strong></td>
+<td style="text-align: center;">Hangli Ge et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29252v1">2610.29252v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Learning Marginal Viewpoint Utility for Budgeted Evidence Selection in RAG</strong></td>
+<td style="text-align: center;">Yiyang Duan et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29234v1">2610.29234v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Preference Is Not Permission: Personalizing the Auto-Purchase Line in Agentic Commerce</strong></td>
+<td style="text-align: center;">Ryotaro Shimizu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29216v1">2610.29216v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Reasoning-Search-Augmented LLMs: An Operational Taxonomy, Benchmark Analysis and Controlled Evidence Synthesis</strong></td>
+<td style="text-align: center;">Biswas Poudel et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29189v1">2610.29189v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Progressive Learning from Content to Relevance to Personalization for CTR Prediction</strong></td>
+<td style="text-align: center;">Zhiguang Yang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29138v1">2610.29138v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Derivation Depth Exposes Reasoning Failures in Tool-Augmented Music Analysis</strong></td>
+<td style="text-align: center;">Rupali Rajesh et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29060v1">2610.29060v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>Our Own Jev: Typed Decisions in One Forward Pass, from an In-House Judge to Open LoRA Models</strong></td>
+<td style="text-align: center;">Yuchuan Weng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29052v1">2610.29052v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>KunSet: A Corpus and Benchmark for Lyrics Alignment and Rhyme Retrieval in Kunqu Opera</strong></td>
+<td style="text-align: center;">Lejun Min et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29031v1">2610.29031v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-21</strong></td>
+<td style="text-align: center;"><strong>An Evidence-Driven Multi-Agent Compound AI System for Head and Neck Proton Radiotherapy Planning</strong></td>
+<td style="text-align: center;">Qingqing Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.29010v1">2610.29010v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform</strong></td>
+<td style="text-align: center;">Abbas Pirmoradi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.28929v1">2610.28929v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>Constrained Tagging for Span Labeling</strong></td>
+<td style="text-align: center;">Radek Štulc et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.28922v1">2610.28922v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>ECHO: Efficient Cascade with Homogeneous Operators for Distillation-Guided 100K-Sequence Modeling</strong></td>
+<td style="text-align: center;">Wenhao Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.28569v1">2610.28569v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>Evolving Semantic Indexes for Generative Retrieval</strong></td>
+<td style="text-align: center;">Jinming Nian et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.28568v1">2610.28568v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><details><summary><b>Multimodal Reranking Is a System One Decision</b></summary>A general vision-language model can serve as a multimodal reranker via single-pass choice questions, matching or exceeding dedicated rerankers with minimal tuning.</details></td>
+<td style="text-align: center;">Zhuchenyang Liu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.28435v1">2610.28435v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/Ryenhails/rerank-as-decision">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge</strong></td>
+<td style="text-align: center;">Atharva Thakur et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.28340v1">2610.28340v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/Thakur-Atharva/declinecraft-benchmark">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>AutoSim: A Self-Improving User Simulator for Conversational Search Evaluation</strong></td>
+<td style="text-align: center;">Saber Zerhoudi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.28054v1">2610.28054v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>SPAR: Stepwise Personalized Autoregressive Recommendation with Prefix-Balanced Semantic IDs</strong></td>
+<td style="text-align: center;">Chunrui Zhang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.27898v1">2610.27898v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><details><summary><b>Robustness Analysis of Pareto-based Joint Evaluation of Fairness and Relevance in Recommender Systems</b></summary>DPFR jointly evaluates recommender system fairness and relevance via distance to a Pareto frontier, offering a more robust alternative to isolated or imbalanced metrics.</details></td>
+<td style="text-align: center;">Theresia Veronika Rampisela et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.27850v1">2610.27850v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/theresiavr/robustness-DPFR-recsys-evaluation">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>GARRET: Generative Feedback for Region Retrieval in Visual Documents</strong></td>
+<td style="text-align: center;">Weijian Jian et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.27829v1">2610.27829v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE</strong></td>
+<td style="text-align: center;">Ermo Hua et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.27598v1">2610.27598v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+<h2 id="quantization">Quantization</h2>
+<h3 id="fp4">FP4</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference</strong></td>
+<td style="text-align: center;">Xiuyi Qin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.28947v1">2610.28947v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-19</strong></td>
+<td style="text-align: center;"><strong>MX-Like Tensor Core for LLM Inference with NPU Integration via Hardware-Software Co-Design Exploration</strong></td>
+<td style="text-align: center;">Zijun Zhao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.26083v1">2610.26083v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-18</strong></td>
+<td style="text-align: center;"><strong>PACT: NVFP4 Data-Flow LoRA Fine-Tuning on Consumer GPUs</strong></td>
+<td style="text-align: center;">Lei Gao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.25048v1">2610.25048v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-17</strong></td>
+<td style="text-align: center;"><strong>What Matters for NVFP4 Training? A Comparative Study of Low-Precision Pretraining Recipes</strong></td>
+<td style="text-align: center;">Anjulie Agrusa et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.24343v1">2610.24343v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-14</strong></td>
+<td style="text-align: center;"><details><summary><b>On-Policy Residual Learning for Diffusion Language Models</b></summary>On-policy residual learning improves diffusion language model efficiency by carrying predictive distributions across steps, achieving substantial speed gains with minimal data.</details></td>
+<td style="text-align: center;">Yifan Yu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.20687v1">2610.20687v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-14</strong></td>
+<td style="text-align: center;"><strong>MFSA: A Multi-Format Systolic Array with Native Micro Scaling Support</strong></td>
+<td style="text-align: center;">Jiayi Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.19645v1">2610.19645v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-11</strong></td>
+<td style="text-align: center;"><strong>Error-Based Bidirectional Predictive Coding Enables Deep, 4-Bit Predictive Coding Networks</strong></td>
+<td style="text-align: center;">Garrett Kinman et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.15933v1">2610.15933v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-11</strong></td>
+<td style="text-align: center;"><strong>Recovering Low-Bit Failures in Vision-Language-Action Policies via Quantization-Conditioned Reinforcement Learning</strong></td>
+<td style="text-align: center;">Seongmin Park et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.15675v1">2610.15675v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-09</strong></td>
+<td style="text-align: center;"><strong>Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference</strong></td>
+<td style="text-align: center;">Xingyu Xie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.14277v1">2610.14277v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-09</strong></td>
+<td style="text-align: center;"><strong>DualQuant: Dual-scale Calibration-free Weight-and-Activation Quantization for LLMs</strong></td>
+<td style="text-align: center;">Mahsa Salmani et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.13767v1">2610.13767v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-09</strong></td>
+<td style="text-align: center;"><strong>DuoRate: Two-Rate Per-Expert Precision Allocation for Mixture-of-Experts Serving</strong></td>
+<td style="text-align: center;">Mengqi Guo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.13328v1">2610.13328v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-07</strong></td>
+<td style="text-align: center;"><strong>miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning</strong></td>
+<td style="text-align: center;">Zhen Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.23928v1">2610.23928v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-06</strong></td>
+<td style="text-align: center;"><strong>OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization</strong></td>
+<td style="text-align: center;">Neriah Ben David et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.08231v1">2610.08231v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/neriahbd/OSFP4">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-06</strong></td>
+<td style="text-align: center;"><details><summary><b>TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models</b></summary>TRACE is an FP4 quantization framework for reinforcement learning training of Mixture-of-Experts language models that aligns training and rollout quantization to reduce discrepancy, enabling efficient low-precision rollout with comparable performance to higher-precision baselines.</details></td>
+<td style="text-align: center;">Xin Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.07767v2">2610.07767v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-05</strong></td>
+<td style="text-align: center;"><details><summary><b>SoloQ: Calibration-Free Quantization for Diffusion Language Models</b></summary>SoloQ enables calibration-free 4-bit quantization for diffusion language models by using normalized rotations and commit-time KV-cache compression, improving accuracy and inference speed.</details></td>
+<td style="text-align: center;">Donghyun Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.07121v1">2610.07121v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-05</strong></td>
+<td style="text-align: center;"><details><summary><b>TRIAGE: Direction-Aware Mismatch Stabilization of Native NVFP4 Reinforcement Learning</b></summary>TRIAGE stabilizes low-precision reinforcement learning by direction-aware rebalancing of policy-gradient updates, enabling native 4-bit execution with full-precision performance.</details></td>
+<td style="text-align: center;">Zhen Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.07043v2">2610.07043v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/InfiXAI/TRIAGE">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-02</strong></td>
+<td style="text-align: center;"><strong>LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization</strong></td>
+<td style="text-align: center;">Ziye Deng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.03959v1">2610.03959v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-30</strong></td>
+<td style="text-align: center;"><strong>QATFactory: A Versatile, Deployment-Aligned Framework for Quantization-aware Training and Distillation of LLMs</strong></td>
+<td style="text-align: center;">Weili Xu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.39223v2">2609.39223v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/QATFactory/QATFactory">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-29</strong></td>
+<td style="text-align: center;"><strong>FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have</strong></td>
+<td style="text-align: center;">Pratyai Mazumder et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.37693v1">2609.37693v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-29</strong></td>
+<td style="text-align: center;"><strong>Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference</strong></td>
+<td style="text-align: center;">Ruiyi Ding et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.36654v1">2609.36654v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-27</strong></td>
+<td style="text-align: center;"><details><summary><b>JustQuant: You Don't Need Smoothing, SVD, or Rotation for 4-Bit Activation Quantization</b></summary>JustQuant enables low-bit activation quantization using only standard operators by integrating multi-level quantization-aware distillation into training, improving quality for diffusion and language models without complex deployment-time modifications.</details></td>
+<td style="text-align: center;">Kaicheng Yang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.33601v1">2609.33601v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-27</strong></td>
+<td style="text-align: center;"><strong>Chameleon: Dynamic Format Adapter for Efficient Diffusion</strong></td>
+<td style="text-align: center;">Arnab Sanyal et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.33496v1">2609.33496v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-27</strong></td>
+<td style="text-align: center;"><strong>MpFA: Hardware-Efficient Train-Free QK4V8 FlashAttention Kernels on Blackwell GPUs</strong></td>
+<td style="text-align: center;">Chencheng Deng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.33135v1">2609.33135v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-25</strong></td>
+<td style="text-align: center;"><strong>Floating-Point Microformat Quantization and Pruning for Efficient MU-MIMO Neural Receivers</strong></td>
+<td style="text-align: center;">SaiKrishna Saketh Yellapragada et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.31177v1">2609.31177v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-22</strong></td>
+<td style="text-align: center;"><details><summary><b>Disaggregated Quantization: Specializing LLM Prefill and Decode</b></summary>Disaggregated quantization uses separate formats and storage for prefill and decode phases to improve speed and accuracy at very low bit widths.</details></td>
+<td style="text-align: center;">Andrei Panferov et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.26333v1">2609.26333v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/IST-DASLab/disaggregated-quantization">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-21</strong></td>
+<td style="text-align: center;"><strong>AWE: Adaptive Weight Encoding for Exact Integer Matrix Products with Fewer GEMMs on FP4 Tensor Cores</strong></td>
+<td style="text-align: center;">Shun-ichiro Hayashi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.24519v1">2609.24519v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-17</strong></td>
+<td style="text-align: center;"><details><summary><b>DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression</b></summary>DeepSeek-V4.1-Flash is a multimodal MoE model using a CED architecture and aggressive KV cache compression to lower compute, storage, and bandwidth costs for long-context agent workloads.</details></td>
+<td style="text-align: center;">DeepSeek-AI et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.19969v1">2609.19969v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-17</strong></td>
+<td style="text-align: center;"><strong>MiX: Micro-Inverted-Scaling for End-to-End Low-Bit Vision-Language Model Acceleration</strong></td>
+<td style="text-align: center;">Yuan Liao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.19683v2">2609.19683v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-14</strong></td>
+<td style="text-align: center;"><strong>DeepSeek-V4-Flash on AMD gfx90a: Correctness Recovery and Inference Performance Engineering</strong></td>
+<td style="text-align: center;">Siming Huang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.15627v2">2609.15627v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-14</strong></td>
+<td style="text-align: center;"><strong>Validating Hybrid-State Cache Recovery for GLM-5.3-Flash with vLLM and LMCache</strong></td>
+<td style="text-align: center;">Frank Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.15030v1">2609.15030v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.indexes"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
