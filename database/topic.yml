@@ -6,3 +6,6 @@
 "LLM":
   "Byte-Level Language Models": '"Byte-Level Language Model"OR"Byte-Level Language Modeling"'
   "Information Retrieval": '"Information Retrieval"OR"Retrieval Evaluation"'
+
+"Quantization":
+  "FP4": '"FP4"OR"NVFP4"'
