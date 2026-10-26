@@ -1,34 +1,34 @@
 ### Information Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-10-21**|<details><summary><b>Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation</b></summary>LoopRec enables adaptive per-item computation depth in sequential recommendation by using recursive shared blocks with early-exit gates, improving efficiency and accuracy.</details>|Zhanshuo Cao et.al.|[2610.30128v1](http://arxiv.org/abs/2610.30128v1)|[link](https://github.com/Elpmis117/LoopRec)|
-|**2026-10-21**|**What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion**|Yikai Zhao et.al.|[2610.30026v1](http://arxiv.org/abs/2610.30026v1)|-|
-|**2026-10-21**|**ERCLIP: Small-Data Adaptation of CLIP for Free-Length Image-Text Retrieval**|Hoang-Bao Le et.al.|[2610.29939v1](http://arxiv.org/abs/2610.29939v1)|-|
-|**2026-10-21**|**Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents**|Mohammed Saqlain et.al.|[2610.29812v1](http://arxiv.org/abs/2610.29812v1)|[link](https://github.com/saqlain2204/real-pmids-wrong-papers)|
-|**2026-10-21**|**SOAR: Social and Opinion-Aware Recommendations**|Giannis Christoforidis et.al.|[2610.29556v1](http://arxiv.org/abs/2610.29556v1)|-|
-|**2026-10-21**|**pplx-embed-v2-late Technical Report**|Markus Krimmel et.al.|[2610.29523v1](http://arxiv.org/abs/2610.29523v1)|-|
-|**2026-10-21**|**X-Embedding: Two-Stage Training for Multilingual Patent Prior-Art Retrieval**|Wentao Wu et.al.|[2610.29521v1](http://arxiv.org/abs/2610.29521v1)|-|
-|**2026-10-21**|**Beyond the Vote: When Do LLMs Add Value to Retrieval-Based Tabular Classification?**|Ziquan Wang et.al.|[2610.29520v1](http://arxiv.org/abs/2610.29520v1)|-|
-|**2026-10-21**|**Directional Posterior Feedback Fusion for Query Reformulation in Dense Retrieval**|Yiteng Tu et.al.|[2610.29464v1](http://arxiv.org/abs/2610.29464v1)|-|
-|**2026-10-21**|**Generative Recommenders Forget the Long Tail: Restoring Memorization in Retrieval and Ranking**|Xu Huang et.al.|[2610.29298v1](http://arxiv.org/abs/2610.29298v1)|-|
-|**2026-10-21**|**Extending FAIR Principles with Observability for Trustworthy Federated Learning**|Hangli Ge et.al.|[2610.29252v1](http://arxiv.org/abs/2610.29252v1)|-|
-|**2026-10-21**|**Learning Marginal Viewpoint Utility for Budgeted Evidence Selection in RAG**|Yiyang Duan et.al.|[2610.29234v1](http://arxiv.org/abs/2610.29234v1)|-|
-|**2026-10-21**|**Preference Is Not Permission: Personalizing the Auto-Purchase Line in Agentic Commerce**|Ryotaro Shimizu et.al.|[2610.29216v1](http://arxiv.org/abs/2610.29216v1)|-|
-|**2026-10-21**|**Reasoning-Search-Augmented LLMs: An Operational Taxonomy, Benchmark Analysis and Controlled Evidence Synthesis**|Biswas Poudel et.al.|[2610.29189v1](http://arxiv.org/abs/2610.29189v1)|-|
-|**2026-10-21**|**Progressive Learning from Content to Relevance to Personalization for CTR Prediction**|Zhiguang Yang et.al.|[2610.29138v1](http://arxiv.org/abs/2610.29138v1)|-|
-|**2026-10-21**|**Derivation Depth Exposes Reasoning Failures in Tool-Augmented Music Analysis**|Rupali Rajesh et.al.|[2610.29060v1](http://arxiv.org/abs/2610.29060v1)|-|
-|**2026-10-21**|**Our Own Jev: Typed Decisions in One Forward Pass, from an In-House Judge to Open LoRA Models**|Yuchuan Weng et.al.|[2610.29052v1](http://arxiv.org/abs/2610.29052v1)|-|
-|**2026-10-21**|**KunSet: A Corpus and Benchmark for Lyrics Alignment and Rhyme Retrieval in Kunqu Opera**|Lejun Min et.al.|[2610.29031v1](http://arxiv.org/abs/2610.29031v1)|-|
-|**2026-10-21**|**An Evidence-Driven Multi-Agent Compound AI System for Head and Neck Proton Radiotherapy Planning**|Qingqing Wang et.al.|[2610.29010v1](http://arxiv.org/abs/2610.29010v1)|-|
-|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929v1](http://arxiv.org/abs/2610.28929v1)|-|
-|**2026-10-20**|**Constrained Tagging for Span Labeling**|Radek Štulc et.al.|[2610.28922v1](http://arxiv.org/abs/2610.28922v1)|-|
-|**2026-10-20**|**ECHO: Efficient Cascade with Homogeneous Operators for Distillation-Guided 100K-Sequence Modeling**|Wenhao Li et.al.|[2610.28569v1](http://arxiv.org/abs/2610.28569v1)|-|
-|**2026-10-20**|**Evolving Semantic Indexes for Generative Retrieval**|Jinming Nian et.al.|[2610.28568v1](http://arxiv.org/abs/2610.28568v1)|-|
-|**2026-10-20**|<details><summary><b>Multimodal Reranking Is a System One Decision</b></summary>A general vision-language model can serve as a multimodal reranker via single-pass choice questions, matching or exceeding dedicated rerankers with minimal tuning.</details>|Zhuchenyang Liu et.al.|[2610.28435v1](http://arxiv.org/abs/2610.28435v1)|[link](https://github.com/Ryenhails/rerank-as-decision)|
-|**2026-10-20**|**DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge**|Atharva Thakur et.al.|[2610.28340v1](http://arxiv.org/abs/2610.28340v1)|[link](https://github.com/Thakur-Atharva/declinecraft-benchmark)|
-|**2026-10-20**|**AutoSim: A Self-Improving User Simulator for Conversational Search Evaluation**|Saber Zerhoudi et.al.|[2610.28054v1](http://arxiv.org/abs/2610.28054v1)|-|
-|**2026-10-20**|**SPAR: Stepwise Personalized Autoregressive Recommendation with Prefix-Balanced Semantic IDs**|Chunrui Zhang et.al.|[2610.27898v1](http://arxiv.org/abs/2610.27898v1)|-|
-|**2026-10-20**|<details><summary><b>Robustness Analysis of Pareto-based Joint Evaluation of Fairness and Relevance in Recommender Systems</b></summary>DPFR jointly evaluates recommender system fairness and relevance via distance to a Pareto frontier, offering a more robust alternative to isolated or imbalanced metrics.</details>|Theresia Veronika Rampisela et.al.|[2610.27850v1](http://arxiv.org/abs/2610.27850v1)|[link](https://github.com/theresiavr/robustness-DPFR-recsys-evaluation)|
-|**2026-10-20**|**GARRET: Generative Feedback for Region Retrieval in Visual Documents**|Weijian Jian et.al.|[2610.27829v1](http://arxiv.org/abs/2610.27829v1)|-|
-|**2026-10-20**|**Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE**|Ermo Hua et.al.|[2610.27598v1](http://arxiv.org/abs/2610.27598v1)|-|
+|**2026-10-23**|**From archive to resource: bringing legacy data back to life at scale with large language models**|C. H. Vieira-Vieira et.al.|[2610.32616v1](http://arxiv.org/abs/2610.32616v1)|-|
+|**2026-10-23**|**UAE GovTrust Scope Filtering Gains and Routing Failures in Bilingual Public Service Retrieval**|Aleksandar Mihajlovic et.al.|[2610.32608v1](http://arxiv.org/abs/2610.32608v1)|-|
+|**2026-10-23**|**Agentic Memory Management Is the Next Frontier of Information Retrieval**|Qingyao Ai et.al.|[2610.32464v1](http://arxiv.org/abs/2610.32464v1)|-|
+|**2026-10-23**|**Hierarchical GTV Estimation: Bridging the Gap between Container-Level Ranking and Item-Level Conversion**|Zerong Lan et.al.|[2610.32420v1](http://arxiv.org/abs/2610.32420v1)|-|
+|**2026-10-23**|**SkillRep: Characterizing and Understanding the Representation Design Space of Agent Skill Retrieval**|Tianyi Sun et.al.|[2610.32336v1](http://arxiv.org/abs/2610.32336v1)|[link](https://github.com/EverMind-AI/SkillCorpus)|
+|**2026-10-23**|**System One models Are Not Better Rerankers**|Michael Dinzinger et.al.|[2610.32318v1](http://arxiv.org/abs/2610.32318v1)|-|
+|**2026-10-23**|**Head Dimension Matters in Language Models for Long-Context Retrieval**|Seiya Tokui et.al.|[2610.32213v1](http://arxiv.org/abs/2610.32213v1)|-|
+|**2026-10-23**|**PersonalQuery-Benchmark:Evaluating Retrieval Robustness to Personalized User Expression Differences**|Wenyu Liang et.al.|[2610.32164v1](http://arxiv.org/abs/2610.32164v1)|[link](https://github.com/cpxjazz123/PersonalQuery-Benchmark)|
+|**2026-10-23**|**From Item Scores to Semantic Tokens: Test-Time Collaborative Adaptation for Generative Recommendation**|Xiongfeng Shan et.al.|[2610.32098v1](http://arxiv.org/abs/2610.32098v1)|-|
+|**2026-10-23**|**Scaling Graph Query Processing: Focused Exploration on Partitions Using Load Balancing**|Harshit Modi et.al.|[2610.32015v1](http://arxiv.org/abs/2610.32015v1)|-|
+|**2026-10-22**|**A Model-Agnostic Correction Framework for Short-Term Building Load Forecasting**|Shiqiao Zhou et.al.|[2610.31959v1](http://arxiv.org/abs/2610.31959v1)|-|
+|**2026-10-22**|**MICE to Meet You: From Re-ranking Only to End-to-End Retrieval**|Victor Morand et.al.|[2610.31932v1](http://arxiv.org/abs/2610.31932v1)|[link](https://github.com/xpmir/mice)|
+|**2026-10-22**|**Mining Frames: Association Rule Mining as an Unsupervised Framework for News Framing Detection**|Hager Hesham Mustafa et.al.|[2610.31874v1](http://arxiv.org/abs/2610.31874v1)|-|
+|**2026-10-22**|**Machine-Readable Operator Manuals over the ISO 11783 Network for Offline, Multilingual LLM Assistance**|Timo Oksanen et.al.|[2610.31863v1](http://arxiv.org/abs/2610.31863v1)|-|
+|**2026-10-22**|**What the Query Remembers: Query Abstraction Governs Lexical and Dense Retrieval of Classical Arabic Poetry**|Omar Farouk Zouak et.al.|[2610.31821v1](http://arxiv.org/abs/2610.31821v1)|[link](https://github.com/Ellzo/what-the-query-remembers)|
+|**2026-10-22**|**How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions**|Miguel Mochizuki Silva et.al.|[2610.31606v2](http://arxiv.org/abs/2610.31606v2)|-|
+|**2026-10-22**|**A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions**|Yufei Tong et.al.|[2610.31385v1](http://arxiv.org/abs/2610.31385v1)|-|
+|**2026-10-22**|**SurveyGraph: Generating Academic Surveys via Methods-Entity Knowledge Graphs**|Yifan Yuan et.al.|[2610.31317v1](http://arxiv.org/abs/2610.31317v1)|[link](https://github.com/xzzvsxd/SurveyGraph)|
+|**2026-10-22**|**The Delayed Countdown Method for Validating Review-Oriented AI Workflows in eDiscovery**|David D. Lewis et.al.|[2610.31311v1](http://arxiv.org/abs/2610.31311v1)|-|
+|**2026-10-22**|**Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking**|Yuning Bian et.al.|[2610.31019v1](http://arxiv.org/abs/2610.31019v1)|-|
+|**2026-10-22**|**Formal-Informal Mathematical Alignment through and beyond Human Annotations**|Noah Gießing et.al.|[2610.31011v1](http://arxiv.org/abs/2610.31011v1)|[link](https://github.com/AnkitSatpute/Formal-Informal-Mathematical-Alignment)|
+|**2026-10-22**|**PAIR: Preference-Aligned Intent Retrieval for Premium People Recommendation at LinkedIn**|Zhongkai Shangguan et.al.|[2610.30941v1](http://arxiv.org/abs/2610.30941v1)|-|
+|**2026-10-22**|**UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents**|Jujia Zhao et.al.|[2610.30932v1](http://arxiv.org/abs/2610.30932v1)|-|
+|**2026-10-22**|**Lean Finder V2: Semantic Search for Mathlib That Disambiguates User Queries**|Jialin Lu et.al.|[2610.30843v2](http://arxiv.org/abs/2610.30843v2)|-|
+|**2026-10-22**|**Bezier-Guided Adaptive Flow for Cross-domain Sequential Recommendation**|Ziang Lu et.al.|[2610.30825v1](http://arxiv.org/abs/2610.30825v1)|-|
+|**2026-10-22**|**Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation**|Guangcan Li et.al.|[2610.30710v1](http://arxiv.org/abs/2610.30710v1)|-|
+|**2026-10-22**|**Lychee: Certified Screening of Inverted Lists for High-Recall Vector Search**|Dongfang Zhao et.al.|[2610.30697v1](http://arxiv.org/abs/2610.30697v1)|-|
+|**2026-10-22**|**OneLatent: Latent Reasoning for Efficient Foundation Recommendation Models**|Hao Jiang et.al.|[2610.30675v1](http://arxiv.org/abs/2610.30675v1)|-|
+|**2026-10-22**|**Compiling Autoregressive LLM Control into Policy-Exact Parallel Inference for Hierarchical RAG**|Zehao Lin et.al.|[2610.30664v1](http://arxiv.org/abs/2610.30664v1)|-|
+|**2026-10-22**|**The Fusion Tax: A Diagnostic Analysis of When Hybrid Retrieval Hurts**|Aaditya Chauhan et.al.|[2610.30612v1](http://arxiv.org/abs/2610.30612v1)|-|
 

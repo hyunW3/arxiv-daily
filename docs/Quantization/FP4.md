@@ -1,6 +1,9 @@
 ### FP4
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-23**|**BiLoCo: Binary Low-Rank Corrections for Post-Training Quantization**|David Jin et.al.|[2610.32243v1](http://arxiv.org/abs/2610.32243v1)|-|
+|**2026-10-23**|**Training an MoE LLM in MXFP4: How We Closed the Gap to BF16**|Han Wang et.al.|[2610.32229v1](http://arxiv.org/abs/2610.32229v1)|-|
+|**2026-10-22**|**BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing**|Hayden Prairie et.al.|[2610.31633v1](http://arxiv.org/abs/2610.31633v1)|-|
 |**2026-10-20**|**Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference**|Xiuyi Qin et.al.|[2610.28947v1](http://arxiv.org/abs/2610.28947v1)|-|
 |**2026-10-19**|**MX-Like Tensor Core for LLM Inference with NPU Integration via Hardware-Software Co-Design Exploration**|Zijun Zhao et.al.|[2610.26083v1](http://arxiv.org/abs/2610.26083v1)|-|
 |**2026-10-18**|**PACT: NVFP4 Data-Flow LoRA Fine-Tuning on Consumer GPUs**|Lei Gao et.al.|[2610.25048v1](http://arxiv.org/abs/2610.25048v1)|-|
@@ -13,7 +16,7 @@
 |**2026-10-09**|**DualQuant: Dual-scale Calibration-free Weight-and-Activation Quantization for LLMs**|Mahsa Salmani et.al.|[2610.13767v1](http://arxiv.org/abs/2610.13767v1)|-|
 |**2026-10-09**|**DuoRate: Two-Rate Per-Expert Precision Allocation for Mixture-of-Experts Serving**|Mengqi Guo et.al.|[2610.13328v1](http://arxiv.org/abs/2610.13328v1)|-|
 |**2026-10-07**|**miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning**|Zhen Li et.al.|[2610.23928v1](http://arxiv.org/abs/2610.23928v1)|-|
-|**2026-10-06**|**OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization**|Neriah Ben David et.al.|[2610.08231v1](http://arxiv.org/abs/2610.08231v1)|[link](https://github.com/neriahbd/OSFP4)|
+|**2026-10-06**|<details><summary><b>OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization</b></summary>OSFP4 improves NVFP4 quantization for LLM inference by jointly optimizing smoothing and scaling to minimize error while preserving throughput.</details>|Neriah Ben David et.al.|[2610.08231v1](http://arxiv.org/abs/2610.08231v1)|[link](https://github.com/neriahbd/OSFP4)|
 |**2026-10-06**|<details><summary><b>TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models</b></summary>TRACE is an FP4 quantization framework for reinforcement learning training of Mixture-of-Experts language models that aligns training and rollout quantization to reduce discrepancy, enabling efficient low-precision rollout with comparable performance to higher-precision baselines.</details>|Xin Wang et.al.|[2610.07767v2](http://arxiv.org/abs/2610.07767v2)|-|
 |**2026-10-05**|<details><summary><b>SoloQ: Calibration-Free Quantization for Diffusion Language Models</b></summary>SoloQ enables calibration-free 4-bit quantization for diffusion language models by using normalized rotations and commit-time KV-cache compression, improving accuracy and inference speed.</details>|Donghyun Lee et.al.|[2610.07121v1](http://arxiv.org/abs/2610.07121v1)|-|
 |**2026-10-05**|<details><summary><b>TRIAGE: Direction-Aware Mismatch Stabilization of Native NVFP4 Reinforcement Learning</b></summary>TRIAGE stabilizes low-precision reinforcement learning by direction-aware rebalancing of policy-gradient updates, enabling native 4-bit execution with full-precision performance.</details>|Zhen Li et.al.|[2610.07043v2](http://arxiv.org/abs/2610.07043v2)|[link](https://github.com/InfiXAI/TRIAGE)|
@@ -28,6 +31,3 @@
 |**2026-09-22**|<details><summary><b>Disaggregated Quantization: Specializing LLM Prefill and Decode</b></summary>Disaggregated quantization uses separate formats and storage for prefill and decode phases to improve speed and accuracy at very low bit widths.</details>|Andrei Panferov et.al.|[2609.26333v1](http://arxiv.org/abs/2609.26333v1)|[link](https://github.com/IST-DASLab/disaggregated-quantization)|
 |**2026-09-21**|**AWE: Adaptive Weight Encoding for Exact Integer Matrix Products with Fewer GEMMs on FP4 Tensor Cores**|Shun-ichiro Hayashi et.al.|[2609.24519v1](http://arxiv.org/abs/2609.24519v1)|-|
 |**2026-09-17**|<details><summary><b>DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression</b></summary>DeepSeek-V4.1-Flash is a multimodal MoE model using a CED architecture and aggressive KV cache compression to lower compute, storage, and bandwidth costs for long-context agent workloads.</details>|DeepSeek-AI et.al.|[2609.19969v1](http://arxiv.org/abs/2609.19969v1)|-|
-|**2026-09-17**|**MiX: Micro-Inverted-Scaling for End-to-End Low-Bit Vision-Language Model Acceleration**|Yuan Liao et.al.|[2609.19683v2](http://arxiv.org/abs/2609.19683v2)|-|
-|**2026-09-14**|**DeepSeek-V4-Flash on AMD gfx90a: Correctness Recovery and Inference Performance Engineering**|Siming Huang et.al.|[2609.15627v2](http://arxiv.org/abs/2609.15627v2)|-|
-|**2026-09-14**|**Validating Hybrid-State Cache Recovery for GLM-5.3-Flash with vLLM and LMCache**|Frank Li et.al.|[2609.15030v1](http://arxiv.org/abs/2609.15030v1)|-|
