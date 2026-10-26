@@ -1,0 +1,1232 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../LLM/Information%20Retrieval/">
+      
+      
+        <link rel="next" href="../../Robotics/Obstacle-Conditioned%20Safe%20Motion/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>FP4 - arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","UA-145083103-1"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","UA-145083103-1",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=UA-145083103-1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#fp4" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              FP4
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/hyunW3/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/hyunW3/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    LLM
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    LLM
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LLM/Byte-Level%20Language%20Models/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Byte Level Language Models
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LLM/Information%20Retrieval/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Information Retrieval
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Quantization
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Quantization
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FP4
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FP4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#fp4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FP4
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robotics
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Robotics
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Robotics/Obstacle-Conditioned%20Safe%20Motion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Obstacle Conditioned Safe Motion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Robotics/Robot%20Safety%20Evaluation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robot Safety Evaluation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Robotics/Robot%20Safety/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robot Safety
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Archive
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Archive
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-15/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-16/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-19/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-21/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-22/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-26/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arxiv-daily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#fp4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FP4
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>FP4</h1>
+
+<h3 id="fp4">FP4</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Publish Date</th>
+<th style="text-align: center;">Title</th>
+<th style="text-align: center;">Authors</th>
+<th style="text-align: center;">PDF</th>
+<th style="text-align: center;">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>2026-10-23</strong></td>
+<td style="text-align: center;"><strong>BiLoCo: Binary Low-Rank Corrections for Post-Training Quantization</strong></td>
+<td style="text-align: center;">David Jin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.32243v1">2610.32243v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-23</strong></td>
+<td style="text-align: center;"><strong>Training an MoE LLM in MXFP4: How We Closed the Gap to BF16</strong></td>
+<td style="text-align: center;">Han Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.32229v1">2610.32229v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-22</strong></td>
+<td style="text-align: center;"><strong>BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing</strong></td>
+<td style="text-align: center;">Hayden Prairie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.31633v1">2610.31633v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-20</strong></td>
+<td style="text-align: center;"><strong>Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference</strong></td>
+<td style="text-align: center;">Xiuyi Qin et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.28947v1">2610.28947v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-19</strong></td>
+<td style="text-align: center;"><strong>MX-Like Tensor Core for LLM Inference with NPU Integration via Hardware-Software Co-Design Exploration</strong></td>
+<td style="text-align: center;">Zijun Zhao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.26083v1">2610.26083v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-18</strong></td>
+<td style="text-align: center;"><strong>PACT: NVFP4 Data-Flow LoRA Fine-Tuning on Consumer GPUs</strong></td>
+<td style="text-align: center;">Lei Gao et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.25048v1">2610.25048v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-17</strong></td>
+<td style="text-align: center;"><strong>What Matters for NVFP4 Training? A Comparative Study of Low-Precision Pretraining Recipes</strong></td>
+<td style="text-align: center;">Anjulie Agrusa et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.24343v1">2610.24343v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-14</strong></td>
+<td style="text-align: center;"><details><summary><b>On-Policy Residual Learning for Diffusion Language Models</b></summary>On-policy residual learning improves diffusion language model efficiency by carrying predictive distributions across steps, achieving substantial speed gains with minimal data.</details></td>
+<td style="text-align: center;">Yifan Yu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.20687v1">2610.20687v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-14</strong></td>
+<td style="text-align: center;"><strong>MFSA: A Multi-Format Systolic Array with Native Micro Scaling Support</strong></td>
+<td style="text-align: center;">Jiayi Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.19645v1">2610.19645v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-11</strong></td>
+<td style="text-align: center;"><strong>Error-Based Bidirectional Predictive Coding Enables Deep, 4-Bit Predictive Coding Networks</strong></td>
+<td style="text-align: center;">Garrett Kinman et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.15933v1">2610.15933v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-11</strong></td>
+<td style="text-align: center;"><strong>Recovering Low-Bit Failures in Vision-Language-Action Policies via Quantization-Conditioned Reinforcement Learning</strong></td>
+<td style="text-align: center;">Seongmin Park et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.15675v1">2610.15675v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-09</strong></td>
+<td style="text-align: center;"><strong>Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference</strong></td>
+<td style="text-align: center;">Xingyu Xie et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.14277v1">2610.14277v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-09</strong></td>
+<td style="text-align: center;"><strong>DualQuant: Dual-scale Calibration-free Weight-and-Activation Quantization for LLMs</strong></td>
+<td style="text-align: center;">Mahsa Salmani et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.13767v1">2610.13767v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-09</strong></td>
+<td style="text-align: center;"><strong>DuoRate: Two-Rate Per-Expert Precision Allocation for Mixture-of-Experts Serving</strong></td>
+<td style="text-align: center;">Mengqi Guo et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.13328v1">2610.13328v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-07</strong></td>
+<td style="text-align: center;"><strong>miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning</strong></td>
+<td style="text-align: center;">Zhen Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.23928v1">2610.23928v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-06</strong></td>
+<td style="text-align: center;"><details><summary><b>OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization</b></summary>OSFP4 improves NVFP4 quantization for LLM inference by jointly optimizing smoothing and scaling to minimize error while preserving throughput.</details></td>
+<td style="text-align: center;">Neriah Ben David et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.08231v1">2610.08231v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/neriahbd/OSFP4">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-06</strong></td>
+<td style="text-align: center;"><details><summary><b>TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models</b></summary>TRACE is an FP4 quantization framework for reinforcement learning training of Mixture-of-Experts language models that aligns training and rollout quantization to reduce discrepancy, enabling efficient low-precision rollout with comparable performance to higher-precision baselines.</details></td>
+<td style="text-align: center;">Xin Wang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.07767v2">2610.07767v2</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-05</strong></td>
+<td style="text-align: center;"><details><summary><b>SoloQ: Calibration-Free Quantization for Diffusion Language Models</b></summary>SoloQ enables calibration-free 4-bit quantization for diffusion language models by using normalized rotations and commit-time KV-cache compression, improving accuracy and inference speed.</details></td>
+<td style="text-align: center;">Donghyun Lee et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.07121v1">2610.07121v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-05</strong></td>
+<td style="text-align: center;"><details><summary><b>TRIAGE: Direction-Aware Mismatch Stabilization of Native NVFP4 Reinforcement Learning</b></summary>TRIAGE stabilizes low-precision reinforcement learning by direction-aware rebalancing of policy-gradient updates, enabling native 4-bit execution with full-precision performance.</details></td>
+<td style="text-align: center;">Zhen Li et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.07043v2">2610.07043v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/InfiXAI/TRIAGE">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-10-02</strong></td>
+<td style="text-align: center;"><strong>LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization</strong></td>
+<td style="text-align: center;">Ziye Deng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2610.03959v1">2610.03959v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-30</strong></td>
+<td style="text-align: center;"><strong>QATFactory: A Versatile, Deployment-Aligned Framework for Quantization-aware Training and Distillation of LLMs</strong></td>
+<td style="text-align: center;">Weili Xu et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.39223v2">2609.39223v2</a></td>
+<td style="text-align: center;"><a href="https://github.com/QATFactory/QATFactory">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-29</strong></td>
+<td style="text-align: center;"><strong>FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have</strong></td>
+<td style="text-align: center;">Pratyai Mazumder et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.37693v1">2609.37693v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-29</strong></td>
+<td style="text-align: center;"><strong>Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference</strong></td>
+<td style="text-align: center;">Ruiyi Ding et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.36654v1">2609.36654v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-27</strong></td>
+<td style="text-align: center;"><details><summary><b>JustQuant: You Don't Need Smoothing, SVD, or Rotation for 4-Bit Activation Quantization</b></summary>JustQuant enables low-bit activation quantization using only standard operators by integrating multi-level quantization-aware distillation into training, improving quality for diffusion and language models without complex deployment-time modifications.</details></td>
+<td style="text-align: center;">Kaicheng Yang et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.33601v1">2609.33601v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-27</strong></td>
+<td style="text-align: center;"><strong>Chameleon: Dynamic Format Adapter for Efficient Diffusion</strong></td>
+<td style="text-align: center;">Arnab Sanyal et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.33496v1">2609.33496v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-27</strong></td>
+<td style="text-align: center;"><strong>MpFA: Hardware-Efficient Train-Free QK4V8 FlashAttention Kernels on Blackwell GPUs</strong></td>
+<td style="text-align: center;">Chencheng Deng et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.33135v1">2609.33135v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-25</strong></td>
+<td style="text-align: center;"><strong>Floating-Point Microformat Quantization and Pruning for Efficient MU-MIMO Neural Receivers</strong></td>
+<td style="text-align: center;">SaiKrishna Saketh Yellapragada et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.31177v1">2609.31177v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-22</strong></td>
+<td style="text-align: center;"><details><summary><b>Disaggregated Quantization: Specializing LLM Prefill and Decode</b></summary>Disaggregated quantization uses separate formats and storage for prefill and decode phases to improve speed and accuracy at very low bit widths.</details></td>
+<td style="text-align: center;">Andrei Panferov et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.26333v1">2609.26333v1</a></td>
+<td style="text-align: center;"><a href="https://github.com/IST-DASLab/disaggregated-quantization">link</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-21</strong></td>
+<td style="text-align: center;"><strong>AWE: Adaptive Weight Encoding for Exact Integer Matrix Products with Fewer GEMMs on FP4 Tensor Cores</strong></td>
+<td style="text-align: center;">Shun-ichiro Hayashi et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.24519v1">2609.24519v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2026-09-17</strong></td>
+<td style="text-align: center;"><details><summary><b>DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression</b></summary>DeepSeek-V4.1-Flash is a multimodal MoE model using a CED architecture and aggressive KV cache compression to lower compute, storage, and bandwidth costs for long-context agent workloads.</details></td>
+<td style="text-align: center;">DeepSeek-AI et.al.</td>
+<td style="text-align: center;"><a href="http://arxiv.org/abs/2609.19969v1">2609.19969v1</a></td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.indexes"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
