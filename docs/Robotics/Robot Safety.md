@@ -1,6 +1,7 @@
 ### Robot Safety
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-26**|**Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena**|Prajol Shrestha et.al.|[2610.35582v1](http://arxiv.org/abs/2610.35582v1)|-|
 |**2026-10-02**|**Lightweight and Resource-Efficient Perception for Robotic Guide Dogs**|Jinse Kwon et.al.|[2610.03187v2](http://arxiv.org/abs/2610.03187v2)|-|
 |**2026-09-30**|**Neuro-Symbolic Predicate Learning for Semantic Safe Robot Control**|Zihan Ye et.al.|[2609.39594v1](http://arxiv.org/abs/2609.39594v1)|-|
 |**2026-09-06**|**Rethinking Safety for Generalist Robots**|Rohan Sinha et.al.|[2609.06326v1](http://arxiv.org/abs/2609.06326v1)|-|
@@ -11,7 +12,7 @@
 |**2026-06-22**|**Verifiable Foundation Models for Robot Safety**|Davide Corsi et.al.|[2606.23754v1](http://arxiv.org/abs/2606.23754v1)|-|
 |**2026-06-04**|**Learning of Robot Safety Policies via Adversarial Synthetic Scenarios**|Nikolai Dorofeev et.al.|[2606.05952v1](http://arxiv.org/abs/2606.05952v1)|-|
 |**2026-06-01**|**Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics**|Haimin Hu et.al.|[2606.02562v1](http://arxiv.org/abs/2606.02562v1)|-|
-|**2026-05-29**|**Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration**|Jun Wang et.al.|[2605.31196v2](http://arxiv.org/abs/2605.31196v2)|-|
+|**2026-05-29**|<details><summary><b>Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration</b></summary>TouchSafeBench evaluates vision-language models on collision grounding for safe human-robot collaboration, revealing that current models lack reliable physical accountability for robot safety monitoring.</details>|Jun Wang et.al.|[2605.31196v2](http://arxiv.org/abs/2605.31196v2)|-|
 |**2026-05-23**|<details><summary><b>Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems</b></summary>Physical AI systems face safety challenges where black-box models can execute harmful actions without detection, necessitating comprehensive runtime guardrail mechanisms for safe operation.</details>|Barak Or et.al.|[2606.00090v1](http://arxiv.org/abs/2606.00090v1)|-|
 |**2026-04-26**|<details><summary><b>Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms</b></summary>Vision-Language-Action models present unique safety challenges due to their embodied nature, requiring unified approaches across multiple domains to address threats from data poisoning to adversarial attacks and ensuring secure deployment across various applications.</details>|Qi Li et.al.|[2604.23775v2](http://arxiv.org/abs/2604.23775v2)|[link](https://github.com/LiQiiiii/Awesome-VLA-Safety)|
 |**2026-04-14**|<details><summary><b>HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models</b></summary>Vision-language-action models exhibit semantic safety vulnerabilities that can lead to unsafe outcomes despite successful action execution, necessitating new evaluation benchmarks and safety enforcement mechanisms.</details>|Zixing Chen et.al.|[2604.12447v3](http://arxiv.org/abs/2604.12447v3)|[link](https://github.com/HazardArena-Team/HazardArena)|
@@ -30,5 +31,4 @@
 |**2025-12-19**|**On Using Neural Networks to Learn Safety Speed Reduction in Human-Robot Collaboration: A Comparative Analysis**|Marco Faroni et.al.|[2512.17579v1](http://arxiv.org/abs/2512.17579v1)|-|
 |**2025-12-09**|**Semantic-Metric Bayesian Risk Fields: Learning Robot Safety from Human Videos with a VLM Prior**|Timothy Chen et.al.|[2512.08233v1](http://arxiv.org/abs/2512.08233v1)|-|
 |**2025-11-25**|<details><summary><b>ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation</b></summary>ACE-F is a foldable teleoperation system with integrated force feedback that enables intuitive control of diverse robotic embodiments through inverse kinematics and virtual force signal interpretation.</details>|Rui Yan et.al.|[2511.20887v1](http://arxiv.org/abs/2511.20887v1)|-|
-|**2025-11-25**|**Conformal Safety Monitoring for Flight Testing: A Case Study in Data-Driven Safety Learning**|Aaron O. Feldman et.al.|[2511.20811v1](http://arxiv.org/abs/2511.20811v1)|-|
 

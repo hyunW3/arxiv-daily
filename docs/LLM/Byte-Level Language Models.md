@@ -1,6 +1,8 @@
 ### Byte-Level Language Models
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-28**|**Semantic-Assisted Joint Channel Estimation and Symbol Detection for MU-MIMO Systems**|Hao Chang et.al.|[2610.38855v1](http://arxiv.org/abs/2610.38855v1)|-|
+|**2026-10-26**|**Semantic SCL Decoding for Polar Codes**|Andy Huang et.al.|[2610.34729v1](http://arxiv.org/abs/2610.34729v1)|-|
 |**2026-10-15**|**Patch where the text is new: a compression view of where byte-level models should spend compute**|Nicolás Vera Zúñiga et.al.|[2610.22100v1](http://arxiv.org/abs/2610.22100v1)|[link](https://github.com/nicoveraz/segresearch)|
 |**2026-10-15**|**The Right Byte First: How UTF-16 Helps Multilingual Boundary Prediction**|Hyunsik Kim et.al.|[2610.22071v1](http://arxiv.org/abs/2610.22071v1)|-|
 |**2026-10-08**|**Easy to anticipate, hard to compute: boundary dependence finds the computed outputs that entropy patching misses**|Nicolás Vera Zúñiga et.al.|[2610.11790v1](http://arxiv.org/abs/2610.11790v1)|[link](https://github.com/nicoveraz/segresearch)|
@@ -14,7 +16,7 @@
 |**2026-05-08**|<details><summary><b>Fast Byte Latent Transformer</b></summary>Byte-level language models overcome slow autoregressive generation through diffusion-based parallel processing and speculative decoding techniques that improve both speed and quality.</details>|Julie Kallini et.al.|[2605.08044v1](http://arxiv.org/abs/2605.08044v1)|-|
 |**2026-05-04**|<details><summary><b>Semantic Ordered Statistics Decoding</b></summary>Sem-OSD integrates a byte-level language model into ordered statistics decoding to improve error correction for byte-streamed sources across AWGN and burst-error channels.</details>|Chentao Yue et.al.|[2605.02296v1](http://arxiv.org/abs/2605.02296v1)|-|
 |**2026-02-20**|**Learning Long-Range Dependencies with Temporal Predictive Coding**|Tom Potter et.al.|[2602.18131v2](http://arxiv.org/abs/2602.18131v2)|-|
-|**2026-01-30**|**Elastic Spectral State Space Models for Train-Once Budgeted Inference**|Dachuan Song et.al.|[2601.22488v3](http://arxiv.org/abs/2601.22488v3)|-|
+|**2026-01-30**|<details><summary><b>Elastic Spectral State Space Models for Train-Once Budgeted Inference</b></summary>Elastic Spectral State Space Models enable a single trained sequence model to be truncated across varying computational budgets via spectral approximation, yielding stable quality-cost trade-offs.</details>|Dachuan Song et.al.|[2601.22488v3](http://arxiv.org/abs/2601.22488v3)|-|
 |**2025-12-17**|<details><summary><b>Bolmo: Byteifying the Next Generation of Language Models</b></summary>Bolmo, a family of competitive byte-level language models, is trained by converting existing subword-level models, overcoming character understanding and efficiency limitations while achieving performance comparable to subword models.</details>|Benjamin Minixhofer et.al.|[2512.15586v2](http://arxiv.org/abs/2512.15586v2)|[link](https://github.com/allenai/bolmo-core)|
 |**2025-08-07**|**H-Net++: Hierarchical Dynamic Chunking for Tokenizer-Free Language Modelling in Morphologically-Rich Languages**|Mehrdad Zakershahrak et.al.|[2508.05628v1](http://arxiv.org/abs/2508.05628v1)|-|
 |**2025-07-17**|**Synergy: End-to-end Concept Model**|Keli Zheng et.al.|[2507.12769v1](http://arxiv.org/abs/2507.12769v1)|-|

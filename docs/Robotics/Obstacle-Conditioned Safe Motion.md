@@ -1,10 +1,10 @@
 ### Obstacle-Conditioned Safe Motion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-26**|<details><summary><b>Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation</b></summary>The study introduces a benchmark and metric to evaluate whether robot navigation policies adapt continuous motion to obstacle safety semantics, revealing a gap in translating semantic caution into safe movement.</details>|Hyunwoong Bae et.al.|[2610.34674v1](http://arxiv.org/abs/2610.34674v1)|[link](https://github.com/OSMA-Bench/OSMA-Bench)|
 |**2026-10-15**|**Onboard Lightweight LLM Reasoning for Human-Aware Safe UAV Navigation**|Siwei Cai et.al.|[2610.22092v1](http://arxiv.org/abs/2610.22092v1)|-|
 |**2026-10-13**|**Which Trajectory Is Safer? Combining Rule and Learning for Safety Evaluation**|Xuewen Luo et.al.|[2610.17806v1](http://arxiv.org/abs/2610.17806v1)|[link](https://github.com/Xuewen2025/safety-evaluation)|
 |**2026-10-06**|**Context-Conditioned Hamilton-Jacobi Reachability for Adaptive Safety Filtering**|Ali Fuat Sahin et.al.|[2610.08115v1](http://arxiv.org/abs/2610.08115v1)|-|
-|**2026-08-25**|**RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards**|Houcheng Jiang et.al.|[2608.24275v2](http://arxiv.org/abs/2608.24275v2)|-|
 |**2026-04-30**|**Safe Bilevel Delegation (SBD): A Formal Framework for Runtime Delegation Safety in Multi-Agent Systems**|Yuan Sun et.al.|[2604.27358v1](http://arxiv.org/abs/2604.27358v1)|-|
 |**2026-03-17**|**MOSAIC: Composable Safety Alignment with Modular Control Tokens**|Jingyu Peng et.al.|[2603.16210v1](http://arxiv.org/abs/2603.16210v1)|-|
 |**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[2603.05497v3](http://arxiv.org/abs/2603.05497v3)|-|

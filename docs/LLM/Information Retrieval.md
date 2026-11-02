@@ -1,34 +1,34 @@
 ### Information Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-10-23**|**From archive to resource: bringing legacy data back to life at scale with large language models**|C. H. Vieira-Vieira et.al.|[2610.32616v1](http://arxiv.org/abs/2610.32616v1)|-|
-|**2026-10-23**|**UAE GovTrust Scope Filtering Gains and Routing Failures in Bilingual Public Service Retrieval**|Aleksandar Mihajlovic et.al.|[2610.32608v1](http://arxiv.org/abs/2610.32608v1)|-|
-|**2026-10-23**|**Agentic Memory Management Is the Next Frontier of Information Retrieval**|Qingyao Ai et.al.|[2610.32464v1](http://arxiv.org/abs/2610.32464v1)|-|
-|**2026-10-23**|**Hierarchical GTV Estimation: Bridging the Gap between Container-Level Ranking and Item-Level Conversion**|Zerong Lan et.al.|[2610.32420v1](http://arxiv.org/abs/2610.32420v1)|-|
-|**2026-10-23**|**SkillRep: Characterizing and Understanding the Representation Design Space of Agent Skill Retrieval**|Tianyi Sun et.al.|[2610.32336v1](http://arxiv.org/abs/2610.32336v1)|[link](https://github.com/EverMind-AI/SkillCorpus)|
-|**2026-10-23**|**System One models Are Not Better Rerankers**|Michael Dinzinger et.al.|[2610.32318v1](http://arxiv.org/abs/2610.32318v1)|-|
-|**2026-10-23**|**Head Dimension Matters in Language Models for Long-Context Retrieval**|Seiya Tokui et.al.|[2610.32213v1](http://arxiv.org/abs/2610.32213v1)|-|
-|**2026-10-23**|**PersonalQuery-Benchmark:Evaluating Retrieval Robustness to Personalized User Expression Differences**|Wenyu Liang et.al.|[2610.32164v1](http://arxiv.org/abs/2610.32164v1)|[link](https://github.com/cpxjazz123/PersonalQuery-Benchmark)|
-|**2026-10-23**|**From Item Scores to Semantic Tokens: Test-Time Collaborative Adaptation for Generative Recommendation**|Xiongfeng Shan et.al.|[2610.32098v1](http://arxiv.org/abs/2610.32098v1)|-|
-|**2026-10-23**|**Scaling Graph Query Processing: Focused Exploration on Partitions Using Load Balancing**|Harshit Modi et.al.|[2610.32015v1](http://arxiv.org/abs/2610.32015v1)|-|
-|**2026-10-22**|**A Model-Agnostic Correction Framework for Short-Term Building Load Forecasting**|Shiqiao Zhou et.al.|[2610.31959v1](http://arxiv.org/abs/2610.31959v1)|-|
-|**2026-10-22**|**MICE to Meet You: From Re-ranking Only to End-to-End Retrieval**|Victor Morand et.al.|[2610.31932v1](http://arxiv.org/abs/2610.31932v1)|[link](https://github.com/xpmir/mice)|
-|**2026-10-22**|**Mining Frames: Association Rule Mining as an Unsupervised Framework for News Framing Detection**|Hager Hesham Mustafa et.al.|[2610.31874v1](http://arxiv.org/abs/2610.31874v1)|-|
-|**2026-10-22**|**Machine-Readable Operator Manuals over the ISO 11783 Network for Offline, Multilingual LLM Assistance**|Timo Oksanen et.al.|[2610.31863v1](http://arxiv.org/abs/2610.31863v1)|-|
-|**2026-10-22**|**What the Query Remembers: Query Abstraction Governs Lexical and Dense Retrieval of Classical Arabic Poetry**|Omar Farouk Zouak et.al.|[2610.31821v1](http://arxiv.org/abs/2610.31821v1)|[link](https://github.com/Ellzo/what-the-query-remembers)|
-|**2026-10-22**|**How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions**|Miguel Mochizuki Silva et.al.|[2610.31606v2](http://arxiv.org/abs/2610.31606v2)|-|
-|**2026-10-22**|**A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions**|Yufei Tong et.al.|[2610.31385v1](http://arxiv.org/abs/2610.31385v1)|-|
-|**2026-10-22**|**SurveyGraph: Generating Academic Surveys via Methods-Entity Knowledge Graphs**|Yifan Yuan et.al.|[2610.31317v1](http://arxiv.org/abs/2610.31317v1)|[link](https://github.com/xzzvsxd/SurveyGraph)|
-|**2026-10-22**|**The Delayed Countdown Method for Validating Review-Oriented AI Workflows in eDiscovery**|David D. Lewis et.al.|[2610.31311v1](http://arxiv.org/abs/2610.31311v1)|-|
-|**2026-10-22**|**Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking**|Yuning Bian et.al.|[2610.31019v1](http://arxiv.org/abs/2610.31019v1)|-|
-|**2026-10-22**|**Formal-Informal Mathematical Alignment through and beyond Human Annotations**|Noah Gießing et.al.|[2610.31011v1](http://arxiv.org/abs/2610.31011v1)|[link](https://github.com/AnkitSatpute/Formal-Informal-Mathematical-Alignment)|
-|**2026-10-22**|**PAIR: Preference-Aligned Intent Retrieval for Premium People Recommendation at LinkedIn**|Zhongkai Shangguan et.al.|[2610.30941v1](http://arxiv.org/abs/2610.30941v1)|-|
-|**2026-10-22**|**UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents**|Jujia Zhao et.al.|[2610.30932v1](http://arxiv.org/abs/2610.30932v1)|-|
-|**2026-10-22**|**Lean Finder V2: Semantic Search for Mathlib That Disambiguates User Queries**|Jialin Lu et.al.|[2610.30843v2](http://arxiv.org/abs/2610.30843v2)|-|
-|**2026-10-22**|**Bezier-Guided Adaptive Flow for Cross-domain Sequential Recommendation**|Ziang Lu et.al.|[2610.30825v1](http://arxiv.org/abs/2610.30825v1)|-|
-|**2026-10-22**|**Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation**|Guangcan Li et.al.|[2610.30710v1](http://arxiv.org/abs/2610.30710v1)|-|
-|**2026-10-22**|**Lychee: Certified Screening of Inverted Lists for High-Recall Vector Search**|Dongfang Zhao et.al.|[2610.30697v1](http://arxiv.org/abs/2610.30697v1)|-|
-|**2026-10-22**|**OneLatent: Latent Reasoning for Efficient Foundation Recommendation Models**|Hao Jiang et.al.|[2610.30675v1](http://arxiv.org/abs/2610.30675v1)|-|
-|**2026-10-22**|**Compiling Autoregressive LLM Control into Policy-Exact Parallel Inference for Hierarchical RAG**|Zehao Lin et.al.|[2610.30664v1](http://arxiv.org/abs/2610.30664v1)|-|
-|**2026-10-22**|**The Fusion Tax: A Diagnostic Analysis of When Hybrid Retrieval Hurts**|Aaditya Chauhan et.al.|[2610.30612v1](http://arxiv.org/abs/2610.30612v1)|-|
+|**2026-10-30**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu et.al.|[2610.41172v1](http://arxiv.org/abs/2610.41172v1)|[link](https://github.com/infiniflow/ragflow)|
+|**2026-10-29**|**WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection**|Jiannan Huang et.al.|[2610.41037v1](http://arxiv.org/abs/2610.41037v1)|-|
+|**2026-10-29**|**FieldGuideRAG: Image-Grounded GraphRAG for Fine-Grained Recognition with Vision-Language Models**|Jiacheng Ding et.al.|[2610.40971v1](http://arxiv.org/abs/2610.40971v1)|-|
+|**2026-10-29**|**ProdCrawl: A Replayable Test Collection for Focused Crawling**|Manuel Rey-Escobar et.al.|[2610.40855v1](http://arxiv.org/abs/2610.40855v1)|-|
+|**2026-10-29**|**Retrieve-then-Disambiguate: Scalable Reviewer Discovery**|Vicente Amado Olivo et.al.|[2610.40768v1](http://arxiv.org/abs/2610.40768v1)|[link](https://github.com/deepthought-initiative/Retrieve-then-Disambiguate)|
+|**2026-10-29**|**Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses**|Chengyang He et.al.|[2610.40619v1](http://arxiv.org/abs/2610.40619v1)|-|
+|**2026-10-29**|<details><summary><b>Glance: The Generator Is Its Own Reranker</b></summary>Glance integrates reranking and generation into a single backbone using lightweight adapters and pointer heads to score passages from shared context, reducing memory overhead while improving retrieval and answer quality.</details>|Adilet Metinov et.al.|[2610.40454v1](http://arxiv.org/abs/2610.40454v1)|-|
+|**2026-10-29**|**Decompose, Estimate, Select: Coverage-Aware Context Construction for Long-Form RAG**|He Tu et.al.|[2610.40314v1](http://arxiv.org/abs/2610.40314v1)|-|
+|**2026-10-29**|**Prevented is Not Protected: What Attack Success Rate Hides about RAG**|Chahana Dahal et.al.|[2610.40742v1](http://arxiv.org/abs/2610.40742v1)|[link](https://github.com/chxhana/aligned-rag-eval)|
+|**2026-10-29**|**Towards Full-Text Scholarly Argument Mining using Entity-Anchored Claim Extraction**|Bhuvanesh Verma et.al.|[2610.40196v1](http://arxiv.org/abs/2610.40196v1)|-|
+|**2026-10-29**|**xPRT: Cross-Passage Retrieval Pretraining**|Danush Khanna et.al.|[2610.40122v1](http://arxiv.org/abs/2610.40122v1)|-|
+|**2026-10-29**|**Beyond IPS: Reliable Counterfactual Evaluation in Multi-Stage Ad Systems without Logged Propensities**|Mohsen Malmir et.al.|[2610.40112v1](http://arxiv.org/abs/2610.40112v1)|-|
+|**2026-10-29**|**R2QRec: Learning Recommendation Queries from Retrieval Feedback**|Weixin Chen et.al.|[2610.39984v1](http://arxiv.org/abs/2610.39984v1)|-|
+|**2026-10-29**|**Heterogeneous Co-Evolution Learning for Tool-Efficient Search Agents with Zero Labels**|Qin-Wen Luo et.al.|[2610.39682v1](http://arxiv.org/abs/2610.39682v1)|-|
+|**2026-10-29**|**Efficient LLM-based Subgraph Retrieval for Multi-Hop Knowledge Base Question Answering**|Duanyang Yuan et.al.|[2610.39667v1](http://arxiv.org/abs/2610.39667v1)|-|
+|**2026-10-29**|**GistRank: Gist-Compressed Listwise Ranking with Large Language Models**|Guo Chen et.al.|[2610.39610v1](http://arxiv.org/abs/2610.39610v1)|-|
+|**2026-10-29**|**From Intent to Improvement: Agentic Dataset Search for Better Model Training**|Qiaosheng Chen et.al.|[2610.39608v1](http://arxiv.org/abs/2610.39608v1)|[link](https://github.com/nju-websoft/AgenticDS)|
+|**2026-10-29**|**Lost in the Latent Space: How Code Embeddings Represent Functional Intent and Implementation Fidelity**|Lu Sun et.al.|[2610.39519v1](http://arxiv.org/abs/2610.39519v1)|-|
+|**2026-10-29**|**RoFiGR: Coarse Routing, Fine Refinement via Level-Adaptive Distillation in Multimodal Generative Recommendation**|Ji Dai et.al.|[2610.39470v1](http://arxiv.org/abs/2610.39470v1)|-|
+|**2026-10-29**|**UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation**|Zonghe Shao et.al.|[2610.39426v1](http://arxiv.org/abs/2610.39426v1)|-|
+|**2026-10-29**|**Try Before You Evolve: Ranking-Scored Trials for Recursive Self-Improvement of Recommender Systems**|Xu Huang et.al.|[2610.39352v1](http://arxiv.org/abs/2610.39352v1)|-|
+|**2026-10-29**|**Does the Citation Matter? Quality, Grounding, and Physician-Rubric Accuracy of Google's AI Overviews for Medical Information**|Sam Agnoli et.al.|[2610.39339v1](http://arxiv.org/abs/2610.39339v1)|[link](https://github.com/SamAgnoli/AIOverviews)|
+|**2026-10-29**|**Federated Recommender Agents**|Jaehyung Lim et.al.|[2610.39289v1](http://arxiv.org/abs/2610.39289v1)|-|
+|**2026-10-29**|**PFA: Attention Can Be Progressively Focused in Long-Sequence Generative Recommendation**|Pengjie Zhou et.al.|[2610.39273v1](http://arxiv.org/abs/2610.39273v1)|-|
+|**2026-10-29**|**CASH: A Capability-Aware Subsidy Harness for Advertiser Subsidy Allocation**|Minmao Wang et.al.|[2610.39244v1](http://arxiv.org/abs/2610.39244v1)|-|
+|**2026-10-29**|**A Sequential Decision Framework for Evaluating LLM-Guided Search**|Siqing Huo et.al.|[2610.39231v1](http://arxiv.org/abs/2610.39231v1)|-|
+|**2026-10-29**|**Read More, Reason Deeper: Latent Workspaces for Long-Sequence Recommendation**|Renzhi Wu et.al.|[2610.39188v1](http://arxiv.org/abs/2610.39188v1)|-|
+|**2026-10-29**|**PRISM: Personalized Item Representations in User History**|Renzhi Wu et.al.|[2610.39175v1](http://arxiv.org/abs/2610.39175v1)|-|
+|**2026-10-29**|**PALATE: Pretrained Autoregressive LATent Embeddings**|Sizhang Zhao et.al.|[2610.39090v1](http://arxiv.org/abs/2610.39090v1)|-|
+|**2026-10-28**|<details><summary><b>Contextual Embeddings Beyond the Gold Chunk</b></summary>A family of contextual embedding models trained via distillation from query-aware compression achieves state-of-the-art retrieval across text and image chunk benchmarks by surfacing both answers and verification evidence.</details>|Sedigheh Eslami et.al.|[2610.38854v1](http://arxiv.org/abs/2610.38854v1)|-|
 

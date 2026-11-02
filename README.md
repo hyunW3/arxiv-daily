@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2026-10-26 10:52:16 Asia/Seoul
+ Automated deployment @ 2026-11-02 11:50:54 Asia/Seoul
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/hyunW3/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/hyunW3/arxiv-daily/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### Robot Safety
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-26**|**Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena**|Prajol Shrestha et.al.|[2610.35582v1](http://arxiv.org/abs/2610.35582v1)|-|
 |**2026-10-02**|**Lightweight and Resource-Efficient Perception for Robotic Guide Dogs**|Jinse Kwon et.al.|[2610.03187v2](http://arxiv.org/abs/2610.03187v2)|-|
 |**2026-09-30**|**Neuro-Symbolic Predicate Learning for Semantic Safe Robot Control**|Zihan Ye et.al.|[2609.39594v1](http://arxiv.org/abs/2609.39594v1)|-|
 |**2026-09-06**|**Rethinking Safety for Generalist Robots**|Rohan Sinha et.al.|[2609.06326v1](http://arxiv.org/abs/2609.06326v1)|-|
@@ -18,7 +19,7 @@
 |**2026-06-22**|**Verifiable Foundation Models for Robot Safety**|Davide Corsi et.al.|[2606.23754v1](http://arxiv.org/abs/2606.23754v1)|-|
 |**2026-06-04**|**Learning of Robot Safety Policies via Adversarial Synthetic Scenarios**|Nikolai Dorofeev et.al.|[2606.05952v1](http://arxiv.org/abs/2606.05952v1)|-|
 |**2026-06-01**|**Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics**|Haimin Hu et.al.|[2606.02562v1](http://arxiv.org/abs/2606.02562v1)|-|
-|**2026-05-29**|**Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration**|Jun Wang et.al.|[2605.31196v2](http://arxiv.org/abs/2605.31196v2)|-|
+|**2026-05-29**|<details><summary><b>Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration</b></summary>TouchSafeBench evaluates vision-language models on collision grounding for safe human-robot collaboration, revealing that current models lack reliable physical accountability for robot safety monitoring.</details>|Jun Wang et.al.|[2605.31196v2](http://arxiv.org/abs/2605.31196v2)|-|
 |**2026-05-23**|<details><summary><b>Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems</b></summary>Physical AI systems face safety challenges where black-box models can execute harmful actions without detection, necessitating comprehensive runtime guardrail mechanisms for safe operation.</details>|Barak Or et.al.|[2606.00090v1](http://arxiv.org/abs/2606.00090v1)|-|
 |**2026-04-26**|<details><summary><b>Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms</b></summary>Vision-Language-Action models present unique safety challenges due to their embodied nature, requiring unified approaches across multiple domains to address threats from data poisoning to adversarial attacks and ensuring secure deployment across various applications.</details>|Qi Li et.al.|[2604.23775v2](http://arxiv.org/abs/2604.23775v2)|[link](https://github.com/LiQiiiii/Awesome-VLA-Safety)|
 |**2026-04-14**|<details><summary><b>HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models</b></summary>Vision-language-action models exhibit semantic safety vulnerabilities that can lead to unsafe outcomes despite successful action execution, necessitating new evaluation benchmarks and safety enforcement mechanisms.</details>|Zixing Chen et.al.|[2604.12447v3](http://arxiv.org/abs/2604.12447v3)|[link](https://github.com/HazardArena-Team/HazardArena)|
@@ -37,15 +38,14 @@
 |**2025-12-19**|**On Using Neural Networks to Learn Safety Speed Reduction in Human-Robot Collaboration: A Comparative Analysis**|Marco Faroni et.al.|[2512.17579v1](http://arxiv.org/abs/2512.17579v1)|-|
 |**2025-12-09**|**Semantic-Metric Bayesian Risk Fields: Learning Robot Safety from Human Videos with a VLM Prior**|Timothy Chen et.al.|[2512.08233v1](http://arxiv.org/abs/2512.08233v1)|-|
 |**2025-11-25**|<details><summary><b>ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation</b></summary>ACE-F is a foldable teleoperation system with integrated force feedback that enables intuitive control of diverse robotic embodiments through inverse kinematics and virtual force signal interpretation.</details>|Rui Yan et.al.|[2511.20887v1](http://arxiv.org/abs/2511.20887v1)|-|
-|**2025-11-25**|**Conformal Safety Monitoring for Flight Testing: A Case Study in Data-Driven Safety Learning**|Aaron O. Feldman et.al.|[2511.20811v1](http://arxiv.org/abs/2511.20811v1)|-|
 
 ### Obstacle-Conditioned Safe Motion
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-26**|<details><summary><b>Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation</b></summary>The study introduces a benchmark and metric to evaluate whether robot navigation policies adapt continuous motion to obstacle safety semantics, revealing a gap in translating semantic caution into safe movement.</details>|Hyunwoong Bae et.al.|[2610.34674v1](http://arxiv.org/abs/2610.34674v1)|[link](https://github.com/OSMA-Bench/OSMA-Bench)|
 |**2026-10-15**|**Onboard Lightweight LLM Reasoning for Human-Aware Safe UAV Navigation**|Siwei Cai et.al.|[2610.22092v1](http://arxiv.org/abs/2610.22092v1)|-|
 |**2026-10-13**|**Which Trajectory Is Safer? Combining Rule and Learning for Safety Evaluation**|Xuewen Luo et.al.|[2610.17806v1](http://arxiv.org/abs/2610.17806v1)|[link](https://github.com/Xuewen2025/safety-evaluation)|
 |**2026-10-06**|**Context-Conditioned Hamilton-Jacobi Reachability for Adaptive Safety Filtering**|Ali Fuat Sahin et.al.|[2610.08115v1](http://arxiv.org/abs/2610.08115v1)|-|
-|**2026-08-25**|**RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards**|Houcheng Jiang et.al.|[2608.24275v2](http://arxiv.org/abs/2608.24275v2)|-|
 |**2026-04-30**|**Safe Bilevel Delegation (SBD): A Formal Framework for Runtime Delegation Safety in Multi-Agent Systems**|Yuan Sun et.al.|[2604.27358v1](http://arxiv.org/abs/2604.27358v1)|-|
 |**2026-03-17**|**MOSAIC: Composable Safety Alignment with Modular Control Tokens**|Jingyu Peng et.al.|[2603.16210v1](http://arxiv.org/abs/2603.16210v1)|-|
 |**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[2603.05497v3](http://arxiv.org/abs/2603.05497v3)|-|
@@ -61,7 +61,7 @@
 |**2026-10-13**|<details><summary><b>LatentRiskBench: Measuring State-Dependent Risks in Enterprise Agents</b></summary>LatentRiskBench evaluates state-dependent safety risks in enterprise agents by comparing risky and benign workflows with identical terminal actions, revealing that state-level assessment detects far more violations than action-level checks.</details>|Jingyue Cong et.al.|[2610.17685v1](http://arxiv.org/abs/2610.17685v1)|[link](https://github.com/JingyueCong/LatentRiskBench)|
 |**2026-10-07**|**A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration**|Alexandra Coroiu et.al.|[2610.09891v1](http://arxiv.org/abs/2610.09891v1)|-|
 |**2026-10-06**|**Behavioral Safety Assessment towards Large-scale Deployment of Autonomous Vehicles, Part I: Methodology**|Henry X. Liu et.al.|[2610.08450v2](http://arxiv.org/abs/2610.08450v2)|-|
-|**2026-10-05**|**Multimodal Safety Evaluation Should Measure Controllability Beyond Classification**|Junhyeong Park et.al.|[2610.06452v1](http://arxiv.org/abs/2610.06452v1)|-|
+|**2026-10-05**|<details><summary><b>Multimodal Safety Evaluation Should Measure Controllability Beyond Classification</b></summary>Multimodal safety evaluation should include controllability profiles measuring internal detectability and selective intervention, as shown by divergent readout and control capabilities in vision-language models.</details>|Junhyeong Park et.al.|[2610.06452v1](http://arxiv.org/abs/2610.06452v1)|-|
 |**2026-09-28**|<details><summary><b>AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving</b></summary>AD-E2E-JEPA improves joint-embedding predictive world models for autonomous driving by using a regularized learnable projector to accelerate planning while maintaining accuracy in zero-shot goal-conditioned settings.</details>|Haoran Zhu et.al.|[2609.34085v1](http://arxiv.org/abs/2609.34085v1)|[link](https://github.com/HaoranZhuExplorer/AD-E2E-JEPA)|
 |**2026-09-18**|**DPed-VLN: A Benchmark for Socially Compliant Vision-and-Language Navigation in Dynamic Pedestrian Environments**|Haojie Dai et.al.|[2609.21504v1](http://arxiv.org/abs/2609.21504v1)|-|
 |**2026-09-11**|**Comfort by Construction: Adaptive, Comfort-Bounded Action Spaces for Learned Driving Policies**|Anna Rothenhäusler et.al.|[2609.13011v1](http://arxiv.org/abs/2609.13011v1)|-|
@@ -93,6 +93,8 @@
 ### Byte-Level Language Models
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-28**|**Semantic-Assisted Joint Channel Estimation and Symbol Detection for MU-MIMO Systems**|Hao Chang et.al.|[2610.38855v1](http://arxiv.org/abs/2610.38855v1)|-|
+|**2026-10-26**|**Semantic SCL Decoding for Polar Codes**|Andy Huang et.al.|[2610.34729v1](http://arxiv.org/abs/2610.34729v1)|-|
 |**2026-10-15**|**Patch where the text is new: a compression view of where byte-level models should spend compute**|Nicolás Vera Zúñiga et.al.|[2610.22100v1](http://arxiv.org/abs/2610.22100v1)|[link](https://github.com/nicoveraz/segresearch)|
 |**2026-10-15**|**The Right Byte First: How UTF-16 Helps Multilingual Boundary Prediction**|Hyunsik Kim et.al.|[2610.22071v1](http://arxiv.org/abs/2610.22071v1)|-|
 |**2026-10-08**|**Easy to anticipate, hard to compute: boundary dependence finds the computed outputs that entropy patching misses**|Nicolás Vera Zúñiga et.al.|[2610.11790v1](http://arxiv.org/abs/2610.11790v1)|[link](https://github.com/nicoveraz/segresearch)|
@@ -106,7 +108,7 @@
 |**2026-05-08**|<details><summary><b>Fast Byte Latent Transformer</b></summary>Byte-level language models overcome slow autoregressive generation through diffusion-based parallel processing and speculative decoding techniques that improve both speed and quality.</details>|Julie Kallini et.al.|[2605.08044v1](http://arxiv.org/abs/2605.08044v1)|-|
 |**2026-05-04**|<details><summary><b>Semantic Ordered Statistics Decoding</b></summary>Sem-OSD integrates a byte-level language model into ordered statistics decoding to improve error correction for byte-streamed sources across AWGN and burst-error channels.</details>|Chentao Yue et.al.|[2605.02296v1](http://arxiv.org/abs/2605.02296v1)|-|
 |**2026-02-20**|**Learning Long-Range Dependencies with Temporal Predictive Coding**|Tom Potter et.al.|[2602.18131v2](http://arxiv.org/abs/2602.18131v2)|-|
-|**2026-01-30**|**Elastic Spectral State Space Models for Train-Once Budgeted Inference**|Dachuan Song et.al.|[2601.22488v3](http://arxiv.org/abs/2601.22488v3)|-|
+|**2026-01-30**|<details><summary><b>Elastic Spectral State Space Models for Train-Once Budgeted Inference</b></summary>Elastic Spectral State Space Models enable a single trained sequence model to be truncated across varying computational budgets via spectral approximation, yielding stable quality-cost trade-offs.</details>|Dachuan Song et.al.|[2601.22488v3](http://arxiv.org/abs/2601.22488v3)|-|
 |**2025-12-17**|<details><summary><b>Bolmo: Byteifying the Next Generation of Language Models</b></summary>Bolmo, a family of competitive byte-level language models, is trained by converting existing subword-level models, overcoming character understanding and efficiency limitations while achieving performance comparable to subword models.</details>|Benjamin Minixhofer et.al.|[2512.15586v2](http://arxiv.org/abs/2512.15586v2)|[link](https://github.com/allenai/bolmo-core)|
 |**2025-08-07**|**H-Net++: Hierarchical Dynamic Chunking for Tokenizer-Free Language Modelling in Morphologically-Rich Languages**|Mehrdad Zakershahrak et.al.|[2508.05628v1](http://arxiv.org/abs/2508.05628v1)|-|
 |**2025-07-17**|**Synergy: End-to-end Concept Model**|Keli Zheng et.al.|[2507.12769v1](http://arxiv.org/abs/2507.12769v1)|-|
@@ -121,45 +123,49 @@
 ### Information Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-10-23**|**From archive to resource: bringing legacy data back to life at scale with large language models**|C. H. Vieira-Vieira et.al.|[2610.32616v1](http://arxiv.org/abs/2610.32616v1)|-|
-|**2026-10-23**|**UAE GovTrust Scope Filtering Gains and Routing Failures in Bilingual Public Service Retrieval**|Aleksandar Mihajlovic et.al.|[2610.32608v1](http://arxiv.org/abs/2610.32608v1)|-|
-|**2026-10-23**|**Agentic Memory Management Is the Next Frontier of Information Retrieval**|Qingyao Ai et.al.|[2610.32464v1](http://arxiv.org/abs/2610.32464v1)|-|
-|**2026-10-23**|**Hierarchical GTV Estimation: Bridging the Gap between Container-Level Ranking and Item-Level Conversion**|Zerong Lan et.al.|[2610.32420v1](http://arxiv.org/abs/2610.32420v1)|-|
-|**2026-10-23**|**SkillRep: Characterizing and Understanding the Representation Design Space of Agent Skill Retrieval**|Tianyi Sun et.al.|[2610.32336v1](http://arxiv.org/abs/2610.32336v1)|[link](https://github.com/EverMind-AI/SkillCorpus)|
-|**2026-10-23**|**System One models Are Not Better Rerankers**|Michael Dinzinger et.al.|[2610.32318v1](http://arxiv.org/abs/2610.32318v1)|-|
-|**2026-10-23**|**Head Dimension Matters in Language Models for Long-Context Retrieval**|Seiya Tokui et.al.|[2610.32213v1](http://arxiv.org/abs/2610.32213v1)|-|
-|**2026-10-23**|**PersonalQuery-Benchmark:Evaluating Retrieval Robustness to Personalized User Expression Differences**|Wenyu Liang et.al.|[2610.32164v1](http://arxiv.org/abs/2610.32164v1)|[link](https://github.com/cpxjazz123/PersonalQuery-Benchmark)|
-|**2026-10-23**|**From Item Scores to Semantic Tokens: Test-Time Collaborative Adaptation for Generative Recommendation**|Xiongfeng Shan et.al.|[2610.32098v1](http://arxiv.org/abs/2610.32098v1)|-|
-|**2026-10-23**|**Scaling Graph Query Processing: Focused Exploration on Partitions Using Load Balancing**|Harshit Modi et.al.|[2610.32015v1](http://arxiv.org/abs/2610.32015v1)|-|
-|**2026-10-22**|**A Model-Agnostic Correction Framework for Short-Term Building Load Forecasting**|Shiqiao Zhou et.al.|[2610.31959v1](http://arxiv.org/abs/2610.31959v1)|-|
-|**2026-10-22**|**MICE to Meet You: From Re-ranking Only to End-to-End Retrieval**|Victor Morand et.al.|[2610.31932v1](http://arxiv.org/abs/2610.31932v1)|[link](https://github.com/xpmir/mice)|
-|**2026-10-22**|**Mining Frames: Association Rule Mining as an Unsupervised Framework for News Framing Detection**|Hager Hesham Mustafa et.al.|[2610.31874v1](http://arxiv.org/abs/2610.31874v1)|-|
-|**2026-10-22**|**Machine-Readable Operator Manuals over the ISO 11783 Network for Offline, Multilingual LLM Assistance**|Timo Oksanen et.al.|[2610.31863v1](http://arxiv.org/abs/2610.31863v1)|-|
-|**2026-10-22**|**What the Query Remembers: Query Abstraction Governs Lexical and Dense Retrieval of Classical Arabic Poetry**|Omar Farouk Zouak et.al.|[2610.31821v1](http://arxiv.org/abs/2610.31821v1)|[link](https://github.com/Ellzo/what-the-query-remembers)|
-|**2026-10-22**|**How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions**|Miguel Mochizuki Silva et.al.|[2610.31606v2](http://arxiv.org/abs/2610.31606v2)|-|
-|**2026-10-22**|**A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions**|Yufei Tong et.al.|[2610.31385v1](http://arxiv.org/abs/2610.31385v1)|-|
-|**2026-10-22**|**SurveyGraph: Generating Academic Surveys via Methods-Entity Knowledge Graphs**|Yifan Yuan et.al.|[2610.31317v1](http://arxiv.org/abs/2610.31317v1)|[link](https://github.com/xzzvsxd/SurveyGraph)|
-|**2026-10-22**|**The Delayed Countdown Method for Validating Review-Oriented AI Workflows in eDiscovery**|David D. Lewis et.al.|[2610.31311v1](http://arxiv.org/abs/2610.31311v1)|-|
-|**2026-10-22**|**Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking**|Yuning Bian et.al.|[2610.31019v1](http://arxiv.org/abs/2610.31019v1)|-|
-|**2026-10-22**|**Formal-Informal Mathematical Alignment through and beyond Human Annotations**|Noah Gießing et.al.|[2610.31011v1](http://arxiv.org/abs/2610.31011v1)|[link](https://github.com/AnkitSatpute/Formal-Informal-Mathematical-Alignment)|
-|**2026-10-22**|**PAIR: Preference-Aligned Intent Retrieval for Premium People Recommendation at LinkedIn**|Zhongkai Shangguan et.al.|[2610.30941v1](http://arxiv.org/abs/2610.30941v1)|-|
-|**2026-10-22**|**UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents**|Jujia Zhao et.al.|[2610.30932v1](http://arxiv.org/abs/2610.30932v1)|-|
-|**2026-10-22**|**Lean Finder V2: Semantic Search for Mathlib That Disambiguates User Queries**|Jialin Lu et.al.|[2610.30843v2](http://arxiv.org/abs/2610.30843v2)|-|
-|**2026-10-22**|**Bezier-Guided Adaptive Flow for Cross-domain Sequential Recommendation**|Ziang Lu et.al.|[2610.30825v1](http://arxiv.org/abs/2610.30825v1)|-|
-|**2026-10-22**|**Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation**|Guangcan Li et.al.|[2610.30710v1](http://arxiv.org/abs/2610.30710v1)|-|
-|**2026-10-22**|**Lychee: Certified Screening of Inverted Lists for High-Recall Vector Search**|Dongfang Zhao et.al.|[2610.30697v1](http://arxiv.org/abs/2610.30697v1)|-|
-|**2026-10-22**|**OneLatent: Latent Reasoning for Efficient Foundation Recommendation Models**|Hao Jiang et.al.|[2610.30675v1](http://arxiv.org/abs/2610.30675v1)|-|
-|**2026-10-22**|**Compiling Autoregressive LLM Control into Policy-Exact Parallel Inference for Hierarchical RAG**|Zehao Lin et.al.|[2610.30664v1](http://arxiv.org/abs/2610.30664v1)|-|
-|**2026-10-22**|**The Fusion Tax: A Diagnostic Analysis of When Hybrid Retrieval Hurts**|Aaditya Chauhan et.al.|[2610.30612v1](http://arxiv.org/abs/2610.30612v1)|-|
+|**2026-10-30**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu et.al.|[2610.41172v1](http://arxiv.org/abs/2610.41172v1)|[link](https://github.com/infiniflow/ragflow)|
+|**2026-10-29**|**WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection**|Jiannan Huang et.al.|[2610.41037v1](http://arxiv.org/abs/2610.41037v1)|-|
+|**2026-10-29**|**FieldGuideRAG: Image-Grounded GraphRAG for Fine-Grained Recognition with Vision-Language Models**|Jiacheng Ding et.al.|[2610.40971v1](http://arxiv.org/abs/2610.40971v1)|-|
+|**2026-10-29**|**ProdCrawl: A Replayable Test Collection for Focused Crawling**|Manuel Rey-Escobar et.al.|[2610.40855v1](http://arxiv.org/abs/2610.40855v1)|-|
+|**2026-10-29**|**Retrieve-then-Disambiguate: Scalable Reviewer Discovery**|Vicente Amado Olivo et.al.|[2610.40768v1](http://arxiv.org/abs/2610.40768v1)|[link](https://github.com/deepthought-initiative/Retrieve-then-Disambiguate)|
+|**2026-10-29**|**Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses**|Chengyang He et.al.|[2610.40619v1](http://arxiv.org/abs/2610.40619v1)|-|
+|**2026-10-29**|<details><summary><b>Glance: The Generator Is Its Own Reranker</b></summary>Glance integrates reranking and generation into a single backbone using lightweight adapters and pointer heads to score passages from shared context, reducing memory overhead while improving retrieval and answer quality.</details>|Adilet Metinov et.al.|[2610.40454v1](http://arxiv.org/abs/2610.40454v1)|-|
+|**2026-10-29**|**Decompose, Estimate, Select: Coverage-Aware Context Construction for Long-Form RAG**|He Tu et.al.|[2610.40314v1](http://arxiv.org/abs/2610.40314v1)|-|
+|**2026-10-29**|**Prevented is Not Protected: What Attack Success Rate Hides about RAG**|Chahana Dahal et.al.|[2610.40742v1](http://arxiv.org/abs/2610.40742v1)|[link](https://github.com/chxhana/aligned-rag-eval)|
+|**2026-10-29**|**Towards Full-Text Scholarly Argument Mining using Entity-Anchored Claim Extraction**|Bhuvanesh Verma et.al.|[2610.40196v1](http://arxiv.org/abs/2610.40196v1)|-|
+|**2026-10-29**|**xPRT: Cross-Passage Retrieval Pretraining**|Danush Khanna et.al.|[2610.40122v1](http://arxiv.org/abs/2610.40122v1)|-|
+|**2026-10-29**|**Beyond IPS: Reliable Counterfactual Evaluation in Multi-Stage Ad Systems without Logged Propensities**|Mohsen Malmir et.al.|[2610.40112v1](http://arxiv.org/abs/2610.40112v1)|-|
+|**2026-10-29**|**R2QRec: Learning Recommendation Queries from Retrieval Feedback**|Weixin Chen et.al.|[2610.39984v1](http://arxiv.org/abs/2610.39984v1)|-|
+|**2026-10-29**|**Heterogeneous Co-Evolution Learning for Tool-Efficient Search Agents with Zero Labels**|Qin-Wen Luo et.al.|[2610.39682v1](http://arxiv.org/abs/2610.39682v1)|-|
+|**2026-10-29**|**Efficient LLM-based Subgraph Retrieval for Multi-Hop Knowledge Base Question Answering**|Duanyang Yuan et.al.|[2610.39667v1](http://arxiv.org/abs/2610.39667v1)|-|
+|**2026-10-29**|**GistRank: Gist-Compressed Listwise Ranking with Large Language Models**|Guo Chen et.al.|[2610.39610v1](http://arxiv.org/abs/2610.39610v1)|-|
+|**2026-10-29**|**From Intent to Improvement: Agentic Dataset Search for Better Model Training**|Qiaosheng Chen et.al.|[2610.39608v1](http://arxiv.org/abs/2610.39608v1)|[link](https://github.com/nju-websoft/AgenticDS)|
+|**2026-10-29**|**Lost in the Latent Space: How Code Embeddings Represent Functional Intent and Implementation Fidelity**|Lu Sun et.al.|[2610.39519v1](http://arxiv.org/abs/2610.39519v1)|-|
+|**2026-10-29**|**RoFiGR: Coarse Routing, Fine Refinement via Level-Adaptive Distillation in Multimodal Generative Recommendation**|Ji Dai et.al.|[2610.39470v1](http://arxiv.org/abs/2610.39470v1)|-|
+|**2026-10-29**|**UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation**|Zonghe Shao et.al.|[2610.39426v1](http://arxiv.org/abs/2610.39426v1)|-|
+|**2026-10-29**|**Try Before You Evolve: Ranking-Scored Trials for Recursive Self-Improvement of Recommender Systems**|Xu Huang et.al.|[2610.39352v1](http://arxiv.org/abs/2610.39352v1)|-|
+|**2026-10-29**|**Does the Citation Matter? Quality, Grounding, and Physician-Rubric Accuracy of Google's AI Overviews for Medical Information**|Sam Agnoli et.al.|[2610.39339v1](http://arxiv.org/abs/2610.39339v1)|[link](https://github.com/SamAgnoli/AIOverviews)|
+|**2026-10-29**|**Federated Recommender Agents**|Jaehyung Lim et.al.|[2610.39289v1](http://arxiv.org/abs/2610.39289v1)|-|
+|**2026-10-29**|**PFA: Attention Can Be Progressively Focused in Long-Sequence Generative Recommendation**|Pengjie Zhou et.al.|[2610.39273v1](http://arxiv.org/abs/2610.39273v1)|-|
+|**2026-10-29**|**CASH: A Capability-Aware Subsidy Harness for Advertiser Subsidy Allocation**|Minmao Wang et.al.|[2610.39244v1](http://arxiv.org/abs/2610.39244v1)|-|
+|**2026-10-29**|**A Sequential Decision Framework for Evaluating LLM-Guided Search**|Siqing Huo et.al.|[2610.39231v1](http://arxiv.org/abs/2610.39231v1)|-|
+|**2026-10-29**|**Read More, Reason Deeper: Latent Workspaces for Long-Sequence Recommendation**|Renzhi Wu et.al.|[2610.39188v1](http://arxiv.org/abs/2610.39188v1)|-|
+|**2026-10-29**|**PRISM: Personalized Item Representations in User History**|Renzhi Wu et.al.|[2610.39175v1](http://arxiv.org/abs/2610.39175v1)|-|
+|**2026-10-29**|**PALATE: Pretrained Autoregressive LATent Embeddings**|Sizhang Zhao et.al.|[2610.39090v1](http://arxiv.org/abs/2610.39090v1)|-|
+|**2026-10-28**|<details><summary><b>Contextual Embeddings Beyond the Gold Chunk</b></summary>A family of contextual embedding models trained via distillation from query-aware compression achieves state-of-the-art retrieval across text and image chunk benchmarks by surfacing both answers and verification evidence.</details>|Sedigheh Eslami et.al.|[2610.38854v1](http://arxiv.org/abs/2610.38854v1)|-|
 
 ## Quantization
 
 ### FP4
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-10-30**|**Calibration of Large Model Quantization based on HiFloat4 Format**|Jing Huang et.al.|[2610.41112v1](http://arxiv.org/abs/2610.41112v1)|-|
+|**2026-10-28**|**Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI**|NVIDIA et.al.|[2610.38095v1](http://arxiv.org/abs/2610.38095v1)|-|
+|**2026-10-26**|**Triage: Skip, Skim, or Refine Attention Tiles in Video Diffusion Transformers**|Yeonjae Kim et.al.|[2610.35706v1](http://arxiv.org/abs/2610.35706v1)|-|
 |**2026-10-23**|**BiLoCo: Binary Low-Rank Corrections for Post-Training Quantization**|David Jin et.al.|[2610.32243v1](http://arxiv.org/abs/2610.32243v1)|-|
-|**2026-10-23**|**Training an MoE LLM in MXFP4: How We Closed the Gap to BF16**|Han Wang et.al.|[2610.32229v1](http://arxiv.org/abs/2610.32229v1)|-|
+|**2026-10-23**|**Training an MoE LLM in MXFP4: How We Closed the Gap to BF16**|Han Wang et.al.|[2610.32229v2](http://arxiv.org/abs/2610.32229v2)|-|
 |**2026-10-22**|**BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing**|Hayden Prairie et.al.|[2610.31633v1](http://arxiv.org/abs/2610.31633v1)|-|
+|**2026-10-21**|<details><summary><b>Double KV Cache Optimization on Apple Silicon: Block-FP4, Radial Quantization, and Fused Metal Kernels</b></summary>On Apple Silicon, fused radial quantization improves KV cache compression and speed over block-FP4 at moderate contexts, but all compressed methods fail at 32K+ due to repeated full-cache reconstruction and memory limits, requiring fused attention on compressed data.</details>|Ibrokhimsho Abduchaborov et.al.|[2610.33076v1](http://arxiv.org/abs/2610.33076v1)|-|
 |**2026-10-20**|**Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference**|Xiuyi Qin et.al.|[2610.28947v1](http://arxiv.org/abs/2610.28947v1)|-|
 |**2026-10-19**|**MX-Like Tensor Core for LLM Inference with NPU Integration via Hardware-Software Co-Design Exploration**|Zijun Zhao et.al.|[2610.26083v1](http://arxiv.org/abs/2610.26083v1)|-|
 |**2026-10-18**|**PACT: NVFP4 Data-Flow LoRA Fine-Tuning on Consumer GPUs**|Lei Gao et.al.|[2610.25048v1](http://arxiv.org/abs/2610.25048v1)|-|
@@ -171,7 +177,7 @@
 |**2026-10-09**|**Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference**|Xingyu Xie et.al.|[2610.14277v1](http://arxiv.org/abs/2610.14277v1)|-|
 |**2026-10-09**|**DualQuant: Dual-scale Calibration-free Weight-and-Activation Quantization for LLMs**|Mahsa Salmani et.al.|[2610.13767v1](http://arxiv.org/abs/2610.13767v1)|-|
 |**2026-10-09**|**DuoRate: Two-Rate Per-Expert Precision Allocation for Mixture-of-Experts Serving**|Mengqi Guo et.al.|[2610.13328v1](http://arxiv.org/abs/2610.13328v1)|-|
-|**2026-10-07**|**miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning**|Zhen Li et.al.|[2610.23928v1](http://arxiv.org/abs/2610.23928v1)|-|
+|**2026-10-07**|<details><summary><b>miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning</b></summary>MiniTE enables stable low-bit reinforcement learning for large language models by aligning cross-engine numerical execution and accelerating native 4-bit computation.</details>|Zhen Li et.al.|[2610.23928v1](http://arxiv.org/abs/2610.23928v1)|-|
 |**2026-10-06**|<details><summary><b>OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization</b></summary>OSFP4 improves NVFP4 quantization for LLM inference by jointly optimizing smoothing and scaling to minimize error while preserving throughput.</details>|Neriah Ben David et.al.|[2610.08231v1](http://arxiv.org/abs/2610.08231v1)|[link](https://github.com/neriahbd/OSFP4)|
 |**2026-10-06**|<details><summary><b>TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models</b></summary>TRACE is an FP4 quantization framework for reinforcement learning training of Mixture-of-Experts language models that aligns training and rollout quantization to reduce discrepancy, enabling efficient low-precision rollout with comparable performance to higher-precision baselines.</details>|Xin Wang et.al.|[2610.07767v2](http://arxiv.org/abs/2610.07767v2)|-|
 |**2026-10-05**|<details><summary><b>SoloQ: Calibration-Free Quantization for Diffusion Language Models</b></summary>SoloQ enables calibration-free 4-bit quantization for diffusion language models by using normalized rotations and commit-time KV-cache compression, improving accuracy and inference speed.</details>|Donghyun Lee et.al.|[2610.07121v1](http://arxiv.org/abs/2610.07121v1)|-|
@@ -179,11 +185,7 @@
 |**2026-10-02**|**LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization**|Ziye Deng et.al.|[2610.03959v1](http://arxiv.org/abs/2610.03959v1)|-|
 |**2026-09-30**|**QATFactory: A Versatile, Deployment-Aligned Framework for Quantization-aware Training and Distillation of LLMs**|Weili Xu et.al.|[2609.39223v2](http://arxiv.org/abs/2609.39223v2)|[link](https://github.com/QATFactory/QATFactory)|
 |**2026-09-29**|**FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have**|Pratyai Mazumder et.al.|[2609.37693v1](http://arxiv.org/abs/2609.37693v1)|-|
-|**2026-09-29**|**Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference**|Ruiyi Ding et.al.|[2609.36654v1](http://arxiv.org/abs/2609.36654v1)|-|
+|**2026-09-29**|<details><summary><b>Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference</b></summary>Schur Replay improves low-precision weight quantization by replaying block-scale effects during GPTQ, while distributed tiered execution accelerates large-model inference with reduced memory.</details>|Ruiyi Ding et.al.|[2609.36654v1](http://arxiv.org/abs/2609.36654v1)|-|
 |**2026-09-27**|<details><summary><b>JustQuant: You Don't Need Smoothing, SVD, or Rotation for 4-Bit Activation Quantization</b></summary>JustQuant enables low-bit activation quantization using only standard operators by integrating multi-level quantization-aware distillation into training, improving quality for diffusion and language models without complex deployment-time modifications.</details>|Kaicheng Yang et.al.|[2609.33601v1](http://arxiv.org/abs/2609.33601v1)|-|
 |**2026-09-27**|**Chameleon: Dynamic Format Adapter for Efficient Diffusion**|Arnab Sanyal et.al.|[2609.33496v1](http://arxiv.org/abs/2609.33496v1)|-|
 |**2026-09-27**|**MpFA: Hardware-Efficient Train-Free QK4V8 FlashAttention Kernels on Blackwell GPUs**|Chencheng Deng et.al.|[2609.33135v1](http://arxiv.org/abs/2609.33135v1)|-|
-|**2026-09-25**|**Floating-Point Microformat Quantization and Pruning for Efficient MU-MIMO Neural Receivers**|SaiKrishna Saketh Yellapragada et.al.|[2609.31177v1](http://arxiv.org/abs/2609.31177v1)|-|
-|**2026-09-22**|<details><summary><b>Disaggregated Quantization: Specializing LLM Prefill and Decode</b></summary>Disaggregated quantization uses separate formats and storage for prefill and decode phases to improve speed and accuracy at very low bit widths.</details>|Andrei Panferov et.al.|[2609.26333v1](http://arxiv.org/abs/2609.26333v1)|[link](https://github.com/IST-DASLab/disaggregated-quantization)|
-|**2026-09-21**|**AWE: Adaptive Weight Encoding for Exact Integer Matrix Products with Fewer GEMMs on FP4 Tensor Cores**|Shun-ichiro Hayashi et.al.|[2609.24519v1](http://arxiv.org/abs/2609.24519v1)|-|
-|**2026-09-17**|<details><summary><b>DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression</b></summary>DeepSeek-V4.1-Flash is a multimodal MoE model using a CED architecture and aggressive KV cache compression to lower compute, storage, and bandwidth costs for long-context agent workloads.</details>|DeepSeek-AI et.al.|[2609.19969v1](http://arxiv.org/abs/2609.19969v1)|-|
