@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2026-11-02 11:50:54 Asia/Seoul
+ Automated deployment @ 2026-11-16 16:41:23 Asia/Seoul
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/hyunW3/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/hyunW3/arxiv-daily/tree/main/database/storage).
 
@@ -8,6 +8,9 @@
 ### Robot Safety
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-13**|**Per-Agent-Safe Navigation of Globally Driven Robot Collectives via Affine Field Design**|Seunghwan Jang et.al.|[2611.17859v1](http://arxiv.org/abs/2611.17859v1)|-|
+|**2026-11-06**|**Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems**|Shubham Singh et.al.|[2611.09112v1](http://arxiv.org/abs/2611.09112v1)|-|
+|**2026-11-04**|**Detecting Silent Action-Interface Mismatch with Calibrated Relational World Models**|Rui Zhu et.al.|[2611.06653v1](http://arxiv.org/abs/2611.06653v1)|-|
 |**2026-10-26**|**Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena**|Prajol Shrestha et.al.|[2610.35582v1](http://arxiv.org/abs/2610.35582v1)|-|
 |**2026-10-02**|**Lightweight and Resource-Efficient Perception for Robotic Guide Dogs**|Jinse Kwon et.al.|[2610.03187v2](http://arxiv.org/abs/2610.03187v2)|-|
 |**2026-09-30**|**Neuro-Symbolic Predicate Learning for Semantic Safe Robot Control**|Zihan Ye et.al.|[2609.39594v1](http://arxiv.org/abs/2609.39594v1)|-|
@@ -35,9 +38,6 @@
 |**2026-02-01**|<details><summary><b>SkySim: A ROS2-based Simulation Environment for Natural Language Control of Drone Swarms using Large Language Models</b></summary>SkySim presents a ROS2-based Gazebo simulation framework that enables natural language control of UAV swarms through LLM planning and APF-based safety enforcement, achieving real-time collision avoidance and scalability.</details>|Aditya Shibu et.al.|[2602.01226v1](http://arxiv.org/abs/2602.01226v1)|-|
 |**2026-01-09**|**Formal Methods in Robot Policy Learning and Verification: A Survey on Current Techniques and Future Directions**|Anastasios Manganaris et.al.|[2602.06971v1](http://arxiv.org/abs/2602.06971v1)|-|
 |**2025-12-29**|**Explainable Neural Inverse Kinematics for Obstacle-Aware Robotic Manipulation: A Comparative Analysis of IKNet Variants**|Sheng-Kai Chen et.al.|[2512.23312v1](http://arxiv.org/abs/2512.23312v1)|-|
-|**2025-12-19**|**On Using Neural Networks to Learn Safety Speed Reduction in Human-Robot Collaboration: A Comparative Analysis**|Marco Faroni et.al.|[2512.17579v1](http://arxiv.org/abs/2512.17579v1)|-|
-|**2025-12-09**|**Semantic-Metric Bayesian Risk Fields: Learning Robot Safety from Human Videos with a VLM Prior**|Timothy Chen et.al.|[2512.08233v1](http://arxiv.org/abs/2512.08233v1)|-|
-|**2025-11-25**|<details><summary><b>ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation</b></summary>ACE-F is a foldable teleoperation system with integrated force feedback that enables intuitive control of diverse robotic embodiments through inverse kinematics and virtual force signal interpretation.</details>|Rui Yan et.al.|[2511.20887v1](http://arxiv.org/abs/2511.20887v1)|-|
 
 ### Obstacle-Conditioned Safe Motion
 |Publish Date|Title|Authors|PDF|Code|
@@ -57,6 +57,7 @@
 ### Robot Safety Evaluation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-03**|**From Roadside Sensing to Risk-Informed Safety Control: Surrogate Safety Measures as a Cyber-Physical Interface**|Salsabil Salah et.al.|[2611.04988v1](http://arxiv.org/abs/2611.04988v1)|-|
 |**2026-10-13**|**Which Trajectory Is Safer? Combining Rule and Learning for Safety Evaluation**|Xuewen Luo et.al.|[2610.17806v1](http://arxiv.org/abs/2610.17806v1)|[link](https://github.com/Xuewen2025/safety-evaluation)|
 |**2026-10-13**|<details><summary><b>LatentRiskBench: Measuring State-Dependent Risks in Enterprise Agents</b></summary>LatentRiskBench evaluates state-dependent safety risks in enterprise agents by comparing risky and benign workflows with identical terminal actions, revealing that state-level assessment detects far more violations than action-level checks.</details>|Jingyue Cong et.al.|[2610.17685v1](http://arxiv.org/abs/2610.17685v1)|[link](https://github.com/JingyueCong/LatentRiskBench)|
 |**2026-10-07**|**A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration**|Alexandra Coroiu et.al.|[2610.09891v1](http://arxiv.org/abs/2610.09891v1)|-|
@@ -83,32 +84,33 @@
 |**2026-05-27**|**ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving**|Mohammadreza Teymoorianfard et.al.|[2605.29114v1](http://arxiv.org/abs/2605.29114v1)|-|
 |**2026-05-27**|**DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving**|Zian Wang et.al.|[2605.27964v1](http://arxiv.org/abs/2605.27964v1)|-|
 |**2026-05-26**|**Efficient Safety Benchmarking via Item Response Theory**|Fabio Spagliardi et.al.|[2606.20626v2](http://arxiv.org/abs/2606.20626v2)|-|
-|**2026-05-20**|**Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving**|Yang Wu et.al.|[2605.21139v2](http://arxiv.org/abs/2605.21139v2)|-|
+|**2026-05-20**|**Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving**|Yang Wu et.al.|[2605.21139v5](http://arxiv.org/abs/2605.21139v5)|-|
 |**2026-05-12**|**SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation**|Chengyue Huang et.al.|[2605.12386v3](http://arxiv.org/abs/2605.12386v3)|-|
 |**2026-05-11**|**Muninn: Your Trajectory Diffusion Model But Faster**|Gokul Puthumanaillam et.al.|[2605.09999v1](http://arxiv.org/abs/2605.09999v1)|[link](https://github.com/gokulp01/Muninn)|
-|**2026-04-18**|**Evaluating Multimodal LLMs for Inpatient Diagnosis: Real-World Performance, Safety, and Cost Across Ten Frontier Models**|Bruce A. Bassett et.al.|[2604.16980v1](http://arxiv.org/abs/2604.16980v1)|-|
 
 ## LLM
 
 ### Byte-Level Language Models
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-10**|**When does text encoding matter for language modeling?**|Eugene Jang et.al.|[2611.14459v1](http://arxiv.org/abs/2611.14459v1)|-|
+|**2026-11-09**|**Byzantine-Robust Muon: Resilient Momentum Orthogonalization for Distributed Learning**|Grigory Malinovsky et.al.|[2611.13137v1](http://arxiv.org/abs/2611.13137v1)|-|
+|**2026-11-03**|<details><summary><b>Going Deeper With Memories</b></summary>DeepMem is a causal multiscale byte-level architecture that uses invertible subband transforms and fast weight memory to compress sequences for efficient reasoning while preserving exact byte identity via lossless carriers and attention-based super-resolution decoding.</details>|Afshin Khadangi et.al.|[2611.05255v1](http://arxiv.org/abs/2611.05255v1)|[link](https://github.com/akhadangi/deepmem)|
 |**2026-10-28**|**Semantic-Assisted Joint Channel Estimation and Symbol Detection for MU-MIMO Systems**|Hao Chang et.al.|[2610.38855v1](http://arxiv.org/abs/2610.38855v1)|-|
 |**2026-10-26**|**Semantic SCL Decoding for Polar Codes**|Andy Huang et.al.|[2610.34729v1](http://arxiv.org/abs/2610.34729v1)|-|
-|**2026-10-15**|**Patch where the text is new: a compression view of where byte-level models should spend compute**|Nicolás Vera Zúñiga et.al.|[2610.22100v1](http://arxiv.org/abs/2610.22100v1)|[link](https://github.com/nicoveraz/segresearch)|
 |**2026-10-15**|**The Right Byte First: How UTF-16 Helps Multilingual Boundary Prediction**|Hyunsik Kim et.al.|[2610.22071v1](http://arxiv.org/abs/2610.22071v1)|-|
-|**2026-10-08**|**Easy to anticipate, hard to compute: boundary dependence finds the computed outputs that entropy patching misses**|Nicolás Vera Zúñiga et.al.|[2610.11790v1](http://arxiv.org/abs/2610.11790v1)|[link](https://github.com/nicoveraz/segresearch)|
+|**2026-10-08**|**Easy to anticipate, hard to compute: boundary dependence finds the computed outputs that entropy patching misses**|Nicolás Vera Zúñiga et.al.|[2610.11790v2](http://arxiv.org/abs/2610.11790v2)|[link](https://github.com/nicoveraz/segresearch)|
 |**2026-08-31**|<details><summary><b>Toppling the Hierarchy in Byte-level Language Modeling</b></summary>Hierarchical byte-level models sacrifice precise character manipulation for efficiency compared to pure byte-level architectures, with attention mechanisms driving fine-grained understanding.</details>|Lukas Edman et.al.|[2609.00463v1](http://arxiv.org/abs/2609.00463v1)|-|
 |**2026-08-08**|**Semantic-Aided Iterative Decoding for Uplink Non-Orthogonal Transmission**|Wenjing Wei et.al.|[2608.07897v1](http://arxiv.org/abs/2608.07897v1)|-|
 |**2026-08-05**|**Kathleen Writes: Autoregressive Generation and Data Scaling Without Attention**|George Fountzoulas et.al.|[2608.04678v1](http://arxiv.org/abs/2608.04678v1)|-|
 |**2026-08-04**|<details><summary><b>Disentangling Language Modeling and Boundaries</b></summary>Byte-level language models enable exact knowledge transfer and independent boundary control, supporting a shared interface standard.</details>|Mykola Haltiuk et.al.|[2608.03599v1](http://arxiv.org/abs/2608.03599v1)|-|
 |**2026-07-29**|**The Art of Not Forgetting A Local Learning Architecture for Continual Learning**|Ashmith Atmuri et.al.|[2607.26523v1](http://arxiv.org/abs/2607.26523v1)|-|
 |**2026-07-23**|**Parameter-free Adaptive Sparse Attention via Compression-Based Content Selection**|Debarshi Kundu et.al.|[2607.21752v1](http://arxiv.org/abs/2607.21752v1)|-|
-|**2026-05-10**|<details><summary><b>Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models</b></summary>Tokenizer-free language models using patch-based approaches face a trade-off between compute efficiency and modeling quality due to patch lag, which Scratchpad Patching addresses by dynamically refreshing context within patches based on prediction entropy.</details>|Lin Zheng et.al.|[2605.09630v1](http://arxiv.org/abs/2605.09630v1)|-|
+|**2026-05-10**|<details><summary><b>Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models</b></summary>Tokenizer-free language models using patch-based approaches face a trade-off between compute efficiency and modeling quality due to patch lag, which Scratchpad Patching addresses by dynamically refreshing context within patches based on prediction entropy.</details>|Lin Zheng et.al.|[2605.09630v2](http://arxiv.org/abs/2605.09630v2)|-|
 |**2026-05-08**|<details><summary><b>Fast Byte Latent Transformer</b></summary>Byte-level language models overcome slow autoregressive generation through diffusion-based parallel processing and speculative decoding techniques that improve both speed and quality.</details>|Julie Kallini et.al.|[2605.08044v1](http://arxiv.org/abs/2605.08044v1)|-|
 |**2026-05-04**|<details><summary><b>Semantic Ordered Statistics Decoding</b></summary>Sem-OSD integrates a byte-level language model into ordered statistics decoding to improve error correction for byte-streamed sources across AWGN and burst-error channels.</details>|Chentao Yue et.al.|[2605.02296v1](http://arxiv.org/abs/2605.02296v1)|-|
 |**2026-02-20**|**Learning Long-Range Dependencies with Temporal Predictive Coding**|Tom Potter et.al.|[2602.18131v2](http://arxiv.org/abs/2602.18131v2)|-|
-|**2026-01-30**|<details><summary><b>Elastic Spectral State Space Models for Train-Once Budgeted Inference</b></summary>Elastic Spectral State Space Models enable a single trained sequence model to be truncated across varying computational budgets via spectral approximation, yielding stable quality-cost trade-offs.</details>|Dachuan Song et.al.|[2601.22488v3](http://arxiv.org/abs/2601.22488v3)|-|
+|**2026-01-30**|<details><summary><b>Elastic Spectral State Space Models for Train-Once Budgeted Inference</b></summary>Elastic Spectral State Space Models enable a single trained sequence model to be truncated across varying computational budgets via spectral approximation, yielding stable quality-cost trade-offs.</details>|Dachuan Song et.al.|[2601.22488v4](http://arxiv.org/abs/2601.22488v4)|[link](https://github.com/GMU-MICO/ES-SSM)|
 |**2025-12-17**|<details><summary><b>Bolmo: Byteifying the Next Generation of Language Models</b></summary>Bolmo, a family of competitive byte-level language models, is trained by converting existing subword-level models, overcoming character understanding and efficiency limitations while achieving performance comparable to subword models.</details>|Benjamin Minixhofer et.al.|[2512.15586v2](http://arxiv.org/abs/2512.15586v2)|[link](https://github.com/allenai/bolmo-core)|
 |**2025-08-07**|**H-Net++: Hierarchical Dynamic Chunking for Tokenizer-Free Language Modelling in Morphologically-Rich Languages**|Mehrdad Zakershahrak et.al.|[2508.05628v1](http://arxiv.org/abs/2508.05628v1)|-|
 |**2025-07-17**|**Synergy: End-to-end Concept Model**|Keli Zheng et.al.|[2507.12769v1](http://arxiv.org/abs/2507.12769v1)|-|
@@ -123,69 +125,69 @@
 ### Information Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-10-30**|**Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses**|Zhichang Yu et.al.|[2610.41172v1](http://arxiv.org/abs/2610.41172v1)|[link](https://github.com/infiniflow/ragflow)|
-|**2026-10-29**|**WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection**|Jiannan Huang et.al.|[2610.41037v1](http://arxiv.org/abs/2610.41037v1)|-|
-|**2026-10-29**|**FieldGuideRAG: Image-Grounded GraphRAG for Fine-Grained Recognition with Vision-Language Models**|Jiacheng Ding et.al.|[2610.40971v1](http://arxiv.org/abs/2610.40971v1)|-|
-|**2026-10-29**|**ProdCrawl: A Replayable Test Collection for Focused Crawling**|Manuel Rey-Escobar et.al.|[2610.40855v1](http://arxiv.org/abs/2610.40855v1)|-|
-|**2026-10-29**|**Retrieve-then-Disambiguate: Scalable Reviewer Discovery**|Vicente Amado Olivo et.al.|[2610.40768v1](http://arxiv.org/abs/2610.40768v1)|[link](https://github.com/deepthought-initiative/Retrieve-then-Disambiguate)|
-|**2026-10-29**|**Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses**|Chengyang He et.al.|[2610.40619v1](http://arxiv.org/abs/2610.40619v1)|-|
-|**2026-10-29**|<details><summary><b>Glance: The Generator Is Its Own Reranker</b></summary>Glance integrates reranking and generation into a single backbone using lightweight adapters and pointer heads to score passages from shared context, reducing memory overhead while improving retrieval and answer quality.</details>|Adilet Metinov et.al.|[2610.40454v1](http://arxiv.org/abs/2610.40454v1)|-|
-|**2026-10-29**|**Decompose, Estimate, Select: Coverage-Aware Context Construction for Long-Form RAG**|He Tu et.al.|[2610.40314v1](http://arxiv.org/abs/2610.40314v1)|-|
-|**2026-10-29**|**Prevented is Not Protected: What Attack Success Rate Hides about RAG**|Chahana Dahal et.al.|[2610.40742v1](http://arxiv.org/abs/2610.40742v1)|[link](https://github.com/chxhana/aligned-rag-eval)|
-|**2026-10-29**|**Towards Full-Text Scholarly Argument Mining using Entity-Anchored Claim Extraction**|Bhuvanesh Verma et.al.|[2610.40196v1](http://arxiv.org/abs/2610.40196v1)|-|
-|**2026-10-29**|**xPRT: Cross-Passage Retrieval Pretraining**|Danush Khanna et.al.|[2610.40122v1](http://arxiv.org/abs/2610.40122v1)|-|
-|**2026-10-29**|**Beyond IPS: Reliable Counterfactual Evaluation in Multi-Stage Ad Systems without Logged Propensities**|Mohsen Malmir et.al.|[2610.40112v1](http://arxiv.org/abs/2610.40112v1)|-|
-|**2026-10-29**|**R2QRec: Learning Recommendation Queries from Retrieval Feedback**|Weixin Chen et.al.|[2610.39984v1](http://arxiv.org/abs/2610.39984v1)|-|
-|**2026-10-29**|**Heterogeneous Co-Evolution Learning for Tool-Efficient Search Agents with Zero Labels**|Qin-Wen Luo et.al.|[2610.39682v1](http://arxiv.org/abs/2610.39682v1)|-|
-|**2026-10-29**|**Efficient LLM-based Subgraph Retrieval for Multi-Hop Knowledge Base Question Answering**|Duanyang Yuan et.al.|[2610.39667v1](http://arxiv.org/abs/2610.39667v1)|-|
-|**2026-10-29**|**GistRank: Gist-Compressed Listwise Ranking with Large Language Models**|Guo Chen et.al.|[2610.39610v1](http://arxiv.org/abs/2610.39610v1)|-|
-|**2026-10-29**|**From Intent to Improvement: Agentic Dataset Search for Better Model Training**|Qiaosheng Chen et.al.|[2610.39608v1](http://arxiv.org/abs/2610.39608v1)|[link](https://github.com/nju-websoft/AgenticDS)|
-|**2026-10-29**|**Lost in the Latent Space: How Code Embeddings Represent Functional Intent and Implementation Fidelity**|Lu Sun et.al.|[2610.39519v1](http://arxiv.org/abs/2610.39519v1)|-|
-|**2026-10-29**|**RoFiGR: Coarse Routing, Fine Refinement via Level-Adaptive Distillation in Multimodal Generative Recommendation**|Ji Dai et.al.|[2610.39470v1](http://arxiv.org/abs/2610.39470v1)|-|
-|**2026-10-29**|**UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation**|Zonghe Shao et.al.|[2610.39426v1](http://arxiv.org/abs/2610.39426v1)|-|
-|**2026-10-29**|**Try Before You Evolve: Ranking-Scored Trials for Recursive Self-Improvement of Recommender Systems**|Xu Huang et.al.|[2610.39352v1](http://arxiv.org/abs/2610.39352v1)|-|
-|**2026-10-29**|**Does the Citation Matter? Quality, Grounding, and Physician-Rubric Accuracy of Google's AI Overviews for Medical Information**|Sam Agnoli et.al.|[2610.39339v1](http://arxiv.org/abs/2610.39339v1)|[link](https://github.com/SamAgnoli/AIOverviews)|
-|**2026-10-29**|**Federated Recommender Agents**|Jaehyung Lim et.al.|[2610.39289v1](http://arxiv.org/abs/2610.39289v1)|-|
-|**2026-10-29**|**PFA: Attention Can Be Progressively Focused in Long-Sequence Generative Recommendation**|Pengjie Zhou et.al.|[2610.39273v1](http://arxiv.org/abs/2610.39273v1)|-|
-|**2026-10-29**|**CASH: A Capability-Aware Subsidy Harness for Advertiser Subsidy Allocation**|Minmao Wang et.al.|[2610.39244v1](http://arxiv.org/abs/2610.39244v1)|-|
-|**2026-10-29**|**A Sequential Decision Framework for Evaluating LLM-Guided Search**|Siqing Huo et.al.|[2610.39231v1](http://arxiv.org/abs/2610.39231v1)|-|
-|**2026-10-29**|**Read More, Reason Deeper: Latent Workspaces for Long-Sequence Recommendation**|Renzhi Wu et.al.|[2610.39188v1](http://arxiv.org/abs/2610.39188v1)|-|
-|**2026-10-29**|**PRISM: Personalized Item Representations in User History**|Renzhi Wu et.al.|[2610.39175v1](http://arxiv.org/abs/2610.39175v1)|-|
-|**2026-10-29**|**PALATE: Pretrained Autoregressive LATent Embeddings**|Sizhang Zhao et.al.|[2610.39090v1](http://arxiv.org/abs/2610.39090v1)|-|
-|**2026-10-28**|<details><summary><b>Contextual Embeddings Beyond the Gold Chunk</b></summary>A family of contextual embedding models trained via distillation from query-aware compression achieves state-of-the-art retrieval across text and image chunk benchmarks by surfacing both answers and verification evidence.</details>|Sedigheh Eslami et.al.|[2610.38854v1](http://arxiv.org/abs/2610.38854v1)|-|
+|**2026-11-13**|**StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval**|Dayoon Ko et.al.|[2611.18516v1](http://arxiv.org/abs/2611.18516v1)|-|
+|**2026-11-13**|**MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading**|Mohammed Efaz et.al.|[2611.18513v1](http://arxiv.org/abs/2611.18513v1)|-|
+|**2026-11-13**|**RACE: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation**|Tianqi Liu et.al.|[2611.18244v1](http://arxiv.org/abs/2611.18244v1)|-|
+|**2026-11-13**|**Explanations that Transfer: Interpreting Medical Retrieval with Sparse AutoEncoders**|Diane Bouchacourt et.al.|[2611.18179v1](http://arxiv.org/abs/2611.18179v1)|[link](https://github.com/doctolib-lab/medsae)|
+|**2026-11-13**|**Who Counts as Exposed? Measurement Choices in an Open, Re-estimable Index of Occupational AI Exposure**|Luca Mouchel et.al.|[2611.18168v1](http://arxiv.org/abs/2611.18168v1)|-|
+|**2026-11-13**|**RecMem: Recurrent Memory Compression for Long-Sequence Generative Recommendation**|Haoyi Hu et.al.|[2611.17921v1](http://arxiv.org/abs/2611.17921v1)|-|
+|**2026-11-13**|**Towards High-Performance Multimodal Discovery: Evaluating Retrieval Efficacy and Operational Scalability in Digital Libraries**|Krishna Priya et.al.|[2611.17726v1](http://arxiv.org/abs/2611.17726v1)|-|
+|**2026-11-12**|**Sheaf-Inspired Structured Scoring Extensions of LightGCN for Collaborative Filtering**|Ksenia Belkovskaya et.al.|[2611.17226v1](http://arxiv.org/abs/2611.17226v1)|-|
+|**2026-11-12**|**Evaluation of Music Version Retrieval Methods for Setlist Identification in Live Concerts**|Andres Ferraro et.al.|[2611.17070v1](http://arxiv.org/abs/2611.17070v1)|-|
+|**2026-11-12**|**Similar but Not Redundant: Embedding-Gated Refinement for High-Granularity Topic Models**|Daniel Denley et.al.|[2611.17030v1](http://arxiv.org/abs/2611.17030v1)|-|
+|**2026-11-12**|**Anonymous in Name Only: A Critical Review and a Reidentification Exercise on the European Commission's Anonymization Measures for Google Search Data under Article 6(11) of the DMA**|David Sánchez et.al.|[2611.17012v1](http://arxiv.org/abs/2611.17012v1)|-|
+|**2026-11-12**|**SignalAudit-QD: A Reproducible Audit Resource for External Signals in AI-Query Forecasting**|Amir Rafe et.al.|[2611.16947v1](http://arxiv.org/abs/2611.16947v1)|-|
+|**2026-11-12**|**KuaiRecV2: Benchmarking Large-Scale Continual Learning for Diversified and Multi-task Recommendation**|Chenxu Li et.al.|[2611.16795v1](http://arxiv.org/abs/2611.16795v1)|[link](https://github.com/cxli2333/KuaiRecV2)|
+|**2026-11-12**|**MusicRWKV: A Multimodal RWKV Framework for Music Representation Learning**|Terry Tan et.al.|[2611.16718v1](http://arxiv.org/abs/2611.16718v1)|-|
+|**2026-11-12**|**Active Learning of Approximate LLM Ranking for Energy-Efficient Retrieval of Long Queries**|Ohad Porat et.al.|[2611.16488v1](http://arxiv.org/abs/2611.16488v1)|-|
+|**2026-11-12**|**RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication**|Oleg Zendel et.al.|[2611.16425v1](http://arxiv.org/abs/2611.16425v1)|-|
+|**2026-11-12**|**AntEmbed: Dual-Mode Multimodal Embedding Model for Efficient and Fine-Grained Retrieval**|Kehang Jia et.al.|[2611.16405v1](http://arxiv.org/abs/2611.16405v1)|-|
+|**2026-11-12**|**ReSID: Rethinking Long-Tail Retrieval in Generative Recommendation through Item Reachability**|Muyu Zou et.al.|[2611.16404v1](http://arxiv.org/abs/2611.16404v1)|[link](https://github.com/Gabriel-reina/ReSID)|
+|**2026-11-12**|**TriGen: A Generative Paradigm for Trigger-Induced Recommendation**|Muyu Zou et.al.|[2611.16395v1](http://arxiv.org/abs/2611.16395v1)|-|
+|**2026-11-12**|**CURATOR: Scalable Fine-grained Evidence Selection for Retrieval-Augmented Generation using Decision Models**|Shib Dasgupta et.al.|[2611.16366v1](http://arxiv.org/abs/2611.16366v1)|-|
+|**2026-11-12**|**StateAlign: Internalizing State-Aware Decision-Making for Reliable Multi-Turn Tool Agents via Reinforcement Learning**|Zhexi Lu et.al.|[2611.16304v1](http://arxiv.org/abs/2611.16304v1)|-|
+|**2026-11-12**|**GA-HEL: A Knowledge-Driven Expert System for Open-Set, Granularity-Aware Hierarchical Event Linking in Social Media**|Shengqi Zhou et.al.|[2611.16194v1](http://arxiv.org/abs/2611.16194v1)|[link](https://github.com/SHbiao/GAHEL_release)|
+|**2026-11-12**|**From Tokens to Behaviors: Rethinking Generative Recommendation for User Trajectory Prediction**|Jiaqi Wang et.al.|[2611.16159v1](http://arxiv.org/abs/2611.16159v1)|[link](https://github.com/CalmaQi/GR4UBT)|
+|**2026-11-12**|**HyperPage: Learned Page Layouts for Disk-Resident Graph Vector Indexes**|Xinyu Zhang et.al.|[2611.16149v1](http://arxiv.org/abs/2611.16149v1)|[link](https://github.com/zhangshea/HyperPage)|
+|**2026-11-12**|**Calibrated Early Termination with Bounded Optimality Gaps for Constrained Vector Search**|Xinyu Zhang et.al.|[2611.16148v1](http://arxiv.org/abs/2611.16148v1)|[link](https://github.com/zhangshea/CaST)|
+|**2026-11-11**|**REWEAVE: Online Learning for Workload-Adaptive HNSW Indexes**|Minghao Li et.al.|[2611.16060v1](http://arxiv.org/abs/2611.16060v1)|-|
+|**2026-11-11**|**Wayfinder: Adaptive Resource Routing from Agent Citations**|Miguel Romero et.al.|[2611.16053v1](http://arxiv.org/abs/2611.16053v1)|-|
+|**2026-11-11**|<details><summary><b>Predicting the Needle in a Petabyte Scale Haystack: Open-Vocabulary Event Anticipation in Satellite Imagery</b></summary>Change is represented as vector differences between vision-language model embeddings, enabling automated global event discovery and a model that detects changes and forecasts completion dates with high accuracy.</details>|Shreelekha Revankar et.al.|[2611.16000v1](http://arxiv.org/abs/2611.16000v1)|[link](https://github.com/ShreelekhaR/predicting-the-needle)|
+|**2026-11-11**|**HeriKGQA: Grounded Knowledge-Graph Question Answering over Cultural Heritage Sensor Data**|Lingxiao Kong et.al.|[2611.15904v1](http://arxiv.org/abs/2611.15904v1)|-|
+|**2026-11-11**|**Bag of concepts can enhance other text representations for medical systematic review screening**|Radosław Pytlak et.al.|[2611.15798v1](http://arxiv.org/abs/2611.15798v1)|-|
 
 ## Quantization
 
 ### FP4
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-10-30**|**Calibration of Large Model Quantization based on HiFloat4 Format**|Jing Huang et.al.|[2610.41112v1](http://arxiv.org/abs/2610.41112v1)|-|
-|**2026-10-28**|**Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI**|NVIDIA et.al.|[2610.38095v1](http://arxiv.org/abs/2610.38095v1)|-|
-|**2026-10-26**|**Triage: Skip, Skim, or Refine Attention Tiles in Video Diffusion Transformers**|Yeonjae Kim et.al.|[2610.35706v1](http://arxiv.org/abs/2610.35706v1)|-|
+|**2026-11-12**|**SoScale: Second-Order Scale Search for FP4 Quantization**|Pengxiang Zhao et.al.|[2611.16426v1](http://arxiv.org/abs/2611.16426v1)|-|
+|**2026-11-12**|**GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell**|Yong Li et.al.|[2611.16219v1](http://arxiv.org/abs/2611.16219v1)|-|
+|**2026-11-11**|**The Noise Floor of a Quantization Comparison: Engine, restart, batch and kernel drift, measured against 8-bit and 4-bit effects in two decision models**|Aleks Blagojevich et.al.|[2611.15671v1](http://arxiv.org/abs/2611.15671v1)|[link](https://github.com/Level5Tech/clef-quant-bench)|
+|**2026-11-09**|**What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts**|Chang Lu et.al.|[2611.12832v1](http://arxiv.org/abs/2611.12832v1)|-|
+|**2026-11-09**|**Planners Exploit Deterministic Error: Dithered Low-Bit World Models**|Yong Hwi Song et.al.|[2611.11780v1](http://arxiv.org/abs/2611.11780v1)|-|
+|**2026-11-07**|<details><summary><b>MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations</b></summary>MACaQ is an MXFP4 W4A4 post-training quantization method that quantizes each linear layer independently using online activation transforms and Hessian-aware refinement, reducing cost while preserving accuracy across language and diffusion models.</details>|Lorenz K. Muller et.al.|[2611.10649v2](http://arxiv.org/abs/2611.10649v2)|[link](https://github.com/huawei-csl/MACaQ)|
+|**2026-11-06**|**AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement**|Akshat Ramachandran et.al.|[2611.10165v1](http://arxiv.org/abs/2611.10165v1)|-|
+|**2026-11-06**|**BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design**|Dayou Du et.al.|[2611.09825v1](http://arxiv.org/abs/2611.09825v1)|[link](https://github.com/OpenBitSys/BitDecoding-FP4)|
+|**2026-11-06**|**FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding**|Donglin Zhuang et.al.|[2611.09722v1](http://arxiv.org/abs/2611.09722v1)|[link](https://github.com/FutureMLS-Lab/FOSCAR)|
+|**2026-11-05**|**ResServe: Accurate and Efficient FP4 LLM Inference with Residue Compensation**|Shuo Rong et.al.|[2611.08713v1](http://arxiv.org/abs/2611.08713v1)|[link](https://github.com/ShawRong/resserve)|
+|**2026-11-03**|**FourSight: Stable FP4 RL Post-Training via Sequence Filtering and Sparse Channel Compensation**|Yining Wei et.al.|[2611.04887v1](http://arxiv.org/abs/2611.04887v1)|-|
+|**2026-11-03**|**Twice as Fast, Until It Isn't: Quantized Serving of Mid-Size Open LLMs**|Smit Kadvani et.al.|[2611.04380v1](http://arxiv.org/abs/2611.04380v1)|-|
+|**2026-11-03**|**Aligning Training and Rollout Policies for End-to-End FP4 RL on Mixture-of-Experts LLMs**|Hei Yi Mak et.al.|[2611.04376v2](http://arxiv.org/abs/2611.04376v2)|-|
+|**2026-11-03**|**FP4Quant: Efficient 4-Bit Communication Compression for Model-Parallel LLM Training**|Man Liu et.al.|[2611.04323v1](http://arxiv.org/abs/2611.04323v1)|-|
+|**2026-11-03**|**GC-MoE: Overlapping Expert-Parallel Token Dispatch with FP8/FP4 Grouped GEMM via CUDA Green Contexts**|Yong Li et.al.|[2611.04222v1](http://arxiv.org/abs/2611.04222v1)|-|
+|**2026-11-03**|**What Does 4-Bit Microscaling Cost a Wearable Activity Recognizer?**|Megan Healy et.al.|[2611.04185v1](http://arxiv.org/abs/2611.04185v1)|-|
+|**2026-11-02**|<details><summary><b>Dory1.0-4B: A Looped Normalized-GPT</b></summary>Dory1.0-4B is a 4-billion-parameter recurrent language model with elastic depth that improves accuracy and token efficiency by looping a shared block, outperforming larger models on multiple benchmarks.</details>|Maxim Fishman et.al.|[2611.03998v1](http://arxiv.org/abs/2611.03998v1)|-|
+|**2026-11-02**|**FlagRot: Selective Rotation for Low-Bit KV Caches**|Kunming Shao et.al.|[2611.03992v1](http://arxiv.org/abs/2611.03992v1)|[link](https://github.com/KunmingSHAO/FlagRot_releaser)|
+|**2026-11-02**|<details><summary><b>FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell</b></summary>FLAMIA accelerates Transformer attention on NVIDIA Blackwell GPUs via MXFP8 and mixed-precision kernels that reduce quantization overhead, prevent causal leakage, and support variable-length packed documents.</details>|Fedor Velikonivtsev et.al.|[2611.03344v1](http://arxiv.org/abs/2611.03344v1)|[link](https://github.com/yandex-research/flamia-blackwell-attention)|
+|**2026-11-02**|**CISA: Retrofitting Dense Attention Models with Chunk-Indexed Sparse Attention**|Mohammed Dabbah et.al.|[2611.03200v1](http://arxiv.org/abs/2611.03200v1)|-|
+|**2026-11-02**|**SHq: Learnable Grids for LLM Weight Quantization**|Michael Helcig et.al.|[2611.02966v1](http://arxiv.org/abs/2611.02966v1)|-|
+|**2026-10-31**|**Jet-QSparse: Accelerating Agentic LLM Inference with 4-Bit Sparse Attention**|Haozhan Tang et.al.|[2611.01022v1](http://arxiv.org/abs/2611.01022v1)|-|
+|**2026-10-31**|**Integer-Exact Microscaling: Running MXFP4 Language Models on INT8 Matrix Units**|Shinyoung Kang et.al.|[2611.00486v1](http://arxiv.org/abs/2611.00486v1)|[link](https://github.com/shinyoungkang1/mxfp4-int8-m5)|
+|**2026-10-30**|**MXCode: Vector Quantization for MX-Native Inference at Scale**|Gaurav Kolhe et.al.|[2611.00403v2](http://arxiv.org/abs/2611.00403v2)|-|
+|**2026-10-30**|**Quantization of Large Models with Weight Outliers and Sparsity**|Leonidas Tsigkounakis et.al.|[2611.00286v1](http://arxiv.org/abs/2611.00286v1)|-|
+|**2026-10-30**|**Calibration of Large Model Quantization based on HiFloat4 Format**|Jing Huang et.al.|[2610.41112v2](http://arxiv.org/abs/2610.41112v2)|-|
+|**2026-10-28**|**Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI**| NVIDIA et.al.|[2610.38095v1](http://arxiv.org/abs/2610.38095v1)|-|
+|**2026-10-26**|**TriTile: Three-Tier Attention for Video Diffusion Transformers**|Yeonjae Kim et.al.|[2610.35706v2](http://arxiv.org/abs/2610.35706v2)|-|
 |**2026-10-23**|**BiLoCo: Binary Low-Rank Corrections for Post-Training Quantization**|David Jin et.al.|[2610.32243v1](http://arxiv.org/abs/2610.32243v1)|-|
 |**2026-10-23**|**Training an MoE LLM in MXFP4: How We Closed the Gap to BF16**|Han Wang et.al.|[2610.32229v2](http://arxiv.org/abs/2610.32229v2)|-|
-|**2026-10-22**|**BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing**|Hayden Prairie et.al.|[2610.31633v1](http://arxiv.org/abs/2610.31633v1)|-|
-|**2026-10-21**|<details><summary><b>Double KV Cache Optimization on Apple Silicon: Block-FP4, Radial Quantization, and Fused Metal Kernels</b></summary>On Apple Silicon, fused radial quantization improves KV cache compression and speed over block-FP4 at moderate contexts, but all compressed methods fail at 32K+ due to repeated full-cache reconstruction and memory limits, requiring fused attention on compressed data.</details>|Ibrokhimsho Abduchaborov et.al.|[2610.33076v1](http://arxiv.org/abs/2610.33076v1)|-|
-|**2026-10-20**|**Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference**|Xiuyi Qin et.al.|[2610.28947v1](http://arxiv.org/abs/2610.28947v1)|-|
-|**2026-10-19**|**MX-Like Tensor Core for LLM Inference with NPU Integration via Hardware-Software Co-Design Exploration**|Zijun Zhao et.al.|[2610.26083v1](http://arxiv.org/abs/2610.26083v1)|-|
-|**2026-10-18**|**PACT: NVFP4 Data-Flow LoRA Fine-Tuning on Consumer GPUs**|Lei Gao et.al.|[2610.25048v1](http://arxiv.org/abs/2610.25048v1)|-|
-|**2026-10-17**|**What Matters for NVFP4 Training? A Comparative Study of Low-Precision Pretraining Recipes**|Anjulie Agrusa et.al.|[2610.24343v1](http://arxiv.org/abs/2610.24343v1)|-|
-|**2026-10-14**|<details><summary><b>On-Policy Residual Learning for Diffusion Language Models</b></summary>On-policy residual learning improves diffusion language model efficiency by carrying predictive distributions across steps, achieving substantial speed gains with minimal data.</details>|Yifan Yu et.al.|[2610.20687v1](http://arxiv.org/abs/2610.20687v1)|-|
-|**2026-10-14**|**MFSA: A Multi-Format Systolic Array with Native Micro Scaling Support**|Jiayi Wang et.al.|[2610.19645v1](http://arxiv.org/abs/2610.19645v1)|-|
-|**2026-10-11**|**Error-Based Bidirectional Predictive Coding Enables Deep, 4-Bit Predictive Coding Networks**|Garrett Kinman et.al.|[2610.15933v1](http://arxiv.org/abs/2610.15933v1)|-|
-|**2026-10-11**|**Recovering Low-Bit Failures in Vision-Language-Action Policies via Quantization-Conditioned Reinforcement Learning**|Seongmin Park et.al.|[2610.15675v1](http://arxiv.org/abs/2610.15675v1)|-|
-|**2026-10-09**|**Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference**|Xingyu Xie et.al.|[2610.14277v1](http://arxiv.org/abs/2610.14277v1)|-|
-|**2026-10-09**|**DualQuant: Dual-scale Calibration-free Weight-and-Activation Quantization for LLMs**|Mahsa Salmani et.al.|[2610.13767v1](http://arxiv.org/abs/2610.13767v1)|-|
-|**2026-10-09**|**DuoRate: Two-Rate Per-Expert Precision Allocation for Mixture-of-Experts Serving**|Mengqi Guo et.al.|[2610.13328v1](http://arxiv.org/abs/2610.13328v1)|-|
-|**2026-10-07**|<details><summary><b>miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning</b></summary>MiniTE enables stable low-bit reinforcement learning for large language models by aligning cross-engine numerical execution and accelerating native 4-bit computation.</details>|Zhen Li et.al.|[2610.23928v1](http://arxiv.org/abs/2610.23928v1)|-|
-|**2026-10-06**|<details><summary><b>OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization</b></summary>OSFP4 improves NVFP4 quantization for LLM inference by jointly optimizing smoothing and scaling to minimize error while preserving throughput.</details>|Neriah Ben David et.al.|[2610.08231v1](http://arxiv.org/abs/2610.08231v1)|[link](https://github.com/neriahbd/OSFP4)|
-|**2026-10-06**|<details><summary><b>TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models</b></summary>TRACE is an FP4 quantization framework for reinforcement learning training of Mixture-of-Experts language models that aligns training and rollout quantization to reduce discrepancy, enabling efficient low-precision rollout with comparable performance to higher-precision baselines.</details>|Xin Wang et.al.|[2610.07767v2](http://arxiv.org/abs/2610.07767v2)|-|
-|**2026-10-05**|<details><summary><b>SoloQ: Calibration-Free Quantization for Diffusion Language Models</b></summary>SoloQ enables calibration-free 4-bit quantization for diffusion language models by using normalized rotations and commit-time KV-cache compression, improving accuracy and inference speed.</details>|Donghyun Lee et.al.|[2610.07121v1](http://arxiv.org/abs/2610.07121v1)|-|
-|**2026-10-05**|<details><summary><b>TRIAGE: Direction-Aware Mismatch Stabilization of Native NVFP4 Reinforcement Learning</b></summary>TRIAGE stabilizes low-precision reinforcement learning by direction-aware rebalancing of policy-gradient updates, enabling native 4-bit execution with full-precision performance.</details>|Zhen Li et.al.|[2610.07043v2](http://arxiv.org/abs/2610.07043v2)|[link](https://github.com/InfiXAI/TRIAGE)|
-|**2026-10-02**|**LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization**|Ziye Deng et.al.|[2610.03959v1](http://arxiv.org/abs/2610.03959v1)|-|
-|**2026-09-30**|**QATFactory: A Versatile, Deployment-Aligned Framework for Quantization-aware Training and Distillation of LLMs**|Weili Xu et.al.|[2609.39223v2](http://arxiv.org/abs/2609.39223v2)|[link](https://github.com/QATFactory/QATFactory)|
-|**2026-09-29**|**FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have**|Pratyai Mazumder et.al.|[2609.37693v1](http://arxiv.org/abs/2609.37693v1)|-|
-|**2026-09-29**|<details><summary><b>Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference</b></summary>Schur Replay improves low-precision weight quantization by replaying block-scale effects during GPTQ, while distributed tiered execution accelerates large-model inference with reduced memory.</details>|Ruiyi Ding et.al.|[2609.36654v1](http://arxiv.org/abs/2609.36654v1)|-|
-|**2026-09-27**|<details><summary><b>JustQuant: You Don't Need Smoothing, SVD, or Rotation for 4-Bit Activation Quantization</b></summary>JustQuant enables low-bit activation quantization using only standard operators by integrating multi-level quantization-aware distillation into training, improving quality for diffusion and language models without complex deployment-time modifications.</details>|Kaicheng Yang et.al.|[2609.33601v1](http://arxiv.org/abs/2609.33601v1)|-|
-|**2026-09-27**|**Chameleon: Dynamic Format Adapter for Efficient Diffusion**|Arnab Sanyal et.al.|[2609.33496v1](http://arxiv.org/abs/2609.33496v1)|-|
-|**2026-09-27**|**MpFA: Hardware-Efficient Train-Free QK4V8 FlashAttention Kernels on Blackwell GPUs**|Chencheng Deng et.al.|[2609.33135v1](http://arxiv.org/abs/2609.33135v1)|-|

@@ -1,6 +1,7 @@
 ### Robot Safety Evaluation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-03**|**From Roadside Sensing to Risk-Informed Safety Control: Surrogate Safety Measures as a Cyber-Physical Interface**|Salsabil Salah et.al.|[2611.04988v1](http://arxiv.org/abs/2611.04988v1)|-|
 |**2026-10-13**|**Which Trajectory Is Safer? Combining Rule and Learning for Safety Evaluation**|Xuewen Luo et.al.|[2610.17806v1](http://arxiv.org/abs/2610.17806v1)|[link](https://github.com/Xuewen2025/safety-evaluation)|
 |**2026-10-13**|<details><summary><b>LatentRiskBench: Measuring State-Dependent Risks in Enterprise Agents</b></summary>LatentRiskBench evaluates state-dependent safety risks in enterprise agents by comparing risky and benign workflows with identical terminal actions, revealing that state-level assessment detects far more violations than action-level checks.</details>|Jingyue Cong et.al.|[2610.17685v1](http://arxiv.org/abs/2610.17685v1)|[link](https://github.com/JingyueCong/LatentRiskBench)|
 |**2026-10-07**|**A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration**|Alexandra Coroiu et.al.|[2610.09891v1](http://arxiv.org/abs/2610.09891v1)|-|
@@ -27,8 +28,7 @@
 |**2026-05-27**|**ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving**|Mohammadreza Teymoorianfard et.al.|[2605.29114v1](http://arxiv.org/abs/2605.29114v1)|-|
 |**2026-05-27**|**DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving**|Zian Wang et.al.|[2605.27964v1](http://arxiv.org/abs/2605.27964v1)|-|
 |**2026-05-26**|**Efficient Safety Benchmarking via Item Response Theory**|Fabio Spagliardi et.al.|[2606.20626v2](http://arxiv.org/abs/2606.20626v2)|-|
-|**2026-05-20**|**Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving**|Yang Wu et.al.|[2605.21139v2](http://arxiv.org/abs/2605.21139v2)|-|
+|**2026-05-20**|**Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving**|Yang Wu et.al.|[2605.21139v5](http://arxiv.org/abs/2605.21139v5)|-|
 |**2026-05-12**|**SafeManip: A Property-Driven Benchmark for Temporal Safety Evaluation in Robotic Manipulation**|Chengyue Huang et.al.|[2605.12386v3](http://arxiv.org/abs/2605.12386v3)|-|
 |**2026-05-11**|**Muninn: Your Trajectory Diffusion Model But Faster**|Gokul Puthumanaillam et.al.|[2605.09999v1](http://arxiv.org/abs/2605.09999v1)|[link](https://github.com/gokulp01/Muninn)|
-|**2026-04-18**|**Evaluating Multimodal LLMs for Inpatient Diagnosis: Real-World Performance, Safety, and Cost Across Ten Frontier Models**|Bruce A. Bassett et.al.|[2604.16980v1](http://arxiv.org/abs/2604.16980v1)|-|
 

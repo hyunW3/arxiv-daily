@@ -1,6 +1,9 @@
 ### Robot Safety
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-13**|**Per-Agent-Safe Navigation of Globally Driven Robot Collectives via Affine Field Design**|Seunghwan Jang et.al.|[2611.17859v1](http://arxiv.org/abs/2611.17859v1)|-|
+|**2026-11-06**|**Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems**|Shubham Singh et.al.|[2611.09112v1](http://arxiv.org/abs/2611.09112v1)|-|
+|**2026-11-04**|**Detecting Silent Action-Interface Mismatch with Calibrated Relational World Models**|Rui Zhu et.al.|[2611.06653v1](http://arxiv.org/abs/2611.06653v1)|-|
 |**2026-10-26**|**Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena**|Prajol Shrestha et.al.|[2610.35582v1](http://arxiv.org/abs/2610.35582v1)|-|
 |**2026-10-02**|**Lightweight and Resource-Efficient Perception for Robotic Guide Dogs**|Jinse Kwon et.al.|[2610.03187v2](http://arxiv.org/abs/2610.03187v2)|-|
 |**2026-09-30**|**Neuro-Symbolic Predicate Learning for Semantic Safe Robot Control**|Zihan Ye et.al.|[2609.39594v1](http://arxiv.org/abs/2609.39594v1)|-|
@@ -28,7 +31,4 @@
 |**2026-02-01**|<details><summary><b>SkySim: A ROS2-based Simulation Environment for Natural Language Control of Drone Swarms using Large Language Models</b></summary>SkySim presents a ROS2-based Gazebo simulation framework that enables natural language control of UAV swarms through LLM planning and APF-based safety enforcement, achieving real-time collision avoidance and scalability.</details>|Aditya Shibu et.al.|[2602.01226v1](http://arxiv.org/abs/2602.01226v1)|-|
 |**2026-01-09**|**Formal Methods in Robot Policy Learning and Verification: A Survey on Current Techniques and Future Directions**|Anastasios Manganaris et.al.|[2602.06971v1](http://arxiv.org/abs/2602.06971v1)|-|
 |**2025-12-29**|**Explainable Neural Inverse Kinematics for Obstacle-Aware Robotic Manipulation: A Comparative Analysis of IKNet Variants**|Sheng-Kai Chen et.al.|[2512.23312v1](http://arxiv.org/abs/2512.23312v1)|-|
-|**2025-12-19**|**On Using Neural Networks to Learn Safety Speed Reduction in Human-Robot Collaboration: A Comparative Analysis**|Marco Faroni et.al.|[2512.17579v1](http://arxiv.org/abs/2512.17579v1)|-|
-|**2025-12-09**|**Semantic-Metric Bayesian Risk Fields: Learning Robot Safety from Human Videos with a VLM Prior**|Timothy Chen et.al.|[2512.08233v1](http://arxiv.org/abs/2512.08233v1)|-|
-|**2025-11-25**|<details><summary><b>ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation</b></summary>ACE-F is a foldable teleoperation system with integrated force feedback that enables intuitive control of diverse robotic embodiments through inverse kinematics and virtual force signal interpretation.</details>|Rui Yan et.al.|[2511.20887v1](http://arxiv.org/abs/2511.20887v1)|-|
 
