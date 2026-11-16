@@ -26,7 +26,7 @@ jobs:
       # TODO [√] 检查工作分支及 Workflows 运行环境
       # ============================================
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           # A queued run should build on the latest main, not the commit that triggered it
           ref: main
@@ -34,7 +34,7 @@ jobs:
       # TODO [√] 创建 Python3.12 编译环境
       # ============================================
       - name: Set up Python 3.12
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       # ============================================
@@ -54,7 +54,7 @@ jobs:
       # TODO [√] 更新仓库数据
       # ============================================
       - name: Setup GIT user
-        uses: fregante/setup-git-user@v1
+        uses: fregante/setup-git-user@v2
 
       - name: Push done work
         run: |
@@ -67,7 +67,7 @@ jobs:
       # TODO [√] 更新 mkdocs
       # ============================================
       - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@nomaterial
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.26
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REQUIREMENTS: requirements-mkdocs.txt
