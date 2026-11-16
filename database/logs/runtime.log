@@ -28432,3 +28432,9 @@ expected <block end>, but found '<block mapping start>'
 2026-11-16 16:41:20.619 +09:00 | SUCCESS  | __main__:parse:220 - handle [4/6] | topic=`LLM` subtopic=`Byte-Level Language Models` papers=28
 2026-11-16 16:41:21.900 +09:00 | SUCCESS  | __main__:parse:220 - handle [5/6] | topic=`LLM` subtopic=`Information Retrieval` papers=30
 2026-11-16 16:41:23.178 +09:00 | SUCCESS  | __main__:parse:220 - handle [6/6] | topic=`Quantization` subtopic=`FP4` papers=30
+2026-11-16 17:19:30.059 +09:00 | SUCCESS  | __main__:parse:220 - handle [1/6] | topic=`Robotics` subtopic=`Robot Safety` papers=30
+2026-11-16 17:19:30.256 +09:00 | SUCCESS  | __main__:parse:220 - handle [2/6] | topic=`Robotics` subtopic=`Obstacle-Conditioned Safe Motion` papers=11
+2026-11-16 17:19:30.732 +09:00 | SUCCESS  | __main__:parse:220 - handle [3/6] | topic=`Robotics` subtopic=`Robot Safety Evaluation` papers=30
+2026-11-16 17:19:31.228 +09:00 | SUCCESS  | __main__:parse:220 - handle [4/6] | topic=`LLM` subtopic=`Byte-Level Language Models` papers=28
+2026-11-16 17:19:31.664 +09:00 | SUCCESS  | __main__:parse:220 - handle [5/6] | topic=`LLM` subtopic=`Information Retrieval` papers=30
+2026-11-16 17:19:32.132 +09:00 | SUCCESS  | __main__:parse:220 - handle [6/6] | topic=`Quantization` subtopic=`FP4` papers=30
