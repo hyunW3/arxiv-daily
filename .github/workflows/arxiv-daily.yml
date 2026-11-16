@@ -26,17 +26,17 @@ jobs:
       # TODO [√] 检查工作分支及 Workflows 运行环境
       # ============================================
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           # A queued run should build on the latest main, not the commit that triggered it
           ref: main
       # ============================================
-      # TODO [√] 创建 Python3.6+ 编译环境
+      # TODO [√] 创建 Python3.12 编译环境
       # ============================================
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v2
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.8
+          python-version: "3.12"
       # ============================================
       # TODO [√] 安装 Project 第三方依赖
       # ============================================
