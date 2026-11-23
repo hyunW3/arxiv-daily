@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2026-11-16 17:19:32 Asia/Seoul
+ Automated deployment @ 2026-11-23 13:08:32 Asia/Seoul
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/hyunW3/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/hyunW3/arxiv-daily/tree/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### Robot Safety
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-18**|**Assessing Vision-Language Models for Early Prediction of Unsafe Situations in Robotics**|Muhammad Farooq et.al.|[2611.24146v1](http://arxiv.org/abs/2611.24146v1)|-|
+|**2026-11-15**|**Cooperative Transport of Unknown Objects by Distributed Effort Regulation in Multi-agent Systems**|Tamzidul Mina et.al.|[2611.19731v1](http://arxiv.org/abs/2611.19731v1)|-|
 |**2026-11-13**|**Per-Agent-Safe Navigation of Globally Driven Robot Collectives via Affine Field Design**|Seunghwan Jang et.al.|[2611.17859v1](http://arxiv.org/abs/2611.17859v1)|-|
 |**2026-11-06**|**Safe Circumnavigation on Heterogeneous Orbits: A Range-Only HOCBF-QP Framework for Nonholonomic Multi-Agent Systems**|Shubham Singh et.al.|[2611.09112v1](http://arxiv.org/abs/2611.09112v1)|-|
 |**2026-11-04**|**Detecting Silent Action-Interface Mismatch with Calibrated Relational World Models**|Rui Zhu et.al.|[2611.06653v1](http://arxiv.org/abs/2611.06653v1)|-|
@@ -36,8 +38,6 @@
 |**2026-02-11**|**SQ-CBF: Signed Distance Functions for Reliable Superquadric-Based Safety Filtering**|Haocheng Zhao et.al.|[2602.11049v2](http://arxiv.org/abs/2602.11049v2)|-|
 |**2026-02-03**|**Modular Safety Guardrails Are Necessary for Foundation-Model-Enabled Robots in the Real World**|Joonkyung Kim et.al.|[2602.04056v1](http://arxiv.org/abs/2602.04056v1)|-|
 |**2026-02-01**|<details><summary><b>SkySim: A ROS2-based Simulation Environment for Natural Language Control of Drone Swarms using Large Language Models</b></summary>SkySim presents a ROS2-based Gazebo simulation framework that enables natural language control of UAV swarms through LLM planning and APF-based safety enforcement, achieving real-time collision avoidance and scalability.</details>|Aditya Shibu et.al.|[2602.01226v1](http://arxiv.org/abs/2602.01226v1)|-|
-|**2026-01-09**|**Formal Methods in Robot Policy Learning and Verification: A Survey on Current Techniques and Future Directions**|Anastasios Manganaris et.al.|[2602.06971v1](http://arxiv.org/abs/2602.06971v1)|-|
-|**2025-12-29**|**Explainable Neural Inverse Kinematics for Obstacle-Aware Robotic Manipulation: A Comparative Analysis of IKNet Variants**|Sheng-Kai Chen et.al.|[2512.23312v1](http://arxiv.org/abs/2512.23312v1)|-|
 
 ### Obstacle-Conditioned Safe Motion
 |Publish Date|Title|Authors|PDF|Code|
@@ -125,50 +125,64 @@
 ### Information Retrieval
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2026-11-13**|**StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval**|Dayoon Ko et.al.|[2611.18516v1](http://arxiv.org/abs/2611.18516v1)|-|
-|**2026-11-13**|**MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading**|Mohammed Efaz et.al.|[2611.18513v1](http://arxiv.org/abs/2611.18513v1)|-|
-|**2026-11-13**|**RACE: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation**|Tianqi Liu et.al.|[2611.18244v1](http://arxiv.org/abs/2611.18244v1)|-|
-|**2026-11-13**|**Explanations that Transfer: Interpreting Medical Retrieval with Sparse AutoEncoders**|Diane Bouchacourt et.al.|[2611.18179v1](http://arxiv.org/abs/2611.18179v1)|[link](https://github.com/doctolib-lab/medsae)|
-|**2026-11-13**|**Who Counts as Exposed? Measurement Choices in an Open, Re-estimable Index of Occupational AI Exposure**|Luca Mouchel et.al.|[2611.18168v1](http://arxiv.org/abs/2611.18168v1)|-|
-|**2026-11-13**|**RecMem: Recurrent Memory Compression for Long-Sequence Generative Recommendation**|Haoyi Hu et.al.|[2611.17921v1](http://arxiv.org/abs/2611.17921v1)|-|
-|**2026-11-13**|**Towards High-Performance Multimodal Discovery: Evaluating Retrieval Efficacy and Operational Scalability in Digital Libraries**|Krishna Priya et.al.|[2611.17726v1](http://arxiv.org/abs/2611.17726v1)|-|
-|**2026-11-12**|**Sheaf-Inspired Structured Scoring Extensions of LightGCN for Collaborative Filtering**|Ksenia Belkovskaya et.al.|[2611.17226v1](http://arxiv.org/abs/2611.17226v1)|-|
-|**2026-11-12**|**Evaluation of Music Version Retrieval Methods for Setlist Identification in Live Concerts**|Andres Ferraro et.al.|[2611.17070v1](http://arxiv.org/abs/2611.17070v1)|-|
-|**2026-11-12**|**Similar but Not Redundant: Embedding-Gated Refinement for High-Granularity Topic Models**|Daniel Denley et.al.|[2611.17030v1](http://arxiv.org/abs/2611.17030v1)|-|
-|**2026-11-12**|**Anonymous in Name Only: A Critical Review and a Reidentification Exercise on the European Commission's Anonymization Measures for Google Search Data under Article 6(11) of the DMA**|David Sánchez et.al.|[2611.17012v1](http://arxiv.org/abs/2611.17012v1)|-|
-|**2026-11-12**|**SignalAudit-QD: A Reproducible Audit Resource for External Signals in AI-Query Forecasting**|Amir Rafe et.al.|[2611.16947v1](http://arxiv.org/abs/2611.16947v1)|-|
-|**2026-11-12**|**KuaiRecV2: Benchmarking Large-Scale Continual Learning for Diversified and Multi-task Recommendation**|Chenxu Li et.al.|[2611.16795v1](http://arxiv.org/abs/2611.16795v1)|[link](https://github.com/cxli2333/KuaiRecV2)|
-|**2026-11-12**|**MusicRWKV: A Multimodal RWKV Framework for Music Representation Learning**|Terry Tan et.al.|[2611.16718v1](http://arxiv.org/abs/2611.16718v1)|-|
-|**2026-11-12**|**Active Learning of Approximate LLM Ranking for Energy-Efficient Retrieval of Long Queries**|Ohad Porat et.al.|[2611.16488v1](http://arxiv.org/abs/2611.16488v1)|-|
-|**2026-11-12**|**RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication**|Oleg Zendel et.al.|[2611.16425v1](http://arxiv.org/abs/2611.16425v1)|-|
-|**2026-11-12**|**AntEmbed: Dual-Mode Multimodal Embedding Model for Efficient and Fine-Grained Retrieval**|Kehang Jia et.al.|[2611.16405v1](http://arxiv.org/abs/2611.16405v1)|-|
-|**2026-11-12**|**ReSID: Rethinking Long-Tail Retrieval in Generative Recommendation through Item Reachability**|Muyu Zou et.al.|[2611.16404v1](http://arxiv.org/abs/2611.16404v1)|[link](https://github.com/Gabriel-reina/ReSID)|
-|**2026-11-12**|**TriGen: A Generative Paradigm for Trigger-Induced Recommendation**|Muyu Zou et.al.|[2611.16395v1](http://arxiv.org/abs/2611.16395v1)|-|
-|**2026-11-12**|**CURATOR: Scalable Fine-grained Evidence Selection for Retrieval-Augmented Generation using Decision Models**|Shib Dasgupta et.al.|[2611.16366v1](http://arxiv.org/abs/2611.16366v1)|-|
-|**2026-11-12**|**StateAlign: Internalizing State-Aware Decision-Making for Reliable Multi-Turn Tool Agents via Reinforcement Learning**|Zhexi Lu et.al.|[2611.16304v1](http://arxiv.org/abs/2611.16304v1)|-|
-|**2026-11-12**|**GA-HEL: A Knowledge-Driven Expert System for Open-Set, Granularity-Aware Hierarchical Event Linking in Social Media**|Shengqi Zhou et.al.|[2611.16194v1](http://arxiv.org/abs/2611.16194v1)|[link](https://github.com/SHbiao/GAHEL_release)|
-|**2026-11-12**|**From Tokens to Behaviors: Rethinking Generative Recommendation for User Trajectory Prediction**|Jiaqi Wang et.al.|[2611.16159v1](http://arxiv.org/abs/2611.16159v1)|[link](https://github.com/CalmaQi/GR4UBT)|
-|**2026-11-12**|**HyperPage: Learned Page Layouts for Disk-Resident Graph Vector Indexes**|Xinyu Zhang et.al.|[2611.16149v1](http://arxiv.org/abs/2611.16149v1)|[link](https://github.com/zhangshea/HyperPage)|
-|**2026-11-12**|**Calibrated Early Termination with Bounded Optimality Gaps for Constrained Vector Search**|Xinyu Zhang et.al.|[2611.16148v1](http://arxiv.org/abs/2611.16148v1)|[link](https://github.com/zhangshea/CaST)|
-|**2026-11-11**|**REWEAVE: Online Learning for Workload-Adaptive HNSW Indexes**|Minghao Li et.al.|[2611.16060v1](http://arxiv.org/abs/2611.16060v1)|-|
-|**2026-11-11**|**Wayfinder: Adaptive Resource Routing from Agent Citations**|Miguel Romero et.al.|[2611.16053v1](http://arxiv.org/abs/2611.16053v1)|-|
-|**2026-11-11**|<details><summary><b>Predicting the Needle in a Petabyte Scale Haystack: Open-Vocabulary Event Anticipation in Satellite Imagery</b></summary>Change is represented as vector differences between vision-language model embeddings, enabling automated global event discovery and a model that detects changes and forecasts completion dates with high accuracy.</details>|Shreelekha Revankar et.al.|[2611.16000v1](http://arxiv.org/abs/2611.16000v1)|[link](https://github.com/ShreelekhaR/predicting-the-needle)|
-|**2026-11-11**|**HeriKGQA: Grounded Knowledge-Graph Question Answering over Cultural Heritage Sensor Data**|Lingxiao Kong et.al.|[2611.15904v1](http://arxiv.org/abs/2611.15904v1)|-|
-|**2026-11-11**|**Bag of concepts can enhance other text representations for medical systematic review screening**|Radosław Pytlak et.al.|[2611.15798v1](http://arxiv.org/abs/2611.15798v1)|-|
+|**2026-11-20**|**DiTraR: Diverse Scorers and Transcript-Guided Re-ranking for Video Corpus Moment Retrieval**|Mohammad Alijanpour Shalmani et.al.|[2611.27931v1](http://arxiv.org/abs/2611.27931v1)|-|
+|**2026-11-20**|**Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search**|Aadharsh Kannan et.al.|[2611.27910v1](http://arxiv.org/abs/2611.27910v1)|-|
+|**2026-11-20**|**Pre-Crawl Prioritization and Seed Classification for Large-Scale Web Archiving**|Akshith Garapati et.al.|[2611.27743v1](http://arxiv.org/abs/2611.27743v1)|-|
+|**2026-11-20**|**Deep Cross-Division Network for Product-and-Ratio Feature Interactions in Industrial Ranking**|Mikhail Trapeznikov et.al.|[2611.27514v1](http://arxiv.org/abs/2611.27514v1)|[link](https://github.com/rw404/DCDN)|
+|**2026-11-20**|**Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval**|Turhan Can Kargin et.al.|[2611.27490v1](http://arxiv.org/abs/2611.27490v1)|-|
+|**2026-11-20**|**Explicit Style Extraction for Personalized Long-Form Text Generation**|Jenitha Reddy Patel et.al.|[2611.27211v1](http://arxiv.org/abs/2611.27211v1)|-|
+|**2026-11-20**|**Leader Finding: A New Variation of Expert Finding in Community Question Answering**|Sepideh Entezari Maleki et.al.|[2611.26921v1](http://arxiv.org/abs/2611.26921v1)|-|
+|**2026-11-20**|**ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval**|Venkata Chivukula et.al.|[2611.26919v1](http://arxiv.org/abs/2611.26919v1)|-|
+|**2026-11-19**|**Variants of Beam Search for DiskANN**|Viraj Agrawal et.al.|[2611.26609v1](http://arxiv.org/abs/2611.26609v1)|-|
+|**2026-11-19**|**Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models**|Chang Yang et.al.|[2611.26531v1](http://arxiv.org/abs/2611.26531v1)|-|
+|**2026-11-19**|**The Window Lever: Longer Observation Windows Outweigh the Observed Effects of Data, Capacity, and Architecture in Customer Behavior Forecasting**|Tara Sowrirajan et.al.|[2611.26521v1](http://arxiv.org/abs/2611.26521v1)|-|
+|**2026-11-19**|<details><summary><b>Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem</b></summary>An agentic AI ecosystem consolidates EU project documentation into a domain-aware knowledge base and uses a ReAct-style retrieval-augmented generation pipeline with fine-tuned domain embeddings to improve retrieval of relevant evidence for cross-project decision-making.</details>|Oriol Alàs et.al.|[2611.26398v1](http://arxiv.org/abs/2611.26398v1)|-|
+|**2026-11-19**|**From Sessions to Serving: Integrating LLM-Based Embeddings into Retrieval for Production Content Recommendation**|Zhixiong Hu et.al.|[2611.26096v1](http://arxiv.org/abs/2611.26096v1)|-|
+|**2026-11-19**|**A Task-Level Bias Taxonomy for Historical Image Retrieval**|Omkar Gavali et.al.|[2611.26019v1](http://arxiv.org/abs/2611.26019v1)|-|
+|**2026-11-19**|**LINEAGE: A Benchmark for Empirical Lineage Retrieval in AI Scientific Literature**|Pangjing Wu et.al.|[2611.25845v1](http://arxiv.org/abs/2611.25845v1)|-|
+|**2026-11-19**|**CACO: Coverage-Aware Coordinated Optimization for Continuous Generative Retrieval**|Pan Zhang et.al.|[2611.25738v1](http://arxiv.org/abs/2611.25738v1)|-|
+|**2026-11-19**|**Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?**|Akansha Bhardwaj et.al.|[2611.25733v1](http://arxiv.org/abs/2611.25733v1)|-|
+|**2026-11-19**|**STARK: Moving towards Personalized Agents That Truly Learn and Remember**|Aryan Jain et.al.|[2611.25705v2](http://arxiv.org/abs/2611.25705v2)|-|
+|**2026-11-19**|**Exploring Semantic Table Search in Data Lakes**|Martin Pekár Christensen et.al.|[2611.25691v1](http://arxiv.org/abs/2611.25691v1)|[link](https://github.com/dkw-aau/Thetis-extended)|
+|**2026-11-19**|**Efficient Latent Reasoning for Vision-Language Model via Dynamics-Aware Quantization and Distillation**|Yanjing Li et.al.|[2611.25670v1](http://arxiv.org/abs/2611.25670v1)|-|
+|**2026-11-19**|**DNA: Unlocking Depth Scaling in CTR Models**|Caiyuan Li et.al.|[2611.25659v1](http://arxiv.org/abs/2611.25659v1)|-|
+|**2026-11-19**|**Uncontrolled source titles: When Nature, Science, and PNAS meet Scopus**|Weishu Liu et.al.|[2611.25627v1](http://arxiv.org/abs/2611.25627v1)|-|
+|**2026-11-19**|**Generative News Recommendation Reproduces Popularity: A Memorization-Based Analysis**|Shotaro Ishihara et.al.|[2611.25606v1](http://arxiv.org/abs/2611.25606v1)|-|
+|**2026-11-19**|**AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development**|Hang Zhang et.al.|[2611.25582v1](http://arxiv.org/abs/2611.25582v1)|-|
+|**2026-11-19**|**Learning Generative Ranking Policies for Whole-Page Optimization**|Chen Qiu et.al.|[2611.25527v1](http://arxiv.org/abs/2611.25527v1)|-|
+|**2026-11-19**|**VideoTrail: Interactive Video Foraging Through Hierarchical Visualization**|Catherine Yeh et.al.|[2611.25377v1](http://arxiv.org/abs/2611.25377v1)|-|
+|**2026-11-18**|**LQ-Rec: Late Quantization for Sequential Recommendation**|Satoshi Koide et.al.|[2611.25256v1](http://arxiv.org/abs/2611.25256v1)|-|
+|**2026-11-18**|**Retrieving Patristic References and Modelling Topics in Bullinger's Reformation Correspondence**|Lena Pickartz et.al.|[2611.25247v1](http://arxiv.org/abs/2611.25247v1)|-|
+|**2026-11-18**|**LSP-RAG: Latent Scoring Perspectives for Knowledge Graph Retrieval-Augmented Generation**|Haochen Liu et.al.|[2611.25229v1](http://arxiv.org/abs/2611.25229v1)|-|
+|**2026-11-18**|**FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification**|Meenakshi Rajpurohit et.al.|[2611.25071v1](http://arxiv.org/abs/2611.25071v1)|[link](https://github.com/SJSU-CMPE259/AI-Stock-Research-and-Earnings-Assistant)|
 
 ## Quantization
 
 ### FP4
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2026-11-19**|**CarrierKV: An Edge LLM Accelerator with Positional Carrier Decomposition for Low-Bit KV Cache**|Junyi Luo et.al.|[2611.26857v1](http://arxiv.org/abs/2611.26857v1)|-|
+|**2026-11-19**|**Beam Model Technical Report**| Reflection Team et.al.|[2611.26358v1](http://arxiv.org/abs/2611.26358v1)|-|
+|**2026-11-19**|**AscMLA: Unlocking FP4 Efficiency for Long-Context MLA Decoding through Asymmetric Scaling**|Zechun Zhou et.al.|[2611.26106v1](http://arxiv.org/abs/2611.26106v1)|-|
+|**2026-11-19**|**VR-SparseQuant: Accurate FP4 Quantization with 2:4 Sparsity on Vera Rubin**|Samir Khaki et.al.|[2611.25717v1](http://arxiv.org/abs/2611.25717v1)|-|
+|**2026-11-18**|**Hardware Acceleration of Vision-Language-Action Models with Weight Precision Rising over the Flow Steps**|Robin Geens et.al.|[2611.24234v1](http://arxiv.org/abs/2611.24234v1)|-|
+|**2026-11-18**|**NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding**|Alagappan Valliappan et.al.|[2611.23835v1](http://arxiv.org/abs/2611.23835v1)|-|
+|**2026-11-17**|**AllotNet: an Interpretable Mixture-of-Experts Choice Model for Moral Judgement in Humanitarian Aid Allocation, Validated against a Planted Synthetic Population**|Mark Nowak et.al.|[2611.23474v1](http://arxiv.org/abs/2611.23474v1)|-|
+|**2026-11-17**|**QDA: Closed-Loop LLM Quantization Design with Agents**|Xingyang Li et.al.|[2611.23388v1](http://arxiv.org/abs/2611.23388v1)|-|
+|**2026-11-17**|<details><summary><b>Computed Permutation Trellis Coding: Near-Optimal Quantization from Two Multiplications and a 64-Byte Table</b></summary>CPTC is a low-bit tensor quantization format whose compact decoder achieves near-ideal accuracy, matches larger trellis codes, and is integrated into an AI accelerator for efficient LLM weight quantization.</details>|Muhammed Fatih Balın et.al.|[2611.22019v1](http://arxiv.org/abs/2611.22019v1)|-|
+|**2026-11-16**|**Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell**|Hyojung Han et.al.|[2611.21974v1](http://arxiv.org/abs/2611.21974v1)|-|
+|**2026-11-16**|**MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression**|Ofir Gordon et.al.|[2611.21216v1](http://arxiv.org/abs/2611.21216v1)|-|
+|**2026-11-15**|**Benchmarking LLM Inference on Desktop-Scale NVIDIA Grace Blackwell Clusters**|Kevin Bhimani et.al.|[2611.20289v1](http://arxiv.org/abs/2611.20289v1)|[link](https://github.com/kevinhbhimani/dgx-spark-llm-serving-benchmark)|
+|**2026-11-13**|**NVFP4-MLA: Unified FP4 KV-Cache Storage and Attention Computation for Multi-Head Latent Attention**|Chao Ni et.al.|[2611.18972v1](http://arxiv.org/abs/2611.18972v1)|-|
 |**2026-11-12**|**SoScale: Second-Order Scale Search for FP4 Quantization**|Pengxiang Zhao et.al.|[2611.16426v1](http://arxiv.org/abs/2611.16426v1)|-|
+|**2026-11-12**|<details><summary><b>Gradient-Guided Hardware-Native MIXFP4</b></summary>FlipQuant improves low-bit inference accuracy by learning per-MMA-tile binary choices between two 4-bit weight formats with minimal GEMM overhead.</details>|Jian-Jia Chen et.al.|[2611.18769v1](http://arxiv.org/abs/2611.18769v1)|[link](https://github.com/brian030128/flipquant)|
 |**2026-11-12**|**GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell**|Yong Li et.al.|[2611.16219v1](http://arxiv.org/abs/2611.16219v1)|-|
 |**2026-11-11**|**The Noise Floor of a Quantization Comparison: Engine, restart, batch and kernel drift, measured against 8-bit and 4-bit effects in two decision models**|Aleks Blagojevich et.al.|[2611.15671v1](http://arxiv.org/abs/2611.15671v1)|[link](https://github.com/Level5Tech/clef-quant-bench)|
 |**2026-11-09**|**What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts**|Chang Lu et.al.|[2611.12832v1](http://arxiv.org/abs/2611.12832v1)|-|
 |**2026-11-09**|**Planners Exploit Deterministic Error: Dithered Low-Bit World Models**|Yong Hwi Song et.al.|[2611.11780v1](http://arxiv.org/abs/2611.11780v1)|-|
 |**2026-11-07**|<details><summary><b>MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations</b></summary>MACaQ is an MXFP4 W4A4 post-training quantization method that quantizes each linear layer independently using online activation transforms and Hessian-aware refinement, reducing cost while preserving accuracy across language and diffusion models.</details>|Lorenz K. Muller et.al.|[2611.10649v2](http://arxiv.org/abs/2611.10649v2)|[link](https://github.com/huawei-csl/MACaQ)|
 |**2026-11-06**|**AutoEMatic: Runtime-Adaptive Mixed-Precision LLM Inference via Automatic Exponent-Mantissa Refinement**|Akshat Ramachandran et.al.|[2611.10165v1](http://arxiv.org/abs/2611.10165v1)|-|
-|**2026-11-06**|**BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design**|Dayou Du et.al.|[2611.09825v1](http://arxiv.org/abs/2611.09825v1)|[link](https://github.com/OpenBitSys/BitDecoding-FP4)|
+|**2026-11-06**|<details><summary><b>BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design</b></summary>BitDecoding-FP4 co-designs FP4 quantization and system optimizations to enable accurate, high-throughput long-context KV decoding for LLMs.</details>|Dayou Du et.al.|[2611.09825v1](http://arxiv.org/abs/2611.09825v1)|[link](https://github.com/OpenBitSys/BitDecoding-FP4)|
 |**2026-11-06**|**FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding**|Donglin Zhuang et.al.|[2611.09722v1](http://arxiv.org/abs/2611.09722v1)|[link](https://github.com/FutureMLS-Lab/FOSCAR)|
 |**2026-11-05**|**ResServe: Accurate and Efficient FP4 LLM Inference with Residue Compensation**|Shuo Rong et.al.|[2611.08713v1](http://arxiv.org/abs/2611.08713v1)|[link](https://github.com/ShawRong/resserve)|
 |**2026-11-03**|**FourSight: Stable FP4 RL Post-Training via Sequence Filtering and Sparse Channel Compensation**|Yining Wei et.al.|[2611.04887v1](http://arxiv.org/abs/2611.04887v1)|-|
@@ -177,17 +191,3 @@
 |**2026-11-03**|**FP4Quant: Efficient 4-Bit Communication Compression for Model-Parallel LLM Training**|Man Liu et.al.|[2611.04323v1](http://arxiv.org/abs/2611.04323v1)|-|
 |**2026-11-03**|**GC-MoE: Overlapping Expert-Parallel Token Dispatch with FP8/FP4 Grouped GEMM via CUDA Green Contexts**|Yong Li et.al.|[2611.04222v1](http://arxiv.org/abs/2611.04222v1)|-|
 |**2026-11-03**|**What Does 4-Bit Microscaling Cost a Wearable Activity Recognizer?**|Megan Healy et.al.|[2611.04185v1](http://arxiv.org/abs/2611.04185v1)|-|
-|**2026-11-02**|<details><summary><b>Dory1.0-4B: A Looped Normalized-GPT</b></summary>Dory1.0-4B is a 4-billion-parameter recurrent language model with elastic depth that improves accuracy and token efficiency by looping a shared block, outperforming larger models on multiple benchmarks.</details>|Maxim Fishman et.al.|[2611.03998v1](http://arxiv.org/abs/2611.03998v1)|-|
-|**2026-11-02**|**FlagRot: Selective Rotation for Low-Bit KV Caches**|Kunming Shao et.al.|[2611.03992v1](http://arxiv.org/abs/2611.03992v1)|[link](https://github.com/KunmingSHAO/FlagRot_releaser)|
-|**2026-11-02**|<details><summary><b>FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell</b></summary>FLAMIA accelerates Transformer attention on NVIDIA Blackwell GPUs via MXFP8 and mixed-precision kernels that reduce quantization overhead, prevent causal leakage, and support variable-length packed documents.</details>|Fedor Velikonivtsev et.al.|[2611.03344v1](http://arxiv.org/abs/2611.03344v1)|[link](https://github.com/yandex-research/flamia-blackwell-attention)|
-|**2026-11-02**|**CISA: Retrofitting Dense Attention Models with Chunk-Indexed Sparse Attention**|Mohammed Dabbah et.al.|[2611.03200v1](http://arxiv.org/abs/2611.03200v1)|-|
-|**2026-11-02**|**SHq: Learnable Grids for LLM Weight Quantization**|Michael Helcig et.al.|[2611.02966v1](http://arxiv.org/abs/2611.02966v1)|-|
-|**2026-10-31**|**Jet-QSparse: Accelerating Agentic LLM Inference with 4-Bit Sparse Attention**|Haozhan Tang et.al.|[2611.01022v1](http://arxiv.org/abs/2611.01022v1)|-|
-|**2026-10-31**|**Integer-Exact Microscaling: Running MXFP4 Language Models on INT8 Matrix Units**|Shinyoung Kang et.al.|[2611.00486v1](http://arxiv.org/abs/2611.00486v1)|[link](https://github.com/shinyoungkang1/mxfp4-int8-m5)|
-|**2026-10-30**|**MXCode: Vector Quantization for MX-Native Inference at Scale**|Gaurav Kolhe et.al.|[2611.00403v2](http://arxiv.org/abs/2611.00403v2)|-|
-|**2026-10-30**|**Quantization of Large Models with Weight Outliers and Sparsity**|Leonidas Tsigkounakis et.al.|[2611.00286v1](http://arxiv.org/abs/2611.00286v1)|-|
-|**2026-10-30**|**Calibration of Large Model Quantization based on HiFloat4 Format**|Jing Huang et.al.|[2610.41112v2](http://arxiv.org/abs/2610.41112v2)|-|
-|**2026-10-28**|**Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI**| NVIDIA et.al.|[2610.38095v1](http://arxiv.org/abs/2610.38095v1)|-|
-|**2026-10-26**|**TriTile: Three-Tier Attention for Video Diffusion Transformers**|Yeonjae Kim et.al.|[2610.35706v2](http://arxiv.org/abs/2610.35706v2)|-|
-|**2026-10-23**|**BiLoCo: Binary Low-Rank Corrections for Post-Training Quantization**|David Jin et.al.|[2610.32243v1](http://arxiv.org/abs/2610.32243v1)|-|
-|**2026-10-23**|**Training an MoE LLM in MXFP4: How We Closed the Gap to BF16**|Han Wang et.al.|[2610.32229v2](http://arxiv.org/abs/2610.32229v2)|-|
