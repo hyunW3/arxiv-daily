@@ -1,0 +1,981 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../Byte-Level%20Language%20Models/">
+      
+      
+        <link rel="next" href="../../Quantization/FP4/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.6">
+    
+    
+      
+        <title>Information Retrieval - arxiv-daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.558e4712.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+
+  <script id="__analytics">function __md_analytics(){window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-145083103-1","auto"),ga("set","anonymizeIp",!0),ga("send","pageview"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){var e;this.value&&(e=document.location.pathname,ga("send","pageview",e+"?q="+this.value))}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");ga("send","event","feedback","click",t,e),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){ga("send","pageview",e.pathname)})});var e=document.createElement("script");e.async=!0,e.src="https://www.google-analytics.com/analytics.js",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#information-retrieval" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="arxiv-daily" class="md-header__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            arxiv-daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Information Retrieval
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/hyunW3/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="arxiv-daily" class="md-nav__button md-logo" aria-label="arxiv-daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    arxiv-daily
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/hyunW3/arxiv-daily" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+      
+      
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_2" tabindex="0" aria-expanded="true">
+          LLM
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="LLM" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          LLM
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Byte-Level%20Language%20Models/" class="md-nav__link">
+        Byte Level Language Models
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Information Retrieval
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Information Retrieval
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#information-retrieval" class="md-nav__link">
+    Information Retrieval
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_3" tabindex="0" aria-expanded="false">
+          Quantization
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Quantization" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Quantization
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Quantization/FP4/" class="md-nav__link">
+        FP4
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_4" tabindex="0" aria-expanded="false">
+          Robotics
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Robotics" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Robotics
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Robotics/Obstacle-Conditioned%20Safe%20Motion/" class="md-nav__link">
+        Obstacle Conditioned Safe Motion
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Robotics/Robot%20Safety%20Evaluation/" class="md-nav__link">
+        Robot Safety Evaluation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Robotics/Robot%20Safety/" class="md-nav__link">
+        Robot Safety
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_5" tabindex="0" aria-expanded="false">
+          Archive
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Archive" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Archive
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-15/" class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-16/" class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-19/" class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-21/" class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-22/" class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-10-26/" class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-11-02/" class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-11-16/" class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/2026-11-23/" class="md-nav__link">
+        arxiv-daily
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#information-retrieval" class="md-nav__link">
+    Information Retrieval
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+
+  <h1>Information Retrieval</h1>
+
+<h3 id="information-retrieval">Information Retrieval</h3>
+<table>
+<thead>
+<tr>
+<th align="center">Publish Date</th>
+<th align="center">Title</th>
+<th align="center">Authors</th>
+<th align="center">PDF</th>
+<th align="center">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>2026-11-20</strong></td>
+<td align="center"><strong>DiTraR: Diverse Scorers and Transcript-Guided Re-ranking for Video Corpus Moment Retrieval</strong></td>
+<td align="center">Mohammad Alijanpour Shalmani et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.27931v1">2611.27931v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-20</strong></td>
+<td align="center"><strong>Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search</strong></td>
+<td align="center">Aadharsh Kannan et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.27910v1">2611.27910v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-20</strong></td>
+<td align="center"><strong>Pre-Crawl Prioritization and Seed Classification for Large-Scale Web Archiving</strong></td>
+<td align="center">Akshith Garapati et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.27743v1">2611.27743v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-20</strong></td>
+<td align="center"><strong>Deep Cross-Division Network for Product-and-Ratio Feature Interactions in Industrial Ranking</strong></td>
+<td align="center">Mikhail Trapeznikov et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.27514v1">2611.27514v1</a></td>
+<td align="center"><a href="https://github.com/rw404/DCDN">link</a></td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-20</strong></td>
+<td align="center"><strong>Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval</strong></td>
+<td align="center">Turhan Can Kargin et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.27490v1">2611.27490v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-20</strong></td>
+<td align="center"><strong>Explicit Style Extraction for Personalized Long-Form Text Generation</strong></td>
+<td align="center">Jenitha Reddy Patel et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.27211v1">2611.27211v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-20</strong></td>
+<td align="center"><strong>Leader Finding: A New Variation of Expert Finding in Community Question Answering</strong></td>
+<td align="center">Sepideh Entezari Maleki et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.26921v1">2611.26921v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-20</strong></td>
+<td align="center"><strong>ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval</strong></td>
+<td align="center">Venkata Chivukula et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.26919v1">2611.26919v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>Variants of Beam Search for DiskANN</strong></td>
+<td align="center">Viraj Agrawal et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.26609v1">2611.26609v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models</strong></td>
+<td align="center">Chang Yang et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.26531v1">2611.26531v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>The Window Lever: Longer Observation Windows Outweigh the Observed Effects of Data, Capacity, and Architecture in Customer Behavior Forecasting</strong></td>
+<td align="center">Tara Sowrirajan et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.26521v1">2611.26521v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><details><summary><b>Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem</b></summary>An agentic AI ecosystem consolidates EU project documentation into a domain-aware knowledge base and uses a ReAct-style retrieval-augmented generation pipeline with fine-tuned domain embeddings to improve retrieval of relevant evidence for cross-project decision-making.</details></td>
+<td align="center">Oriol Alàs et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.26398v1">2611.26398v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>From Sessions to Serving: Integrating LLM-Based Embeddings into Retrieval for Production Content Recommendation</strong></td>
+<td align="center">Zhixiong Hu et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.26096v1">2611.26096v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>A Task-Level Bias Taxonomy for Historical Image Retrieval</strong></td>
+<td align="center">Omkar Gavali et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.26019v1">2611.26019v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>LINEAGE: A Benchmark for Empirical Lineage Retrieval in AI Scientific Literature</strong></td>
+<td align="center">Pangjing Wu et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25845v1">2611.25845v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>CACO: Coverage-Aware Coordinated Optimization for Continuous Generative Retrieval</strong></td>
+<td align="center">Pan Zhang et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25738v1">2611.25738v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>Can LLMs Resolve Entity Conflicts in Domain Specific NLU Pipelines?</strong></td>
+<td align="center">Akansha Bhardwaj et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25733v1">2611.25733v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>STARK: Moving towards Personalized Agents That Truly Learn and Remember</strong></td>
+<td align="center">Aryan Jain et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25705v2">2611.25705v2</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>Exploring Semantic Table Search in Data Lakes</strong></td>
+<td align="center">Martin Pekár Christensen et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25691v1">2611.25691v1</a></td>
+<td align="center"><a href="https://github.com/dkw-aau/Thetis-extended">link</a></td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>Efficient Latent Reasoning for Vision-Language Model via Dynamics-Aware Quantization and Distillation</strong></td>
+<td align="center">Yanjing Li et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25670v1">2611.25670v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>DNA: Unlocking Depth Scaling in CTR Models</strong></td>
+<td align="center">Caiyuan Li et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25659v1">2611.25659v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>Uncontrolled source titles: When Nature, Science, and PNAS meet Scopus</strong></td>
+<td align="center">Weishu Liu et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25627v1">2611.25627v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>Generative News Recommendation Reproduces Popularity: A Memorization-Based Analysis</strong></td>
+<td align="center">Shotaro Ishihara et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25606v1">2611.25606v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development</strong></td>
+<td align="center">Hang Zhang et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25582v1">2611.25582v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>Learning Generative Ranking Policies for Whole-Page Optimization</strong></td>
+<td align="center">Chen Qiu et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25527v1">2611.25527v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-19</strong></td>
+<td align="center"><strong>VideoTrail: Interactive Video Foraging Through Hierarchical Visualization</strong></td>
+<td align="center">Catherine Yeh et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25377v1">2611.25377v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-18</strong></td>
+<td align="center"><strong>LQ-Rec: Late Quantization for Sequential Recommendation</strong></td>
+<td align="center">Satoshi Koide et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25256v1">2611.25256v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-18</strong></td>
+<td align="center"><strong>Retrieving Patristic References and Modelling Topics in Bullinger's Reformation Correspondence</strong></td>
+<td align="center">Lena Pickartz et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25247v1">2611.25247v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-18</strong></td>
+<td align="center"><strong>LSP-RAG: Latent Scoring Perspectives for Knowledge Graph Retrieval-Augmented Generation</strong></td>
+<td align="center">Haochen Liu et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25229v1">2611.25229v1</a></td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center"><strong>2026-11-18</strong></td>
+<td align="center"><strong>FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification</strong></td>
+<td align="center">Meenakshi Rajpurohit et.al.</td>
+<td align="center"><a href="http://arxiv.org/abs/2611.25071v1">2611.25071v1</a></td>
+<td align="center"><a href="https://github.com/SJSU-CMPE259/AI-Stock-Research-and-Earnings-Assistant">link</a></td>
+</tr>
+</tbody>
+</table>
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes"], "search": "../../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.51d95adb.min.js"></script>
+      
+    
+  </body>
+</html>
